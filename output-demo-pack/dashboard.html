@@ -92,6 +92,9 @@
       .toolbar.collapsed { opacity: 0; visibility: hidden; pointer-events: none; transform: translateY(16px) scale(0.98); }
       .toolbar-body { display: grid; gap: 14px; overflow: auto; max-height: inherit; padding-right: 4px; }
       .toolbar-row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+        .range-wrap { display: grid; gap: 8px; flex: 1 1 220px; min-width: 220px; }
+        .range-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+        .range-value { color: var(--text); font-weight: 700; font-variant-numeric: tabular-nums; }
       .status, .note { color: var(--muted); font-size: 0.95rem; line-height: 1.5; }
       .note code { color: var(--text); }
       .panel-toggle {
@@ -184,6 +187,7 @@
 
       .results { display: grid; gap: 18px; }
       .entry-card { padding: 20px; background: linear-gradient(180deg, rgba(255,255,255,0.05), rgba(255,255,255,0.025)), var(--panel); }
+      .entry-card.playing-entry { border-color: rgba(94, 234, 212, 0.42); box-shadow: 0 24px 72px rgba(18, 181, 163, 0.14), var(--shadow); }
       .entry-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 14px; }
       .entry-title { font-size: 1.08rem; font-weight: 700; }
       .entry-subtitle { color: var(--muted); font-size: 0.92rem; }
@@ -198,6 +202,7 @@
         background: var(--panel-soft);
         border: 1px solid rgba(255,255,255,0.07);
       }
+      .line-item.playing { border-color: rgba(94, 234, 212, 0.46); background: linear-gradient(135deg, rgba(94, 234, 212, 0.14), rgba(124, 156, 255, 0.12)); box-shadow: inset 0 0 0 1px rgba(94, 234, 212, 0.14); }
       .line-label {
         display: inline-flex;
         justify-content: center;
@@ -276,15 +281,33 @@
           </div>
 
           <div class="toolbar-row">
+            <button id="autoScrollToggle" class="secondary" type="button">Start auto-scroll</button>
+            <label class="range-wrap" for="scrollSpeed">
+              <span class="range-head">
+                <span class="note">Scroll speed</span>
+                <span id="scrollSpeedValue" class="range-value">80 px/s</span>
+              </span>
+              <input id="scrollSpeed" type="range" min="20" max="240" step="10" value="80" aria-label="Auto-scroll speed" />
+            </label>
+          </div>
+
+          <div class="toolbar-row">
+            <button id="playAllToggle" class="secondary" type="button">▶ Play all</button>
+            <label class="range-wrap" for="playAllPause">
+              <span class="range-head">
+                <span class="note">Pause between items</span>
+                <span id="playAllPauseValue" class="range-value">1.2 s</span>
+              </span>
+              <input id="playAllPause" type="range" min="0" max="5000" step="250" value="1200" aria-label="Pause between audio items" />
+            </label>
+          </div>
+
+          <div class="toolbar-row">
             <button id="browseModeBtn" class="ghost active" type="button">Browse mode</button>
             <button id="flashcardModeBtn" class="ghost" type="button">Flashcard mode</button>
             <span class="note" id="languageBadge">Study language ↔ Reference language</span>
           </div>
 
-          <div class="toolbar-row">
-            <label class="note" for="manifestFile">Fallback: if needed, choose <code>manifest.json</code> manually.</label>
-            <input id="manifestFile" type="file" accept="application/json,.json" />
-          </div>
         </div>
       </section>
 
@@ -335,13 +358,18 @@
       const searchInput = document.getElementById('searchInput');
       const kindFilter = document.getElementById('kindFilter');
       const clearFiltersBtn = document.getElementById('clearFilters');
-      const manifestFileInput = document.getElementById('manifestFile');
       const entryCountEl = document.getElementById('entryCount');
       const loadStatusEl = document.getElementById('loadStatus');
       const toolbarEl = document.querySelector('.toolbar');
       const panelBackdropEl = document.getElementById('panelBackdrop');
       const panelToggleEl = document.getElementById('panelToggle');
       const themeToggleEl = document.getElementById('themeToggle');
+      const autoScrollToggleEl = document.getElementById('autoScrollToggle');
+      const scrollSpeedInputEl = document.getElementById('scrollSpeed');
+      const scrollSpeedValueEl = document.getElementById('scrollSpeedValue');
+      const playAllToggleEl = document.getElementById('playAllToggle');
+      const playAllPauseInputEl = document.getElementById('playAllPause');
+      const playAllPauseValueEl = document.getElementById('playAllPauseValue');
       const pageTitleEl = document.getElementById('pageTitle');
       const pageSubtitleEl = document.getElementById('pageSubtitle');
       const languageBadgeEl = document.getElementById('languageBadge');
@@ -362,12 +390,25 @@
 
       const THEME_STORAGE_KEY = 'language-learning-theme';
       const PANEL_STORAGE_KEY = 'language-learning-toolbar-collapsed';
+      const SCROLL_SPEED_STORAGE_KEY = 'language-learning-scroll-speed';
+      const PLAY_ALL_PAUSE_STORAGE_KEY = 'language-learning-play-all-pause';
 
       let bundle = { meta: {}, items: [] };
       let groupedEntries = [];
       let filteredItems = [];
       let flashcardIndex = 0;
       let currentView = 'browse';
+      let autoScrollActive = false;
+      let autoScrollFrame = null;
+      let autoScrollLastTimestamp = 0;
+      let autoScrollSpeed = 80;
+      let playAllActive = false;
+      let playAllPauseMs = 1200;
+      let playAllQueue = [];
+      let playAllIndex = 0;
+      let playAllTimeout = null;
+      let playAllScrollFrame = null;
+      const playAllAudio = new Audio();
 
       function detectInitialTheme() {
         const savedTheme = localStorage.getItem(THEME_STORAGE_KEY);
@@ -412,6 +453,271 @@
 
       function toggleToolbarCollapsed() {
         applyToolbarCollapsed(!toolbarEl.classList.contains('collapsed'));
+      }
+
+      function clampScrollSpeed(value) {
+        const numeric = Number(value);
+        if (!Number.isFinite(numeric)) {
+          return 80;
+        }
+        return Math.min(240, Math.max(20, Math.round(numeric / 10) * 10));
+      }
+
+      function detectInitialScrollSpeed() {
+        return clampScrollSpeed(localStorage.getItem(SCROLL_SPEED_STORAGE_KEY) || 80);
+      }
+
+      function clampPlayAllPause(value) {
+        const numeric = Number(value);
+        if (!Number.isFinite(numeric)) {
+          return 1200;
+        }
+        return Math.min(5000, Math.max(0, Math.round(numeric / 250) * 250));
+      }
+
+      function detectInitialPlayAllPause() {
+        return clampPlayAllPause(localStorage.getItem(PLAY_ALL_PAUSE_STORAGE_KEY) || 1200);
+      }
+
+      function updateScrollSpeedUi() {
+        scrollSpeedInputEl.value = String(autoScrollSpeed);
+        scrollSpeedValueEl.textContent = `${autoScrollSpeed} px/s`;
+      }
+
+      function updatePlayAllPauseUi() {
+        playAllPauseInputEl.value = String(playAllPauseMs);
+        playAllPauseValueEl.textContent = `${(playAllPauseMs / 1000).toFixed(playAllPauseMs % 1000 === 0 ? 0 : 1)} s`;
+      }
+
+      function getItemKey(item) {
+        return [item.entry_index ?? '', item.kind ?? '', item.ordinal ?? '', item.output_file ?? ''].join('|');
+      }
+
+      function clearPlayingHighlights() {
+        document.querySelectorAll('.line-item.playing').forEach((element) => element.classList.remove('playing'));
+        document.querySelectorAll('.entry-card.playing-entry').forEach((element) => element.classList.remove('playing-entry'));
+      }
+
+      function getItemRow(item) {
+        const itemKey = getItemKey(item);
+        return Array.from(resultsEl.querySelectorAll('.line-item')).find((element) => element.dataset.itemKey === itemKey) || null;
+      }
+
+      function getScrollTargetForItem(item) {
+        const row = getItemRow(item);
+        if (!row) {
+          return null;
+        }
+        const topOffset = Math.max(96, Math.min(window.innerHeight * 0.18, 160));
+        return Math.max(0, row.getBoundingClientRect().top + window.scrollY - topOffset);
+      }
+
+      function stopPlayAllScrollSync(clearHighlight = false) {
+        if (playAllScrollFrame !== null) {
+          cancelAnimationFrame(playAllScrollFrame);
+          playAllScrollFrame = null;
+        }
+        if (clearHighlight) {
+          clearPlayingHighlights();
+        }
+      }
+
+      function setPlayAllScrollSyncEnabled(enabled) {
+        autoScrollToggleEl.disabled = enabled;
+        scrollSpeedInputEl.disabled = enabled;
+        if (enabled) {
+          autoScrollToggleEl.textContent = 'Audio sync on';
+          scrollSpeedValueEl.textContent = 'Synced';
+        } else {
+          autoScrollToggleEl.disabled = false;
+          scrollSpeedInputEl.disabled = false;
+          updateScrollSpeedUi();
+          autoScrollToggleEl.textContent = autoScrollActive ? 'Stop auto-scroll' : 'Start auto-scroll';
+        }
+      }
+
+      function syncScrollToPlaybackItem(item, durationSeconds = Number.NaN) {
+        stopPlayAllScrollSync();
+        clearPlayingHighlights();
+
+        if (currentView === 'flashcard') {
+          const flashcardQueueIndex = filteredItems.findIndex((candidate) => getItemKey(candidate) === getItemKey(item));
+          if (flashcardQueueIndex >= 0) {
+            flashcardIndex = flashcardQueueIndex;
+            renderFlashcard();
+          }
+          return;
+        }
+
+        const row = getItemRow(item);
+        if (row) {
+          row.classList.add('playing');
+          const card = row.closest('.entry-card');
+          if (card) {
+            card.classList.add('playing-entry');
+          }
+        }
+
+        const currentTarget = getScrollTargetForItem(item);
+        if (currentTarget === null) {
+          return;
+        }
+
+        window.scrollTo({ top: currentTarget });
+
+        const nextItem = playAllQueue[playAllIndex + 1];
+        if (!nextItem || !Number.isFinite(durationSeconds) || durationSeconds <= 0) {
+          return;
+        }
+
+        const nextTarget = getScrollTargetForItem(nextItem);
+        if (nextTarget === null || Math.abs(nextTarget - currentTarget) < 4) {
+          return;
+        }
+
+        const totalMs = durationSeconds * 1000 + playAllPauseMs;
+        const startTime = performance.now();
+
+        const step = (timestamp) => {
+          if (!playAllActive || playAllQueue[playAllIndex] !== item || currentView === 'flashcard') {
+            playAllScrollFrame = null;
+            return;
+          }
+          const progress = Math.min(1, (timestamp - startTime) / totalMs);
+          const targetY = currentTarget + (nextTarget - currentTarget) * progress;
+          window.scrollTo({ top: targetY });
+          if (progress < 1) {
+            playAllScrollFrame = requestAnimationFrame(step);
+          } else {
+            playAllScrollFrame = null;
+          }
+        };
+
+        playAllScrollFrame = requestAnimationFrame(step);
+      }
+
+      function stopAutoScroll() {
+        autoScrollActive = false;
+        autoScrollLastTimestamp = 0;
+        if (autoScrollFrame !== null) {
+          cancelAnimationFrame(autoScrollFrame);
+          autoScrollFrame = null;
+        }
+        autoScrollToggleEl.textContent = 'Start auto-scroll';
+        autoScrollToggleEl.classList.remove('active');
+      }
+
+      function runAutoScroll(timestamp) {
+        if (!autoScrollActive) {
+          return;
+        }
+
+        if (!autoScrollLastTimestamp) {
+          autoScrollLastTimestamp = timestamp;
+        }
+
+        const elapsedSeconds = (timestamp - autoScrollLastTimestamp) / 1000;
+        autoScrollLastTimestamp = timestamp;
+        const maxScrollTop = Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
+
+        if (window.scrollY >= maxScrollTop - 2) {
+          window.scrollTo({ top: maxScrollTop });
+          stopAutoScroll();
+          return;
+        }
+
+        const nextScrollTop = Math.min(maxScrollTop, window.scrollY + autoScrollSpeed * elapsedSeconds);
+        window.scrollTo({ top: nextScrollTop });
+        autoScrollFrame = requestAnimationFrame(runAutoScroll);
+      }
+
+      function startAutoScroll() {
+        const maxScrollTop = Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
+        if (window.scrollY >= maxScrollTop - 2) {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        autoScrollActive = true;
+        autoScrollLastTimestamp = 0;
+        autoScrollToggleEl.textContent = 'Stop auto-scroll';
+        autoScrollToggleEl.classList.add('active');
+        autoScrollFrame = requestAnimationFrame(runAutoScroll);
+      }
+
+      function toggleAutoScroll() {
+        if (autoScrollActive) {
+          stopAutoScroll();
+        } else {
+          startAutoScroll();
+        }
+      }
+
+      function stopPlayAll(resetAudio = true) {
+        playAllActive = false;
+        playAllQueue = [];
+        playAllIndex = 0;
+        stopPlayAllScrollSync(true);
+        setPlayAllScrollSyncEnabled(false);
+        if (playAllTimeout !== null) {
+          clearTimeout(playAllTimeout);
+          playAllTimeout = null;
+        }
+        if (resetAudio) {
+          playAllAudio.pause();
+          playAllAudio.removeAttribute('src');
+          playAllAudio.load();
+        }
+        playAllToggleEl.textContent = '▶ Play all';
+        playAllToggleEl.classList.remove('active');
+      }
+
+      async function playCurrentQueueItem() {
+        if (!playAllActive) {
+          return;
+        }
+
+        const item = playAllQueue[playAllIndex];
+        if (!item) {
+          stopPlayAll();
+          return;
+        }
+
+        syncScrollToPlaybackItem(item);
+        playAllAudio.src = item.output_file;
+        try {
+          await playAllAudio.play();
+        } catch (error) {
+          setStatus('Playback could not start automatically. Tap Play all again to continue.', 'Playback blocked');
+          stopPlayAll(false);
+        }
+      }
+
+      function startPlayAll() {
+        const items = getFilteredItems();
+        if (!items.length) {
+          setStatus('No matching audio items are available for Play all.', 'Nothing to play');
+          stopPlayAll();
+          return;
+        }
+
+        if (currentView !== 'browse') {
+          switchView('browse');
+        }
+        stopAutoScroll();
+        playAllActive = true;
+        playAllQueue = items;
+        playAllIndex = 0;
+        setPlayAllScrollSyncEnabled(true);
+        playAllToggleEl.textContent = '■ Stop playback';
+        playAllToggleEl.classList.add('active');
+        playCurrentQueueItem();
+      }
+
+      function togglePlayAll() {
+        if (playAllActive) {
+          stopPlayAll();
+        } else {
+          startPlayAll();
+        }
       }
 
       function normalize(value) {
@@ -552,6 +858,7 @@
           for (const line of entry.lines) {
             const row = document.createElement('div');
             row.className = 'line-item';
+            row.dataset.itemKey = getItemKey(line);
 
             const label = document.createElement('div');
             label.className = `line-label ${line.kind}`;
@@ -631,6 +938,7 @@
       }
 
       function loadManifest(payload) {
+        stopPlayAll();
         bundle = coerceBundle(payload);
         groupedEntries = groupManifest(bundle.items);
         applyMeta(bundle.meta || {});
@@ -663,36 +971,24 @@
           loadManifest(payload);
         } catch (error) {
           setStatus(
-            'Automatic loading was blocked or failed. Choose manifest.json manually below, or open the folder through a small local web server.',
+            'Automatic loading was blocked or failed. Open this folder through a small local web server or verify that manifest-data.js is present beside this page.',
             'Manifest not auto-loaded'
           );
         }
       }
 
-      manifestFileInput.addEventListener('change', async (event) => {
-        const [file] = event.target.files || [];
-        if (!file) {
-          return;
-        }
-
-        try {
-          const text = await file.text();
-          loadManifest(JSON.parse(text));
-          setStatus(`Loaded manifest manually from ${file.name}.`, `${groupedEntries.length} entries · ${bundle.items.length} audio items`);
-        } catch (error) {
-          setStatus('That file could not be read as JSON. Please choose a valid manifest.json file.', 'Manifest load failed');
-        }
-      });
-
       searchInput.addEventListener('input', () => {
+        stopPlayAll();
         flashcardIndex = 0;
         render();
       });
       kindFilter.addEventListener('change', () => {
+        stopPlayAll();
         flashcardIndex = 0;
         render();
       });
       clearFiltersBtn.addEventListener('click', () => {
+        stopPlayAll();
         searchInput.value = '';
         kindFilter.value = 'all';
         flashcardIndex = 0;
@@ -701,10 +997,73 @@
       panelToggleEl.addEventListener('click', toggleToolbarCollapsed);
       panelBackdropEl.addEventListener('click', () => applyToolbarCollapsed(true));
       themeToggleEl.addEventListener('click', toggleTheme);
+      autoScrollToggleEl.addEventListener('click', toggleAutoScroll);
+      scrollSpeedInputEl.addEventListener('input', () => {
+        autoScrollSpeed = clampScrollSpeed(scrollSpeedInputEl.value);
+        localStorage.setItem(SCROLL_SPEED_STORAGE_KEY, String(autoScrollSpeed));
+        updateScrollSpeedUi();
+      });
+      playAllToggleEl.addEventListener('click', togglePlayAll);
+      playAllPauseInputEl.addEventListener('input', () => {
+        playAllPauseMs = clampPlayAllPause(playAllPauseInputEl.value);
+        localStorage.setItem(PLAY_ALL_PAUSE_STORAGE_KEY, String(playAllPauseMs));
+        updatePlayAllPauseUi();
+      });
       document.addEventListener('keydown', (event) => {
         if (event.key === 'Escape' && !toolbarEl.classList.contains('collapsed')) {
           applyToolbarCollapsed(true);
         }
+      });
+      window.addEventListener('wheel', () => {
+        if (autoScrollActive) {
+          stopAutoScroll();
+        }
+        if (playAllActive) {
+          stopPlayAllScrollSync();
+        }
+      }, { passive: true });
+      window.addEventListener('touchstart', () => {
+        if (autoScrollActive) {
+          stopAutoScroll();
+        }
+        if (playAllActive) {
+          stopPlayAllScrollSync();
+        }
+      }, { passive: true });
+      playAllAudio.addEventListener('loadedmetadata', () => {
+        if (!playAllActive) {
+          return;
+        }
+        const currentItem = playAllQueue[playAllIndex];
+        if (currentItem) {
+          syncScrollToPlaybackItem(currentItem, playAllAudio.duration);
+        }
+      });
+      playAllAudio.addEventListener('ended', () => {
+        if (!playAllActive) {
+          return;
+        }
+        if (playAllIndex >= playAllQueue.length - 1) {
+          stopPlayAll(false);
+          return;
+        }
+        playAllTimeout = window.setTimeout(() => {
+          playAllIndex += 1;
+          playCurrentQueueItem();
+        }, playAllPauseMs);
+      });
+      playAllAudio.addEventListener('error', () => {
+        if (!playAllActive) {
+          return;
+        }
+        if (playAllIndex >= playAllQueue.length - 1) {
+          stopPlayAll(false);
+          return;
+        }
+        playAllTimeout = window.setTimeout(() => {
+          playAllIndex += 1;
+          playCurrentQueueItem();
+        }, playAllPauseMs);
       });
       browseModeBtn.addEventListener('click', () => switchView('browse'));
       flashcardModeBtn.addEventListener('click', () => switchView('flashcard'));
@@ -734,6 +1093,13 @@
       });
 
       applyTheme(detectInitialTheme());
+      autoScrollSpeed = detectInitialScrollSpeed();
+      updateScrollSpeedUi();
+      playAllPauseMs = detectInitialPlayAllPause();
+      updatePlayAllPauseUi();
+      setPlayAllScrollSyncEnabled(false);
+      stopPlayAll();
+      stopAutoScroll();
       applyToolbarCollapsed(detectInitialPanelState());
       autoLoadManifest();
     </script>
