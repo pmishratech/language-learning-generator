@@ -51,6 +51,10 @@
         min-height: 100vh;
       }
 
+      body.panel-open {
+        overflow: hidden;
+      }
+
       .page {
         width: min(1280px, calc(100% - 32px));
         margin: 0 auto;
@@ -103,10 +107,88 @@
         padding: 18px;
         display: grid;
         gap: 14px;
-        margin-bottom: 22px;
-        position: sticky;
-        top: 14px;
-        z-index: 5;
+        margin-bottom: 0;
+        position: fixed;
+        right: 20px;
+        bottom: 92px;
+        width: min(460px, calc(100vw - 32px));
+        max-height: calc(100vh - 122px);
+        overflow: hidden;
+        z-index: 30;
+        transition: opacity 180ms ease, transform 180ms ease, visibility 180ms ease;
+      }
+
+      .toolbar.collapsed {
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+        transform: translateY(16px) scale(0.98);
+      }
+
+      .toolbar-body {
+        display: grid;
+        gap: 14px;
+        overflow: auto;
+        max-height: inherit;
+        padding-right: 4px;
+      }
+
+      .panel-toggle {
+        width: 58px;
+        min-width: 58px;
+        min-height: 58px;
+        padding: 0;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.25rem;
+        line-height: 1;
+        position: relative;
+        border-radius: 999px;
+        background: linear-gradient(135deg, var(--accent), var(--accent-3));
+        border: 1px solid rgba(255, 255, 255, 0.18);
+        box-shadow: 0 18px 38px rgba(79, 110, 247, 0.34);
+      }
+
+      .panel-toggle::after {
+        content: "";
+        position: absolute;
+        top: 8px;
+        right: 8px;
+        width: 8px;
+        height: 8px;
+        border-radius: 999px;
+        background: var(--accent-2);
+        box-shadow: 0 0 0 3px rgba(94, 234, 212, 0.18);
+        opacity: 0;
+        transition: opacity 120ms ease;
+      }
+
+      .panel-toggle.is-collapsed::after {
+        opacity: 1;
+      }
+
+      .panel-fab {
+        position: fixed;
+        right: 22px;
+        bottom: 22px;
+        z-index: 40;
+      }
+
+      .panel-backdrop {
+        position: fixed;
+        inset: 0;
+        background: rgba(7, 17, 31, 0.52);
+        backdrop-filter: blur(8px);
+        z-index: 20;
+        opacity: 1;
+        transition: opacity 180ms ease, visibility 180ms ease;
+      }
+
+      .panel-backdrop.hidden {
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
       }
 
       .toolbar-row {
@@ -334,7 +416,16 @@
 
       @media (max-width: 860px) {
         .toolbar {
-          position: static;
+          left: 12px;
+          right: 12px;
+          bottom: 86px;
+          width: auto;
+          max-height: min(72vh, 560px);
+        }
+
+        .panel-fab {
+          right: 16px;
+          bottom: 16px;
         }
 
         .entry-head {
@@ -361,28 +452,30 @@
         </p>
       </section>
 
-      <section class="toolbar">
-        <div class="toolbar-row">
-          <span class="pill" id="entryCount">Waiting for manifest…</span>
-          <span class="status" id="loadStatus">Trying to load local manifest data automatically.</span>
-        </div>
+      <section id="practicePanel" class="toolbar collapsed">
+        <div id="toolbarBody" class="toolbar-body">
+          <div class="toolbar-row">
+            <span class="pill" id="entryCount">Waiting for manifest…</span>
+            <span class="status" id="loadStatus">Trying to load local manifest data automatically.</span>
+          </div>
 
-        <div class="toolbar-row">
-          <label class="hidden" for="searchInput">Search entries</label>
-          <input id="searchInput" type="search" aria-label="Search entries" placeholder="Search study text, common questions, answers, names, places, or topics…" />
-          <select id="kindFilter" aria-label="Filter by item kind">
-            <option value="all">Show questions + answers</option>
-            <option value="question">Questions only</option>
-            <option value="answer">Answers only</option>
-          </select>
-          <button id="themeToggle" class="secondary theme-toggle" type="button" aria-label="Switch to light theme" title="Switch to light theme">🌙</button>
-          <span id="languageBadge" class="note">Polish ↔ English</span>
-          <button id="clearFilters" class="secondary" type="button">Clear filters</button>
-        </div>
+          <div class="toolbar-row">
+            <label class="hidden" for="searchInput">Search entries</label>
+            <input id="searchInput" type="search" aria-label="Search entries" placeholder="Search study text, common questions, answers, names, places, or topics…" />
+            <select id="kindFilter" aria-label="Filter by item kind">
+              <option value="all">Show questions + answers</option>
+              <option value="question">Questions only</option>
+              <option value="answer">Answers only</option>
+            </select>
+            <button id="themeToggle" class="secondary theme-toggle" type="button" aria-label="Switch to light theme" title="Switch to light theme">🌙</button>
+            <span id="languageBadge" class="note">Polish ↔ English</span>
+            <button id="clearFilters" class="secondary" type="button">Clear filters</button>
+          </div>
 
-        <div class="toolbar-row">
-          <label class="note" for="manifestFile">Fallback: if needed, choose <code>output-demo-pack/manifest.json</code> manually.</label>
-          <input id="manifestFile" type="file" accept="application/json,.json" />
+          <div class="toolbar-row">
+            <label class="note" for="manifestFile">Fallback: if needed, choose <code>output-demo-pack/manifest.json</code> manually.</label>
+            <input id="manifestFile" type="file" accept="application/json,.json" />
+          </div>
         </div>
       </section>
 
@@ -392,6 +485,9 @@
         No matching entries found. Try a different search or filter.
       </div>
     </main>
+
+    <div id="panelBackdrop" class="panel-backdrop hidden" aria-hidden="true"></div>
+    <button id="panelToggle" class="panel-toggle panel-fab" type="button" aria-expanded="false" aria-controls="practicePanel" aria-label="Show practice controls" title="Show practice controls">☰</button>
 
     <script src="./output-demo-pack/manifest-data.js"></script>
     <script>
@@ -408,10 +504,14 @@
       const loadStatusEl = document.getElementById('loadStatus');
       const pageTitleEl = document.getElementById('pageTitle');
       const pageSubtitleEl = document.getElementById('pageSubtitle');
+      const toolbarEl = document.querySelector('.toolbar');
+      const panelBackdropEl = document.getElementById('panelBackdrop');
+      const panelToggleEl = document.getElementById('panelToggle');
       const themeToggleEl = document.getElementById('themeToggle');
       const languageBadgeEl = document.getElementById('languageBadge');
 
       const THEME_STORAGE_KEY = 'language-learning-theme';
+      const PANEL_STORAGE_KEY = 'language-learning-toolbar-collapsed';
 
       let rawItems = [];
       let groupedEntries = [];
@@ -438,6 +538,27 @@
       function toggleTheme() {
         const currentTheme = document.documentElement.getAttribute('data-theme') || detectInitialTheme();
         applyTheme(currentTheme === 'dark' ? 'light' : 'dark');
+      }
+
+      function applyToolbarCollapsed(collapsed) {
+        toolbarEl.classList.toggle('collapsed', collapsed);
+        panelBackdropEl.classList.toggle('hidden', collapsed);
+        document.body.classList.toggle('panel-open', !collapsed);
+        panelToggleEl.setAttribute('aria-expanded', String(!collapsed));
+        panelToggleEl.textContent = collapsed ? '☰' : '✕';
+        panelToggleEl.classList.toggle('is-collapsed', collapsed);
+        const label = collapsed ? 'Show practice controls' : 'Hide practice controls';
+        panelToggleEl.setAttribute('aria-label', label);
+        panelToggleEl.setAttribute('title', label);
+        localStorage.setItem(PANEL_STORAGE_KEY, collapsed ? 'true' : 'false');
+      }
+
+      function detectInitialPanelState() {
+        return localStorage.getItem(PANEL_STORAGE_KEY) !== 'false';
+      }
+
+      function toggleToolbarCollapsed() {
+        applyToolbarCollapsed(!toolbarEl.classList.contains('collapsed'));
       }
 
       function applyMeta(meta) {
@@ -606,15 +727,7 @@
             audio.preload = 'none';
             audio.src = line.output_file;
 
-            const audioLink = document.createElement('a');
-            audioLink.className = 'audio-link';
-            audioLink.href = line.output_file;
-            audioLink.target = '_blank';
-            audioLink.rel = 'noopener noreferrer';
-            audioLink.textContent = 'Open audio file';
-
             actions.appendChild(audio);
-            actions.appendChild(audioLink);
             row.append(label, study, translation, actions);
             lineGrid.appendChild(row);
           }
@@ -689,9 +802,17 @@
         kindFilter.value = 'all';
         render();
       });
+      panelToggleEl.addEventListener('click', toggleToolbarCollapsed);
+      panelBackdropEl.addEventListener('click', () => applyToolbarCollapsed(true));
       themeToggleEl.addEventListener('click', toggleTheme);
+      document.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape' && !toolbarEl.classList.contains('collapsed')) {
+          applyToolbarCollapsed(true);
+        }
+      });
 
       applyTheme(detectInitialTheme());
+      applyToolbarCollapsed(detectInitialPanelState());
       autoLoadManifest();
     </script>
   </body>

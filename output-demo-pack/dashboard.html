@@ -1,59 +1,11 @@
-from __future__ import annotations
-
-import json
-from pathlib import Path
-from typing import Any
-
-from .parser import write_json
-
-
-def build_legacy_items(bundle: dict[str, Any]) -> list[dict[str, Any]]:
-    meta = bundle.get("meta", {})
-    output_dir_name = meta.get("output_dir_name", "")
-    legacy_items: list[dict[str, Any]] = []
-
-    for item in bundle.get("items", []):
-        root_relative_output = item.get("output_file_from_repo_root")
-        if not root_relative_output:
-            output_file = item.get("output_file", "")
-            root_relative_output = f"{output_dir_name}/{output_file}" if output_dir_name else output_file
-        legacy_items.append(
-            {
-                **item,
-                "text": item.get("spoken_text", item.get("text", "")),
-                "original_text": item.get("original_text", item.get("display_text", "")),
-                "source_question": item.get("display_question", item.get("source_question", "")),
-                "source_answer": item.get("display_answer", item.get("source_answer", "")),
-                "output_file": root_relative_output,
-            }
-        )
-
-    return legacy_items
-
-
-def write_manifest_bundle(path: str | Path, bundle: dict[str, Any]) -> None:
-    write_json(path, bundle)
-
-
-def write_manifest_data_js(path: str | Path, bundle: dict[str, Any]) -> None:
-    bundle_json = json.dumps(bundle, ensure_ascii=False, indent=2)
-    legacy_json = json.dumps(build_legacy_items(bundle), ensure_ascii=False, indent=2)
-    payload = (
-        f"window.__LANGUAGE_LEARNING_BUNDLE__ = {bundle_json};\n"
-        f"window.__POLISH_MANIFEST__ = {legacy_json};\n"
-    )
-    Path(path).write_text(payload, encoding="utf-8")
-
-
-def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
-    return f"""<!DOCTYPE html>
-<html lang=\"en\">
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <meta charset=\"UTF-8\" />
-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Everyday Conversation Practice</title>
     <style>
-      :root {{
+      :root {
         color-scheme: dark;
         --bg: #07111f;
         --panel: rgba(10, 18, 33, 0.76);
@@ -66,9 +18,9 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         --accent-3: #c084fc;
         --border: rgba(255, 255, 255, 0.1);
         --shadow: 0 22px 60px rgba(0, 0, 0, 0.28);
-      }}
+      }
 
-      html[data-theme="light"] {{
+      html[data-theme="light"] {
         color-scheme: light;
         --bg: #f4f7fb;
         --panel: rgba(255, 255, 255, 0.9);
@@ -81,13 +33,13 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         --accent-3: #8b5cf6;
         --border: rgba(16, 32, 51, 0.1);
         --shadow: 0 18px 44px rgba(15, 23, 42, 0.12);
-      }}
+      }
 
-      * {{ box-sizing: border-box; }}
+      * { box-sizing: border-box; }
 
-      body {{
+      body {
         margin: 0;
-        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
         background:
           radial-gradient(circle at top left, rgba(124, 156, 255, 0.28), transparent 24%),
           radial-gradient(circle at top right, rgba(94, 234, 212, 0.18), transparent 20%),
@@ -95,35 +47,35 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
           var(--bg);
         color: var(--text);
         min-height: 100vh;
-      }}
+      }
 
-      body.panel-open {{
+      body.panel-open {
         overflow: hidden;
-      }}
+      }
 
-      .page {{
+      .page {
         width: min(1280px, calc(100% - 32px));
         margin: 0 auto;
         padding: 28px 0 48px;
-      }}
+      }
 
-      .hero, .toolbar, .entry-card, .flashcard {{
+      .hero, .toolbar, .entry-card, .flashcard {
         background: var(--panel);
         border: 1px solid var(--border);
         border-radius: 24px;
         box-shadow: var(--shadow);
         backdrop-filter: blur(18px);
-      }}
+      }
 
-      .hero {{
+      .hero {
         padding: 32px;
         margin-bottom: 20px;
         position: relative;
         overflow: hidden;
-      }}
+      }
 
-      .hero::after {{
-        content: \"\";
+      .hero::after {
+        content: "";
         position: absolute;
         inset: auto -60px -60px auto;
         width: 220px;
@@ -131,18 +83,18 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         border-radius: 999px;
         background: radial-gradient(circle, rgba(124, 156, 255, 0.26), transparent 68%);
         pointer-events: none;
-      }}
+      }
 
-      h1 {{ margin: 0 0 8px; font-size: clamp(1.8rem, 4vw, 3rem); line-height: 1.05; }}
-      .lead {{ margin: 0; color: var(--muted); max-width: 80ch; font-size: 1rem; line-height: 1.65; }}
+      h1 { margin: 0 0 8px; font-size: clamp(1.8rem, 4vw, 3rem); line-height: 1.05; }
+      .lead { margin: 0; color: var(--muted); max-width: 80ch; font-size: 1rem; line-height: 1.65; }
 
-      .toolbar {{ padding: 18px; display: grid; gap: 14px; margin-bottom: 0; position: fixed; right: 20px; bottom: 92px; width: min(460px, calc(100vw - 32px)); max-height: calc(100vh - 122px); overflow: hidden; z-index: 30; transition: opacity 180ms ease, transform 180ms ease, visibility 180ms ease; }}
-      .toolbar.collapsed {{ opacity: 0; visibility: hidden; pointer-events: none; transform: translateY(16px) scale(0.98); }}
-      .toolbar-body {{ display: grid; gap: 14px; overflow: auto; max-height: inherit; padding-right: 4px; }}
-      .toolbar-row {{ display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }}
-      .status, .note {{ color: var(--muted); font-size: 0.95rem; line-height: 1.5; }}
-      .note code {{ color: var(--text); }}
-      .panel-toggle {{
+      .toolbar { padding: 18px; display: grid; gap: 14px; margin-bottom: 0; position: fixed; right: 20px; bottom: 92px; width: min(460px, calc(100vw - 32px)); max-height: calc(100vh - 122px); overflow: hidden; z-index: 30; transition: opacity 180ms ease, transform 180ms ease, visibility 180ms ease; }
+      .toolbar.collapsed { opacity: 0; visibility: hidden; pointer-events: none; transform: translateY(16px) scale(0.98); }
+      .toolbar-body { display: grid; gap: 14px; overflow: auto; max-height: inherit; padding-right: 4px; }
+      .toolbar-row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+      .status, .note { color: var(--muted); font-size: 0.95rem; line-height: 1.5; }
+      .note code { color: var(--text); }
+      .panel-toggle {
         width: 58px;
         min-width: 58px;
         min-height: 58px;
@@ -157,8 +109,8 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         background: linear-gradient(135deg, var(--accent), var(--accent-3));
         border: 1px solid rgba(255, 255, 255, 0.18);
         box-shadow: 0 18px 38px rgba(79, 110, 247, 0.34);
-      }}
-      .panel-toggle::after {{
+      }
+      .panel-toggle::after {
         content: "";
         position: absolute;
         top: 8px;
@@ -170,12 +122,12 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         box-shadow: 0 0 0 3px rgba(94, 234, 212, 0.18);
         opacity: 0;
         transition: opacity 120ms ease;
-      }}
-      .panel-toggle.is-collapsed::after {{ opacity: 1; }}
-      .panel-fab {{ position: fixed; right: 22px; bottom: 22px; z-index: 40; }}
-      .panel-backdrop {{ position: fixed; inset: 0; background: rgba(7, 17, 31, 0.52); backdrop-filter: blur(8px); z-index: 20; opacity: 1; transition: opacity 180ms ease, visibility 180ms ease; }}
-      .panel-backdrop.hidden {{ opacity: 0; visibility: hidden; pointer-events: none; }}
-      .theme-toggle {{
+      }
+      .panel-toggle.is-collapsed::after { opacity: 1; }
+      .panel-fab { position: fixed; right: 22px; bottom: 22px; z-index: 40; }
+      .panel-backdrop { position: fixed; inset: 0; background: rgba(7, 17, 31, 0.52); backdrop-filter: blur(8px); z-index: 20; opacity: 1; transition: opacity 180ms ease, visibility 180ms ease; }
+      .panel-backdrop.hidden { opacity: 0; visibility: hidden; pointer-events: none; }
+      .theme-toggle {
         width: 44px;
         min-width: 44px;
         min-height: 44px;
@@ -185,9 +137,9 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         justify-content: center;
         font-size: 1.15rem;
         line-height: 1;
-      }}
+      }
 
-      .pill {{
+      .pill {
         display: inline-flex;
         align-items: center;
         gap: 8px;
@@ -197,9 +149,9 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         border: 1px solid rgba(124, 156, 255, 0.35);
         color: var(--text);
         font-weight: 700;
-      }}
+      }
 
-      input[type=\"search\"], select, input[type=\"file\"] {{
+      input[type="search"], select, input[type="file"] {
         appearance: none;
         border: 1px solid var(--border);
         background: var(--panel-strong);
@@ -208,11 +160,11 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         padding: 12px 14px;
         min-height: 44px;
         font: inherit;
-      }}
+      }
 
-      input[type=\"search\"] {{ flex: 1 1 320px; }}
+      input[type="search"] { flex: 1 1 320px; }
 
-      button {{
+      button {
         appearance: none;
         border: 0;
         border-radius: 12px;
@@ -223,20 +175,20 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         color: white;
         transition: transform 120ms ease, filter 120ms ease;
         box-shadow: 0 10px 22px rgba(124, 156, 255, 0.22);
-      }}
+      }
 
-      button:hover {{ transform: translateY(-1px); filter: brightness(1.05); }}
-      button.secondary {{ background: rgba(255, 255, 255, 0.1); border: 1px solid var(--border); box-shadow: none; }}
-      button.ghost {{ background: transparent; border: 1px solid rgba(255,255,255,0.16); box-shadow: none; }}
-      button.active {{ outline: 2px solid rgba(94, 234, 212, 0.65); }}
+      button:hover { transform: translateY(-1px); filter: brightness(1.05); }
+      button.secondary { background: rgba(255, 255, 255, 0.1); border: 1px solid var(--border); box-shadow: none; }
+      button.ghost { background: transparent; border: 1px solid rgba(255,255,255,0.16); box-shadow: none; }
+      button.active { outline: 2px solid rgba(94, 234, 212, 0.65); }
 
-      .results {{ display: grid; gap: 18px; }}
-      .entry-card {{ padding: 20px; background: linear-gradient(180deg, rgba(255,255,255,0.05), rgba(255,255,255,0.025)), var(--panel); }}
-      .entry-head {{ display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 14px; }}
-      .entry-title {{ font-size: 1.08rem; font-weight: 700; }}
-      .entry-subtitle {{ color: var(--muted); font-size: 0.92rem; }}
-      .line-grid {{ display: grid; gap: 12px; }}
-      .line-item {{
+      .results { display: grid; gap: 18px; }
+      .entry-card { padding: 20px; background: linear-gradient(180deg, rgba(255,255,255,0.05), rgba(255,255,255,0.025)), var(--panel); }
+      .entry-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 14px; }
+      .entry-title { font-size: 1.08rem; font-weight: 700; }
+      .entry-subtitle { color: var(--muted); font-size: 0.92rem; }
+      .line-grid { display: grid; gap: 12px; }
+      .line-item {
         display: grid;
         grid-template-columns: 104px minmax(0, 1.2fr) minmax(0, 1fr) minmax(250px, 300px);
         gap: 14px;
@@ -245,8 +197,8 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         border-radius: 18px;
         background: var(--panel-soft);
         border: 1px solid rgba(255,255,255,0.07);
-      }}
-      .line-label {{
+      }
+      .line-label {
         display: inline-flex;
         justify-content: center;
         align-items: center;
@@ -254,14 +206,14 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         padding: 6px 10px;
         border-radius: 999px;
         font-weight: 700;
-      }}
-      .line-label.question {{ background: rgba(124, 156, 255, 0.15); border: 1px solid rgba(124, 156, 255, 0.28); }}
-      .line-label.answer {{ background: rgba(94, 234, 212, 0.15); border: 1px solid rgba(94, 234, 212, 0.28); }}
-      .line-copy {{ display: grid; gap: 6px; }}
-      .line-heading {{ color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; }}
-      .line-text {{ line-height: 1.5; white-space: pre-wrap; font-size: 1rem; }}
-      .line-actions {{ display: flex; flex-direction: column; gap: 8px; }}
-      .audio-link {{
+      }
+      .line-label.question { background: rgba(124, 156, 255, 0.15); border: 1px solid rgba(124, 156, 255, 0.28); }
+      .line-label.answer { background: rgba(94, 234, 212, 0.15); border: 1px solid rgba(94, 234, 212, 0.28); }
+      .line-copy { display: grid; gap: 6px; }
+      .line-heading { color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; }
+      .line-text { line-height: 1.5; white-space: pre-wrap; font-size: 1rem; }
+      .line-actions { display: flex; flex-direction: column; gap: 8px; }
+      .audio-link {
         display: inline-flex;
         align-items: center;
         justify-content: center;
@@ -273,106 +225,106 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         text-decoration: none;
         background: rgba(255, 255, 255, 0.06);
         border: 1px solid rgba(255, 255, 255, 0.14);
-      }}
-      .audio-link:hover {{ background: rgba(255,255,255,0.14); }}
-      .inline-audio {{ width: 100%; min-width: 220px; border-radius: 12px; }}
+      }
+      .audio-link:hover { background: rgba(255,255,255,0.14); }
+      .inline-audio { width: 100%; min-width: 220px; border-radius: 12px; }
 
-      .flashcard-wrap {{ display: grid; gap: 18px; }}
-      .flashcard {{ padding: 28px; display: grid; gap: 18px; }}
-      .flashcard-meta {{ display: flex; justify-content: space-between; gap: 12px; color: var(--muted); }}
-      .flashcard-side {{ display: grid; gap: 10px; padding: 18px; border-radius: 18px; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); }}
-      .flashcard-text {{ font-size: clamp(1.2rem, 2.5vw, 1.9rem); line-height: 1.5; }}
-      .flashcard-actions {{ display: flex; flex-wrap: wrap; gap: 12px; }}
-      .empty {{ padding: 32px; text-align: center; color: var(--muted); border-radius: 20px; border: 1px dashed var(--border); background: rgba(255,255,255,0.05); }}
-      .hidden {{ display: none !important; }}
+      .flashcard-wrap { display: grid; gap: 18px; }
+      .flashcard { padding: 28px; display: grid; gap: 18px; }
+      .flashcard-meta { display: flex; justify-content: space-between; gap: 12px; color: var(--muted); }
+      .flashcard-side { display: grid; gap: 10px; padding: 18px; border-radius: 18px; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); }
+      .flashcard-text { font-size: clamp(1.2rem, 2.5vw, 1.9rem); line-height: 1.5; }
+      .flashcard-actions { display: flex; flex-wrap: wrap; gap: 12px; }
+      .empty { padding: 32px; text-align: center; color: var(--muted); border-radius: 20px; border: 1px dashed var(--border); background: rgba(255,255,255,0.05); }
+      .hidden { display: none !important; }
 
-      @media (max-width: 1080px) {{
-        .line-item {{ grid-template-columns: 1fr; }}
-      }}
+      @media (max-width: 1080px) {
+        .line-item { grid-template-columns: 1fr; }
+      }
 
-      @media (max-width: 860px) {{
-        .toolbar {{ left: 12px; right: 12px; bottom: 86px; width: auto; max-height: min(72vh, 560px); }}
-        .panel-fab {{ right: 16px; bottom: 16px; }}
-        .entry-head, .flashcard-meta {{ flex-direction: column; align-items: flex-start; }}
-      }}
+      @media (max-width: 860px) {
+        .toolbar { left: 12px; right: 12px; bottom: 86px; width: auto; max-height: min(72vh, 560px); }
+        .panel-fab { right: 16px; bottom: 16px; }
+        .entry-head, .flashcard-meta { flex-direction: column; align-items: flex-start; }
+      }
     </style>
   </head>
   <body>
-    <main class=\"page\">
-      <section class=\"hero\">
-        <h1 id=\"pageTitle\">Everyday Conversation Practice</h1>
-        <p class=\"lead\" id=\"pageSubtitle\">Build confidence with common questions, useful answers, translations, flashcards, and audio.</p>
+    <main class="page">
+      <section class="hero">
+        <h1 id="pageTitle">Everyday Conversation Practice</h1>
+        <p class="lead" id="pageSubtitle">Build confidence with common questions, useful answers, translations, flashcards, and audio.</p>
       </section>
 
-      <section id=\"practicePanel\" class=\"toolbar collapsed\">
-        <div id=\"toolbarBody\" class=\"toolbar-body\">
-          <div class=\"toolbar-row\">
-            <span class=\"pill\" id=\"entryCount\">Waiting for manifest…</span>
-            <span class=\"status\" id=\"loadStatus\">Trying to load local manifest data automatically.</span>
+      <section id="practicePanel" class="toolbar collapsed">
+        <div id="toolbarBody" class="toolbar-body">
+          <div class="toolbar-row">
+            <span class="pill" id="entryCount">Waiting for manifest…</span>
+            <span class="status" id="loadStatus">Trying to load local manifest data automatically.</span>
           </div>
 
-          <div class=\"toolbar-row\">
-            <label class=\"hidden\" for=\"searchInput\">Search entries</label>
-            <input id=\"searchInput\" type=\"search\" aria-label=\"Search entries\" placeholder=\"Search study text, translation, names, places, or notes…\" />
-            <select id=\"kindFilter\" aria-label=\"Filter by item kind\">
-              <option value=\"all\">Show questions + answers</option>
-              <option value=\"question\">Questions only</option>
-              <option value=\"answer\">Answers only</option>
+          <div class="toolbar-row">
+            <label class="hidden" for="searchInput">Search entries</label>
+            <input id="searchInput" type="search" aria-label="Search entries" placeholder="Search study text, translation, names, places, or notes…" />
+            <select id="kindFilter" aria-label="Filter by item kind">
+              <option value="all">Show questions + answers</option>
+              <option value="question">Questions only</option>
+              <option value="answer">Answers only</option>
             </select>
-            <button id=\"themeToggle\" class=\"secondary theme-toggle\" type=\"button\" aria-label=\"Switch to light theme\" title=\"Switch to light theme\">🌙</button>
-            <button id=\"clearFilters\" class=\"secondary\" type=\"button\">Clear filters</button>
+            <button id="themeToggle" class="secondary theme-toggle" type="button" aria-label="Switch to light theme" title="Switch to light theme">🌙</button>
+            <button id="clearFilters" class="secondary" type="button">Clear filters</button>
           </div>
 
-          <div class=\"toolbar-row\">
-            <button id=\"browseModeBtn\" class=\"ghost active\" type=\"button\">Browse mode</button>
-            <button id=\"flashcardModeBtn\" class=\"ghost\" type=\"button\">Flashcard mode</button>
-            <span class=\"note\" id=\"languageBadge\">Study language ↔ Reference language</span>
+          <div class="toolbar-row">
+            <button id="browseModeBtn" class="ghost active" type="button">Browse mode</button>
+            <button id="flashcardModeBtn" class="ghost" type="button">Flashcard mode</button>
+            <span class="note" id="languageBadge">Study language ↔ Reference language</span>
           </div>
 
-          <div class=\"toolbar-row\">
-            <label class=\"note\" for=\"manifestFile\">Fallback: if needed, choose <code>{default_manifest_label}</code> manually.</label>
-            <input id=\"manifestFile\" type=\"file\" accept=\"application/json,.json\" />
+          <div class="toolbar-row">
+            <label class="note" for="manifestFile">Fallback: if needed, choose <code>manifest.json</code> manually.</label>
+            <input id="manifestFile" type="file" accept="application/json,.json" />
           </div>
         </div>
       </section>
 
-      <section id=\"browseView\" class=\"results\"></section>
+      <section id="browseView" class="results"></section>
 
-      <section id=\"flashcardView\" class=\"flashcard-wrap hidden\">
-        <article class=\"flashcard\">
-          <div class=\"flashcard-meta\">
-            <div id=\"flashcardCounter\">Card 0 of 0</div>
-            <div id=\"flashcardKind\">Question</div>
+      <section id="flashcardView" class="flashcard-wrap hidden">
+        <article class="flashcard">
+          <div class="flashcard-meta">
+            <div id="flashcardCounter">Card 0 of 0</div>
+            <div id="flashcardKind">Question</div>
           </div>
 
-          <div class=\"flashcard-side\">
-            <div class=\"line-heading\" id=\"studyHeading\">Study text</div>
-            <div class=\"flashcard-text\" id=\"flashcardStudy\">Load a manifest to begin.</div>
+          <div class="flashcard-side">
+            <div class="line-heading" id="studyHeading">Study text</div>
+            <div class="flashcard-text" id="flashcardStudy">Load a manifest to begin.</div>
           </div>
 
-          <div class=\"flashcard-side hidden\" id=\"translationPanel\">
-            <div class=\"line-heading\" id=\"referenceHeading\">Translation</div>
-            <div class=\"flashcard-text\" id=\"flashcardReference\"></div>
+          <div class="flashcard-side hidden" id="translationPanel">
+            <div class="line-heading" id="referenceHeading">Translation</div>
+            <div class="flashcard-text" id="flashcardReference"></div>
           </div>
 
-          <div class=\"flashcard-actions\">
-            <button id=\"revealTranslationBtn\" type=\"button\">Show translation</button>
-            <button id=\"playFlashcardBtn\" class=\"secondary\" type=\"button\">Play audio</button>
-            <button id=\"prevFlashcardBtn\" class=\"secondary\" type=\"button\">Previous</button>
-            <button id=\"nextFlashcardBtn\" class=\"secondary\" type=\"button\">Next</button>
+          <div class="flashcard-actions">
+            <button id="revealTranslationBtn" type="button">Show translation</button>
+            <button id="playFlashcardBtn" class="secondary" type="button">Play audio</button>
+            <button id="prevFlashcardBtn" class="secondary" type="button">Previous</button>
+            <button id="nextFlashcardBtn" class="secondary" type="button">Next</button>
           </div>
 
-          <audio id=\"flashcardAudio\" class=\"inline-audio\" controls preload=\"none\"></audio>
+          <audio id="flashcardAudio" class="inline-audio" controls preload="none"></audio>
         </article>
       </section>
 
-      <div id=\"emptyState\" class=\"empty hidden\">No matching entries found. Try a different search or filter.</div>
+      <div id="emptyState" class="empty hidden">No matching entries found. Try a different search or filter.</div>
     </main>
 
-    <div id=\"panelBackdrop\" class=\"panel-backdrop hidden\" aria-hidden=\"true\"></div>
-    <button id=\"panelToggle\" class=\"panel-toggle panel-fab\" type=\"button\" aria-expanded=\"false\" aria-controls=\"practicePanel\" aria-label=\"Show practice controls\" title=\"Show practice controls\">☰</button>
+    <div id="panelBackdrop" class="panel-backdrop hidden" aria-hidden="true"></div>
+    <button id="panelToggle" class="panel-toggle panel-fab" type="button" aria-expanded="false" aria-controls="practicePanel" aria-label="Show practice controls" title="Show practice controls">☰</button>
 
-    <script src=\"./manifest-data.js\"></script>
+    <script src="./manifest-data.js"></script>
     <script>
       const manifestUrl = './manifest.json';
       const embeddedBundle = window.__LANGUAGE_LEARNING_BUNDLE__ || null;
@@ -411,37 +363,37 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
       const THEME_STORAGE_KEY = 'language-learning-theme';
       const PANEL_STORAGE_KEY = 'language-learning-toolbar-collapsed';
 
-      let bundle = {{ meta: {{}}, items: [] }};
+      let bundle = { meta: {}, items: [] };
       let groupedEntries = [];
       let filteredItems = [];
       let flashcardIndex = 0;
       let currentView = 'browse';
 
-      function detectInitialTheme() {{
+      function detectInitialTheme() {
         const savedTheme = localStorage.getItem(THEME_STORAGE_KEY);
-        if (savedTheme === 'light' || savedTheme === 'dark') {{
+        if (savedTheme === 'light' || savedTheme === 'dark') {
           return savedTheme;
-        }}
+        }
         return window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
-      }}
+      }
 
-      function applyTheme(theme) {{
+      function applyTheme(theme) {
         document.documentElement.setAttribute('data-theme', theme);
         const nextTheme = theme === 'dark' ? 'light' : 'dark';
         const icon = theme === 'dark' ? '🌙' : '☀️';
-        const label = `Switch to ${{nextTheme}} theme`;
+        const label = `Switch to ${nextTheme} theme`;
         themeToggleEl.textContent = icon;
         themeToggleEl.setAttribute('aria-label', label);
         themeToggleEl.setAttribute('title', label);
         localStorage.setItem(THEME_STORAGE_KEY, theme);
-      }}
+      }
 
-      function toggleTheme() {{
+      function toggleTheme() {
         const currentTheme = document.documentElement.getAttribute('data-theme') || detectInitialTheme();
         applyTheme(currentTheme === 'dark' ? 'light' : 'dark');
-      }}
+      }
 
-      function applyToolbarCollapsed(collapsed) {{
+      function applyToolbarCollapsed(collapsed) {
         toolbarEl.classList.toggle('collapsed', collapsed);
         panelBackdropEl.classList.toggle('hidden', collapsed);
         document.body.classList.toggle('panel-open', !collapsed);
@@ -452,26 +404,26 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         panelToggleEl.setAttribute('aria-label', label);
         panelToggleEl.setAttribute('title', label);
         localStorage.setItem(PANEL_STORAGE_KEY, collapsed ? 'true' : 'false');
-      }}
+      }
 
-      function detectInitialPanelState() {{
+      function detectInitialPanelState() {
         return localStorage.getItem(PANEL_STORAGE_KEY) !== 'false';
-      }}
+      }
 
-      function toggleToolbarCollapsed() {{
+      function toggleToolbarCollapsed() {
         applyToolbarCollapsed(!toolbarEl.classList.contains('collapsed'));
-      }}
+      }
 
-      function normalize(value) {{
+      function normalize(value) {
         return (value || '')
           .toString()
           .normalize('NFD')
-          .replace(/[\u0300-\u036f]/g, '')
+          .replace(/[̀-ͯ]/g, '')
           .toLowerCase();
-      }}
+      }
 
-      function normalizeItem(item) {{
-        return {{
+      function normalizeItem(item) {
+        return {
           ...item,
           display_text: item.display_text || item.study_text || item.text || '',
           translation_text: item.translation_text || item.reference_text || '',
@@ -479,80 +431,80 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
           output_file: item.output_file || '',
           kind: item.kind || 'question',
           entry_index: item.entry_index || 0,
-        }};
-      }}
+        };
+      }
 
-      function coerceBundle(payload) {{
-        if (payload && Array.isArray(payload.items)) {{
-          return {{
-            meta: payload.meta || {{}},
+      function coerceBundle(payload) {
+        if (payload && Array.isArray(payload.items)) {
+          return {
+            meta: payload.meta || {},
             items: payload.items.map(normalizeItem),
-          }};
-        }}
+          };
+        }
 
-        if (Array.isArray(payload)) {{
-          return {{
-            meta: {{
+        if (Array.isArray(payload)) {
+          return {
+            meta: {
               dashboard_title: 'Everyday Conversation Practice',
               dashboard_subtitle: 'Loaded from a legacy manifest format of common language-practice questions and answers.',
               study_language_name: 'Study language',
               reference_language_name: 'Reference language',
-            }},
+            },
             items: payload.map(normalizeItem),
-          }};
-        }}
+          };
+        }
 
-        return {{ meta: {{}}, items: [] }};
-      }}
+        return { meta: {}, items: [] };
+      }
 
-      function groupManifest(items) {{
+      function groupManifest(items) {
         const grouped = new Map();
 
-        for (const item of items) {{
-          if (!grouped.has(item.entry_index)) {{
-            grouped.set(item.entry_index, {{
+        for (const item of items) {
+          if (!grouped.has(item.entry_index)) {
+            grouped.set(item.entry_index, {
               entryIndex: item.entry_index,
               lines: [],
-            }});
-          }}
+            });
+          }
           grouped.get(item.entry_index).lines.push(item);
-        }}
+        }
 
         return Array.from(grouped.values()).sort((a, b) => a.entryIndex - b.entryIndex);
-      }}
+      }
 
-      function setStatus(message, countMessage = null) {{
+      function setStatus(message, countMessage = null) {
         loadStatusEl.textContent = message;
-        if (countMessage) {{
+        if (countMessage) {
           entryCountEl.textContent = countMessage;
-        }}
-      }}
+        }
+      }
 
-      function applyMeta(meta) {{
+      function applyMeta(meta) {
         const title = meta.dashboard_title || 'Everyday Conversation Practice';
         const subtitle = meta.dashboard_subtitle || 'Build confidence with common questions, useful answers, translations, flashcards, and audio.';
         const studyLabel = meta.study_language_name || 'Study language';
         const referenceLabel = meta.reference_language_name || 'Reference language';
         pageTitleEl.textContent = title;
         pageSubtitleEl.textContent = subtitle;
-        languageBadgeEl.textContent = `${{studyLabel}} ↔ ${{referenceLabel}}`;
+        languageBadgeEl.textContent = `${studyLabel} ↔ ${referenceLabel}`;
         studyHeadingEl.textContent = studyLabel;
         referenceHeadingEl.textContent = referenceLabel;
         document.title = title;
-      }}
+      }
 
-      function getFilteredItems() {{
+      function getFilteredItems() {
         const searchTerm = normalize(searchInput.value.trim());
         const filterKind = kindFilter.value;
 
-        return bundle.items.filter((item) => {{
-          if (filterKind !== 'all' && item.kind !== filterKind) {{
+        return bundle.items.filter((item) => {
+          if (filterKind !== 'all' && item.kind !== filterKind) {
             return false;
-          }}
+          }
 
-          if (!searchTerm) {{
+          if (!searchTerm) {
             return true;
-          }}
+          }
 
           const haystack = normalize([
             item.display_text,
@@ -564,22 +516,22 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
             item.entry_index,
           ].join(' '));
           return haystack.includes(searchTerm);
-        }});
-      }}
+        });
+      }
 
-      function renderBrowse() {{
+      function renderBrowse() {
         filteredItems = getFilteredItems();
         const filteredByEntry = groupManifest(filteredItems);
         resultsEl.innerHTML = '';
 
-        if (!filteredByEntry.length) {{
+        if (!filteredByEntry.length) {
           emptyStateEl.classList.remove('hidden');
           return;
-        }}
+        }
 
         emptyStateEl.classList.add('hidden');
 
-        for (const entry of filteredByEntry) {{
+        for (const entry of filteredByEntry) {
           const card = document.createElement('article');
           card.className = 'entry-card';
 
@@ -587,32 +539,32 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
           head.className = 'entry-head';
           head.innerHTML = `
             <div>
-              <div class="entry-title">Entry ${{entry.entryIndex}}</div>
+              <div class="entry-title">Entry ${entry.entryIndex}</div>
               <div class="entry-subtitle">Aligned study + reference text</div>
             </div>
-            <div class="entry-subtitle">${{entry.lines.length}} audio item${{entry.lines.length === 1 ? '' : 's'}}</div>
+            <div class="entry-subtitle">${entry.lines.length} audio item${entry.lines.length === 1 ? '' : 's'}</div>
           `;
           card.appendChild(head);
 
           const lineGrid = document.createElement('div');
           lineGrid.className = 'line-grid';
 
-          for (const line of entry.lines) {{
+          for (const line of entry.lines) {
             const row = document.createElement('div');
             row.className = 'line-item';
 
             const label = document.createElement('div');
-            label.className = `line-label ${{line.kind}}`;
+            label.className = `line-label ${line.kind}`;
             label.textContent = line.kind === 'question' ? 'Question' : 'Answer';
 
             const study = document.createElement('div');
             study.className = 'line-copy';
-            study.innerHTML = `<div class="line-heading">${{studyHeadingEl.textContent}}</div><div class="line-text"></div>`;
+            study.innerHTML = `<div class="line-heading">${studyHeadingEl.textContent}</div><div class="line-text"></div>`;
             study.querySelector('.line-text').textContent = line.display_text;
 
             const reference = document.createElement('div');
             reference.className = 'line-copy';
-            reference.innerHTML = `<div class="line-heading">${{referenceHeadingEl.textContent}}</div><div class="line-text"></div>`;
+            reference.innerHTML = `<div class="line-heading">${referenceHeadingEl.textContent}</div><div class="line-text"></div>`;
             reference.querySelector('.line-text').textContent = line.translation_text || '—';
 
             const actions = document.createElement('div');
@@ -627,16 +579,16 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
             actions.appendChild(audio);
             row.append(label, study, reference, actions);
             lineGrid.appendChild(row);
-          }}
+          }
 
           card.appendChild(lineGrid);
           resultsEl.appendChild(card);
-        }}
-      }}
+        }
+      }
 
-      function renderFlashcard() {{
+      function renderFlashcard() {
         filteredItems = getFilteredItems();
-        if (!filteredItems.length) {{
+        if (!filteredItems.length) {
           emptyStateEl.classList.remove('hidden');
           flashcardStudyEl.textContent = 'No flashcards match the current filters.';
           flashcardReferenceEl.textContent = '';
@@ -644,31 +596,31 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
           flashcardAudioEl.removeAttribute('src');
           flashcardAudioEl.load();
           return;
-        }}
+        }
 
         emptyStateEl.classList.add('hidden');
         flashcardIndex = Math.max(0, Math.min(flashcardIndex, filteredItems.length - 1));
         const item = filteredItems[flashcardIndex];
         translationPanelEl.classList.add('hidden');
         revealTranslationBtn.textContent = 'Show translation';
-        flashcardCounterEl.textContent = `Card ${{flashcardIndex + 1}} of ${{filteredItems.length}}`;
-        flashcardKindEl.textContent = item.kind === 'question' ? `Question · Entry ${{item.entry_index}}` : `Answer · Entry ${{item.entry_index}}`;
+        flashcardCounterEl.textContent = `Card ${flashcardIndex + 1} of ${filteredItems.length}`;
+        flashcardKindEl.textContent = item.kind === 'question' ? `Question · Entry ${item.entry_index}` : `Answer · Entry ${item.entry_index}`;
         flashcardStudyEl.textContent = item.display_text || '—';
         flashcardReferenceEl.textContent = item.translation_text || 'No reference text available';
         flashcardAudioEl.src = item.output_file;
         flashcardAudioEl.load();
-      }}
+      }
 
-      function render() {{
-        if (currentView === 'browse') {{
+      function render() {
+        if (currentView === 'browse') {
           renderBrowse();
-        }} else {{
+        } else {
           resultsEl.innerHTML = '';
           renderFlashcard();
-        }}
-      }}
+        }
+      }
 
-      function switchView(nextView) {{
+      function switchView(nextView) {
         currentView = nextView;
         const browseActive = nextView === 'browse';
         resultsEl.classList.toggle('hidden', !browseActive);
@@ -676,110 +628,110 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
         browseModeBtn.classList.toggle('active', browseActive);
         flashcardModeBtn.classList.toggle('active', !browseActive);
         render();
-      }}
+      }
 
-      function loadManifest(payload) {{
+      function loadManifest(payload) {
         bundle = coerceBundle(payload);
         groupedEntries = groupManifest(bundle.items);
-        applyMeta(bundle.meta || {{}});
+        applyMeta(bundle.meta || {});
         setStatus(
           'Manifest loaded. You can browse, filter, and study in flashcard mode.',
-          `${{groupedEntries.length}} entries · ${{bundle.items.length}} audio items`
+          `${groupedEntries.length} entries · ${bundle.items.length} audio items`
         );
         flashcardIndex = 0;
         render();
-      }}
+      }
 
-      async function autoLoadManifest() {{
-        if (embeddedBundle || embeddedLegacyItems.length) {{
+      async function autoLoadManifest() {
+        if (embeddedBundle || embeddedLegacyItems.length) {
           loadManifest(embeddedBundle || embeddedLegacyItems);
           setStatus(
             embeddedBundle
               ? 'Loaded local manifest bundle directly from manifest-data.js.'
               : 'Loaded legacy manifest data directly from manifest-data.js.',
-            `${{groupedEntries.length}} entries · ${{bundle.items.length}} audio items`
+            `${groupedEntries.length} entries · ${bundle.items.length} audio items`
           );
           return;
-        }}
+        }
 
-        try {{
+        try {
           const response = await fetch(manifestUrl);
-          if (!response.ok) {{
-            throw new Error(`HTTP ${{response.status}}`);
-          }}
+          if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+          }
           const payload = await response.json();
           loadManifest(payload);
-        }} catch (error) {{
+        } catch (error) {
           setStatus(
             'Automatic loading was blocked or failed. Choose manifest.json manually below, or open the folder through a small local web server.',
             'Manifest not auto-loaded'
           );
-        }}
-      }}
+        }
+      }
 
-      manifestFileInput.addEventListener('change', async (event) => {{
+      manifestFileInput.addEventListener('change', async (event) => {
         const [file] = event.target.files || [];
-        if (!file) {{
+        if (!file) {
           return;
-        }}
+        }
 
-        try {{
+        try {
           const text = await file.text();
           loadManifest(JSON.parse(text));
-          setStatus(`Loaded manifest manually from ${{file.name}}.`, `${{groupedEntries.length}} entries · ${{bundle.items.length}} audio items`);
-        }} catch (error) {{
+          setStatus(`Loaded manifest manually from ${file.name}.`, `${groupedEntries.length} entries · ${bundle.items.length} audio items`);
+        } catch (error) {
           setStatus('That file could not be read as JSON. Please choose a valid manifest.json file.', 'Manifest load failed');
-        }}
-      }});
+        }
+      });
 
-      searchInput.addEventListener('input', () => {{
+      searchInput.addEventListener('input', () => {
         flashcardIndex = 0;
         render();
-      }});
-      kindFilter.addEventListener('change', () => {{
+      });
+      kindFilter.addEventListener('change', () => {
         flashcardIndex = 0;
         render();
-      }});
-      clearFiltersBtn.addEventListener('click', () => {{
+      });
+      clearFiltersBtn.addEventListener('click', () => {
         searchInput.value = '';
         kindFilter.value = 'all';
         flashcardIndex = 0;
         render();
-      }});
+      });
       panelToggleEl.addEventListener('click', toggleToolbarCollapsed);
       panelBackdropEl.addEventListener('click', () => applyToolbarCollapsed(true));
       themeToggleEl.addEventListener('click', toggleTheme);
-      document.addEventListener('keydown', (event) => {{
-        if (event.key === 'Escape' && !toolbarEl.classList.contains('collapsed')) {{
+      document.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape' && !toolbarEl.classList.contains('collapsed')) {
           applyToolbarCollapsed(true);
-        }}
-      }});
+        }
+      });
       browseModeBtn.addEventListener('click', () => switchView('browse'));
       flashcardModeBtn.addEventListener('click', () => switchView('flashcard'));
-      revealTranslationBtn.addEventListener('click', () => {{
+      revealTranslationBtn.addEventListener('click', () => {
         const isHidden = translationPanelEl.classList.contains('hidden');
         translationPanelEl.classList.toggle('hidden', !isHidden);
         revealTranslationBtn.textContent = isHidden ? 'Hide translation' : 'Show translation';
-      }});
-      playFlashcardBtn.addEventListener('click', () => {{
-        if (flashcardAudioEl.src) {{
+      });
+      playFlashcardBtn.addEventListener('click', () => {
+        if (flashcardAudioEl.src) {
           flashcardAudioEl.play();
-        }}
-      }});
-      prevFlashcardBtn.addEventListener('click', () => {{
-        if (!filteredItems.length) {{
+        }
+      });
+      prevFlashcardBtn.addEventListener('click', () => {
+        if (!filteredItems.length) {
           return;
-        }}
+        }
         flashcardIndex = (flashcardIndex - 1 + filteredItems.length) % filteredItems.length;
         renderFlashcard();
-      }});
-      nextFlashcardBtn.addEventListener('click', () => {{
-        if (!filteredItems.length) {{
+      });
+      nextFlashcardBtn.addEventListener('click', () => {
+        if (!filteredItems.length) {
           return;
-        }}
+        }
         flashcardIndex = (flashcardIndex + 1) % filteredItems.length;
         renderFlashcard();
-      }});
+      });
 
       applyTheme(detectInitialTheme());
       applyToolbarCollapsed(detectInitialPanelState());
@@ -787,8 +739,3 @@ def render_dashboard_html(default_manifest_label: str = "manifest.json") -> str:
     </script>
   </body>
 </html>
-"""
-
-
-def write_dashboard_html(path: str | Path, default_manifest_label: str = "manifest.json") -> None:
-    Path(path).write_text(render_dashboard_html(default_manifest_label=default_manifest_label), encoding="utf-8")
