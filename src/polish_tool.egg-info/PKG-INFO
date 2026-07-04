@@ -1,0 +1,116 @@
+Metadata-Version: 2.4
+Name: polish-tool
+Version: 0.1.0
+Summary: Generate Polish speech audio from pipe-delimited study files
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: edge-tts>=7.2.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+
+# polish-tool
+
+A free CLI tool that reads pipe-delimited study material like `Polish-English-pipe.txt` and generates natural-sounding Polish audio using `edge-tts`.
+
+## What it does
+
+- Parses files where each line contains multiple language columns separated by `|`
+- Defaults to the first column, which is Polish in your sample file
+- Can export:
+  - questions only
+  - answers only
+  - both question and answer together
+- Generates one MP3 per spoken item
+- Writes a manifest JSON file with the source text and output filenames
+
+## Why this approach
+
+This project uses `edge-tts` because it is the best practical free option for:
+
+- good Polish pronunciation
+- neural voices such as `pl-PL-ZofiaNeural`
+- no paid API keys
+- easy setup
+
+## Install
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -U pip
+python -m pip install -e .[dev]
+```
+
+## Basic usage
+
+Generate Polish audio from the first column of the sample file:
+
+```bash
+polish-tool generate Polish-English-pipe.txt
+```
+
+This creates audio under `output/`.
+
+## Useful examples
+
+Questions only:
+
+```bash
+polish-tool generate Polish-English-pipe.txt --mode questions
+```
+
+Answers only:
+
+```bash
+polish-tool generate Polish-English-pipe.txt --mode answers
+```
+
+Use a different voice:
+
+```bash
+polish-tool generate Polish-English-pipe.txt --voice pl-PL-MarekNeural
+```
+
+Choose a different language column (zero-based index):
+
+```bash
+polish-tool generate some-file.txt --column 0
+```
+
+Slower speaking rate for study practice:
+
+```bash
+polish-tool generate Polish-English-pipe.txt --rate=-15%
+```
+
+## Input format expected
+
+The parser supports files like this:
+
+- entries are grouped by blank lines and `|` separator lines
+- each content line has `left-language|right-language`
+- continuation lines are allowed
+- labels like `Q:` and `A:` are preserved in parsing but stripped from spoken output by default
+
+Example:
+
+```text
+Q: Jak się masz?|Q: How are you?
+A: Mam się dobrze.|A: I am fine.
+|
+Q: Gdzie mieszkasz?|Q: Where do you live?
+A: Mieszkam w Krakowie.|A: I live in Krakow.
+```
+
+## Output
+
+Inside `output/` you will get:
+
+- `audio/0001-question.mp3` etc.
+- `manifest.json`
+
+## Notes
+
+- `edge-tts` is online, but free to use for personal tooling.
+- For best pronunciation, keep the source text in correct Polish spelling.
+- Proper names from other languages may still need manual spelling adjustments.

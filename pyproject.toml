@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "language-learning-generator"
+version = "0.2.0"
+description = "Generate multilingual study audio, manifests, and dashboards from pipe-delimited lesson files"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "edge-tts>=7.2.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+]
+
+[project.scripts]
+language-dashboard = "language_learning_tool.cli:main"
+polish-tool = "language_learning_tool.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

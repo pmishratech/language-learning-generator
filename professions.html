@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Everyday Conversation Practice</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #07111f;
+        --panel: rgba(10, 18, 33, 0.76);
+        --panel-strong: rgba(19, 31, 54, 0.88);
+        --panel-soft: rgba(255, 255, 255, 0.045);
+        --text: #ecf3ff;
+        --muted: #9fb0d1;
+        --accent: #7c9cff;
+        --accent-2: #5eead4;
+        --accent-3: #c084fc;
+        --border: rgba(255, 255, 255, 0.1);
+        --shadow: 0 22px 60px rgba(0, 0, 0, 0.28);
+      }
+
+      html[data-theme="light"] {
+        color-scheme: light;
+        --bg: #f4f7fb;
+        --panel: rgba(255, 255, 255, 0.9);
+        --panel-strong: rgba(255, 255, 255, 0.98);
+        --panel-soft: rgba(11, 18, 32, 0.04);
+        --text: #102033;
+        --muted: #5b6f8d;
+        --accent: #4f6ef7;
+        --accent-2: #0ea5a4;
+        --accent-3: #8b5cf6;
+        --border: rgba(16, 32, 51, 0.1);
+        --shadow: 0 18px 44px rgba(15, 23, 42, 0.12);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background:
+          radial-gradient(circle at top left, rgba(124, 156, 255, 0.28), transparent 24%),
+          radial-gradient(circle at top right, rgba(94, 234, 212, 0.18), transparent 20%),
+          radial-gradient(circle at 50% 0%, rgba(192, 132, 252, 0.12), transparent 22%),
+          var(--bg);
+        color: var(--text);
+        min-height: 100vh;
+      }
+
+      .page {
+        width: min(1280px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 28px 0 48px;
+      }
+
+      .hero,
+      .toolbar,
+      .entry-card {
+        background: var(--panel);
+        border: 1px solid var(--border);
+        border-radius: 24px;
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(18px);
+      }
+
+      .hero {
+        padding: 32px;
+        margin-bottom: 20px;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .hero::after {
+        content: "";
+        position: absolute;
+        inset: auto -60px -60px auto;
+        width: 220px;
+        height: 220px;
+        border-radius: 999px;
+        background: radial-gradient(circle, rgba(124, 156, 255, 0.26), transparent 68%);
+        pointer-events: none;
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: clamp(1.8rem, 4vw, 3rem);
+        line-height: 1.05;
+      }
+
+      .lead {
+        margin: 0;
+        color: var(--muted);
+        max-width: 75ch;
+        font-size: 1rem;
+        line-height: 1.65;
+      }
+
+      .toolbar {
+        padding: 18px;
+        display: grid;
+        gap: 14px;
+        margin-bottom: 22px;
+        position: sticky;
+        top: 14px;
+        z-index: 5;
+      }
+
+      .toolbar-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: center;
+      }
+
+      .status {
+        color: var(--muted);
+        font-size: 0.95rem;
+        line-height: 1.5;
+      }
+
+      .pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 9px 14px;
+        border-radius: 999px;
+        background: rgba(124, 156, 255, 0.16);
+        border: 1px solid rgba(124, 156, 255, 0.35);
+        color: var(--text);
+        font-weight: 700;
+      }
+
+      input[type="search"],
+      select,
+      input[type="file"] {
+        appearance: none;
+        border: 1px solid var(--border);
+        background: var(--panel-strong);
+        color: var(--text);
+        border-radius: 12px;
+        padding: 12px 14px;
+        min-height: 44px;
+        font: inherit;
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
+      }
+
+      input[type="search"] {
+        flex: 1 1 320px;
+      }
+
+      button {
+        appearance: none;
+        border: 0;
+        border-radius: 12px;
+        padding: 11px 14px;
+        font: inherit;
+        cursor: pointer;
+        background: linear-gradient(135deg, var(--accent), #9f7aea);
+        color: white;
+        transition: transform 120ms ease, filter 120ms ease;
+        box-shadow: 0 10px 22px rgba(124, 156, 255, 0.22);
+      }
+
+      button:hover {
+        transform: translateY(-1px);
+        filter: brightness(1.05);
+      }
+
+      button.secondary {
+        background: rgba(255, 255, 255, 0.1);
+        border: 1px solid var(--border);
+      }
+
+      .results {
+        display: grid;
+        gap: 18px;
+      }
+
+      .entry-card {
+        padding: 20px;
+        background:
+          linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.025)),
+          var(--panel);
+        transition: transform 140ms ease, border-color 140ms ease, box-shadow 140ms ease;
+      }
+
+      .entry-card:hover {
+        transform: translateY(-2px);
+        border-color: rgba(124, 156, 255, 0.28);
+        box-shadow: 0 24px 70px rgba(0, 0, 0, 0.32);
+      }
+
+      .entry-head {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 14px;
+      }
+
+      .entry-title {
+        font-size: 1.08rem;
+        font-weight: 700;
+      }
+
+      .entry-subtitle {
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      .line-grid {
+        display: grid;
+        gap: 12px;
+      }
+
+      .line-item {
+        display: grid;
+        grid-template-columns: 104px minmax(0, 1.15fr) minmax(0, 1.15fr) minmax(250px, 300px);
+        gap: 14px;
+        align-items: start;
+        padding: 14px;
+        border-radius: 18px;
+        background: var(--panel-soft);
+        border: 1px solid rgba(255, 255, 255, 0.07);
+      }
+
+      .line-label {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 36px;
+        padding: 6px 10px;
+        border-radius: 999px;
+        background: rgba(94, 234, 212, 0.16);
+        border: 1px solid rgba(94, 234, 212, 0.32);
+        font-weight: 700;
+        letter-spacing: 0.01em;
+      }
+
+      .line-label.question {
+        background: rgba(124, 156, 255, 0.15);
+        border-color: rgba(124, 156, 255, 0.28);
+      }
+
+      .line-label.answer {
+        background: rgba(94, 234, 212, 0.15);
+        border-color: rgba(94, 234, 212, 0.28);
+      }
+
+      .line-copy {
+        display: grid;
+        gap: 6px;
+      }
+
+      .line-heading {
+        color: var(--muted);
+        font-size: 0.78rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+
+      .line-text {
+        line-height: 1.5;
+        white-space: pre-wrap;
+        font-size: 1rem;
+        padding-top: 4px;
+      }
+
+      .line-actions {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        justify-content: flex-start;
+      }
+
+      .audio-link {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        min-height: 40px;
+        padding: 8px 12px;
+        border-radius: 12px;
+        color: var(--text);
+        text-decoration: none;
+        background: rgba(255, 255, 255, 0.06);
+        border: 1px solid rgba(255, 255, 255, 0.14);
+        font-size: 0.95rem;
+      }
+
+      .audio-link:hover {
+        background: rgba(255, 255, 255, 0.14);
+      }
+
+      .inline-audio {
+        width: 100%;
+        min-width: 220px;
+        border-radius: 12px;
+      }
+
+      .empty {
+        padding: 32px;
+        text-align: center;
+        color: var(--muted);
+        border-radius: 20px;
+        border: 1px dashed var(--border);
+        background: rgba(255, 255, 255, 0.05);
+      }
+
+      .note {
+        font-size: 0.9rem;
+        color: var(--muted);
+      }
+
+      .theme-toggle {
+        width: 44px;
+        min-width: 44px;
+        min-height: 44px;
+        padding: 0;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.15rem;
+        line-height: 1;
+      }
+
+      .hidden {
+        display: none !important;
+      }
+
+      @media (max-width: 860px) {
+        .toolbar {
+          position: static;
+        }
+
+        .entry-head {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+
+        .line-item {
+          grid-template-columns: 1fr;
+        }
+
+        .line-actions {
+          justify-content: stretch;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero">
+        <h1 id="pageTitle">Everyday Conversation Practice</h1>
+        <p id="pageSubtitle" class="lead">
+          Build confidence with common questions, useful answers, and matching audio for everyday language practice.
+        </p>
+      </section>
+
+      <section class="toolbar">
+        <div class="toolbar-row">
+          <span class="pill" id="entryCount">Waiting for manifest…</span>
+          <span class="status" id="loadStatus">Trying to load local manifest data automatically.</span>
+        </div>
+
+        <div class="toolbar-row">
+          <label class="hidden" for="searchInput">Search entries</label>
+          <input id="searchInput" type="search" aria-label="Search entries" placeholder="Search study text, common questions, answers, names, places, or topics…" />
+          <select id="kindFilter" aria-label="Filter by item kind">
+            <option value="all">Show questions + answers</option>
+            <option value="question">Questions only</option>
+            <option value="answer">Answers only</option>
+          </select>
+          <button id="themeToggle" class="secondary theme-toggle" type="button" aria-label="Switch to light theme" title="Switch to light theme">🌙</button>
+          <span id="languageBadge" class="note">Polish ↔ English</span>
+          <button id="clearFilters" class="secondary" type="button">Clear filters</button>
+        </div>
+
+        <div class="toolbar-row">
+          <label class="note" for="manifestFile">Fallback: if needed, choose <code>output-demo-pack/manifest.json</code> manually.</label>
+          <input id="manifestFile" type="file" accept="application/json,.json" />
+        </div>
+      </section>
+
+      <section id="results" class="results"></section>
+
+      <div id="emptyState" class="empty hidden">
+        No matching entries found. Try a different search or filter.
+      </div>
+    </main>
+
+    <script src="./output-demo-pack/manifest-data.js"></script>
+    <script>
+      const manifestUrl = './output-demo-pack/manifest.json';
+      const embeddedBundle = window.__LANGUAGE_LEARNING_BUNDLE__ || null;
+      const embeddedManifest = window.__POLISH_MANIFEST__ || [];
+      const resultsEl = document.getElementById('results');
+      const emptyStateEl = document.getElementById('emptyState');
+      const searchInput = document.getElementById('searchInput');
+      const kindFilter = document.getElementById('kindFilter');
+      const clearFiltersBtn = document.getElementById('clearFilters');
+      const manifestFileInput = document.getElementById('manifestFile');
+      const entryCountEl = document.getElementById('entryCount');
+      const loadStatusEl = document.getElementById('loadStatus');
+      const pageTitleEl = document.getElementById('pageTitle');
+      const pageSubtitleEl = document.getElementById('pageSubtitle');
+      const themeToggleEl = document.getElementById('themeToggle');
+      const languageBadgeEl = document.getElementById('languageBadge');
+
+      const THEME_STORAGE_KEY = 'language-learning-theme';
+
+      let rawItems = [];
+      let groupedEntries = [];
+
+      function detectInitialTheme() {
+        const savedTheme = localStorage.getItem(THEME_STORAGE_KEY);
+        if (savedTheme === 'light' || savedTheme === 'dark') {
+          return savedTheme;
+        }
+        return window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      }
+
+      function applyTheme(theme) {
+        document.documentElement.setAttribute('data-theme', theme);
+        const nextTheme = theme === 'dark' ? 'light' : 'dark';
+        const icon = theme === 'dark' ? '🌙' : '☀️';
+        const label = `Switch to ${nextTheme} theme`;
+        themeToggleEl.textContent = icon;
+        themeToggleEl.setAttribute('aria-label', label);
+        themeToggleEl.setAttribute('title', label);
+        localStorage.setItem(THEME_STORAGE_KEY, theme);
+      }
+
+      function toggleTheme() {
+        const currentTheme = document.documentElement.getAttribute('data-theme') || detectInitialTheme();
+        applyTheme(currentTheme === 'dark' ? 'light' : 'dark');
+      }
+
+      function applyMeta(meta) {
+        const title = meta?.dashboard_title || 'Everyday Conversation Practice';
+        const subtitle = meta?.dashboard_subtitle || 'Build confidence with common questions, useful answers, and matching audio for everyday language practice.';
+        const studyLanguage = meta?.study_language_name || 'Polish';
+        const referenceLanguage = meta?.reference_language_name || 'English';
+        pageTitleEl.textContent = title;
+        pageSubtitleEl.textContent = subtitle;
+        languageBadgeEl.textContent = `${studyLanguage} ↔ ${referenceLanguage}`;
+        document.title = title;
+      }
+
+      function normalizePayload(payload) {
+        if (payload && Array.isArray(payload.items)) {
+          return {
+            meta: payload.meta || {},
+            items: payload.items.map((item) => ({
+              ...item,
+              display_text: item.display_text || item.text || '',
+              translation_text: item.translation_text || '',
+              output_file: item.output_file_from_repo_root || item.output_file || '',
+            })),
+          };
+        }
+
+        if (Array.isArray(payload)) {
+          return {
+            meta: {},
+            items: payload.map((item) => ({
+              ...item,
+              display_text: item.display_text || item.text || '',
+              translation_text: item.translation_text || item.original_reference_text || '',
+              output_file: item.output_file || '',
+            })),
+          };
+        }
+
+        return {
+          meta: {},
+          items: [],
+        };
+      }
+
+      function normalize(value) {
+        return (value || '')
+          .toString()
+          .normalize('NFD')
+          .replace(/[\u0300-\u036f]/g, '')
+          .toLowerCase();
+      }
+
+      function groupManifest(items) {
+        const grouped = new Map();
+
+        for (const item of items) {
+          if (!grouped.has(item.entry_index)) {
+            grouped.set(item.entry_index, {
+              entryIndex: item.entry_index,
+              question: item.source_question || '',
+              answer: item.source_answer || '',
+              lines: [],
+            });
+          }
+
+          grouped.get(item.entry_index).lines.push(item);
+        }
+
+        return Array.from(grouped.values()).sort((a, b) => a.entryIndex - b.entryIndex);
+      }
+
+      function setStatus(message, countMessage = null) {
+        loadStatusEl.textContent = message;
+        if (countMessage) {
+          entryCountEl.textContent = countMessage;
+        }
+      }
+
+      function render() {
+        const searchTerm = normalize(searchInput.value.trim());
+        const filterKind = kindFilter.value;
+
+        const filteredEntries = groupedEntries
+          .map((entry) => {
+            const lines = entry.lines.filter((line) => {
+              if (filterKind !== 'all' && line.kind !== filterKind) {
+                return false;
+              }
+
+              if (!searchTerm) {
+                return true;
+              }
+
+              const haystack = normalize([
+                line.display_text,
+                line.translation_text,
+                line.text,
+                line.original_text,
+                line.source_question,
+                line.source_answer,
+                line.kind,
+                entry.entryIndex,
+              ].join(' '));
+
+              return haystack.includes(searchTerm);
+            });
+
+            return {
+              ...entry,
+              lines,
+            };
+          })
+          .filter((entry) => entry.lines.length > 0);
+
+        resultsEl.innerHTML = '';
+
+        if (!filteredEntries.length) {
+          emptyStateEl.classList.remove('hidden');
+          return;
+        }
+
+        emptyStateEl.classList.add('hidden');
+
+        for (const entry of filteredEntries) {
+          const card = document.createElement('article');
+          card.className = 'entry-card';
+
+          const head = document.createElement('div');
+          head.className = 'entry-head';
+          head.innerHTML = `
+            <div>
+              <div class="entry-title">Entry ${entry.entryIndex}</div>
+              <div class="entry-subtitle">Question + answer pair</div>
+            </div>
+            <div class="entry-subtitle">${entry.lines.length} audio item${entry.lines.length === 1 ? '' : 's'}</div>
+          `;
+          card.appendChild(head);
+
+          const lineGrid = document.createElement('div');
+          lineGrid.className = 'line-grid';
+
+          for (const line of entry.lines) {
+            const row = document.createElement('div');
+            row.className = 'line-item';
+
+            const label = document.createElement('div');
+            label.className = `line-label ${line.kind}`;
+            label.textContent = line.kind === 'question' ? 'Question' : 'Answer';
+
+            const study = document.createElement('div');
+            study.className = 'line-copy';
+            study.innerHTML = '<div class="line-heading">Polish</div><div class="line-text"></div>';
+            study.querySelector('.line-text').textContent = line.display_text || line.text || '';
+
+            const translation = document.createElement('div');
+            translation.className = 'line-copy';
+            translation.innerHTML = '<div class="line-heading">English</div><div class="line-text"></div>';
+            translation.querySelector('.line-text').textContent = line.translation_text || '—';
+
+            const actions = document.createElement('div');
+            actions.className = 'line-actions';
+
+            const audio = document.createElement('audio');
+            audio.className = 'inline-audio';
+            audio.controls = true;
+            audio.preload = 'none';
+            audio.src = line.output_file;
+
+            const audioLink = document.createElement('a');
+            audioLink.className = 'audio-link';
+            audioLink.href = line.output_file;
+            audioLink.target = '_blank';
+            audioLink.rel = 'noopener noreferrer';
+            audioLink.textContent = 'Open audio file';
+
+            actions.appendChild(audio);
+            actions.appendChild(audioLink);
+            row.append(label, study, translation, actions);
+            lineGrid.appendChild(row);
+          }
+
+          card.appendChild(lineGrid);
+          resultsEl.appendChild(card);
+        }
+      }
+
+      function loadManifest(payload) {
+        const normalized = normalizePayload(payload);
+        applyMeta(normalized.meta);
+        rawItems = normalized.items;
+        groupedEntries = groupManifest(rawItems);
+        setStatus(
+          'Manifest loaded. You can search, filter, and play any line.',
+          `${groupedEntries.length} entries · ${rawItems.length} audio items`
+        );
+        render();
+      }
+
+      async function autoLoadManifest() {
+        if (embeddedBundle || embeddedManifest.length) {
+          loadManifest(embeddedBundle || embeddedManifest);
+          setStatus(
+            embeddedBundle
+              ? 'Loaded local manifest bundle directly from manifest-data.js.'
+              : 'Loaded local manifest data directly from manifest-data.js.',
+            `${groupedEntries.length} entries · ${rawItems.length} audio items`
+          );
+          return;
+        }
+
+        try {
+          const response = await fetch(manifestUrl);
+          if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+          }
+          const payload = await response.json();
+          loadManifest(payload);
+        } catch (error) {
+          setStatus(
+            'Automatic loading was blocked or failed. Choose manifest.json manually below, or open the folder through a small local web server.',
+            'Manifest not auto-loaded'
+          );
+        }
+      }
+
+      manifestFileInput.addEventListener('change', async (event) => {
+        const [file] = event.target.files || [];
+        if (!file) {
+          return;
+        }
+
+        try {
+          const text = await file.text();
+          const payload = JSON.parse(text);
+          loadManifest(payload);
+          setStatus(
+            `Loaded manifest manually from ${file.name}.`,
+            `${groupedEntries.length} entries · ${rawItems.length} audio items`
+          );
+        } catch (error) {
+          setStatus('That file could not be read as JSON. Please choose a valid manifest.json file.', 'Manifest load failed');
+        }
+      });
+
+      searchInput.addEventListener('input', render);
+      kindFilter.addEventListener('change', render);
+      clearFiltersBtn.addEventListener('click', () => {
+        searchInput.value = '';
+        kindFilter.value = 'all';
+        render();
+      });
+      themeToggleEl.addEventListener('click', toggleTheme);
+
+      applyTheme(detectInitialTheme());
+      autoLoadManifest();
+    </script>
+  </body>
+</html>

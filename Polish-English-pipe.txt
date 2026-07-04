@@ -1,0 +1,765 @@
+Q: Jakie są pani kwalifikacje zawodowe?|Q: What are your professional qualifications?
+A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.|A: I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.
+|
+Q: Kiedy ostatnio pani była w Indiach?|Q: When was the last time you were in India?
+A: Byłam Ostatnio w Indiach 28 stycznia 2024 r.|A: I was last in India on January 28, 2024.
+|
+Q: Czy posiada pani własną nieruchomość?|Q: Do you own your own property?
+A: TAK MAM/POSIADAM WŁASNĄ NIERUCHOMOŚĆ. To jest trzypokojowe mieszkanie.|A: YES, I HAVE OWN PROPERTY. This is a three-room apartment.
+|
+Q: W jakich językach pani porozumiewa się w pracy?|Q: What languages ​​do you speak at work?
+A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.|A: Generally, I speak English at work because it is an international company. But I speak Polish with Polish colleagues and clients.
+|
+Q: Jak długo pani mieszka w Polsce?|Q: How long have you lived in Poland?
+A: MIESZKAM  W POLSCE 8 LAT./ JESTEM W POLSCE OD LISTOPADA 2018 ROKU.|A: I HAVE LIVED IN POLAND FOR 8 YEARS/ I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.
+|
+Q: Dlaczego pani rozmawiała po angielsku w biurze emigracyjnym?|Q: Why did you speak English at the emigration office?
+A: Bo: wszystko rozumiałam co pani w biurze mówiła po polsku ale wolałam mówić po angielsku żeby być pewną, że zrozumiałam wszystko dobrze. |A: Because: I understood everything that the lady in the office said in Polish, but I preferred to speak English to be sure that I understood everything correctly.
+|
+Q: Gdzie pani mieszkała wcześniej?|Q: Where did you live before?
+A: Wcześniej mieszkałam w Indiach, w Bharthana.|A: Previously, I lived in India, in Bharthana.
+   Zanim przyjechałam do Polski, mieszkałam tylko w Indiach.|Before I came to Poland, I only lived in India.
+   Generalnie mieszkałam w Bharthana — to jest moje rodzinne miasto — ale potem pracowałam i mieszkałam w Delhi.|I basically lived in Bharthana - that's my hometown - but then I worked and lived in Delhi.
+   Po tym jak mój mąż dostał pracę w Polsce, przyjechałam do Polski, i od tego czasu mieszkam w Polsce.|After my husband got a job in Poland, I came to Poland, and I have been living in Poland since then.
+|
+Q: Jak nazywa się firma, która zaoferowała pani pracę w Polsce?|Q: What is the name of the company that offered you a job in Poland?
+A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.|A: The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.
+|
+Q: Skąd pani jest?|Q: Where are you from?
+A: JESTEM Z INDII.|A: I AM FROM INDIA.
+|
+Q: Czym pani dojeżdża do pracy?|Q: What do you use to commute to work?
+A: Do pracy jeżdżę tramwajem albo autobusem albo samochodem. Czasami latem chodzę pieszo.|A: I go to work by tram, bus or car. Sometimes in the summer I walk.
+|
+Q: Na jakim stanowisku pani pracuje?|Q: What position do you work in?
+A: Pracuję na stanowisku starszego inżyniera do spraw automatyzacji testów.|A: I work as a senior test automation engineer.
+|
+Q: Jak długo pani mieszka w Krakowie?|Q: How long have you lived in Krakow?
+A: MIESZKAM  W Krakowie 8 LAT.|A: I HAVE LIVED IN Krakow for 8 YEARS.
+|
+Q: Czy ma pani własną nieruchomość?|Q: Do you have your own property?
+A: TAK MAM/POSIADAM WŁASNĄ NIERUCHOMOŚĆ. To jest trzypokojowe mieszkanie.|A: YES, I HAVE OWN PROPERTY. This is a three-room apartment.
+|
+Q: Jaki zawód pani wykonuje?|Q: What is your profession?
+A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.|A: I AM A COMPUTER ENGINEER BY PROFESSION.
+|
+Q: Od ilu lat jest pani w Polsce?|Q: How many years have you been in Poland?
+A: JESTEM W POLSCE OD OSIEM LAT.|A: I HAVE BEEN IN POLAND FOR EIGHT YEARS.
+|
+Q: Jak pani dostała pracę w Polsce?|Q: How did you get a job in Poland?
+A: Dostałam pracę na LinkedIn. To jest online aplikacja.|A: I got a job at LinkedIn. This is an online application.
+|
+Q: Gdzie pani mieszka?|Q: Where do you live?
+A: Mieszkam w Krakowie na Os. Piastów 56C, Mieskanie Numer 160,Kod Poztowy 31-625,Polska.|A: I live in Krakow, Os. Piastów 56C, Apartment No. 160, Poztowy Code 31-625, Poland.
+|
+Q: Jakie stanowisko pani zajmuje?|Q: What is your position?
+A: Pracuję na stanowisku starszego inżyniera do spraw automatyzacji testów.|A: I work as a senior test automation engineer.
+|
+Q: W jakim mieście pani mieszkała w Indiach?|Q: What city did you live in in India?
+A: Mieszkałam w Bharthana.|A: I lived in Bharthana.
+|
+Q: Dlaczego mieszka pani w Polsce?|Q: Why do you live in Poland?
+A: MIESZKAM W POLSCE BO MAM TUTAJ PRACĘ.|A: I LIVE IN POLAND BECAUSE I HAVE A WORK HERE.
+|
+Q: Jaki jest pani obecny adres?|Q: What is your current address?
+A: Mój obecny adres to Os. Piastow 56C, Mieskanie Numer 160,Kod Poztowy 31-625,Polska.|A: My current address is Os. Piastow 56C, Apartment Number 160, Poztowy Code 31-625, Poland.
+|
+Q: Skąd pani pochodzi?|Q: Where are you from?
+A: POCHODZĘ Z INDII.|A: I AM FROM INDIA.
+|
+Q: Co pani robi w pracy?|Q: What do you do at work?
+A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.|A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.
+|
+Q: Ile lat pracuje pani w obecnej firmie?|Q: How many years have you been working at your current company?
+A: W obecnej firmie pracuje 7 lat.|A: He has been working in the current company for 7 years.
+|
+Q: Jak dawno temu pani przyjechała do Polski?|Q: How long ago did you come to Poland?
+A: PRZYJECHAŁAM DO POLSKI  8 LAT TEMU.|A: I CAME TO POLAND 8 YEARS AGO.
+|
+Q: Czy mieszka pani w wynajętym mieszkaniu?|Q: Do you live in a rented apartment?
+A: Nie, nie mieszkam w wynajętym mieszkaniu. Mieszkam w własnym mieszkaniu.|A: No, I don't live in a rented apartment. I live in my own apartment.
+|
+Q: Jaki jest pani aktualny adres?|Q: What is your current address?
+A: Aktualny mieskam w Krakowie na Os. Pistów 56C, Mieskanie numer 160, Kod Poztowy-31625, Polska.|A: I currently live in Krakow, Os. Pistyczny 56C, Apartment number 160, Poztowy Code-31625, Poland.
+|
+Q: Czym się pani zajmuje w pracy?|Q: What do you do at work?
+A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.|A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.
+|
+Q: Jakie pani ma kwalifikacje?|Q: What are your qualifications?
+A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.|A: I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.
+|
+Q: Jak nazywa się firma, która dała pani ofertę pracy w Polsce?|Q: What is the name of the company that offered you a job in Poland?
+A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.|A: The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.
+|
+Q: Kim pani jest z zawodu?|Q: What is your profession?
+A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.|A: I AM A COMPUTER ENGINEER BY PROFESSION.
+|
+Q: Kiedy pani przyjechała do Polski?|Q: When did you come to Poland?
+A: PRZYJECHAŁAM DO POLSKI  8 LAT TEMU.|A: I CAME TO POLAND 8 YEARS AGO.
+|
+Q: Pod jakim adresem pani mieszka?|Q: What address do you live at?
+A: Mieszkam w Krakowie na Os. Piastów 56C, Mieskanie Numer 160,Kod Poztowy 31-625,Polska.|A: I live in Krakow, Os. Piastów 56C, Apartment No. 160, Poztowy Code 31-625, Poland.
+|
+Q: W jakich językach pani rozmawia w pracy?|Q: What languages ​​do you speak at work?
+A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.|A: Generally, I speak English at work because it is an international company. But I speak Polish with Polish colleagues and clients.
+|
+Q: Ile lat pani mieszka w Polsce?|Q: How many years have you lived in Poland?
+A: MIESZKAM W POLSCE OSIEM LAT.|A: I HAVE LIVED IN POLAND EIGHT YEARS.
+|
+Q: Gdzie pani mieszkała w Indiach?|Q: Where did you live in India?
+A: Mieszkałam w Bharthana. To moje rodzinne miasto.To wschodnia część Indii.|A: I lived in Bharthana. This is my hometown. It is the eastern part of India.
+|
+Q: Dlaczego uczy się pani języka polskiego?|Q: Why are you learning Polish?
+A: UCZĘ SIĘ JĘZYKA POLSKIEGO, BO PRACUJĘ W POLSCE.|A: I'M LEARNING POLISH BECAUSE I WORK IN POLAND.
+|
+Q: Jak długo pani jest w Polsce?|Q: How long have you been in Poland?
+A: JESTEM W POLSCE 8 LAT.|A: I HAVE BEEN IN POLAND FOR 8 YEARS.
+|
+Q: Jaki jest pani zawód?|Q: What is your profession?
+A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.|A: I AM A COMPUTER ENGINEER BY PROFESSION.
+|
+Q: Czym pani jeździ do pracy?|Q: What do you drive to work?
+A: Do pracy jeżdżę tramwajem albo autobusem albo samochodem. Czasami latem chodzę pieszo.|A: I go to work by tram, bus or car. Sometimes in the summer I walk.
+|
+Q: Z jakiego kraju pani pochodzi?|Q: What country are you from?
+A: POCHODZĘ Z INDII.|A: I AM FROM INDIA.
+|
+Q: Od kiedy jest pani w Polsce?|Q: How long have you been in Poland?
+A: MIESZKAM  W POLSCE 8 LAT./ JESTEM W POLSCE OD LISTOPADA 2018 ROKU.|A: I HAVE LIVED IN POLAND FOR 8 YEARS/ I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.
+|
+Q: Dlaczego pani zdecydowała się pracować w Polsce?|Q: Why did you decide to work in Poland?
+A: Ddecydowałam się pracować w Polsce bo mój mąż pierwszy dostał pracę w polsce. potem ja też pracowałam w polsce.|A: I decided to work in Poland because my husband was the first to get a job in Poland. then I also worked in Poland.
+|
+Q: Jakie pani ma obowiązki na swoim stanowisku?|Q: What are your responsibilities in your position?
+A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.|A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.
+|
+Q: Czy Pani mieszka sama?|Q: Do you live alone?
+A: Nie, Nie mieszkam sama. Mieszkam z Rodziną, mój mąż i corka. Mój mąż ma na imię Rajesh a moja córka ma na imię Esabel .|A: No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Rajesh and my daughter's name is Esabel.
+|
+Q: Jakie są twoje kwalifikacje?|Q: What are your qualifications?
+A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.|A: I am a qualified computer engineer. I have a bachelor's degree in computer science.
+|
+Q: Jak się nazywa firma?|Q: What is the name of the company?
+A: Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.|A: My company is called Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.
+|
+Q: Kiedy Pani przyjechał do Polski?|Q: When did you come to Poland?
+A: Przyjechałam do Polski 8 lat temu, w 11 listopadzie 2018 roku. Przyjechałam do Polski z mężem i córką.|A: I came to Poland 8 years ago, on November 11, 2018. I came to Poland with my husband and daughter.
+|
+Q: Jakie masz kwalifikacje?|Q: What are your qualifications?
+A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.|A: I am a qualified computer engineer. I have a bachelor's degree in computer science.
+|
+|
+|
+Q: Czy pani współmałżonek pracuje?|Q: Does your spouse work?
+A: MÓJ współmałżonek PRACUJE W FIRMIE Hitachi Energy.|A: MY spouse WORKS FOR Hitachi Energy.
+|
+Q: Jaką Pani ma rodzinę?|Q: What kind of family do you have?
+A: Moja rodzina w Polsce nie jest duża, moja rodzina to jest mój mąż i moja córka.|A: My family in Poland is not large, my family is my husband and my daughter.
+|
+Q: Czy pani mąż pracuje?|Q: Does your husband work?
+A: MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.|A: MY HUSBAND WORKS FOR Hitachi Energy.
+|
+Q: Czy pani dziecko mówi po polsku?|Q: Does your child speak Polish?
+A: TAK, MOJA CÓRKA MÓWI PO POLSKU.|A: YES, MY DAUGHTER SPEAKS POLISH.
+|
+Q: Ile lat pracuje pani w obecnej firmie?|Q: How many years have you been working at your current company?
+A: W obecnej firmie pracuje 7 lat.|A: He has been working in the current company for 7 years.
+|
+Q: Czy pani partner pracuje?|Q: Does your partner work?
+A: MÓJ partner PRACUJE W FIRMIE Hitachi Energy.|A: MY partner WORKS FOR Hitachi Energy.
+|
+Q: Jakie kwalifikacje zawodowe posiada pani mąż?|Q: What professional qualifications does your husband have?
+A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.|A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.
+|
+Q: Kiedy ostatnio pani była w Indiach?|Q: When was the last time you were in India?
+A: Byłam Ostatnio w Indiach 28 stycznia 2024 r|A: I was last in India on January 28, 2024
+|
+Q: Czy pani współmałżonek pracuje?|Q: Does your spouse work?
+A: MÓJ współmałżonek PRACUJE W FIRMIE Hitachi Energy.|A: MY spouse WORKS FOR Hitachi Energy.
+|
+Q: Czy ma pani dzieci?|Q: Do you have children?
+A: TAK, MAM CÓRKĘ.|A: YES, I HAVE A DAUGHTER.
+|
+Q: Jak długo pani dziecko jest w przedszkolu/szkole/żłobku?|Q: How long has your child been in kindergarten/school/nursery?
+A: MOJA CÓRKA JEST W SZKOLE OKOŁO 6 GODZIN.|A: MY DAUGHTER IS AT SCHOOL FOR ABOUT 6 HOURS.
+|
+Q: W jakiej firmie pracuje twój mąż?|Q: What company does your husband work for?
+A: MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.|A: MY HUSBAND WORKS FOR Hitachi Energy.
+|
+Q: Czy pani mąż pracuje zawodowo?|Q: Does your husband work professionally?
+A: TAK, MÓJ MĄŻ PRACUJE ZAWODOWO.|A: YES, MY HUSBAND WORKS PROFESSIONALLY.
+|
+Q: Skąd pani pochodzi?|Q: Where are you from?
+A: POCHODZĘ Z INDII.|A: I AM FROM INDIA.
+|
+Q: Czy pani dziecko spotyka się z polskimi dziećmi?|Q: Does your child meet Polish children?
+A: TAK, MOJA CÓRKA SPOTYKA SIĘ Z POLSKIMI DZIEĆMI.|A: YES, MY DAUGHTER IS DATING POLISH CHILDREN.
+|
+Q: W jakiej firmie pracuje pani mąż?|Q: What company does your husband work for?
+A: MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.|A: MY HUSBAND WORKS FOR Hitachi Energy.
+|
+Q: Jak dawno temu pani przyjechała do Polski?|Q: How long ago did you come to Poland?
+A: PRZYJECHAŁAM DO POLSKI  8 LAT TEMU.|A: I CAME TO POLAND 8 YEARS AGO.
+|
+Q: W jakiej firmie pracował twój mąż?|Q: What company did your husband work for?
+A: MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.|A: MY HUSBAND WORKS FOR Hitachi Energy.
+|
+Q: Czy pani dziecko bawi się z polskimi dziećmi?|Q: Does your child play with Polish children?
+A: TAK, MOJA CÓRKA BAWI SIĘ Z POLSKIMI DZIEĆMI.|A: YES, MY DAUGHTER PLAYS WITH POLISH CHILDREN.
+|
+Q: Czy pani mąż jest wysoko wykwalifikowanym pracownikiem?|Q: Is your husband a highly skilled worker?
+A: TAK MÓJ MĄŻ JEST WYSOKO WYKWALIFIKOWANYM PRACOWNIKIEM. ON JEST Enginierem INFORMATYKI.|A: YES, MY HUSBAND IS A HIGHLY QUALIFIED WORKER. HE IS A COMPUTER SCIENCE ENGINEER.
+|
+Q: Gdzie pani mieszkała wcześniej?|Q: Where did you live before?
+A: Wcześniej mieszkałam w Indiach, w Bharthana.|A: Previously, I lived in India, in Bharthana.
+   Zanim przyjechałam do Polski, mieszkałam tylko w Indiach.|Before I came to Poland, I only lived in India.
+   Generalnie mieszkałam w Bharthana — to jest moje rodzinne miasto — ale potem pracowałam i mieszkałam w Delhi.|I basically lived in Bharthana - that's my hometown - but then I worked and lived in Delhi.
+   Po tym jak mój mąż dostał pracę w Polsce, przyjechałam do Polski, i od tego czasu mieszkam w Polsce.|After my husband got a job in Poland, I came to Poland, and I have been living in Poland since then.
+|
+Q: Jakie kwalifikacje posiada pani mąż?|Q: What qualifications does your husband have?
+A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.|A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.
+|
+Q: Ile lat ma pani córka?|Q: How old is your daughter?
+A: MOJA CÓRKA MA 10 LAT.|A: MY DAUGHTER IS 10 YEARS OLD.
+|
+Q: Czy pani dziecko chodzi do szkoły, przedszkola albo żłobka?|Q: Does your child go to school, kindergarten or nursery?
+A: TAK, MOJE DZIECKO CHODZI DO SZKOŁY.|A: YES, MY CHILD GOES TO SCHOOL.
+|
+Q: Kim jest pani mąż z wykształcenia?|Q: Who is your husband by profession?
+A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.|A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.
+|
+Q: Jak długo pani mieszka w Polsce?|Q: How long have you lived in Poland?
+A: MIESZKAM  W POLSCE 8 LAT.|A: I HAVE LIVED IN POLAND FOR 8 YEARS.
+|
+Q: Jak ma na imię pani mąż?|Q: What is your husband's name?
+A: MÓJ MĄŻ MA NA IMIĘ Rajesh.|A: MY HUSBAND'S NAME IS Rajesh.
+|
+Q: Czy pani mąż pracuje w firmie, czy ma własną działalność gospodarczą?|Q: Does your husband work in a company or does he run his own business?
+A: MÓJ MĄZ PRACUJE W FIRMIE Hitachi Energy. ON NIE MA WŁASNEJ FIRMY.|A: MY HUSBAND WORKS FOR Hitachi Energy. HE DOESN'T HAVE OWN BUSINESS.
+|
+Q: Z jakiego kraju pani pochodzi?|Q: What country are you from?
+A: POCHODZĘ Z INDII.|A: I AM FROM INDIA.
+|
+Q: Czy pani córka chodzi do szkoły publicznej czy prywatnej?|Q: Does your daughter go to public or private school?
+A: Moja córka chodzi do SZKOŁA PUBLICZNA.|A: My daughter goes to public school.
+|
+Q: Od kiedy jest pani w Polsce?|Q: How long have you been in Poland?
+A: JESTEM W POLSCE OD LISTOPADA 2018 ROKU.|A: I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.
+|
+Q: Czy pani dziecko uczęszcza do polskojęzycznej szkoły lub przedszkola?|Q: Does your child attend a Polish-speaking school or kindergarten?
+A: TAK, MOJE DZIECKO CHODZI DO POLSKOJĘZYCZNEJ SZKOŁY.|A: YES, MY CHILD GOES TO A POLISH-SPEAKING SCHOOL.
+|
+Q: Co robi pani mąż?|Q: What does your husband do?
+A: MÓJ MĄŻ ZAJMUJE SIĘ Hitachi Energy. |A: MY HUSBAND DEALS WITH Hitachi Energy.
+|
+Q: Ile lat pani mieszka w Polsce?|Q: How many years have you lived in Poland?
+A: MIESZKAM W POLSCE OSIEM LAT.|A: I HAVE LIVED IN POLAND EIGHT YEARS.
+|
+Q: Czy pani mąż pracuje?|Q: Does your husband work?
+A: TAK, MÓJ MĄŻ PRACUJE ZAWODOWO. |A: YES, MY HUSBAND WORKS PROFESSIONALLY.
+|
+Q: W jakim mieście pani mieszkała w Indiach?|Q: What city did you live in in India?
+A: Mieszkałam w Bharthana.|A: I lived in Bharthana.
+|
+Q: Czy pani dziecko ma polskich kolegów lub koleżanki?|Q: Does your child have Polish friends?
+A: TAK, MOJE DZIECKO MA KILKU POLSKICH KOLEGÓW/KILKA POLSKICH KOLEŻANEK.|A: YES, MY CHILD HAS SOME POLISH FRIENDS.
+|
+Q: Jak długo pani jest w Polsce?|Q: How long have you been in Poland?
+A: JESTEM W POLSCE 8 LAT.|A: I HAVE BEEN IN POLAND FOR 8 YEARS.
+|
+Q: Skąd pani jest?|Q: Where are you from?
+A: JESTEM Z INDII.|A: I AM FROM INDIA.
+|
+Q: Jak długo pani dziecko zostaje w przedszkolu/szkole/żłobku?|Q: How long does your child stay in kindergarten/school/nursery?
+A: MOJA CÓRKA JEST W SZKOLE OKOŁO 6 GODZIN.|A: MY DAUGHTER IS AT SCHOOL FOR ABOUT 6 HOURS.
+|
+Q: Jaka jest pani rodzina?|Q: What is your family like?
+A: MOJA RODZINA NIE JEST DUŻA TUTAJ W POLSCE. MOJA RODZINA TO JEST mój mąż, I MOJA CÓRKA.|A: MY FAMILY IS NOT BIG HERE IN POLAND. MY FAMILY IS MY HUSBAND AND MY DAUGHTER.
+|
+Q: Od ilu lat jest pani w Polsce?|Q: How many years have you been in Poland?
+A: JESTEM W POLSCE OD OSIEM LAT.|A: I HAVE BEEN IN POLAND FOR EIGHT YEARS.
+|
+Q: Do jakiej szkoły chodzi pani dziecko?|Q: What school does your child go to?
+A: MOJA CÓRKA chodzi DO SZKOŁY PUBLICZNEJ.|A: MY DAUGHTER goes to public school.
+|
+Q: Czy to jest szkoła publiczna czy prywatna?|Q: Is this a public or private school?
+A: TO JEST SZKOŁA PUBLICZNA.|A: THIS IS A PUBLIC SCHOOL.
+|
+Q: Czym się zajmuje pani mąż?|Q: What does your husband do?
+A: MÓJ MĄŻ ZAJMUJE SIĘ Hitachi Energy.|A: MY HUSBAND DEALS WITH Hitachi Energy.
+|
+Q: Gdzie pani mieszkała w Indiach?|Q: Where did you live in India?
+A: Mieszkałam w Bharthana. To moje rodzinne miasto.To wschodnia część Indii.|A: I lived in Bharthana. This is my hometown. It is the eastern part of India.
+|
+Q: Kiedy pani przyjechała do Polski?|Q: When did you come to Poland?
+A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.|A: I CAME TO POLAND 8 YEARS AGO.
+|
+Q: Czy ma pani rodzinę?|Q: Do you have a family?
+A: TAK, MAM RODZINĘ.|A: YES, I HAVE A FAMILY.
+|
+Q: Do jakiego przedszkola lub żłobka chodzi pani dziecko?|Q: What kindergarten or nursery does your child go to?
+A: MOJA CÓRKA CHODZI DO SZKOŁY.|A: MY DAUGHTER GOES TO SCHOOL.
+|
+Q: Kto jest w Pani rodzinie?|Q: Who is in your family?
+A: Moja rodzina w Polsce nie jest duża, moja rodzina to jest mój mąż i moja córka.|A: My family in Poland is not large, my family is my husband and my daughter.
+|
+Q: Czy pani partner pracuje?|Q: Does your partner work?
+A: MÓJ partner PRACUJE W FIRMIE Hitachi Energy.|A: MY partner WORKS FOR Hitachi Energy.
+|
+Q: Jakie są pani zainteresowania?|Q: What are your interests?
+A: Interesuję się sportem, kinem, muzyką i gotowaniem.|A: I am interested in sports, cinema, music and cooking.
+|
+Q: Kim pani jest?|Q: Who are you?
+A: Jestem HINDUSką.|A: I am HINDU.
+|
+Q: Co pani lubi robić w wolnym czasie?|Q: What do you like to do in your free time?
+A: W wolnym czasie lubię Gotować,Słuchać muzyki,Spacerować,Podróżować z rodziną,Bawić się z moją córką.|A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my daughter.
+|
+Q: W jakich językach pani mówi?|Q: What languages ​​do you speak?
+A: Mówię w hindi, angielsku i polsku.|A: I speak Hindi, English and Polish.
+|
+Q: Czym się pani interesuje?|Q: What are you interested in?
+A: Interesuję się sportem, kinem, muzyką i gotowaniem.|A: I am interested in sports, cinema, music and cooking.
+|
+Q: Jakie pani zna języki?|Q: What languages ​​do you know?
+A: Znam język hindi, angielski i polski.|A: I speak Hindi, English and Polish.
+|
+Q: Czy pani ma jakieś hobby?|Q: Do you have any hobbies?
+A: Tak. Moje hobby to sport, kino, muzyka, zajmuję się ogrodem, gotowanie.|A: Yes. My hobbies are sports, cinema, music, gardening and cooking.
+|
+Q: Jaka jest pani narodowość?|Q: What is your nationality?
+A: Jestem HINDUSką.|A: I am HINDU.
+|
+Q: Co pani lubi robić? |Q: What do you like to do?
+A: W wolnym czasie lubię Gotować,Słuchać muzyki,Spacerować,Podróżować z rodziną,Bawić się z moją córką.|A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my daughter.
+|
+Q: Jakie pani ma obowiązki na swoim stanowisku?|Q: What are your responsibilities in your position?
+A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotkam się z klientami w sprawie dokumentacji technicznej.|A: At work I write computer programs, test applications and write technical documents. I will also meet with clients regarding technical documentation.
+|
+Q: W jakich językach pani porozumiewa się w pracy?|Q: What languages ​​do you speak at work?
+A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.|A: Generally, I speak English at work because it is an international company. But I speak Polish with Polish colleagues and clients.
+|
+Q: Kim pani jest z pochodzenia?|Q: Who are you from?
+A: Jestem HINDUSką.|A: I am HINDU.
+|
+Q: Jak często pani jeździ do siedziby firmy?|Q: How often do you go to the company's headquarters?
+A: W biurze w firmie pracuję raz w tygodniu,w poniedziałki. |A: I work in the company office once a week, on Mondays.
+|
+Q: Ile lat pracuje pani w obecnej firmie?|Q: How many years have you been working at your current company?
+A: W obecnej firmie pracuje 7 lat.|A: He has been working in the current company for 7 years.
+|
+Q: Czy pracuje pani online w domu czy w siedzibie firmy?|Q: Do you work online from home or at your company's headquarters?
+A: Pracuję online w domu. W biurze w firmie pracuję raz w tygodniu, w poniedziałki.|A: I work online from home. I work in the company office once a week, on Mondays.
+|
+Q: Jak często pani jeździ do siedziby firmy?|Q: How often do you go to the company's headquarters?
+A: Jeździ do siedziby firmy raz w tygodniu,w poniedziałki.|A: He goes to the company's headquarters once a week, on Mondays.
+|
+Q: Co lubisz robić?|Q: What do you like to do?
+A: W wolnym czasie lubię Gotować,Słuchać muzyki,Spacerować,Podróżować z rodziną,Bawić się z moją córką.|A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my daughter.
+|
+|
+|
+Q: Jak pani ocenia swój poziom języka polskiego?|Q: How do you rate your level of Polish?
+A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.|A: My Polish is communicative, I understand a lot. I think it is level A2.
+|
+Q: Czy ogląda pani polską telewizję?|Q: Do you watch Polish TV?
+A: Tak, czasami oglądam polską telewizję dla Wiadomości i Bajki dla dzieci.|A: Yes, sometimes I watch Polish TV for News and Children's Fairy Tales.
+|
+Q: W jaki sposób ćwiczy pani język polski?|Q: How do you practice Polish?
+A: Staram się ćwiczyć po polsku z moja córka, ponieważ ona mówi po polsku bardzo dobrze i też oglądam bajki z moja córka.|A: I try to practice in Polish with my daughter, because she speaks Polish very well, and I also watch cartoons with my daughter.
+   Staram się mówić po polsku w aptece, w sklepu w szkole mojej córki i mam też prywatne lekcje dwa raz w tygodniu z nauczycielka.|I try to speak Polish at the pharmacy, in the shop at my daughter's school and I also have private lessons twice a week with a teacher.
+   Codziennie słucham wiadomości w radiu.|I listen to the news on the radio every day.
+|
+Q: Czy będzie pani odpowiadać po polsku?|Q: Will you answer in Polish?
+A: TAK, BĘDĘ ODPOWIADAC PO POLSKU.|A: YES, I WILL ANSWER IN POLISH.
+|
+Q: Gdzie na co dzień pani mówi po polsku?|Q: Where do you speak Polish on a daily basis?
+A: Na co dzień mówię po polsku w domu z moją córką. Mówię po polsku w szkole mojej córki. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.|A: I speak Polish every day at home with my daughter. I speak Polish at my daughter's school. I speak Polish in the pharmacy, in the store, at the market, at the post office and in the office.
+|
+Q: Czy pani rozumie język polski?|Q: Do you understand Polish?
+A: OCZYWIŚCIE, ROZUMIEM.|A: OF COURSE, I UNDERSTAND.
+|
+Q: Czy mówisz po polsku, żeby komunikować się z miejscowymi mieszkańcami?|Q: Do you speak Polish to communicate with local people?
+A: Tak mówię po polsku w różnych miejscach w krakowie, na przykład w szkole mojej córki, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie, w taksówce.|A: This is how I speak Polish in various places in Krakow, for example at my daughter's school, in a shop, at the market, at the station, at the post office, in the office, on the bus, in a taxi.
+|
+Q: Jak pani ocenia swoje umiejętności z języka polskiego?|Q: How do you rate your Polish language skills?
+A: DOBRZE OCENIAM SWOJE UMIEJĘTNOŚCI. DUŻO ROZUMIEM, ROBIĘ JESZCZE DUŻO BŁĘDÓW ALE STARAM SIĘ MÓWIĆ PO POLSKU.|A: I ASSESS WELL OF MY SKILLS. I UNDERSTAND A LOT, I STILL MAKE A LOT OF ERRORS, BUT I TRY TO SPEAK POLISH.
+|
+Q: Czy ma pani problem z codzienną komunikacją w języku polskim? Na przykład w aptece albo w sklepie?|Q: Do you have problems with everyday communication in Polish? For example, in a pharmacy or in a store?
+A: Nie, generalnie nie mam problemów z codzienną komunikacją po polsku. |A: No, generally I have no problems with everyday communication in Polish.
+   Czasami nie rozumiem wszystkiego, gdy jest za szybko.|Sometimes I don't understand everything when it's too fast.
+|
+Q: Czy śledzi pani jakiś polski kanał informacyjny?|Q: Do you follow any Polish news channel?
+A: Tak, czasami oglądam TVN24 i CANAL+. Czasami słucham radia.|A: Yes, I sometimes watch TVN24 and CANAL+. Sometimes I listen to the radio.
+|
+Q: Czy pani rozmawia po polsku w pracy?|Q: Do you speak Polish at work?
+A: Tak rozmawiam po polsku w pracy z polskimi kolegami i klientami.|A: This is how I speak Polish at work with Polish colleagues and clients.
+|
+Q: W jaki sposób uczy się pani języka polskiego?|Q: How do you learn Polish?
+A: Staram się ćwiczyć po polsku z moja córka, ponieważ ona mówi po polsku bardzo dobrze i też oglądam bajki z moja córka.|A: I try to practice in Polish with my daughter, because she speaks Polish very well, and I also watch cartoons with my daughter.
+   Staram się mówić po polsku w aptece, w sklepu w szkole mojej córki i mam też prywatne lekcje dwa raz w tygodniu z nauczycielka.|I try to speak Polish at the pharmacy, in the shop at my daughter's school and I also have private lessons twice a week with a teacher.
+   Codziennie słucham wiadomości w radiu.|I listen to the news on the radio every day.
+|
+Q: Jak ocenia Pani swój poziom znajomości języka polskiego?|Q: How do you rate your level of knowledge of the Polish language?
+A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.|A: My Polish is communicative, I understand a lot. I think it is level A2.
+|
+Q: Czy posiada pani jakiś certyfikat potwierdzający swoją znajomość języka polskiego?|Q: Do you have any certificate confirming your knowledge of the Polish language?
+A: Nie, nie mam certyfikatu z języka polskiego.|A: No, I do not have a Polish language certificate.
+|
+Q: Gdzie na co dzień pani używa języka polskiego?|Q: Where do you use Polish on a daily basis?
+A: Na co dzień mówię po polsku w domu z moją córką. Mówię po polsku w szkole mojej córki. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.|A: I speak Polish every day at home with my daughter. I speak Polish at my daughter's school. I speak Polish in the pharmacy, in the store, at the market, at the post office and in the office.
+|
+Q: Czy mówi pani po polsku, żeby komunikować się z Polakami?|Q: Do you speak Polish to communicate with Poles?
+A: Tak mówię po polsku w różnych miejscach w krakowie, na przykład w szkole mojej córki, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie, w taksówce.|A: This is how I speak Polish in various places in Krakow, for example at my daughter's school, in a shop, at the market, at the station, at the post office, in the office, on the bus, in a taxi.
+|
+Q: Jak pani ocenia swój język polski?|Q: How do you rate your Polish language?
+A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.|A: My Polish is communicative, I understand a lot. I think it is level A2.
+|
+|
+|
+Q: Czy ma pani jakiś znajomych?|Q: Do you have any friends?
+A: TAK, MAM KILKU ZNAJOMYCH.|A: YES, I HAVE SOME FRIENDS.
+|
+Q: Gdzie pani chodzi na zakupy?|Q: Where do you go shopping?
+A: Chodzić na zakupy w centrum SERENADA, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.|A: Go shopping in the SERENADA center because it is close to my apartment. Sometimes I do grocery shopping at Auchan, Biedronka and Lidl.
+|
+Q: Proszę, opowiedzieć coś o swoich sąsiadach?|Q: Please tell us something about your neighbors?
+A: Moi sąsiedzi mieszkają w tym samym bloku co ja.|A: My neighbors live in the same building as me.
+   Mój sąsiad Bartek mieszka w mieszkaniu naprzeciwko mnie.|My neighbor Bartek lives in the apartment opposite me.
+   Często rozmawiamy. On ma 40 lat i jest nauczycielem historii.|We talk often. He is 40 years old and a history teacher.
+   On jest bardzo sympatyczny. Ma piękną żonę i córkę.|He is very nice. He has a beautiful wife and daughter.
+   Lubią indyjskie jedzenie. Czasami jemy razem kolację i oglądamy filmy a nasze dzieci bawią się razem.|They like Indian food. Sometimes we eat dinner together and watch movies and our children play together.
+|
+Q: Jacy są pani sąsiedzi?|Q: Who are your neighbors like?
+A: Moi sasiedzi sa bardzo sympatyczni,mili i pomocni.|A: My neighbors are very nice, nice and helpful.
+|
+Q: Gdzie pani kupuje artykuły spożywcze?|Q: Where do you buy your groceries?
+A: Artykuły spożywcze kupuję w Auchan, Biedronce i Lidlu.|A: I buy groceries at Auchan, Biedronka and Lidl.
+|
+Q: Ilu ma pani polskich przyjaciół?|Q: How many Polish friends do you have?
+A: MAM KILKU POLSKICH PRZYJACIÓŁ. TO SĄ GŁÓWNIE KOLEDZY Z PRACY.|A: I HAVE SOME POLISH FRIENDS. THEY ARE MAINLY WORK COLLEAGUES.
+|
+Q: Kto zawozi pani córkę do szkoły?|Q: Who takes your daughter to school?
+A: Moja córka chodzi do szkoły sama.|A: My daughter goes to school alone.
+|
+Q: Proszę, opowiedzieć coś o swoich znajomych?|Q: Please tell me something about your friends?
+A: Moi znajomi mieszkają w tym samym bloku co ja.|A: My friends live in the same building as me.
+   Mój znajomy bartek mieszka w mieszkaniu naprzeciwko mnie.|My friend Bartek lives in the apartment opposite me.
+   Często rozmawiamy. On ma 40 lat i jest nauczycielem historii.|We talk often. He is 40 years old and a history teacher.
+   On jest bardzo sympatyczny. Ma piękną żonę i córkę.|He is very nice. He has a beautiful wife and daughter.
+   Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.|They like Indian food. Sometimes we eat dinner together, watch movies, and our children play together.
+|
+Q: Czy ma pani jakiś przyjaciół?|Q: Do you have any friends?
+A: TAK, MAM KILKU PRZYJACIÓŁ.|A: YES, I HAVE SOME FRIENDS.
+|
+Q: Jak dużo masz polskich przyjaciół?|Q: How many Polish friends do you have?
+A: MAM KILKU POLSKICH PRZYJACIÓŁ. TO SĄ GŁÓWNIE KOLEDZY Z PRACY.|A: I HAVE SOME POLISH FRIENDS. THEY ARE MAINLY WORK COLLEAGUES.
+|
+Q: Jaka jest pani relacja z sąsiadami?|Q: What is your relationship with your neighbors?
+A: Mam bardzo dobre relacje z sąsiadami.|A: I have very good relations with my neighbors.
+   Nigdy nie miałam konfliktu z sąsiadami.|I have never had a conflict with my neighbors.
+   Są mili i pomocni. Nasze dzieci bawią się razem.|They are nice and helpful. Our children play together.
+|
+Q: Czy ma pani jakiś sąsiadów?|Q: Do you have any neighbors?
+A: TAK, MAM KILKU SĄSIADÓW.|A: YES, I HAVE SOME NEIGHBORS.
+|
+Q: Proszę, opowiedzieć coś o swoich przyjaciołach?|Q: Please tell me something about your friends?
+A: Moi przyjaciele mieszkają w tym samym bloku co ja.|A: My friends live in the same building as me.
+   Mój przyjaciel bartek mieszka w mieszkaniu naprzeciwko mnie.|My friend Bartek lives in the apartment opposite me.
+   Często rozmawiamy. On ma 40 lat i jest nauczycielem historii.|We talk often. He is 40 years old and a history teacher.
+   On jest bardzo sympatyczny. Ma piękną żonę i córkę.|He is very nice. He has a beautiful wife and daughter.
+   Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.|They like Indian food. Sometimes we eat dinner together, watch movies, and our children play together.
+|
+Q: Gdzie pani robi zakupy w Krakowie?|Q: Where do you shop in Krakow?
+A: Generalnie robię zakupy w centrum SERENADA, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.|A: I generally shop at SERENADA mall because it's close to my apartment. Sometimes I do grocery shopping at Auchan, Biedronka and Lidl.
+|
+|
+|
+|
+Q: Jak się komunikujesz w szpitalu albo w innej placówce medycznej?|Q: How do you communicate in a hospital or other medical facility?
+A: Zwykle mówię po angielsku, ponieważ żeby wszystko dobrze zrozumieć. Czasami mówię po polsku.|A: I usually speak English because I want to understand everything well. Sometimes I speak Polish.
+|
+Q: Czy posiadasz ubezpieczenie zdrowotne? Jakie?|Q: Do you have health insurance? What?
+A: Tak, mam ubezpieczenie zdrowotne w Luxmed przez moją pracę w Narodowym Funduszu Zdrowia.|A: Yes, I have health insurance with Luxmed through my work at the National Health Fund.
+|
+Q: Czy płacisz podatki w swoim rodzinnym kraju?|Q: Do you pay taxes in your home country?
+A: Nie, Płacę podatki tylko w polsce.|A: No, I pay taxes only in Poland.
+|
+Q: Gdzie pani idzie, kiedy ktoś z pani rodziny jest chory?|Q: Where do you go when someone in your family is sick?
+A: Kiedy jesteśmy chorzy, idziemy do lekarza rodzinnego i on decyduje, co powinnam zrobić dalej.|A: When we are sick, we go to the family doctor and he decides what I should do next.
+|
+Q: Jakie podatki płacisz w Polsce?|Q: What taxes do you pay in Poland?
+A: Mam własne mieszkanie, płacę podatek od nieruchomości. |A: I have my own apartment, I pay real estate tax.
+   Pracuje w Polsce i płacę podatek Dochodowy PIT. |I work in Poland and pay Income Tax (PIT).
+   Raz w roku składam deklarację PIT.|I submit a PIT declaration once a year.
+|
+Q: Do której placówki medycznej wolisz chodzić?|Q: Which medical facility do you prefer to go to?
+A: To zależy. Kiedy jesteśmy chorzy, idziemy do lekarza rodzinnego i on decyduje, co powinnam zrobić dalej.|A: It depends. When we are sick, we go to the family doctor and he decides what I should do next.
+|
+Q: Czy płacisz podatki w Polsce I w Indiach?|Q: Do you pay taxes in Poland and India?
+A: Płacę podatki tylko w polsce.|A: I pay taxes only in Poland.
+|
+Q: Czy byłeś kiedyś w więzieniu?|Q: Have you ever been to prison?
+A: Nie, nigdy nie byłam w więzieniu.|A: No, I have never been to prison.
+|
+Q: Jak płacisz podatki w Polsce? |Q: How do you pay taxes in Poland?
+A: Mam własne mieszkanie, płacę podatek od nieruchomości. |A: I have my own apartment, I pay real estate tax.
+   Pracuje w Polsce i płacę podatek Dochodowy PIT. |I work in Poland and pay Income Tax (PIT).
+   Raz w roku składam deklarację PIT.|I submit a PIT declaration once a year.
+|
+Q: Czy kiedykolwiek byłaś w więzieniu?|Q: Have you ever been to prison?
+A: Nie, nigdy nie byłam w więzieniu.|A: No, I have never been to prison.
+|
+Q: Gdzie kupujesz lekarstwa? |Q: Where do you buy your medicines?
+A: Lekarstwa kupuję w aptece.|A: I buy medicines at the pharmacy.
+|
+Q: W jaki sposób płacisz podatki w Polsce?|Q: How do you pay taxes in Poland?
+A: Mam własne mieszkanie, płacę podatek od nieruchomości. |A: I have my own apartment, I pay real estate tax.
+   Pracuje w Polsce i płacę podatek Dochodowy PIT. |I work in Poland and pay Income Tax (PIT).
+   Raz w roku składam deklarację PIT.|I submit a PIT declaration once a year.
+|
+Q: Czy był Pani kiedyś skazany?|Q: Have you ever been convicted?
+A: Nie, nigdy nie byłam skazana.|A: No, I have never been convicted.
+|
+Q: Czy płacisz podatki w Polsce?|Q: Do you pay taxes in Poland?
+A: Płacę podatki tylko w polsce.|A: I pay taxes only in Poland.
+|
+Q: Czy był Pani kiedyś w więzieniu?|Q: Have you ever been to prison?
+A: Nie, nigdy nie byłam w więzieniu.|A: No, I have never been to prison.
+|
+Q: Czy byłaś kiedyś skazana?|Q: Have you ever been convicted?
+A: Nie, nigdy nie byłam skazana.|A: No, I have never been convicted.
+|
+Q: Czy kiedykolwiek trafiłaś do więzienia?|Q: Have you ever been sent to prison?
+A: Nie, nigdy nie trafiłam do więzienia.|A: No, I never went to prison.
+|
+Q: Czy miałaś jakieś problemy prawne w Polsce?|Q: Have you had any legal problems in Poland?
+A: Nie, nigdy nie miałam problemów prawnych w Polsce, w ani Indii.|A: No, I have never had legal problems in Poland, or India.
+|
+Q: Czy zostałaś kiedyś skazana?|Q: Have you ever been convicted?
+A: Nie, nigdy nie zostałam skazana.|A: No, I have never been convicted.
+|
+Q: Czy kiedykolwiek zostałaś skazany?|Q: Have you ever been convicted?
+A: Nie, nigdy nie zostałam skazana.|A: No, I have never been convicted.
+|
+Q: Czy Pani Studiowałaś w Polsce?|Q: Did you study in Poland?
+A: Nie, nie studiowałam na uniwersytecie w Polsce. Ale uczęszczałam na kurs florystki do szkoła Policealna Żak.|A: No, I did not study at a university in Poland. But I attended a floristry course at the Żak Police School.
+|
+Q: Czy Pani uczęszczała do jakiejś szkoły w polsce?|Q: Did you attend any school in Poland?
+A: Tak,uczęszczałam na kurs florystki do szkoła Policealna Żak.|A: Yes, I attended a floristry course at the Żak Secondary School.
+|
+Q: Czy Pani uczyłaś się tam języka polskiego? na jakim poziomie?|Q: Did you learn Polish there? at what level?
+A: Nie, nie uczyłam się języka polskiego w szkole Żak. Ale wszystkie lekcje były po polsku.|A: No, I did not learn Polish at the Żak school. But all lessons were in Polish.
+|
+Q: Dlaczego wybrałaś kierunek florystyka w policealnej szkole żak? Z jakiego powodu zaczęła pani naukę w szkole policealnej?|Q: Why did you choose floristry at a post-secondary school? Why did you start studying at post-secondary school?
+A: Myślę, że jest kilka powodów:|A: I think there are several reasons:
+|
+   po pierwsze, moja rodzina i ja lubimy kwiaty, więc na tym kursie uczyłam się robić piękne bukiety.Też, moja hobby. W marcu zrobiłam bukiet na urodziny męża. Był bardzo szczęśliwy.|first of all, my family and I like flowers, so in this course I learned how to make beautiful bouquets. Also, my hobby. In March, I made a bouquet for my husband's birthday. He was very happy.
+   po drugie, zapisałam się na ten kurs, żeby ćwiczyć i mówić po polsku, ponieważ nauczyciel mówił tylko po polsku na zajęciach.|secondly, I signed up for this course to practice and speak Polish, because the teacher only spoke Polish during classes.
+   po trzecie, dowiedziałam się, że ten certyfikat może pomóc w uzyskaniu karty pobytu długoterminowego, więc złożyłam dokumenty.|thirdly, I found out that this certificate could help me obtain a long-term residence card, so I submitted the documents.
+|
+Q: Jakie były lekcje?|Q: What were the lessons like?
+A: Zajęcia były bardzo interesujące. |A: The classes were very interesting.
+   Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. |We learned theory and practiced a lot.
+   Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną.|During practical classes, we had to make flower arrangements, i.e. bouquets, where we acquired comprehensive floristic knowledge.
+   Zajęcia były tylko po polsku.|The classes were only in Polish.
+|
+Q: Czy pani płaciła za szkołę?|Q: Did you pay for school?
+A: Nie, nie płaciłam za szkołę. kurs był bezpłatny.|A: No, I didn't pay for school. the course was free.
+|
+Q: Czy pani chodziła do jakiejś szkoły w polsce?|Q: Did you go to any school in Poland?
+A: Tak,chodziłam na kurs florystki do szkoła Policealna Żak.|A: Yes, I took a floristry course at the Żak Secondary School.
+|
+Q: Z jakiego powodu zaczęła pani naukę w szkole policealnej?|Q: Why did you start studying at post-secondary school?
+A: Myślę, że jest kilka powodów:|A: I think there are several reasons:
+|
+   po pierwsze, moja rodzina i ja lubimy kwiaty, więc na tym kursie uczyłam się robić piękne bukiety.Też, moja hobby. W marcu zrobiłam bukiet na urodziny męża. Był bardzo szczęśliwy.|first of all, my family and I like flowers, so in this course I learned how to make beautiful bouquets. Also, my hobby. In March, I made a bouquet for my husband's birthday. He was very happy.
+   po drugie, zapisałam się na ten kurs, żeby ćwiczyć i mówić po polsku, ponieważ nauczyciel mówił tylko po polsku na zajęciach.|secondly, I signed up for this course to practice and speak Polish, because the teacher only spoke Polish during classes.
+   po trzecie, dowiedziałam się, że ten certyfikat może pomóc w uzyskaniu karty pobytu długoterminowego, więc złożyłam dokumenty.|thirdly, I found out that this certificate could help me obtain a long-term residence card, so I submitted the documents.
+|
+Q: Czy pani płaciła za egzamin?|Q: Did you pay for the exam?
+A: Nie, nie płaciłam za egzamin. Egzaminy był bezpłatny.|A: No, I didn't pay for the exam. The exams were free.
+|
+Q: Jak wyglądały zajęcia? |Q: What were the classes like?
+A: Zajęcia były bardzo interesujące. |A: The classes were very interesting.
+   Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. |We learned theory and practiced a lot.
+   Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną.|During practical classes, we had to make flower arrangements, i.e. bouquets, where we acquired comprehensive floristic knowledge.
+   Zajęcia były tylko po polsku.|The classes were only in Polish.
+|
+Q: W jakim języku były prowadzone zajęcia?|Q: What language were the classes conducted in?
+A: Zajęcia były prowadzone tylko po polsku.|A: The classes were conducted only in Polish.
+|
+Q: Jakiej narodowości były inne osoby uczestniczące w kursie?|Q: What nationality were the other people on the course?
+A: Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.|A: There were people on the course from: Iran, Iraq, Ukraine, India, Spain and Turkey.
+|
+Q: Czy nauczyciel prowadził zajęcia po polsku?|Q: Did the teacher conduct classes in Polish?
+Á: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.|Á: Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.
+|
+Q: W jakie dni odbywały się zajęcia?|Q: On what days were classes held?
+A: Zajęcia tylko w weekendy, w sobotę i niedzielę, co drugi weekend.|A: Classes only on weekends, Saturday and Sunday, every other weekend.
+|
+Q: Ile godzin dziennie było zajęć?|Q: How many hours a day were there classes?
+A: Zajęcia osiem godzin dziennie.|A: Classes eight hours a day.
+|
+Q: Czy nauczyciel podczas lekcji zawsze mówił po polsku?|Q: Did the teacher always speak Polish during lessons?
+A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.|A: Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.
+|
+Q: Ile było osób w grupie?|Q: How many people were in the group?
+A: Oficjalnie w mojej grupie było sto dwadzieścia osób, ale tylko od dwudziestu do trzydziestu osób chodziło na zajęcia.|A: Officially, there were one hundred and twenty people in my group, but only twenty to thirty people attended classes.
+|
+Q: Ilu z nich mówiło po polsku?|Q: How many of them spoke Polish?
+A: Każdy mówił po polsku.|A: Everyone spoke Polish.
+|
+Q: Na jakie okazje robiła pani bukiety?|Q: What occasions did you make bouquets for?
+A: Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).|A: I made bouquets for birthdays, weddings, and funerals (funeral bouquets).
+|
+Q: Ile osób z grupy dostało dyplom?|Q: How many people in the group received a diploma?
+A: Nie wiem dokładnie, ale myślę, że każdy, kto chodził na zajęcia i zdał egzaminy semestralne, dostał dyplom.|A: I don't know exactly, but I think everyone who took classes and passed the semester exams got a diploma.
+|
+Q: Ile osób w grupie było zaawansowanych w języku polskim?|Q: How many people in the group were advanced in Polish?
+A: Każdy mówił po polsku. Na kursie było około siedemdziesiąt procent polaków i trzydzieści procent obcokrajowców.|A: Everyone spoke Polish. The course was attended by approximately seventy percent Poles and thirty percent foreigners.
+|
+Q: Jak były prowadzone zajecia?|Q: How were the classes conducted?
+A: Zajęcia były bardzo interesujące. |A: The classes were very interesting.
+   Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. |We learned theory and practiced a lot.
+   Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną.|During practical classes, we had to make flower arrangements, i.e. bouquets, where we acquired comprehensive floristic knowledge.
+   Zajęcia były tylko po polsku.|The classes were only in Polish.
+|
+Q: W jakich godzinach odbywały się zajęcia? |Q: What times did the classes take place?
+A: Zajęcia odbywały się przez osiem godzin.|A: The classes lasted eight hours.
+|
+Q: W jakie dni i godziny odbywały się zajęcia? |Q: On what days and times did the classes take place?
+A: Zajęcia odbywały się tylko w weekendy, w soboty i niedziele, co drugi weekend, przez 8 godzin.  |A: Classes were held only on weekends, on Saturdays and Sundays, every other weekend, for 8 hours.
+|
+Q: Jak się nazywała szkoła?|Q: What was the name of the school?
+A: Szkoła nazywała się Policealna Żak.|A: The school was called Policealna Żak.
+|
+Q: Jakiej narodowości były osoby na kursie?|Q: What nationality were the people on the course?
+A: Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.|A: There were people on the course from: Iran, Iraq, Ukraine, India, Spain and Turkey.
+|
+Q: Jakie bukiety pani robiła na kursie?|Q: What kind of bouquets did you make during the course?
+A: Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).|A: I made bouquets for birthdays, weddings, and funerals (funeral bouquets).
+|
+Q: Czy używała pani internetu na zajęciach z florystyki? |Q: Did you use the Internet during your floristry classes?
+A: Tak, używałam internetu do kilku słów.|A: Yes, I used the Internet for a few words.
+|
+Q: Jak długo trwał kurs? |Q: How long was the course?
+A: Kurs trwał jeden rok, dwa semestry.|A: The course lasted one year, two semesters.
+|
+|
+|
+Q: Jakie pani miała Przedmioty?  |Q: What items did you have?
+A: Miałam takie przedmioty jak:|A: I had items such as:
+     1.	język angielski |1. English language
+     2.	podstawy florystyki |2. basics of floristry
+     3.	kulturowe podstawy florystyki |3. cultural foundations of floristry
+     4.	wykonywanie kompozycji ślubnych |4. making wedding compositions
+     5.	wykonywanie kompozycji funeralnych |5. making funeral compositions
+     6.	Materiałoznawstwo nierośliny  |6. Non-plant materials science
+     7. Materiałoznawstwo rośliny|7. Plant materials science
+|
+Q: Czego się pani nauczyła na przedmiocie Kulturowe podstawy florystyki? |Q: What did you learn from the Cultural Foundations of Floristry course?
+A: Na tym przedmiocie uczyłam się historii i symboliki roślin w Polsce.|A: In this subject I learned the history and symbolism of plants in Poland.
+|
+Q: Czego się pani nauczyła na przedmiocie podstawy florystyki / kompozycje florystyczne? |Q: What did you learn in the basics of floristry / floristic compositions?
+A: Na tym przedmiocie uczyłam się teorii kolorów, proporcji, stylów.|A: In this subject I learned the theory of colors, proportions and styles.
+|
+Q: Czego się pani nauczyła na przedmiocie PROJEKTOWANIE I SPRZEDAŻ USŁUG FLORYSTYCZNYCH? |Q: What did you learn about DESIGNING AND SELLING FLORISTIC SERVICES?
+A: Na tym przedmiocie uczyłam się marketingu i obsługi klienta.|A: I learned marketing and customer service in this subject.
+|
+Q: Czego się pani nauczyła na przedmiocie ŚRODKI WYRAZU TWÓRCZEGO? |Q: What did you learn in the subject MEANS OF CREATIVE EXPRESSION?
+A: Na tym przedmiocie uczyłam się reguł kompozycji kolorów oraz robienia dekoracji florystycznych.|A: In this subject I learned the rules of color composition and making floral decorations.
+|
+Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE DEKORACJI WNĘTRZ I ARANŻACJI Obsadzanych?  |Q: What did you learn about INTERIOR DECORATION AND STAFF ARRANGEMENTS?
+A: Na tym przedmiocie uczyłam się dekorować wnętrza i komponować rośliny.|A: In this subject I learned how to decorate interiors and arrange plants.
+|
+Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI FUNERALNYCH? |Q: What did you learn in the course MAKING FUNERAL COMPOSITIONS?
+A: Na tym przedmiocie uczyłam się robić kompozycje pogrzebowe na przykład wieńce i bukiety kondolencyjne.|A: In this subject I learned how to make funeral compositions, for example wreaths and condolence bouquets.
+|
+Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI ŚLUBNYCH? |Q: What did you learn in MAKING WEDDING COMPOSITIONS?
+A: Na tym przedmiocie uczyłam się robić kompozycji ślubnych, dekoracji kościoła, lokalu i samochodu.|A: In this subject I learned how to make wedding compositions, church, premises and car decorations.
+|
+Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI OKOLICZNOŚCIOWYCH ? |Q: What did you learn in the course: MAKING OCCASIONAL COMPOSITIONS?
+A: Na tym przedmiocie uczyłam się  robić kompozycje kwiatowe na różne okazje na przykład urodziny, święta.|A: In this subject I learned how to make flower arrangements for various occasions, such as birthdays and holidays.
+|
+Q: Czego się pani nauczyła na przedmiocie JĘZYK ANGIELSKI? |Q: What did you learn in ENGLISH?
+A: Na tym przedmiocie uczyłam się profesjonalnego słownictwa florystycznego.|A: In this subject I learned professional floristic vocabulary.
+|
+Q: Czego się pani nauczyła na przedmiocie Materiałoznawstwo Nieroślinny?  |Q: What did you learn in the Non-Plant Materials Science course?
+A: Na tym przedmiocie uczyłam się różnych narzędzi florystycznych, takich jak nożyczki florystyczne, Folia florystyczna, Sekator, drut, taśma i Klej na gorąco.|A: In this subject, I learned various floristic tools, such as floral scissors, floral foil, secateurs, wire, tape and hot glue.
+|
+Q: Czego się pani nauczyła na przedmiocie Materiałoznawstwo roślinny?|Q: What did you learn in Plant Materials Science?
+A: Na tym prezdmiocie uczyłam się o roślinach i jak o nie dbać.|A: In this course I learned about plants and how to care for them.
+|
+Q: Czego się pani nauczyła na przedmiocie Praktyka zawodowa? |Q: What did you learn in the Professional Practice course?
+A: Na tym prezdmiocie uczyłam się robić bukiety, kompozycje kwiatowe i obsługiwać klientów.|A: In this course, I learned how to make bouquets, flower arrangements and serve customers.
+|
+Q: Z KTÓREGO PRZEDMIOTU BYŁY EGZAMINY?|Q: WHICH SUBJECT WERE THE EXAMS IN?
+A: Egzaminy były ze wszystkich przedmiotów. |A: There were exams in all subjects.
+   Były egzaminy teoretyczne i praktyczne. |There were theoretical and practical exams.
+   Egzamin teoretyczny to był test a na egzaminie praktycznym robiłam bukiety na różne okazje. |The theoretical exam was a test and during the practical exam I made bouquets for various occasions.
+|
+Q: PROSZĘ POWIEDZIEĆ KIEDY I DO CZEGO UŻYWA SIĘ TYCH NARZĘDZI?|Q: PLEASE TELL WHEN AND WHAT ARE THESE TOOLS USED FOR?
+A: Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi|A: Floral scissors - used for cutting flowers and branches
+   Sekator - używa się do cięcia grubych gałęzi|Pruning shears - used to cut thick branches
+   Klej na gorąco - używa się do POŁACZENIA elementów|Hot glue - used to JOIN elements
+   Taśma – używa się do POŁACZENIA elementów.|Tape – used to CONNECT elements.
+   Folia florystyczna - używa się do pakowania bukietów |Floral foil - used for packing bouquets
+   Drut - używa się do mocowania kwiatów i dekoracji.|Wire - used to attach flowers and decorations.
+   Wstążki - używa się do dekoracji |Ribbons - used for decoration
+   Gąbka florystyczna używa się do kompozycji kwiatowych.|Floral sponge is used for flower arrangements.
+|
+|
+Q: JAK PANI PRACOWAŁA W KLASIE? TO BYŁA PRACA INDYWIDUALNA CZY W GRUPIE? |Q: HOW DID YOU WORK IN THE CLASS? WAS IT INDIVIDUAL OR GROUP WORK?
+A: To zależy. Czasami pracowałam indywidualnie, a czasami w grupie robiłam bukiety.|A: It depends. Sometimes I worked individually, and sometimes I made bouquets in a group.
+|
+Q: CZY UCZNIOWIE PODCZAS LEKCJI UŻYWALI TŁUMACZA NA PRZYKŁAD GOOGLE TRANSLATE?. CZY PANI UŻYWAŁA ?|Q: DURING THE LESSON, DID THE STUDENTS USE A TRANSLATOR LIKE GOOGLE TRANSLATE? HAVE YOU USED IT?
+A: Tak, czasami używałam internetu do tłumaczenia kilku słów.|A: Yes, sometimes I used the Internet to translate a few words.
+   Czasami prosiłam nauczyciela albo koleżanki, żeby powtórzyli, albo używałam tłumacza, na przykład Google Translate.|Sometimes I asked the teacher or classmates to repeat it, or I used a translator, such as Google Translate.
+|
+Q: JAKIE DOKUMENTY PANI POTRZEBOWAŁA ŻEBY ZAPISAĆ SIĘ DO SZKOŁY?|Q: WHAT DOCUMENTS DID YOU NEED TO REGISTER TO SCHOOL?
+A: Potrzebowałam certyfikat z uniwersytetu w Indiach i Paszport. |A: I needed a certificate from a university in India and a passport.
+|
+Q: JAK WYGLĄDAŁ PROCES REKRUTACJI I W JAKIM JĘZYKU BYŁ PROWADZONY?|Q: WHAT WAS THE RECRUITMENT PROCESS LOOK LIKE AND IN WHAT LANGUAGE WAS IT CONDUCTED?
+A: Najpierw aplikowałam online i zrobiłam formularz na kurs, |A: First, I applied online and created a form for the course,
+   potem zapisałam się w biurze szkoły i potrzebowałam certyfikat z uniwersytetu w Indiach i paszport. |then I signed up at the school office and needed a certificate from a university in India and a passport.
+   Rekrutacja była po polsku. Formularz online był po polsku i sekretarka w szkole mówiła też po polsku.|Recruitment was in Polish. The online form was in Polish and the school secretary also spoke Polish.
+|
+Q: JAK WYGLĄDAŁ EGZAMINY? W JAKIM JĘZYKU BYŁ PROWADZONY?|Q: WHAT WAS THE EXAM LIKE? WHAT LANGUAGE WAS IT CONDUCTED IN?
+A: Egzaminy były teoretyczne i praktyczne. Były po polsku. |A: The exams were theoretical and practical. They were in Polish.
+|
+Q: PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA W FIRMIE IT, TO DLACZEGO ZROBIŁA PANI KURS FLORYSTYCZNY?|Q: YOU WORK AS A SOFTWARE ENGINEER IN AN IT COMPANY, SO WHY DID YOU TAKE A FLORISTIC COURSE?
+A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. |A: I work as an IT tester and that is my profession, but floristry is my hobby.
+   Lubię kwiaty, lubię robić bukiety dla moich bliskich. |I like flowers, I like making bouquets for my loved ones.
+   Zapisałam się na kurs florystyczny też  żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach. |I also signed up for a floristry course to practice and speak Polish because the teachers only spoke Polish during classes.
+|
+Q: PROSZĘ WYMIENIĆ PO POLSKU NARZĘDZIA FLORYSTYCZNE? |Q: PLEASE LIST THE FLORISTIC TOOLS IN POLISH?
+A: Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi|A: Floral scissors - used for cutting flowers and branches
+   Sekator - używa się do cięcia grubych gałęzi|Pruning shears - used to cut thick branches
+   Klej na gorąco - używa się do POŁACZENIA elementów|Hot glue - used to JOIN elements
+   Taśma – używa się do POŁACZENIA elementów.|Tape – used to CONNECT elements.
+   Folia florystyczna - używa się do pakowania bukietów |Floral foil - used for packing bouquets
+   Drut - używa się do mocowania kwiatów i dekoracji.|Wire - used to attach flowers and decorations.
+   Wstążki - używa się do dekoracji |Ribbons - used for decoration
+|
+|
+Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?|Q: WHY ARE YOU APPLYING FOR A PERMANENT RESIDENCE CARD AND A LONG-TERM RESIDENT CARD OF THE EUROPEAN UNION?
+A: Planuję na stałe zostać w Polsce z rodziną. |A: I plan to stay in Poland permanently with my family.
+   moja córka chodzi do polskiej, publicznej szkoły, |my daughter goes to a Polish public school,
+   ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat.|My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years.
+   Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. |I like Polish culture and Poles, I feel good and safe here.
+|
+|
+|
+Q: UKOŃCZYŁA PANI SZKOŁĘ FLORYSTYKI, TO DLACZEGO PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA? |Q: YOU GRADUATED FLORISM SCHOOL, SO WHY DO YOU WORK AS A SOFTWARE ENGINEER?
+A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. |A: I work as an IT tester and that is my profession, but floristry is my hobby.
+   Lubię kwiaty, lubię robić bukiety dla moich bliskich. |I like flowers, I like making bouquets for my loved ones.
+   Zapisałam się na kurs florystyczny też  żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.|I also signed up for a floristry course to practice and speak Polish because the teachers only spoke Polish during classes.
+|
+|
+Q: CZY CHCE PANI JESZCZE COŚ DODAĆ?|Q: DO YOU WANT TO ADD ANYTHING ELSE?
+A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną.|A: Thank you for your time. I plan to stay in Poland permanently with my family.
+   moja córka chodzi do polskiej, publicznej szkoły, |my daughter goes to a Polish public school,
+   ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. |My husband and I work in Poland, we have our own apartment in Krakow.
+   Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. |I like Polish culture and Poles, I feel good and safe here.
+   Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.|I am asking for a long-term European Union resident's residence card to be issued to me.

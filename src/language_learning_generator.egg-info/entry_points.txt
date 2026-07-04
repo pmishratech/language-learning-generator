@@ -1,0 +1,3 @@
+[console_scripts]
+language-dashboard = language_learning_tool.cli:main
+polish-tool = language_learning_tool.cli:main
