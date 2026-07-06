@@ -11,7 +11,7 @@ Q: W jakich językach pani porozumiewa się w pracy?|Q: What languages ​​do 
 A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.|A: Generally, I speak English at work because it is an international company. But I speak Polish with Polish colleagues and clients.
 |
 Q: Jak długo pani mieszka w Polsce?|Q: How long have you lived in Poland?
-A: MIESZKAM  W POLSCE 8 LAT./ JESTEM W POLSCE OD LISTOPADA 2018 ROKU.|A: I HAVE LIVED IN POLAND FOR 8 YEARS/ I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.
+A: MIESZKAM  W POLSCE 8 LAT./ JESTEM W POLSCE OD SIERPNIA 2018 ROKU.|A: I HAVE LIVED IN POLAND FOR 8 YEARS/ I HAVE BEEN IN POLAND SINCE AUGUST 2018.
 |
 Q: Dlaczego pani rozmawiała po angielsku w biurze emigracyjnym?|Q: Why did you speak English at the emigration office?
 A: Bo: wszystko rozumiałam co pani w biurze mówiła po polsku ale wolałam mówić po angielsku żeby być pewną, że zrozumiałam wszystko dobrze. |A: Because: I understood everything that the lady in the office said in Polish, but I preferred to speak English to be sure that I understood everything correctly.
@@ -125,7 +125,7 @@ Q: Z jakiego kraju pani pochodzi?|Q: What country are you from?
 A: POCHODZĘ Z INDII.|A: I AM FROM INDIA.
 |
 Q: Od kiedy jest pani w Polsce?|Q: How long have you been in Poland?
-A: MIESZKAM  W POLSCE 8 LAT./ JESTEM W POLSCE OD LISTOPADA 2018 ROKU.|A: I HAVE LIVED IN POLAND FOR 8 YEARS/ I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.
+A: MIESZKAM  W POLSCE 8 LAT./ JESTEM W POLSCE OD SIERPNIA 2018 ROKU.|A: I HAVE LIVED IN POLAND FOR 8 YEARS/ I HAVE BEEN IN POLAND SINCE AUGUST 2018.
 |
 Q: Dlaczego pani zdecydowała się pracować w Polsce?|Q: Why did you decide to work in Poland?
 A: Ddecydowałam się pracować w Polsce bo mój mąż pierwszy dostał pracę w polsce. potem ja też pracowałam w polsce.|A: I decided to work in Poland because my husband was the first to get a job in Poland. then I also worked in Poland.
@@ -134,7 +134,7 @@ Q: Jakie pani ma obowiązki na swoim stanowisku?|Q: What are your responsibiliti
 A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.|A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.
 |
 Q: Czy Pani mieszka sama?|Q: Do you live alone?
-A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.|A: No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Pankaj and my daughter's name is Esabel.
+A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i synem. Mój mąż ma na imię Pankaj, a mój syn ma na imię Aarush.|A: No, I don't live alone. I live with my family, my husband and son. My husband's name is Pankaj and my son's name is Aarush.
 |
 Q: Jakie są twoje kwalifikacje?|Q: What are your qualifications?
 A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.|A: I am a qualified computer engineer. I have a master's degree in computer science.
@@ -143,7 +143,7 @@ Q: Jak się nazywa firma?|Q: What is the name of the company?
 A: Moja firma to UBS Bank.|A: My company is UBS Bank.
 |
 Q: Kiedy Pani przyjechał do Polski?|Q: When did you come to Poland?
-A: Przyjechałam do Polski 8 lat temu, w 11 listopadzie 2018 roku. Przyjechałam do Polski z mężem i córką.|A: I came to Poland 8 years ago, on November 11, 2018. I came to Poland with my husband and daughter.
+A: Przyjechałam do Polski 8 lat temu, 11 sierpnia 2018 roku. Przyjechałam do Polski z mężem i synem.|A: I came to Poland 8 years ago, on August 11, 2018. I came to Poland with my husband and son.
 |
 Q: Jakie masz kwalifikacje?|Q: What are your qualifications?
 A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.|A: I am a qualified computer engineer. I have a master's degree in computer science.
@@ -154,13 +154,13 @@ Q: Czy pani współmałżonek pracuje?|Q: Does your spouse work?
 A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.|A: MY SPOUSE WORKS FOR StoneX Inc.
 |
 Q: Jaką Pani ma rodzinę?|Q: What kind of family do you have?
-A: Moja rodzina w Polsce nie jest duża, moja rodzina to jest mój mąż i moja córka.|A: My family in Poland is not large, my family is my husband and my daughter.
+A: Moja rodzina w Polsce nie jest duża, moja rodzina to jest mój mąż i mój syn.|A: My family in Poland is not large, my family is my husband and my son.
 |
 Q: Czy pani mąż pracuje?|Q: Does your husband work?
 A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.|A: MY HUSBAND WORKS FOR StoneX Inc.
 |
 Q: Czy pani dziecko mówi po polsku?|Q: Does your child speak Polish?
-A: TAK, MOJA CÓRKA MÓWI PO POLSKU.|A: YES, MY DAUGHTER SPEAKS POLISH.
+A: TAK, MÓJ SYN MÓWI PO POLSKU.|A: YES, MY SON SPEAKS POLISH.
 |
 Q: Ile lat pracuje pani w obecnej firmie?|Q: How many years have you been working at your current company?
 A: W obecnej firmie pracuje 7 lat.|A: He has been working in the current company for 7 years.
@@ -178,10 +178,10 @@ Q: Czy pani współmałżonek pracuje?|Q: Does your spouse work?
 A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.|A: MY SPOUSE WORKS FOR StoneX Inc.
 |
 Q: Czy ma pani dzieci?|Q: Do you have children?
-A: TAK, MAM CÓRKĘ.|A: YES, I HAVE A DAUGHTER.
+A: TAK, MAM SYNA.|A: YES, I HAVE A SON.
 |
 Q: Jak długo pani dziecko jest w przedszkolu/szkole/żłobku?|Q: How long has your child been in kindergarten/school/nursery?
-A: MOJA CÓRKA JEST W SZKOLE OKOŁO 6 GODZIN.|A: MY DAUGHTER IS AT SCHOOL FOR ABOUT 6 HOURS.
+A: MÓJ SYN JEST W SZKOLE OKOŁO 6 GODZIN.|A: MY SON IS AT SCHOOL FOR ABOUT 6 HOURS.
 |
 Q: W jakiej firmie pracuje twój mąż?|Q: What company does your husband work for?
 A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.|A: MY HUSBAND WORKS FOR StoneX Inc.
@@ -193,7 +193,7 @@ Q: Skąd pani pochodzi?|Q: Where are you from?
 A: POCHODZĘ Z INDII.|A: I AM FROM INDIA.
 |
 Q: Czy pani dziecko spotyka się z polskimi dziećmi?|Q: Does your child meet Polish children?
-A: TAK, MOJA CÓRKA SPOTYKA SIĘ Z POLSKIMI DZIEĆMI.|A: YES, MY DAUGHTER IS DATING POLISH CHILDREN.
+A: TAK, MÓJ SYN SPOTYKA SIĘ Z POLSKIMI DZIEĆMI.|A: YES, MY SON MEETS POLISH CHILDREN.
 |
 Q: W jakiej firmie pracuje pani mąż?|Q: What company does your husband work for?
 A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.|A: MY HUSBAND WORKS FOR StoneX Inc.
@@ -205,7 +205,7 @@ Q: W jakiej firmie pracował twój mąż?|Q: What company did your husband work 
 A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.|A: MY HUSBAND WORKS FOR StoneX Inc.
 |
 Q: Czy pani dziecko bawi się z polskimi dziećmi?|Q: Does your child play with Polish children?
-A: TAK, MOJA CÓRKA BAWI SIĘ Z POLSKIMI DZIEĆMI.|A: YES, MY DAUGHTER PLAYS WITH POLISH CHILDREN.
+A: TAK, MÓJ SYN BAWI SIĘ Z POLSKIMI DZIEĆMI.|A: YES, MY SON PLAYS WITH POLISH CHILDREN.
 |
 Q: Czy pani mąż jest wysoko wykwalifikowanym pracownikiem?|Q: Is your husband a highly skilled worker?
 A: TAK MÓJ MĄŻ JEST WYSOKO WYKWALIFIKOWANYM PRACOWNIKIEM. ON JEST Enginierem INFORMATYKI.|A: YES, MY HUSBAND IS A HIGHLY QUALIFIED WORKER. HE IS A COMPUTER SCIENCE ENGINEER.
@@ -219,8 +219,8 @@ A: Wcześniej mieszkałam w Indiach, w Bharthana.|A: Previously, I lived in Indi
 Q: Jakie kwalifikacje posiada pani mąż?|Q: What qualifications does your husband have?
 A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.|A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.
 |
-Q: Ile lat ma pani córka?|Q: How old is your daughter?
-A: MOJA CÓRKA MA 10 LAT.|A: MY DAUGHTER IS 10 YEARS OLD.
+Q: Ile lat ma pani syn?|Q: How old is your son?
+A: MÓJ SYN MA 10 LAT.|A: MY SON IS 10 YEARS OLD.
 |
 Q: Czy pani dziecko chodzi do szkoły, przedszkola albo żłobka?|Q: Does your child go to school, kindergarten or nursery?
 A: TAK, MOJE DZIECKO CHODZI DO SZKOŁY.|A: YES, MY CHILD GOES TO SCHOOL.
@@ -244,7 +244,7 @@ Q: Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?|Q: Does your son
 A: Mój syn chodzi do szkoły dwujęzycznej.|A: My son goes to bilingual school.
 |
 Q: Od kiedy jest pani w Polsce?|Q: How long have you been in Poland?
-A: JESTEM W POLSCE OD LISTOPADA 2018 ROKU.|A: I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.
+A: JESTEM W POLSCE OD SIERPNIA 2018 ROKU.|A: I HAVE BEEN IN POLAND SINCE AUGUST 2018.
 |
 Q: Czy pani dziecko uczęszcza do polskojęzycznej szkoły lub przedszkola?|Q: Does your child attend a Polish-speaking school or kindergarten?
 A: TAK, MOJE DZIECKO CHODZI DO POLSKOJĘZYCZNEJ SZKOŁY.|A: YES, MY CHILD GOES TO A POLISH-SPEAKING SCHOOL.
@@ -271,10 +271,10 @@ Q: Skąd pani jest?|Q: Where are you from?
 A: JESTEM Z INDII.|A: I AM FROM INDIA.
 |
 Q: Jak długo pani dziecko zostaje w przedszkolu/szkole/żłobku?|Q: How long does your child stay in kindergarten/school/nursery?
-A: MOJA CÓRKA JEST W SZKOLE OKOŁO 6 GODZIN.|A: MY DAUGHTER IS AT SCHOOL FOR ABOUT 6 HOURS.
+A: MÓJ SYN JEST W SZKOLE OKOŁO 6 GODZIN.|A: MY SON IS AT SCHOOL FOR ABOUT 6 HOURS.
 |
 Q: Jaka jest pani rodzina?|Q: What is your family like?
-A: MOJA RODZINA NIE JEST DUŻA TUTAJ W POLSCE. MOJA RODZINA TO JEST mój mąż, I MOJA CÓRKA.|A: MY FAMILY IS NOT BIG HERE IN POLAND. MY FAMILY IS MY HUSBAND AND MY DAUGHTER.
+A: MOJA RODZINA NIE JEST DUŻA TUTAJ W POLSCE. MOJA RODZINA TO JEST MÓJ MĄŻ I MÓJ SYN.|A: MY FAMILY IS NOT BIG HERE IN POLAND. MY FAMILY IS MY HUSBAND AND MY SON.
 |
 Q: Od ilu lat jest pani w Polsce?|Q: How many years have you been in Poland?
 A: JESTEM W POLSCE OD OSIEM LAT.|A: I HAVE BEEN IN POLAND FOR EIGHT YEARS.
@@ -298,10 +298,10 @@ Q: Czy ma pani rodzinę?|Q: Do you have a family?
 A: TAK, MAM RODZINĘ.|A: YES, I HAVE A FAMILY.
 |
 Q: Do jakiego przedszkola lub żłobka chodzi pani dziecko?|Q: What kindergarten or nursery does your child go to?
-A: MOJA CÓRKA CHODZI DO SZKOŁY.|A: MY DAUGHTER GOES TO SCHOOL.
+A: MÓJ SYN CHODZI DO SZKOŁY.|A: MY SON GOES TO SCHOOL.
 |
 Q: Kto jest w Pani rodzinie?|Q: Who is in your family?
-A: Moja rodzina w Polsce nie jest duża, moja rodzina to jest mój mąż i moja córka.|A: My family in Poland is not large, my family is my husband and my daughter.
+A: Moja rodzina w Polsce nie jest duża, moja rodzina to jest mój mąż i mój syn.|A: My family in Poland is not large, my family is my husband and my son.
 |
 Q: Czy pani partner pracuje?|Q: Does your partner work?
 A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.|A: MY PARTNER WORKS FOR StoneX Inc.
@@ -313,7 +313,7 @@ Q: Kim pani jest?|Q: Who are you?
 A: Jestem HINDUSką.|A: I am HINDU.
 |
 Q: Co pani lubi robić w wolnym czasie?|Q: What do you like to do in your free time?
-A: W wolnym czasie lubię Gotować,Słuchać muzyki,Spacerować,Podróżować z rodziną,Bawić się z moją córką.|A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my daughter.
+A: W wolnym czasie lubię Gotować,Słuchać muzyki,Spacerować,Podróżować z rodziną,Bawić się z moim synem.|A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my son.
 |
 Q: W jakich językach pani mówi?|Q: What languages ​​do you speak?
 A: Mówię w hindi, angielsku i polsku.|A: I speak Hindi, English and Polish.
@@ -331,7 +331,7 @@ Q: Jaka jest pani narodowość?|Q: What is your nationality?
 A: Jestem HINDUSką.|A: I am HINDU.
 |
 Q: Co pani lubi robić? |Q: What do you like to do?
-A: W wolnym czasie lubię Gotować,Słuchać muzyki,Spacerować,Podróżować z rodziną,Bawić się z moją córką.|A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my daughter.
+A: W wolnym czasie lubię Gotować,Słuchać muzyki,Spacerować,Podróżować z rodziną,Bawić się z moim synem.|A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my son.
 |
 Q: Jakie pani ma obowiązki na swoim stanowisku?|Q: What are your responsibilities in your position?
 A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotkam się z klientami w sprawie dokumentacji technicznej.|A: At work I write computer programs, test applications and write technical documents. I will also meet with clients regarding technical documentation.
@@ -355,7 +355,7 @@ Q: Jak często pani jeździ do siedziby firmy?|Q: How often do you go to the com
 A: Jeździ do siedziby firmy raz w tygodniu,w poniedziałki.|A: He goes to the company's headquarters once a week, on Mondays.
 |
 Q: Co lubisz robić?|Q: What do you like to do?
-A: W wolnym czasie lubię Gotować,Słuchać muzyki,Spacerować,Podróżować z rodziną,Bawić się z moją córką.|A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my daughter.
+A: W wolnym czasie lubię Gotować,Słuchać muzyki,Spacerować,Podróżować z rodziną,Bawić się z moim synem.|A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my son.
 |
 |
 |
@@ -366,21 +366,21 @@ Q: Czy ogląda pani polską telewizję?|Q: Do you watch Polish TV?
 A: Tak, czasami oglądam polską telewizję dla Wiadomości i Bajki dla dzieci.|A: Yes, sometimes I watch Polish TV for News and Children's Fairy Tales.
 |
 Q: W jaki sposób ćwiczy pani język polski?|Q: How do you practice Polish?
-A: Staram się ćwiczyć po polsku z moja córka, ponieważ ona mówi po polsku bardzo dobrze i też oglądam bajki z moja córka.|A: I try to practice in Polish with my daughter, because she speaks Polish very well, and I also watch cartoons with my daughter.
-   Staram się mówić po polsku w aptece, w sklepu w szkole mojej córki i mam też prywatne lekcje dwa raz w tygodniu z nauczycielka.|I try to speak Polish at the pharmacy, in the shop at my daughter's school and I also have private lessons twice a week with a teacher.
+A: Staram się ćwiczyć po polsku z moim synem, ponieważ on mówi po polsku bardzo dobrze i też oglądam bajki z moim synem.|A: I try to practice Polish with my son, because he speaks Polish very well, and I also watch cartoons with my son.
+   Staram się mówić po polsku w aptece, w sklepie, w szkole mojego syna i mam też prywatne lekcje dwa razy w tygodniu z nauczycielką.|I try to speak Polish at the pharmacy, in the shop, at my son's school and I also have private lessons twice a week with a teacher.
    Codziennie słucham wiadomości w radiu.|I listen to the news on the radio every day.
 |
 Q: Czy będzie pani odpowiadać po polsku?|Q: Will you answer in Polish?
 A: TAK, BĘDĘ ODPOWIADAC PO POLSKU.|A: YES, I WILL ANSWER IN POLISH.
 |
 Q: Gdzie na co dzień pani mówi po polsku?|Q: Where do you speak Polish on a daily basis?
-A: Na co dzień mówię po polsku w domu z moją córką. Mówię po polsku w szkole mojej córki. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.|A: I speak Polish every day at home with my daughter. I speak Polish at my daughter's school. I speak Polish in the pharmacy, in the store, at the market, at the post office and in the office.
+A: Na co dzień mówię po polsku w domu z moim synem. Mówię po polsku w szkole mojego syna. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.|A: I speak Polish every day at home with my son. I speak Polish at my son's school. I speak Polish in the pharmacy, in the store, at the market, at the post office and in the office.
 |
 Q: Czy pani rozumie język polski?|Q: Do you understand Polish?
 A: OCZYWIŚCIE, ROZUMIEM.|A: OF COURSE, I UNDERSTAND.
 |
 Q: Czy mówisz po polsku, żeby komunikować się z miejscowymi mieszkańcami?|Q: Do you speak Polish to communicate with local people?
-A: Tak mówię po polsku w różnych miejscach w krakowie, na przykład w szkole mojej córki, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie, w taksówce.|A: This is how I speak Polish in various places in Krakow, for example at my daughter's school, in a shop, at the market, at the station, at the post office, in the office, on the bus, in a taxi.
+A: Tak mówię po polsku w różnych miejscach w Krakowie, na przykład w szkole mojego syna, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie i w taksówce.|A: I speak Polish in various places in Krakow, for example at my son's school, in a shop, at the market, at the station, at the post office, in the office, on the bus and in a taxi.
 |
 Q: Jak pani ocenia swoje umiejętności z języka polskiego?|Q: How do you rate your Polish language skills?
 A: DOBRZE OCENIAM SWOJE UMIEJĘTNOŚCI. DUŻO ROZUMIEM, ROBIĘ JESZCZE DUŻO BŁĘDÓW ALE STARAM SIĘ MÓWIĆ PO POLSKU.|A: I ASSESS WELL OF MY SKILLS. I UNDERSTAND A LOT, I STILL MAKE A LOT OF ERRORS, BUT I TRY TO SPEAK POLISH.
@@ -396,8 +396,8 @@ Q: Czy pani rozmawia po polsku w pracy?|Q: Do you speak Polish at work?
 A: Tak rozmawiam po polsku w pracy z polskimi kolegami i klientami.|A: This is how I speak Polish at work with Polish colleagues and clients.
 |
 Q: W jaki sposób uczy się pani języka polskiego?|Q: How do you learn Polish?
-A: Staram się ćwiczyć po polsku z moja córka, ponieważ ona mówi po polsku bardzo dobrze i też oglądam bajki z moja córka.|A: I try to practice in Polish with my daughter, because she speaks Polish very well, and I also watch cartoons with my daughter.
-   Staram się mówić po polsku w aptece, w sklepu w szkole mojej córki i mam też prywatne lekcje dwa raz w tygodniu z nauczycielka.|I try to speak Polish at the pharmacy, in the shop at my daughter's school and I also have private lessons twice a week with a teacher.
+A: Staram się ćwiczyć po polsku z moim synem, ponieważ on mówi po polsku bardzo dobrze i też oglądam bajki z moim synem.|A: I try to practice Polish with my son, because he speaks Polish very well, and I also watch cartoons with my son.
+   Staram się mówić po polsku w aptece, w sklepie, w szkole mojego syna i mam też prywatne lekcje dwa razy w tygodniu z nauczycielką.|I try to speak Polish at the pharmacy, in the shop, at my son's school and I also have private lessons twice a week with a teacher.
    Codziennie słucham wiadomości w radiu.|I listen to the news on the radio every day.
 |
 Q: Jak ocenia Pani swój poziom znajomości języka polskiego?|Q: How do you rate your level of knowledge of the Polish language?
@@ -407,10 +407,10 @@ Q: Czy posiada pani jakiś certyfikat potwierdzający swoją znajomość języka
 A: Nie, nie mam certyfikatu z języka polskiego.|A: No, I do not have a Polish language certificate.
 |
 Q: Gdzie na co dzień pani używa języka polskiego?|Q: Where do you use Polish on a daily basis?
-A: Na co dzień mówię po polsku w domu z moją córką. Mówię po polsku w szkole mojej córki. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.|A: I speak Polish every day at home with my daughter. I speak Polish at my daughter's school. I speak Polish in the pharmacy, in the store, at the market, at the post office and in the office.
+A: Na co dzień mówię po polsku w domu z moim synem. Mówię po polsku w szkole mojego syna. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.|A: I speak Polish every day at home with my son. I speak Polish at my son's school. I speak Polish in the pharmacy, in the store, at the market, at the post office and in the office.
 |
 Q: Czy mówi pani po polsku, żeby komunikować się z Polakami?|Q: Do you speak Polish to communicate with Poles?
-A: Tak mówię po polsku w różnych miejscach w krakowie, na przykład w szkole mojej córki, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie, w taksówce.|A: This is how I speak Polish in various places in Krakow, for example at my daughter's school, in a shop, at the market, at the station, at the post office, in the office, on the bus, in a taxi.
+A: Tak mówię po polsku w różnych miejscach w Krakowie, na przykład w szkole mojego syna, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie i w taksówce.|A: I speak Polish in various places in Krakow, for example at my son's school, in a shop, at the market, at the station, at the post office, in the office, on the bus and in a taxi.
 |
 Q: Jak pani ocenia swój język polski?|Q: How do you rate your Polish language?
 A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.|A: My Polish is communicative, I understand a lot. I think it is level A2.
@@ -439,8 +439,8 @@ A: Artykuły spożywcze kupuję w Auchan, Biedronce i Lidlu.|A: I buy groceries 
 Q: Ilu ma pani polskich przyjaciół?|Q: How many Polish friends do you have?
 A: MAM KILKU POLSKICH PRZYJACIÓŁ. TO SĄ GŁÓWNIE KOLEDZY Z PRACY.|A: I HAVE SOME POLISH FRIENDS. THEY ARE MAINLY WORK COLLEAGUES.
 |
-Q: Kto zawozi pani córkę do szkoły?|Q: Who takes your daughter to school?
-A: Moja córka chodzi do szkoły sama.|A: My daughter goes to school alone.
+Q: Kto zawozi pani syna do szkoły?|Q: Who takes your son to school?
+A: Mój syn chodzi do szkoły sam.|A: My son goes to school alone.
 |
 Q: Proszę, opowiedzieć coś o swoich znajomych?|Q: Please tell me something about your friends?
 A: Moi znajomi mieszkają w tym samym bloku co ja.|A: My friends live in the same building as me.
