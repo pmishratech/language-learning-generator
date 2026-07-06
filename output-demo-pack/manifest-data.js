@@ -1,7 +1,7 @@
 window.__LANGUAGE_LEARNING_BUNDLE__ = {
   "meta": {
     "schema_version": "2.0",
-    "generated_at": "2026-07-04T13:58:46.313474+00:00",
+    "generated_at": "2026-07-06T17:11:40.796715+00:00",
     "input_file": "Polish-English-pipe.txt",
     "study_column": 0,
     "reference_column": 1,
@@ -11,11 +11,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
     "reference_language_name": "English",
     "dashboard_title": "Everyday Conversation Practice",
     "dashboard_subtitle": "Build confidence with common questions, useful answers, translations, flashcards, and audio.",
-    "output_dir_name": "output-demo-pack",
+    "output_dir_name": "output-demo-pack-fresh",
     "profile_file": "profiles/shilpa-stonex.json",
     "pronunciation_file": "pronunciation/examples/pl-PL.json",
     "entry_count": 222,
-    "item_count": 443
+    "item_count": 444
   },
   "items": [
     {
@@ -29,32 +29,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Jakie są pani kwalifikacje zawodowe?",
       "original_reference_text": "What are your professional qualifications?",
       "display_question": "Q: Jakie są pani kwalifikacje zawodowe?",
-      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "reference_question": "Q: What are your professional qualifications?",
-      "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
+      "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
       "source_question": "Q: Jakie są pani kwalifikacje zawodowe?",
-      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "output_file": "audio/0001-entry-0001-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0001-entry-0001-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0001-entry-0001-question.mp3"
     },
     {
       "ordinal": 2,
       "entry_index": 1,
       "kind": "answer",
-      "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "translation_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
-      "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "original_reference_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
+      "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "translation_text": "I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
+      "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "original_reference_text": "I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
       "display_question": "Q: Jakie są pani kwalifikacje zawodowe?",
-      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "reference_question": "Q: What are your professional qualifications?",
-      "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
+      "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
       "source_question": "Q: Jakie są pani kwalifikacje zawodowe?",
-      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "output_file": "audio/0002-entry-0001-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0002-entry-0001-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0002-entry-0001-answer.mp3"
     },
     {
       "ordinal": 3,
@@ -67,32 +67,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Kiedy ostatnio pani była w Indiach?",
       "original_reference_text": "When was the last time you were in India?",
       "display_question": "Q: Kiedy ostatnio pani była w Indiach?",
-      "display_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
+      "display_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
       "reference_question": "Q: When was the last time you were in India?",
-      "reference_answer": "A: I was last in India on January 28, 2024.",
+      "reference_answer": "A: I was last in India on March 20, 2026.",
       "source_question": "Q: Kiedy ostatnio pani była w Indiach?",
-      "source_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
+      "source_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
       "output_file": "audio/0003-entry-0002-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0003-entry-0002-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0003-entry-0002-question.mp3"
     },
     {
       "ordinal": 4,
       "entry_index": 2,
       "kind": "answer",
-      "display_text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
-      "translation_text": "I was last in India on January 28, 2024.",
-      "spoken_text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
-      "text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
-      "original_text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
-      "original_reference_text": "I was last in India on January 28, 2024.",
+      "display_text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+      "translation_text": "I was last in India on March 20, 2026.",
+      "spoken_text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+      "text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+      "original_text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+      "original_reference_text": "I was last in India on March 20, 2026.",
       "display_question": "Q: Kiedy ostatnio pani była w Indiach?",
-      "display_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
+      "display_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
       "reference_question": "Q: When was the last time you were in India?",
-      "reference_answer": "A: I was last in India on January 28, 2024.",
+      "reference_answer": "A: I was last in India on March 20, 2026.",
       "source_question": "Q: Kiedy ostatnio pani była w Indiach?",
-      "source_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
+      "source_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
       "output_file": "audio/0004-entry-0002-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0004-entry-0002-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0004-entry-0002-answer.mp3"
     },
     {
       "ordinal": 5,
@@ -111,7 +111,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy posiada pani własną nieruchomość?",
       "source_answer": "A: TAK MAM/POSIADAM WŁASNĄ NIERUCHOMOŚĆ. To jest trzypokojowe mieszkanie.",
       "output_file": "audio/0005-entry-0003-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0005-entry-0003-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0005-entry-0003-question.mp3"
     },
     {
       "ordinal": 6,
@@ -130,7 +130,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy posiada pani własną nieruchomość?",
       "source_answer": "A: TAK MAM/POSIADAM WŁASNĄ NIERUCHOMOŚĆ. To jest trzypokojowe mieszkanie.",
       "output_file": "audio/0006-entry-0003-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0006-entry-0003-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0006-entry-0003-answer.mp3"
     },
     {
       "ordinal": 7,
@@ -149,7 +149,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakich językach pani porozumiewa się w pracy?",
       "source_answer": "A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.",
       "output_file": "audio/0007-entry-0004-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0007-entry-0004-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0007-entry-0004-question.mp3"
     },
     {
       "ordinal": 8,
@@ -168,7 +168,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakich językach pani porozumiewa się w pracy?",
       "source_answer": "A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.",
       "output_file": "audio/0008-entry-0004-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0008-entry-0004-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0008-entry-0004-answer.mp3"
     },
     {
       "ordinal": 9,
@@ -187,7 +187,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani mieszka w Polsce?",
       "source_answer": "A: MIESZKAM W POLSCE 8 LAT./ JESTEM W POLSCE OD LISTOPADA 2018 ROKU.",
       "output_file": "audio/0009-entry-0005-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0009-entry-0005-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0009-entry-0005-question.mp3"
     },
     {
       "ordinal": 10,
@@ -206,7 +206,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani mieszka w Polsce?",
       "source_answer": "A: MIESZKAM W POLSCE 8 LAT./ JESTEM W POLSCE OD LISTOPADA 2018 ROKU.",
       "output_file": "audio/0010-entry-0005-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0010-entry-0005-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0010-entry-0005-answer.mp3"
     },
     {
       "ordinal": 11,
@@ -225,7 +225,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Dlaczego pani rozmawiała po angielsku w biurze emigracyjnym?",
       "source_answer": "A: Bo: wszystko rozumiałam co pani w biurze mówiła po polsku ale wolałam mówić po angielsku żeby być pewną, że zrozumiałam wszystko dobrze.",
       "output_file": "audio/0011-entry-0006-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0011-entry-0006-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0011-entry-0006-question.mp3"
     },
     {
       "ordinal": 12,
@@ -244,7 +244,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Dlaczego pani rozmawiała po angielsku w biurze emigracyjnym?",
       "source_answer": "A: Bo: wszystko rozumiałam co pani w biurze mówiła po polsku ale wolałam mówić po angielsku żeby być pewną, że zrozumiałam wszystko dobrze.",
       "output_file": "audio/0012-entry-0006-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0012-entry-0006-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0012-entry-0006-answer.mp3"
     },
     {
       "ordinal": 13,
@@ -263,7 +263,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani mieszkała wcześniej?",
       "source_answer": "A: Wcześniej mieszkałam w Indiach, w Bharthana. Zanim przyjechałam do Polski, mieszkałam tylko w Indiach. Generalnie mieszkałam w Bharthana — to jest moje rodzinne miasto — ale potem pracowałam i mieszkałam w Delhi. Po tym jak mój mąż dostał pracę w Polsce, przyjechałam do Polski, i od tego czasu mieszkam w Polsce.",
       "output_file": "audio/0013-entry-0007-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0013-entry-0007-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0013-entry-0007-question.mp3"
     },
     {
       "ordinal": 14,
@@ -282,7 +282,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani mieszkała wcześniej?",
       "source_answer": "A: Wcześniej mieszkałam w Indiach, w Bharthana. Zanim przyjechałam do Polski, mieszkałam tylko w Indiach. Generalnie mieszkałam w Bharthana — to jest moje rodzinne miasto — ale potem pracowałam i mieszkałam w Delhi. Po tym jak mój mąż dostał pracę w Polsce, przyjechałam do Polski, i od tego czasu mieszkam w Polsce.",
       "output_file": "audio/0014-entry-0007-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0014-entry-0007-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0014-entry-0007-answer.mp3"
     },
     {
       "ordinal": 15,
@@ -295,32 +295,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Jak nazywa się firma, która zaoferowała pani pracę w Polsce?",
       "original_reference_text": "What is the name of the company that offered you a job in Poland?",
       "display_question": "Q: Jak nazywa się firma, która zaoferowała pani pracę w Polsce?",
-      "display_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+      "display_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
       "reference_question": "Q: What is the name of the company that offered you a job in Poland?",
-      "reference_answer": "A: The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+      "reference_answer": "A: The company that offered me a job in Poland is UBS Bank.",
       "source_question": "Q: Jak nazywa się firma, która zaoferowała pani pracę w Polsce?",
-      "source_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+      "source_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
       "output_file": "audio/0015-entry-0008-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0015-entry-0008-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0015-entry-0008-question.mp3"
     },
     {
       "ordinal": 16,
       "entry_index": 8,
       "kind": "answer",
-      "display_text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-      "translation_text": "The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
-      "spoken_text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Biltrast. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-      "text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Biltrast. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-      "original_text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-      "original_reference_text": "The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+      "display_text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+      "translation_text": "The company that offered me a job in Poland is UBS Bank.",
+      "spoken_text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+      "text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+      "original_text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+      "original_reference_text": "The company that offered me a job in Poland is UBS Bank.",
       "display_question": "Q: Jak nazywa się firma, która zaoferowała pani pracę w Polsce?",
-      "display_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+      "display_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
       "reference_question": "Q: What is the name of the company that offered you a job in Poland?",
-      "reference_answer": "A: The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+      "reference_answer": "A: The company that offered me a job in Poland is UBS Bank.",
       "source_question": "Q: Jak nazywa się firma, która zaoferowała pani pracę w Polsce?",
-      "source_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+      "source_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
       "output_file": "audio/0016-entry-0008-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0016-entry-0008-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0016-entry-0008-answer.mp3"
     },
     {
       "ordinal": 17,
@@ -339,7 +339,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Skąd pani jest?",
       "source_answer": "A: JESTEM Z INDII.",
       "output_file": "audio/0017-entry-0009-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0017-entry-0009-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0017-entry-0009-question.mp3"
     },
     {
       "ordinal": 18,
@@ -358,7 +358,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Skąd pani jest?",
       "source_answer": "A: JESTEM Z INDII.",
       "output_file": "audio/0018-entry-0009-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0018-entry-0009-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0018-entry-0009-answer.mp3"
     },
     {
       "ordinal": 19,
@@ -377,7 +377,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czym pani dojeżdża do pracy?",
       "source_answer": "A: Do pracy jeżdżę tramwajem albo autobusem albo samochodem. Czasami latem chodzę pieszo.",
       "output_file": "audio/0019-entry-0010-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0019-entry-0010-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0019-entry-0010-question.mp3"
     },
     {
       "ordinal": 20,
@@ -396,7 +396,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czym pani dojeżdża do pracy?",
       "source_answer": "A: Do pracy jeżdżę tramwajem albo autobusem albo samochodem. Czasami latem chodzę pieszo.",
       "output_file": "audio/0020-entry-0010-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0020-entry-0010-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0020-entry-0010-answer.mp3"
     },
     {
       "ordinal": 21,
@@ -415,7 +415,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Na jakim stanowisku pani pracuje?",
       "source_answer": "A: Pracuję na stanowisku starszego inżyniera do spraw automatyzacji testów.",
       "output_file": "audio/0021-entry-0011-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0021-entry-0011-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0021-entry-0011-question.mp3"
     },
     {
       "ordinal": 22,
@@ -434,7 +434,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Na jakim stanowisku pani pracuje?",
       "source_answer": "A: Pracuję na stanowisku starszego inżyniera do spraw automatyzacji testów.",
       "output_file": "audio/0022-entry-0011-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0022-entry-0011-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0022-entry-0011-answer.mp3"
     },
     {
       "ordinal": 23,
@@ -453,7 +453,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani mieszka w Krakowie?",
       "source_answer": "A: MIESZKAM W Krakowie 8 LAT.",
       "output_file": "audio/0023-entry-0012-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0023-entry-0012-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0023-entry-0012-question.mp3"
     },
     {
       "ordinal": 24,
@@ -472,7 +472,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani mieszka w Krakowie?",
       "source_answer": "A: MIESZKAM W Krakowie 8 LAT.",
       "output_file": "audio/0024-entry-0012-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0024-entry-0012-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0024-entry-0012-answer.mp3"
     },
     {
       "ordinal": 25,
@@ -491,7 +491,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani własną nieruchomość?",
       "source_answer": "A: TAK MAM/POSIADAM WŁASNĄ NIERUCHOMOŚĆ. To jest trzypokojowe mieszkanie.",
       "output_file": "audio/0025-entry-0013-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0025-entry-0013-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0025-entry-0013-question.mp3"
     },
     {
       "ordinal": 26,
@@ -510,7 +510,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani własną nieruchomość?",
       "source_answer": "A: TAK MAM/POSIADAM WŁASNĄ NIERUCHOMOŚĆ. To jest trzypokojowe mieszkanie.",
       "output_file": "audio/0026-entry-0013-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0026-entry-0013-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0026-entry-0013-answer.mp3"
     },
     {
       "ordinal": 27,
@@ -529,7 +529,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaki zawód pani wykonuje?",
       "source_answer": "A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.",
       "output_file": "audio/0027-entry-0014-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0027-entry-0014-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0027-entry-0014-question.mp3"
     },
     {
       "ordinal": 28,
@@ -548,7 +548,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaki zawód pani wykonuje?",
       "source_answer": "A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.",
       "output_file": "audio/0028-entry-0014-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0028-entry-0014-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0028-entry-0014-answer.mp3"
     },
     {
       "ordinal": 29,
@@ -567,7 +567,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Od ilu lat jest pani w Polsce?",
       "source_answer": "A: JESTEM W POLSCE OD OSIEM LAT.",
       "output_file": "audio/0029-entry-0015-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0029-entry-0015-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0029-entry-0015-question.mp3"
     },
     {
       "ordinal": 30,
@@ -586,7 +586,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Od ilu lat jest pani w Polsce?",
       "source_answer": "A: JESTEM W POLSCE OD OSIEM LAT.",
       "output_file": "audio/0030-entry-0015-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0030-entry-0015-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0030-entry-0015-answer.mp3"
     },
     {
       "ordinal": 31,
@@ -605,7 +605,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak pani dostała pracę w Polsce?",
       "source_answer": "A: Dostałam pracę na LinkedIn. To jest online aplikacja.",
       "output_file": "audio/0031-entry-0016-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0031-entry-0016-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0031-entry-0016-question.mp3"
     },
     {
       "ordinal": 32,
@@ -624,7 +624,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak pani dostała pracę w Polsce?",
       "source_answer": "A: Dostałam pracę na LinkedIn. To jest online aplikacja.",
       "output_file": "audio/0032-entry-0016-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0032-entry-0016-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0032-entry-0016-answer.mp3"
     },
     {
       "ordinal": 33,
@@ -643,7 +643,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani mieszka?",
       "source_answer": "A: Mieszkam w Krakowie przy ulicy Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418.",
       "output_file": "audio/0033-entry-0017-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0033-entry-0017-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0033-entry-0017-question.mp3"
     },
     {
       "ordinal": 34,
@@ -662,7 +662,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani mieszka?",
       "source_answer": "A: Mieszkam w Krakowie przy ulicy Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418.",
       "output_file": "audio/0034-entry-0017-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0034-entry-0017-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0034-entry-0017-answer.mp3"
     },
     {
       "ordinal": 35,
@@ -681,7 +681,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie stanowisko pani zajmuje?",
       "source_answer": "A: Pracuję na stanowisku starszego inżyniera do spraw automatyzacji testów.",
       "output_file": "audio/0035-entry-0018-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0035-entry-0018-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0035-entry-0018-question.mp3"
     },
     {
       "ordinal": 36,
@@ -700,7 +700,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie stanowisko pani zajmuje?",
       "source_answer": "A: Pracuję na stanowisku starszego inżyniera do spraw automatyzacji testów.",
       "output_file": "audio/0036-entry-0018-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0036-entry-0018-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0036-entry-0018-answer.mp3"
     },
     {
       "ordinal": 37,
@@ -719,7 +719,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakim mieście pani mieszkała w Indiach?",
       "source_answer": "A: Mieszkałam w Bharthana.",
       "output_file": "audio/0037-entry-0019-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0037-entry-0019-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0037-entry-0019-question.mp3"
     },
     {
       "ordinal": 38,
@@ -738,7 +738,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakim mieście pani mieszkała w Indiach?",
       "source_answer": "A: Mieszkałam w Bharthana.",
       "output_file": "audio/0038-entry-0019-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0038-entry-0019-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0038-entry-0019-answer.mp3"
     },
     {
       "ordinal": 39,
@@ -757,7 +757,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Dlaczego mieszka pani w Polsce?",
       "source_answer": "A: MIESZKAM W POLSCE BO MAM TUTAJ PRACĘ.",
       "output_file": "audio/0039-entry-0020-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0039-entry-0020-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0039-entry-0020-question.mp3"
     },
     {
       "ordinal": 40,
@@ -776,7 +776,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Dlaczego mieszka pani w Polsce?",
       "source_answer": "A: MIESZKAM W POLSCE BO MAM TUTAJ PRACĘ.",
       "output_file": "audio/0040-entry-0020-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0040-entry-0020-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0040-entry-0020-answer.mp3"
     },
     {
       "ordinal": 41,
@@ -795,7 +795,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaki jest pani obecny adres?",
       "source_answer": "A: Mój obecny adres to ulica Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418, Kraków.",
       "output_file": "audio/0041-entry-0021-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0041-entry-0021-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0041-entry-0021-question.mp3"
     },
     {
       "ordinal": 42,
@@ -814,7 +814,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaki jest pani obecny adres?",
       "source_answer": "A: Mój obecny adres to ulica Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418, Kraków.",
       "output_file": "audio/0042-entry-0021-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0042-entry-0021-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0042-entry-0021-answer.mp3"
     },
     {
       "ordinal": 43,
@@ -833,7 +833,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Skąd pani pochodzi?",
       "source_answer": "A: POCHODZĘ Z INDII.",
       "output_file": "audio/0043-entry-0022-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0043-entry-0022-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0043-entry-0022-question.mp3"
     },
     {
       "ordinal": 44,
@@ -852,7 +852,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Skąd pani pochodzi?",
       "source_answer": "A: POCHODZĘ Z INDII.",
       "output_file": "audio/0044-entry-0022-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0044-entry-0022-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0044-entry-0022-answer.mp3"
     },
     {
       "ordinal": 45,
@@ -871,7 +871,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Co pani robi w pracy?",
       "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.",
       "output_file": "audio/0045-entry-0023-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0045-entry-0023-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0045-entry-0023-question.mp3"
     },
     {
       "ordinal": 46,
@@ -890,7 +890,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Co pani robi w pracy?",
       "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.",
       "output_file": "audio/0046-entry-0023-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0046-entry-0023-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0046-entry-0023-answer.mp3"
     },
     {
       "ordinal": 47,
@@ -909,7 +909,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ile lat pracuje pani w obecnej firmie?",
       "source_answer": "A: W obecnej firmie pracuje 7 lat.",
       "output_file": "audio/0047-entry-0024-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0047-entry-0024-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0047-entry-0024-question.mp3"
     },
     {
       "ordinal": 48,
@@ -928,7 +928,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ile lat pracuje pani w obecnej firmie?",
       "source_answer": "A: W obecnej firmie pracuje 7 lat.",
       "output_file": "audio/0048-entry-0024-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0048-entry-0024-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0048-entry-0024-answer.mp3"
     },
     {
       "ordinal": 49,
@@ -947,7 +947,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak dawno temu pani przyjechała do Polski?",
       "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
       "output_file": "audio/0049-entry-0025-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0049-entry-0025-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0049-entry-0025-question.mp3"
     },
     {
       "ordinal": 50,
@@ -966,7 +966,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak dawno temu pani przyjechała do Polski?",
       "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
       "output_file": "audio/0050-entry-0025-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0050-entry-0025-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0050-entry-0025-answer.mp3"
     },
     {
       "ordinal": 51,
@@ -985,7 +985,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy mieszka pani w wynajętym mieszkaniu?",
       "source_answer": "A: Nie, nie mieszkam w wynajętym mieszkaniu. Mieszkam w własnym mieszkaniu.",
       "output_file": "audio/0051-entry-0026-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0051-entry-0026-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0051-entry-0026-question.mp3"
     },
     {
       "ordinal": 52,
@@ -1004,7 +1004,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy mieszka pani w wynajętym mieszkaniu?",
       "source_answer": "A: Nie, nie mieszkam w wynajętym mieszkaniu. Mieszkam w własnym mieszkaniu.",
       "output_file": "audio/0052-entry-0026-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0052-entry-0026-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0052-entry-0026-answer.mp3"
     },
     {
       "ordinal": 53,
@@ -1023,7 +1023,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaki jest pani aktualny adres?",
       "source_answer": "A: Aktualnie mieszkam w Krakowie przy ulicy Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418.",
       "output_file": "audio/0053-entry-0027-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0053-entry-0027-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0053-entry-0027-question.mp3"
     },
     {
       "ordinal": 54,
@@ -1042,7 +1042,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaki jest pani aktualny adres?",
       "source_answer": "A: Aktualnie mieszkam w Krakowie przy ulicy Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418.",
       "output_file": "audio/0054-entry-0027-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0054-entry-0027-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0054-entry-0027-answer.mp3"
     },
     {
       "ordinal": 55,
@@ -1061,7 +1061,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czym się pani zajmuje w pracy?",
       "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.",
       "output_file": "audio/0055-entry-0028-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0055-entry-0028-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0055-entry-0028-question.mp3"
     },
     {
       "ordinal": 56,
@@ -1080,7 +1080,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czym się pani zajmuje w pracy?",
       "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.",
       "output_file": "audio/0056-entry-0028-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0056-entry-0028-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0056-entry-0028-answer.mp3"
     },
     {
       "ordinal": 57,
@@ -1093,32 +1093,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Jakie pani ma kwalifikacje?",
       "original_reference_text": "What are your qualifications?",
       "display_question": "Q: Jakie pani ma kwalifikacje?",
-      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "reference_question": "Q: What are your qualifications?",
-      "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
+      "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
       "source_question": "Q: Jakie pani ma kwalifikacje?",
-      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "output_file": "audio/0057-entry-0029-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0057-entry-0029-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0057-entry-0029-question.mp3"
     },
     {
       "ordinal": 58,
       "entry_index": 29,
       "kind": "answer",
-      "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "translation_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
-      "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "original_reference_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
+      "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "translation_text": "I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
+      "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "original_reference_text": "I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
       "display_question": "Q: Jakie pani ma kwalifikacje?",
-      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "reference_question": "Q: What are your qualifications?",
-      "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
+      "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
       "source_question": "Q: Jakie pani ma kwalifikacje?",
-      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "output_file": "audio/0058-entry-0029-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0058-entry-0029-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0058-entry-0029-answer.mp3"
     },
     {
       "ordinal": 59,
@@ -1131,32 +1131,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Jak nazywa się firma, która dała pani ofertę pracy w Polsce?",
       "original_reference_text": "What is the name of the company that offered you a job in Poland?",
       "display_question": "Q: Jak nazywa się firma, która dała pani ofertę pracy w Polsce?",
-      "display_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+      "display_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
       "reference_question": "Q: What is the name of the company that offered you a job in Poland?",
-      "reference_answer": "A: The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+      "reference_answer": "A: The company that offered me a job in Poland is UBS Bank.",
       "source_question": "Q: Jak nazywa się firma, która dała pani ofertę pracy w Polsce?",
-      "source_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+      "source_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
       "output_file": "audio/0059-entry-0030-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0059-entry-0030-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0059-entry-0030-question.mp3"
     },
     {
       "ordinal": 60,
       "entry_index": 30,
       "kind": "answer",
-      "display_text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-      "translation_text": "The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
-      "spoken_text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Biltrast. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-      "text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Biltrast. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-      "original_text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-      "original_reference_text": "The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+      "display_text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+      "translation_text": "The company that offered me a job in Poland is UBS Bank.",
+      "spoken_text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+      "text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+      "original_text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+      "original_reference_text": "The company that offered me a job in Poland is UBS Bank.",
       "display_question": "Q: Jak nazywa się firma, która dała pani ofertę pracy w Polsce?",
-      "display_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+      "display_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
       "reference_question": "Q: What is the name of the company that offered you a job in Poland?",
-      "reference_answer": "A: The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+      "reference_answer": "A: The company that offered me a job in Poland is UBS Bank.",
       "source_question": "Q: Jak nazywa się firma, która dała pani ofertę pracy w Polsce?",
-      "source_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+      "source_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
       "output_file": "audio/0060-entry-0030-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0060-entry-0030-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0060-entry-0030-answer.mp3"
     },
     {
       "ordinal": 61,
@@ -1175,7 +1175,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kim pani jest z zawodu?",
       "source_answer": "A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.",
       "output_file": "audio/0061-entry-0031-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0061-entry-0031-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0061-entry-0031-question.mp3"
     },
     {
       "ordinal": 62,
@@ -1194,7 +1194,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kim pani jest z zawodu?",
       "source_answer": "A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.",
       "output_file": "audio/0062-entry-0031-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0062-entry-0031-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0062-entry-0031-answer.mp3"
     },
     {
       "ordinal": 63,
@@ -1213,7 +1213,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kiedy pani przyjechała do Polski?",
       "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
       "output_file": "audio/0063-entry-0032-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0063-entry-0032-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0063-entry-0032-question.mp3"
     },
     {
       "ordinal": 64,
@@ -1232,7 +1232,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kiedy pani przyjechała do Polski?",
       "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
       "output_file": "audio/0064-entry-0032-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0064-entry-0032-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0064-entry-0032-answer.mp3"
     },
     {
       "ordinal": 65,
@@ -1251,7 +1251,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Pod jakim adresem pani mieszka?",
       "source_answer": "A: Mieszkam w Krakowie przy ulicy Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418.",
       "output_file": "audio/0065-entry-0033-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0065-entry-0033-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0065-entry-0033-question.mp3"
     },
     {
       "ordinal": 66,
@@ -1270,7 +1270,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Pod jakim adresem pani mieszka?",
       "source_answer": "A: Mieszkam w Krakowie przy ulicy Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418.",
       "output_file": "audio/0066-entry-0033-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0066-entry-0033-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0066-entry-0033-answer.mp3"
     },
     {
       "ordinal": 67,
@@ -1289,7 +1289,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakich językach pani rozmawia w pracy?",
       "source_answer": "A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.",
       "output_file": "audio/0067-entry-0034-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0067-entry-0034-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0067-entry-0034-question.mp3"
     },
     {
       "ordinal": 68,
@@ -1308,7 +1308,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakich językach pani rozmawia w pracy?",
       "source_answer": "A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.",
       "output_file": "audio/0068-entry-0034-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0068-entry-0034-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0068-entry-0034-answer.mp3"
     },
     {
       "ordinal": 69,
@@ -1327,7 +1327,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ile lat pani mieszka w Polsce?",
       "source_answer": "A: MIESZKAM W POLSCE OSIEM LAT.",
       "output_file": "audio/0069-entry-0035-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0069-entry-0035-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0069-entry-0035-question.mp3"
     },
     {
       "ordinal": 70,
@@ -1346,7 +1346,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ile lat pani mieszka w Polsce?",
       "source_answer": "A: MIESZKAM W POLSCE OSIEM LAT.",
       "output_file": "audio/0070-entry-0035-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0070-entry-0035-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0070-entry-0035-answer.mp3"
     },
     {
       "ordinal": 71,
@@ -1365,7 +1365,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani mieszkała w Indiach?",
       "source_answer": "A: Mieszkałam w Bharthana. To moje rodzinne miasto.To wschodnia część Indii.",
       "output_file": "audio/0071-entry-0036-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0071-entry-0036-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0071-entry-0036-question.mp3"
     },
     {
       "ordinal": 72,
@@ -1384,7 +1384,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani mieszkała w Indiach?",
       "source_answer": "A: Mieszkałam w Bharthana. To moje rodzinne miasto.To wschodnia część Indii.",
       "output_file": "audio/0072-entry-0036-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0072-entry-0036-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0072-entry-0036-answer.mp3"
     },
     {
       "ordinal": 73,
@@ -1403,7 +1403,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Dlaczego uczy się pani języka polskiego?",
       "source_answer": "A: UCZĘ SIĘ JĘZYKA POLSKIEGO, BO PRACUJĘ W POLSCE.",
       "output_file": "audio/0073-entry-0037-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0073-entry-0037-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0073-entry-0037-question.mp3"
     },
     {
       "ordinal": 74,
@@ -1422,7 +1422,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Dlaczego uczy się pani języka polskiego?",
       "source_answer": "A: UCZĘ SIĘ JĘZYKA POLSKIEGO, BO PRACUJĘ W POLSCE.",
       "output_file": "audio/0074-entry-0037-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0074-entry-0037-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0074-entry-0037-answer.mp3"
     },
     {
       "ordinal": 75,
@@ -1441,7 +1441,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani jest w Polsce?",
       "source_answer": "A: JESTEM W POLSCE 8 LAT.",
       "output_file": "audio/0075-entry-0038-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0075-entry-0038-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0075-entry-0038-question.mp3"
     },
     {
       "ordinal": 76,
@@ -1460,7 +1460,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani jest w Polsce?",
       "source_answer": "A: JESTEM W POLSCE 8 LAT.",
       "output_file": "audio/0076-entry-0038-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0076-entry-0038-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0076-entry-0038-answer.mp3"
     },
     {
       "ordinal": 77,
@@ -1479,7 +1479,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaki jest pani zawód?",
       "source_answer": "A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.",
       "output_file": "audio/0077-entry-0039-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0077-entry-0039-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0077-entry-0039-question.mp3"
     },
     {
       "ordinal": 78,
@@ -1498,7 +1498,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaki jest pani zawód?",
       "source_answer": "A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.",
       "output_file": "audio/0078-entry-0039-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0078-entry-0039-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0078-entry-0039-answer.mp3"
     },
     {
       "ordinal": 79,
@@ -1517,7 +1517,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czym pani jeździ do pracy?",
       "source_answer": "A: Do pracy jeżdżę tramwajem albo autobusem albo samochodem. Czasami latem chodzę pieszo.",
       "output_file": "audio/0079-entry-0040-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0079-entry-0040-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0079-entry-0040-question.mp3"
     },
     {
       "ordinal": 80,
@@ -1536,7 +1536,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czym pani jeździ do pracy?",
       "source_answer": "A: Do pracy jeżdżę tramwajem albo autobusem albo samochodem. Czasami latem chodzę pieszo.",
       "output_file": "audio/0080-entry-0040-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0080-entry-0040-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0080-entry-0040-answer.mp3"
     },
     {
       "ordinal": 81,
@@ -1555,7 +1555,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Z jakiego kraju pani pochodzi?",
       "source_answer": "A: POCHODZĘ Z INDII.",
       "output_file": "audio/0081-entry-0041-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0081-entry-0041-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0081-entry-0041-question.mp3"
     },
     {
       "ordinal": 82,
@@ -1574,7 +1574,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Z jakiego kraju pani pochodzi?",
       "source_answer": "A: POCHODZĘ Z INDII.",
       "output_file": "audio/0082-entry-0041-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0082-entry-0041-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0082-entry-0041-answer.mp3"
     },
     {
       "ordinal": 83,
@@ -1593,7 +1593,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Od kiedy jest pani w Polsce?",
       "source_answer": "A: MIESZKAM W POLSCE 8 LAT./ JESTEM W POLSCE OD LISTOPADA 2018 ROKU.",
       "output_file": "audio/0083-entry-0042-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0083-entry-0042-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0083-entry-0042-question.mp3"
     },
     {
       "ordinal": 84,
@@ -1612,7 +1612,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Od kiedy jest pani w Polsce?",
       "source_answer": "A: MIESZKAM W POLSCE 8 LAT./ JESTEM W POLSCE OD LISTOPADA 2018 ROKU.",
       "output_file": "audio/0084-entry-0042-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0084-entry-0042-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0084-entry-0042-answer.mp3"
     },
     {
       "ordinal": 85,
@@ -1631,7 +1631,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Dlaczego pani zdecydowała się pracować w Polsce?",
       "source_answer": "A: Ddecydowałam się pracować w Polsce bo mój mąż pierwszy dostał pracę w polsce. potem ja też pracowałam w polsce.",
       "output_file": "audio/0085-entry-0043-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0085-entry-0043-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0085-entry-0043-question.mp3"
     },
     {
       "ordinal": 86,
@@ -1650,7 +1650,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Dlaczego pani zdecydowała się pracować w Polsce?",
       "source_answer": "A: Ddecydowałam się pracować w Polsce bo mój mąż pierwszy dostał pracę w polsce. potem ja też pracowałam w polsce.",
       "output_file": "audio/0086-entry-0043-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0086-entry-0043-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0086-entry-0043-answer.mp3"
     },
     {
       "ordinal": 87,
@@ -1669,7 +1669,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie pani ma obowiązki na swoim stanowisku?",
       "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.",
       "output_file": "audio/0087-entry-0044-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0087-entry-0044-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0087-entry-0044-question.mp3"
     },
     {
       "ordinal": 88,
@@ -1688,7 +1688,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie pani ma obowiązki na swoim stanowisku?",
       "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.",
       "output_file": "audio/0088-entry-0044-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0088-entry-0044-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0088-entry-0044-answer.mp3"
     },
     {
       "ordinal": 89,
@@ -1701,32 +1701,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Czy Pani mieszka sama?",
       "original_reference_text": "Do you live alone?",
       "display_question": "Q: Czy Pani mieszka sama?",
-      "display_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
+      "display_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.",
       "reference_question": "Q: Do you live alone?",
-      "reference_answer": "A: No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Shilpa and my daughter's name is Esabel.",
+      "reference_answer": "A: No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Pankaj and my daughter's name is Esabel.",
       "source_question": "Q: Czy Pani mieszka sama?",
-      "source_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
+      "source_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.",
       "output_file": "audio/0089-entry-0045-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0089-entry-0045-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0089-entry-0045-question.mp3"
     },
     {
       "ordinal": 90,
       "entry_index": 45,
       "kind": "answer",
-      "display_text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
-      "translation_text": "No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Shilpa and my daughter's name is Esabel.",
-      "spoken_text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
-      "text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
-      "original_text": "Nie, Nie mieszkam sama. Mieszkam z Rodziną, mój mąż i corka. Mój mąż ma na imię Rajesh a moja córka ma na imię Esabel .",
-      "original_reference_text": "No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Rajesh and my daughter's name is Esabel.",
+      "display_text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.",
+      "translation_text": "No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Pankaj and my daughter's name is Esabel.",
+      "spoken_text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankadż, a moja córka ma na imię Esabel.",
+      "text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankadż, a moja córka ma na imię Esabel.",
+      "original_text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.",
+      "original_reference_text": "No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Pankaj and my daughter's name is Esabel.",
       "display_question": "Q: Czy Pani mieszka sama?",
-      "display_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
+      "display_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.",
       "reference_question": "Q: Do you live alone?",
-      "reference_answer": "A: No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Shilpa and my daughter's name is Esabel.",
+      "reference_answer": "A: No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Pankaj and my daughter's name is Esabel.",
       "source_question": "Q: Czy Pani mieszka sama?",
-      "source_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
+      "source_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.",
       "output_file": "audio/0090-entry-0045-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0090-entry-0045-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0090-entry-0045-answer.mp3"
     },
     {
       "ordinal": 91,
@@ -1739,32 +1739,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Jakie są twoje kwalifikacje?",
       "original_reference_text": "What are your qualifications?",
       "display_question": "Q: Jakie są twoje kwalifikacje?",
-      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
+      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
       "reference_question": "Q: What are your qualifications?",
-      "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science.",
+      "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science.",
       "source_question": "Q: Jakie są twoje kwalifikacje?",
-      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
+      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
       "output_file": "audio/0091-entry-0046-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0091-entry-0046-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0091-entry-0046-question.mp3"
     },
     {
       "ordinal": 92,
       "entry_index": 46,
       "kind": "answer",
-      "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-      "translation_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science.",
-      "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-      "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-      "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-      "original_reference_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science.",
+      "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+      "translation_text": "I am a qualified computer engineer. I have a master's degree in computer science.",
+      "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+      "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+      "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+      "original_reference_text": "I am a qualified computer engineer. I have a master's degree in computer science.",
       "display_question": "Q: Jakie są twoje kwalifikacje?",
-      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
+      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
       "reference_question": "Q: What are your qualifications?",
-      "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science.",
+      "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science.",
       "source_question": "Q: Jakie są twoje kwalifikacje?",
-      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
+      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
       "output_file": "audio/0092-entry-0046-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0092-entry-0046-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0092-entry-0046-answer.mp3"
     },
     {
       "ordinal": 93,
@@ -1777,32 +1777,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Jak się nazywa firma?",
       "original_reference_text": "What is the name of the company?",
       "display_question": "Q: Jak się nazywa firma?",
-      "display_answer": "A: Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+      "display_answer": "A: Moja firma to UBS Bank.",
       "reference_question": "Q: What is the name of the company?",
-      "reference_answer": "A: My company is called Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+      "reference_answer": "A: My company is UBS Bank.",
       "source_question": "Q: Jak się nazywa firma?",
-      "source_answer": "A: Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+      "source_answer": "A: Moja firma to UBS Bank.",
       "output_file": "audio/0093-entry-0047-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0093-entry-0047-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0093-entry-0047-question.mp3"
     },
     {
       "ordinal": 94,
       "entry_index": 47,
       "kind": "answer",
-      "display_text": "Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-      "translation_text": "My company is called Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
-      "spoken_text": "Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Biltrast. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-      "text": "Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Biltrast. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-      "original_text": "Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-      "original_reference_text": "My company is called Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+      "display_text": "Moja firma to UBS Bank.",
+      "translation_text": "My company is UBS Bank.",
+      "spoken_text": "Moja firma to UBS Bank.",
+      "text": "Moja firma to UBS Bank.",
+      "original_text": "Moja firma to UBS Bank.",
+      "original_reference_text": "My company is UBS Bank.",
       "display_question": "Q: Jak się nazywa firma?",
-      "display_answer": "A: Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+      "display_answer": "A: Moja firma to UBS Bank.",
       "reference_question": "Q: What is the name of the company?",
-      "reference_answer": "A: My company is called Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+      "reference_answer": "A: My company is UBS Bank.",
       "source_question": "Q: Jak się nazywa firma?",
-      "source_answer": "A: Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+      "source_answer": "A: Moja firma to UBS Bank.",
       "output_file": "audio/0094-entry-0047-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0094-entry-0047-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0094-entry-0047-answer.mp3"
     },
     {
       "ordinal": 95,
@@ -1821,7 +1821,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kiedy Pani przyjechał do Polski?",
       "source_answer": "A: Przyjechałam do Polski 8 lat temu, 11 listopada 2018 roku. Przyjechałam do Polski z mężem i synem.",
       "output_file": "audio/0095-entry-0048-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0095-entry-0048-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0095-entry-0048-question.mp3"
     },
     {
       "ordinal": 96,
@@ -1840,7 +1840,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kiedy Pani przyjechał do Polski?",
       "source_answer": "A: Przyjechałam do Polski 8 lat temu, 11 listopada 2018 roku. Przyjechałam do Polski z mężem i synem.",
       "output_file": "audio/0096-entry-0048-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0096-entry-0048-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0096-entry-0048-answer.mp3"
     },
     {
       "ordinal": 97,
@@ -1853,32 +1853,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Jakie masz kwalifikacje?",
       "original_reference_text": "What are your qualifications?",
       "display_question": "Q: Jakie masz kwalifikacje?",
-      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
+      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
       "reference_question": "Q: What are your qualifications?",
-      "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science.",
+      "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science.",
       "source_question": "Q: Jakie masz kwalifikacje?",
-      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
+      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
       "output_file": "audio/0097-entry-0049-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0097-entry-0049-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0097-entry-0049-question.mp3"
     },
     {
       "ordinal": 98,
       "entry_index": 49,
       "kind": "answer",
-      "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-      "translation_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science.",
-      "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-      "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-      "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-      "original_reference_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science.",
+      "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+      "translation_text": "I am a qualified computer engineer. I have a master's degree in computer science.",
+      "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+      "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+      "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+      "original_reference_text": "I am a qualified computer engineer. I have a master's degree in computer science.",
       "display_question": "Q: Jakie masz kwalifikacje?",
-      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
+      "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
       "reference_question": "Q: What are your qualifications?",
-      "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science.",
+      "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science.",
       "source_question": "Q: Jakie masz kwalifikacje?",
-      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
+      "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
       "output_file": "audio/0098-entry-0049-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0098-entry-0049-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0098-entry-0049-answer.mp3"
     },
     {
       "ordinal": 99,
@@ -1891,32 +1891,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Czy pani współmałżonek pracuje?",
       "original_reference_text": "Does your spouse work?",
       "display_question": "Q: Czy pani współmałżonek pracuje?",
-      "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: Does your spouse work?",
-      "reference_answer": "A: MY spouse WORKS FOR StoneX.",
+      "reference_answer": "A: MY SPOUSE WORKS FOR StoneX Inc.",
       "source_question": "Q: Czy pani współmałżonek pracuje?",
-      "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0099-entry-0050-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0099-entry-0050-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0099-entry-0050-question.mp3"
     },
     {
       "ordinal": 100,
       "entry_index": 50,
       "kind": "answer",
-      "display_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-      "translation_text": "MY spouse WORKS FOR StoneX.",
-      "spoken_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-      "text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-      "original_text": "MÓJ współmałżonek PRACUJE W FIRMIE Hitachi Energy.",
-      "original_reference_text": "MY spouse WORKS FOR Hitachi Energy.",
+      "display_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
+      "translation_text": "MY SPOUSE WORKS FOR StoneX Inc.",
+      "spoken_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE Stone Eks Ink",
+      "text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE Stone Eks Ink",
+      "original_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
+      "original_reference_text": "MY SPOUSE WORKS FOR StoneX Inc.",
       "display_question": "Q: Czy pani współmałżonek pracuje?",
-      "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: Does your spouse work?",
-      "reference_answer": "A: MY spouse WORKS FOR StoneX.",
+      "reference_answer": "A: MY SPOUSE WORKS FOR StoneX Inc.",
       "source_question": "Q: Czy pani współmałżonek pracuje?",
-      "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0100-entry-0050-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0100-entry-0050-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0100-entry-0050-answer.mp3"
     },
     {
       "ordinal": 101,
@@ -1935,7 +1935,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaką Pani ma rodzinę?",
       "source_answer": "A: Moja rodzina w Polsce nie jest duża. Moja rodzina to mój mąż i mój syn.",
       "output_file": "audio/0101-entry-0051-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0101-entry-0051-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0101-entry-0051-question.mp3"
     },
     {
       "ordinal": 102,
@@ -1954,7 +1954,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaką Pani ma rodzinę?",
       "source_answer": "A: Moja rodzina w Polsce nie jest duża. Moja rodzina to mój mąż i mój syn.",
       "output_file": "audio/0102-entry-0051-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0102-entry-0051-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0102-entry-0051-answer.mp3"
     },
     {
       "ordinal": 103,
@@ -1967,32 +1967,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Czy pani mąż pracuje?",
       "original_reference_text": "Does your husband work?",
       "display_question": "Q: Czy pani mąż pracuje?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: Does your husband work?",
-      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
       "source_question": "Q: Czy pani mąż pracuje?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0103-entry-0052-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0103-entry-0052-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0103-entry-0052-question.mp3"
     },
     {
       "ordinal": 104,
       "entry_index": 52,
       "kind": "answer",
-      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "translation_text": "MY HUSBAND WORKS FOR StoneX.",
-      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.",
-      "original_reference_text": "MY HUSBAND WORKS FOR Hitachi Energy.",
+      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+      "translation_text": "MY HUSBAND WORKS FOR StoneX Inc.",
+      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+      "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+      "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+      "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc.",
       "display_question": "Q: Czy pani mąż pracuje?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: Does your husband work?",
-      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
       "source_question": "Q: Czy pani mąż pracuje?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0104-entry-0052-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0104-entry-0052-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0104-entry-0052-answer.mp3"
     },
     {
       "ordinal": 105,
@@ -2011,7 +2011,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani dziecko mówi po polsku?",
       "source_answer": "A: TAK, MÓJ SYN MÓWI PO POLSKU.",
       "output_file": "audio/0105-entry-0053-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0105-entry-0053-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0105-entry-0053-question.mp3"
     },
     {
       "ordinal": 106,
@@ -2030,7 +2030,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani dziecko mówi po polsku?",
       "source_answer": "A: TAK, MÓJ SYN MÓWI PO POLSKU.",
       "output_file": "audio/0106-entry-0053-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0106-entry-0053-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0106-entry-0053-answer.mp3"
     },
     {
       "ordinal": 107,
@@ -2049,7 +2049,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ile lat pracuje pani w obecnej firmie?",
       "source_answer": "A: W obecnej firmie pracuje 7 lat.",
       "output_file": "audio/0107-entry-0054-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0107-entry-0054-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0107-entry-0054-question.mp3"
     },
     {
       "ordinal": 108,
@@ -2068,7 +2068,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ile lat pracuje pani w obecnej firmie?",
       "source_answer": "A: W obecnej firmie pracuje 7 lat.",
       "output_file": "audio/0108-entry-0054-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0108-entry-0054-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0108-entry-0054-answer.mp3"
     },
     {
       "ordinal": 109,
@@ -2081,32 +2081,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Czy pani partner pracuje?",
       "original_reference_text": "Does your partner work?",
       "display_question": "Q: Czy pani partner pracuje?",
-      "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: Does your partner work?",
-      "reference_answer": "A: MY partner WORKS FOR StoneX.",
+      "reference_answer": "A: MY PARTNER WORKS FOR StoneX Inc.",
       "source_question": "Q: Czy pani partner pracuje?",
-      "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0109-entry-0055-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0109-entry-0055-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0109-entry-0055-question.mp3"
     },
     {
       "ordinal": 110,
       "entry_index": 55,
       "kind": "answer",
-      "display_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-      "translation_text": "MY partner WORKS FOR StoneX.",
-      "spoken_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-      "text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-      "original_text": "MÓJ partner PRACUJE W FIRMIE Hitachi Energy.",
-      "original_reference_text": "MY partner WORKS FOR Hitachi Energy.",
+      "display_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
+      "translation_text": "MY PARTNER WORKS FOR StoneX Inc.",
+      "spoken_text": "MÓJ PARTNER PRACUJE W FIRMIE Stone Eks Ink",
+      "text": "MÓJ PARTNER PRACUJE W FIRMIE Stone Eks Ink",
+      "original_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
+      "original_reference_text": "MY PARTNER WORKS FOR StoneX Inc.",
       "display_question": "Q: Czy pani partner pracuje?",
-      "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: Does your partner work?",
-      "reference_answer": "A: MY partner WORKS FOR StoneX.",
+      "reference_answer": "A: MY PARTNER WORKS FOR StoneX Inc.",
       "source_question": "Q: Czy pani partner pracuje?",
-      "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0110-entry-0055-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0110-entry-0055-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0110-entry-0055-answer.mp3"
     },
     {
       "ordinal": 111,
@@ -2119,32 +2119,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Jakie kwalifikacje zawodowe posiada pani mąż?",
       "original_reference_text": "What professional qualifications does your husband have?",
       "display_question": "Q: Jakie kwalifikacje zawodowe posiada pani mąż?",
-      "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "reference_question": "Q: What professional qualifications does your husband have?",
-      "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+      "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
       "source_question": "Q: Jakie kwalifikacje zawodowe posiada pani mąż?",
-      "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "output_file": "audio/0111-entry-0056-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0111-entry-0056-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0111-entry-0056-question.mp3"
     },
     {
       "ordinal": 112,
       "entry_index": 56,
       "kind": "answer",
-      "display_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "translation_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
-      "spoken_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "original_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "original_reference_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+      "display_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "translation_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
+      "spoken_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "original_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "original_reference_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
       "display_question": "Q: Jakie kwalifikacje zawodowe posiada pani mąż?",
-      "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "reference_question": "Q: What professional qualifications does your husband have?",
-      "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+      "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
       "source_question": "Q: Jakie kwalifikacje zawodowe posiada pani mąż?",
-      "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "output_file": "audio/0112-entry-0056-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0112-entry-0056-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0112-entry-0056-answer.mp3"
     },
     {
       "ordinal": 113,
@@ -2157,32 +2157,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Kiedy ostatnio pani była w Indiach?",
       "original_reference_text": "When was the last time you were in India?",
       "display_question": "Q: Kiedy ostatnio pani była w Indiach?",
-      "display_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r",
+      "display_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
       "reference_question": "Q: When was the last time you were in India?",
-      "reference_answer": "A: I was last in India on January 28, 2024",
+      "reference_answer": "A: I was last in India on March 20, 2026.",
       "source_question": "Q: Kiedy ostatnio pani była w Indiach?",
-      "source_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r",
+      "source_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
       "output_file": "audio/0113-entry-0057-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0113-entry-0057-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0113-entry-0057-question.mp3"
     },
     {
       "ordinal": 114,
       "entry_index": 57,
       "kind": "answer",
-      "display_text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r",
-      "translation_text": "I was last in India on January 28, 2024",
-      "spoken_text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r",
-      "text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r",
-      "original_text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r",
-      "original_reference_text": "I was last in India on January 28, 2024",
+      "display_text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+      "translation_text": "I was last in India on March 20, 2026.",
+      "spoken_text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+      "text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+      "original_text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+      "original_reference_text": "I was last in India on March 20, 2026.",
       "display_question": "Q: Kiedy ostatnio pani była w Indiach?",
-      "display_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r",
+      "display_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
       "reference_question": "Q: When was the last time you were in India?",
-      "reference_answer": "A: I was last in India on January 28, 2024",
+      "reference_answer": "A: I was last in India on March 20, 2026.",
       "source_question": "Q: Kiedy ostatnio pani była w Indiach?",
-      "source_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r",
+      "source_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
       "output_file": "audio/0114-entry-0057-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0114-entry-0057-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0114-entry-0057-answer.mp3"
     },
     {
       "ordinal": 115,
@@ -2195,32 +2195,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Czy pani współmałżonek pracuje?",
       "original_reference_text": "Does your spouse work?",
       "display_question": "Q: Czy pani współmałżonek pracuje?",
-      "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: Does your spouse work?",
-      "reference_answer": "A: MY spouse WORKS FOR StoneX.",
+      "reference_answer": "A: MY SPOUSE WORKS FOR StoneX Inc.",
       "source_question": "Q: Czy pani współmałżonek pracuje?",
-      "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0115-entry-0058-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0115-entry-0058-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0115-entry-0058-question.mp3"
     },
     {
       "ordinal": 116,
       "entry_index": 58,
       "kind": "answer",
-      "display_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-      "translation_text": "MY spouse WORKS FOR StoneX.",
-      "spoken_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-      "text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-      "original_text": "MÓJ współmałżonek PRACUJE W FIRMIE Hitachi Energy.",
-      "original_reference_text": "MY spouse WORKS FOR Hitachi Energy.",
+      "display_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
+      "translation_text": "MY SPOUSE WORKS FOR StoneX Inc.",
+      "spoken_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE Stone Eks Ink",
+      "text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE Stone Eks Ink",
+      "original_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
+      "original_reference_text": "MY SPOUSE WORKS FOR StoneX Inc.",
       "display_question": "Q: Czy pani współmałżonek pracuje?",
-      "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: Does your spouse work?",
-      "reference_answer": "A: MY spouse WORKS FOR StoneX.",
+      "reference_answer": "A: MY SPOUSE WORKS FOR StoneX Inc.",
       "source_question": "Q: Czy pani współmałżonek pracuje?",
-      "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0116-entry-0058-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0116-entry-0058-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0116-entry-0058-answer.mp3"
     },
     {
       "ordinal": 117,
@@ -2239,7 +2239,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani dzieci?",
       "source_answer": "A: TAK, MAM SYNA.",
       "output_file": "audio/0117-entry-0059-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0117-entry-0059-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0117-entry-0059-question.mp3"
     },
     {
       "ordinal": 118,
@@ -2258,7 +2258,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani dzieci?",
       "source_answer": "A: TAK, MAM SYNA.",
       "output_file": "audio/0118-entry-0059-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0118-entry-0059-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0118-entry-0059-answer.mp3"
     },
     {
       "ordinal": 119,
@@ -2277,7 +2277,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani dziecko jest w przedszkolu/szkole/żłobku?",
       "source_answer": "A: MÓJ SYN JEST W SZKOLE OKOŁO 6 GODZIN.",
       "output_file": "audio/0119-entry-0060-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0119-entry-0060-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0119-entry-0060-question.mp3"
     },
     {
       "ordinal": 120,
@@ -2296,7 +2296,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani dziecko jest w przedszkolu/szkole/żłobku?",
       "source_answer": "A: MÓJ SYN JEST W SZKOLE OKOŁO 6 GODZIN.",
       "output_file": "audio/0120-entry-0060-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0120-entry-0060-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0120-entry-0060-answer.mp3"
     },
     {
       "ordinal": 121,
@@ -2309,32 +2309,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "W jakiej firmie pracuje twój mąż?",
       "original_reference_text": "What company does your husband work for?",
       "display_question": "Q: W jakiej firmie pracuje twój mąż?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: What company does your husband work for?",
-      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
       "source_question": "Q: W jakiej firmie pracuje twój mąż?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0121-entry-0061-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0121-entry-0061-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0121-entry-0061-question.mp3"
     },
     {
       "ordinal": 122,
       "entry_index": 61,
       "kind": "answer",
-      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "translation_text": "MY HUSBAND WORKS FOR StoneX.",
-      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.",
-      "original_reference_text": "MY HUSBAND WORKS FOR Hitachi Energy.",
+      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+      "translation_text": "MY HUSBAND WORKS FOR StoneX Inc.",
+      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+      "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+      "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+      "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc.",
       "display_question": "Q: W jakiej firmie pracuje twój mąż?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: What company does your husband work for?",
-      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
       "source_question": "Q: W jakiej firmie pracuje twój mąż?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0122-entry-0061-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0122-entry-0061-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0122-entry-0061-answer.mp3"
     },
     {
       "ordinal": 123,
@@ -2353,7 +2353,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani mąż pracuje zawodowo?",
       "source_answer": "A: TAK, MÓJ MĄŻ PRACUJE ZAWODOWO.",
       "output_file": "audio/0123-entry-0062-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0123-entry-0062-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0123-entry-0062-question.mp3"
     },
     {
       "ordinal": 124,
@@ -2372,7 +2372,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani mąż pracuje zawodowo?",
       "source_answer": "A: TAK, MÓJ MĄŻ PRACUJE ZAWODOWO.",
       "output_file": "audio/0124-entry-0062-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0124-entry-0062-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0124-entry-0062-answer.mp3"
     },
     {
       "ordinal": 125,
@@ -2391,7 +2391,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Skąd pani pochodzi?",
       "source_answer": "A: POCHODZĘ Z INDII.",
       "output_file": "audio/0125-entry-0063-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0125-entry-0063-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0125-entry-0063-question.mp3"
     },
     {
       "ordinal": 126,
@@ -2410,7 +2410,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Skąd pani pochodzi?",
       "source_answer": "A: POCHODZĘ Z INDII.",
       "output_file": "audio/0126-entry-0063-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0126-entry-0063-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0126-entry-0063-answer.mp3"
     },
     {
       "ordinal": 127,
@@ -2429,7 +2429,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani dziecko spotyka się z polskimi dziećmi?",
       "source_answer": "A: TAK, MÓJ SYN SPOTYKA SIĘ Z POLSKIMI DZIEĆMI.",
       "output_file": "audio/0127-entry-0064-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0127-entry-0064-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0127-entry-0064-question.mp3"
     },
     {
       "ordinal": 128,
@@ -2448,7 +2448,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani dziecko spotyka się z polskimi dziećmi?",
       "source_answer": "A: TAK, MÓJ SYN SPOTYKA SIĘ Z POLSKIMI DZIEĆMI.",
       "output_file": "audio/0128-entry-0064-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0128-entry-0064-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0128-entry-0064-answer.mp3"
     },
     {
       "ordinal": 129,
@@ -2461,32 +2461,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "W jakiej firmie pracuje pani mąż?",
       "original_reference_text": "What company does your husband work for?",
       "display_question": "Q: W jakiej firmie pracuje pani mąż?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: What company does your husband work for?",
-      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
       "source_question": "Q: W jakiej firmie pracuje pani mąż?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0129-entry-0065-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0129-entry-0065-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0129-entry-0065-question.mp3"
     },
     {
       "ordinal": 130,
       "entry_index": 65,
       "kind": "answer",
-      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "translation_text": "MY HUSBAND WORKS FOR StoneX.",
-      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.",
-      "original_reference_text": "MY HUSBAND WORKS FOR Hitachi Energy.",
+      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+      "translation_text": "MY HUSBAND WORKS FOR StoneX Inc.",
+      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+      "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+      "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+      "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc.",
       "display_question": "Q: W jakiej firmie pracuje pani mąż?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: What company does your husband work for?",
-      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
       "source_question": "Q: W jakiej firmie pracuje pani mąż?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0130-entry-0065-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0130-entry-0065-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0130-entry-0065-answer.mp3"
     },
     {
       "ordinal": 131,
@@ -2505,7 +2505,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak dawno temu pani przyjechała do Polski?",
       "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
       "output_file": "audio/0131-entry-0066-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0131-entry-0066-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0131-entry-0066-question.mp3"
     },
     {
       "ordinal": 132,
@@ -2524,7 +2524,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak dawno temu pani przyjechała do Polski?",
       "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
       "output_file": "audio/0132-entry-0066-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0132-entry-0066-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0132-entry-0066-answer.mp3"
     },
     {
       "ordinal": 133,
@@ -2537,32 +2537,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "W jakiej firmie pracował twój mąż?",
       "original_reference_text": "What company did your husband work for?",
       "display_question": "Q: W jakiej firmie pracował twój mąż?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: What company did your husband work for?",
-      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
       "source_question": "Q: W jakiej firmie pracował twój mąż?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0133-entry-0067-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0133-entry-0067-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0133-entry-0067-question.mp3"
     },
     {
       "ordinal": 134,
       "entry_index": 67,
       "kind": "answer",
-      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "translation_text": "MY HUSBAND WORKS FOR StoneX.",
-      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.",
-      "original_reference_text": "MY HUSBAND WORKS FOR Hitachi Energy.",
+      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+      "translation_text": "MY HUSBAND WORKS FOR StoneX Inc.",
+      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+      "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+      "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+      "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc.",
       "display_question": "Q: W jakiej firmie pracował twój mąż?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: What company did your husband work for?",
-      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
       "source_question": "Q: W jakiej firmie pracował twój mąż?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0134-entry-0067-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0134-entry-0067-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0134-entry-0067-answer.mp3"
     },
     {
       "ordinal": 135,
@@ -2581,7 +2581,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani dziecko bawi się z polskimi dziećmi?",
       "source_answer": "A: TAK, MÓJ SYN BAWI SIĘ Z POLSKIMI DZIEĆMI.",
       "output_file": "audio/0135-entry-0068-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0135-entry-0068-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0135-entry-0068-question.mp3"
     },
     {
       "ordinal": 136,
@@ -2600,7 +2600,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani dziecko bawi się z polskimi dziećmi?",
       "source_answer": "A: TAK, MÓJ SYN BAWI SIĘ Z POLSKIMI DZIEĆMI.",
       "output_file": "audio/0136-entry-0068-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0136-entry-0068-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0136-entry-0068-answer.mp3"
     },
     {
       "ordinal": 137,
@@ -2619,7 +2619,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani mąż jest wysoko wykwalifikowanym pracownikiem?",
       "source_answer": "A: TAK MÓJ MĄŻ JEST WYSOKO WYKWALIFIKOWANYM PRACOWNIKIEM. ON JEST Enginierem INFORMATYKI.",
       "output_file": "audio/0137-entry-0069-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0137-entry-0069-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0137-entry-0069-question.mp3"
     },
     {
       "ordinal": 138,
@@ -2638,7 +2638,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani mąż jest wysoko wykwalifikowanym pracownikiem?",
       "source_answer": "A: TAK MÓJ MĄŻ JEST WYSOKO WYKWALIFIKOWANYM PRACOWNIKIEM. ON JEST Enginierem INFORMATYKI.",
       "output_file": "audio/0138-entry-0069-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0138-entry-0069-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0138-entry-0069-answer.mp3"
     },
     {
       "ordinal": 139,
@@ -2657,7 +2657,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani mieszkała wcześniej?",
       "source_answer": "A: Wcześniej mieszkałam w Indiach, w Bharthana. Zanim przyjechałam do Polski, mieszkałam tylko w Indiach. Generalnie mieszkałam w Bharthana — to jest moje rodzinne miasto — ale potem pracowałam i mieszkałam w Delhi. Po tym jak mój mąż dostał pracę w Polsce, przyjechałam do Polski, i od tego czasu mieszkam w Polsce.",
       "output_file": "audio/0139-entry-0070-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0139-entry-0070-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0139-entry-0070-question.mp3"
     },
     {
       "ordinal": 140,
@@ -2676,7 +2676,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani mieszkała wcześniej?",
       "source_answer": "A: Wcześniej mieszkałam w Indiach, w Bharthana. Zanim przyjechałam do Polski, mieszkałam tylko w Indiach. Generalnie mieszkałam w Bharthana — to jest moje rodzinne miasto — ale potem pracowałam i mieszkałam w Delhi. Po tym jak mój mąż dostał pracę w Polsce, przyjechałam do Polski, i od tego czasu mieszkam w Polsce.",
       "output_file": "audio/0140-entry-0070-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0140-entry-0070-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0140-entry-0070-answer.mp3"
     },
     {
       "ordinal": 141,
@@ -2689,32 +2689,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Jakie kwalifikacje posiada pani mąż?",
       "original_reference_text": "What qualifications does your husband have?",
       "display_question": "Q: Jakie kwalifikacje posiada pani mąż?",
-      "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "reference_question": "Q: What qualifications does your husband have?",
-      "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+      "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
       "source_question": "Q: Jakie kwalifikacje posiada pani mąż?",
-      "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "output_file": "audio/0141-entry-0071-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0141-entry-0071-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0141-entry-0071-question.mp3"
     },
     {
       "ordinal": 142,
       "entry_index": 71,
       "kind": "answer",
-      "display_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "translation_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
-      "spoken_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "original_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "original_reference_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+      "display_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "translation_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
+      "spoken_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "original_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "original_reference_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
       "display_question": "Q: Jakie kwalifikacje posiada pani mąż?",
-      "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "reference_question": "Q: What qualifications does your husband have?",
-      "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+      "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
       "source_question": "Q: Jakie kwalifikacje posiada pani mąż?",
-      "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "output_file": "audio/0142-entry-0071-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0142-entry-0071-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0142-entry-0071-answer.mp3"
     },
     {
       "ordinal": 143,
@@ -2733,7 +2733,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ile lat ma pani syn?",
       "source_answer": "A: MÓJ SYN MA 10 LAT.",
       "output_file": "audio/0143-entry-0072-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0143-entry-0072-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0143-entry-0072-question.mp3"
     },
     {
       "ordinal": 144,
@@ -2752,7 +2752,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ile lat ma pani syn?",
       "source_answer": "A: MÓJ SYN MA 10 LAT.",
       "output_file": "audio/0144-entry-0072-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0144-entry-0072-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0144-entry-0072-answer.mp3"
     },
     {
       "ordinal": 145,
@@ -2771,7 +2771,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani dziecko chodzi do szkoły, przedszkola albo żłobka?",
       "source_answer": "A: TAK, MOJE DZIECKO CHODZI DO SZKOŁY.",
       "output_file": "audio/0145-entry-0073-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0145-entry-0073-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0145-entry-0073-question.mp3"
     },
     {
       "ordinal": 146,
@@ -2790,7 +2790,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani dziecko chodzi do szkoły, przedszkola albo żłobka?",
       "source_answer": "A: TAK, MOJE DZIECKO CHODZI DO SZKOŁY.",
       "output_file": "audio/0146-entry-0073-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0146-entry-0073-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0146-entry-0073-answer.mp3"
     },
     {
       "ordinal": 147,
@@ -2803,32 +2803,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Kim jest pani mąż z wykształcenia?",
       "original_reference_text": "Who is your husband by profession?",
       "display_question": "Q: Kim jest pani mąż z wykształcenia?",
-      "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "reference_question": "Q: Who is your husband by profession?",
-      "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+      "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
       "source_question": "Q: Kim jest pani mąż z wykształcenia?",
-      "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "output_file": "audio/0147-entry-0074-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0147-entry-0074-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0147-entry-0074-question.mp3"
     },
     {
       "ordinal": 148,
       "entry_index": 74,
       "kind": "answer",
-      "display_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "translation_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
-      "spoken_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "original_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-      "original_reference_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+      "display_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "translation_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
+      "spoken_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "original_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+      "original_reference_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
       "display_question": "Q: Kim jest pani mąż z wykształcenia?",
-      "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "reference_question": "Q: Who is your husband by profession?",
-      "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+      "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
       "source_question": "Q: Kim jest pani mąż z wykształcenia?",
-      "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+      "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
       "output_file": "audio/0148-entry-0074-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0148-entry-0074-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0148-entry-0074-answer.mp3"
     },
     {
       "ordinal": 149,
@@ -2847,7 +2847,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani mieszka w Polsce?",
       "source_answer": "A: MIESZKAM W POLSCE 8 LAT.",
       "output_file": "audio/0149-entry-0075-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0149-entry-0075-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0149-entry-0075-question.mp3"
     },
     {
       "ordinal": 150,
@@ -2866,7 +2866,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani mieszka w Polsce?",
       "source_answer": "A: MIESZKAM W POLSCE 8 LAT.",
       "output_file": "audio/0150-entry-0075-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0150-entry-0075-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0150-entry-0075-answer.mp3"
     },
     {
       "ordinal": 151,
@@ -2879,32 +2879,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Jak ma na imię pani mąż?",
       "original_reference_text": "What is your husband's name?",
       "display_question": "Q: Jak ma na imię pani mąż?",
-      "display_answer": "A: MÓJ MĄŻ MA NA IMIĘ Shilpa.",
+      "display_answer": "A: MÓJ MĄŻ MA NA IMIĘ Pankaj.",
       "reference_question": "Q: What is your husband's name?",
-      "reference_answer": "A: MY HUSBAND'S NAME IS Shilpa.",
+      "reference_answer": "A: MY HUSBAND'S NAME IS Pankaj.",
       "source_question": "Q: Jak ma na imię pani mąż?",
-      "source_answer": "A: MÓJ MĄŻ MA NA IMIĘ Shilpa.",
+      "source_answer": "A: MÓJ MĄŻ MA NA IMIĘ Pankaj.",
       "output_file": "audio/0151-entry-0076-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0151-entry-0076-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0151-entry-0076-question.mp3"
     },
     {
       "ordinal": 152,
       "entry_index": 76,
       "kind": "answer",
-      "display_text": "MÓJ MĄŻ MA NA IMIĘ Shilpa.",
-      "translation_text": "MY HUSBAND'S NAME IS Shilpa.",
-      "spoken_text": "MÓJ MĄŻ MA NA IMIĘ Shilpa.",
-      "text": "MÓJ MĄŻ MA NA IMIĘ Shilpa.",
-      "original_text": "MÓJ MĄŻ MA NA IMIĘ Rajesh.",
-      "original_reference_text": "MY HUSBAND'S NAME IS Rajesh.",
+      "display_text": "MÓJ MĄŻ MA NA IMIĘ Pankaj.",
+      "translation_text": "MY HUSBAND'S NAME IS Pankaj.",
+      "spoken_text": "MÓJ MĄŻ MA NA IMIĘ Pankadż.",
+      "text": "MÓJ MĄŻ MA NA IMIĘ Pankadż.",
+      "original_text": "MÓJ MĄŻ MA NA IMIĘ Pankaj.",
+      "original_reference_text": "MY HUSBAND'S NAME IS Pankaj.",
       "display_question": "Q: Jak ma na imię pani mąż?",
-      "display_answer": "A: MÓJ MĄŻ MA NA IMIĘ Shilpa.",
+      "display_answer": "A: MÓJ MĄŻ MA NA IMIĘ Pankaj.",
       "reference_question": "Q: What is your husband's name?",
-      "reference_answer": "A: MY HUSBAND'S NAME IS Shilpa.",
+      "reference_answer": "A: MY HUSBAND'S NAME IS Pankaj.",
       "source_question": "Q: Jak ma na imię pani mąż?",
-      "source_answer": "A: MÓJ MĄŻ MA NA IMIĘ Shilpa.",
+      "source_answer": "A: MÓJ MĄŻ MA NA IMIĘ Pankaj.",
       "output_file": "audio/0152-entry-0076-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0152-entry-0076-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0152-entry-0076-answer.mp3"
     },
     {
       "ordinal": 153,
@@ -2917,32 +2917,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Czy pani mąż pracuje w firmie, czy ma własną działalność gospodarczą?",
       "original_reference_text": "Does your husband work in a company or does he run his own business?",
       "display_question": "Q: Czy pani mąż pracuje w firmie, czy ma własną działalność gospodarczą?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.",
       "reference_question": "Q: Does your husband work in a company or does he run his own business?",
-      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX. HE DOESN'T HAVE OWN BUSINESS.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc. HE DOESN'T HAVE HIS OWN BUSINESS.",
       "source_question": "Q: Czy pani mąż pracuje w firmie, czy ma własną działalność gospodarczą?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.",
       "output_file": "audio/0153-entry-0077-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0153-entry-0077-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0153-entry-0077-question.mp3"
     },
     {
       "ordinal": 154,
       "entry_index": 77,
       "kind": "answer",
-      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
-      "translation_text": "MY HUSBAND WORKS FOR StoneX. HE DOESN'T HAVE OWN BUSINESS.",
-      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
-      "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
-      "original_text": "MÓJ MĄZ PRACUJE W FIRMIE Hitachi Energy. ON NIE MA WŁASNEJ FIRMY.",
-      "original_reference_text": "MY HUSBAND WORKS FOR Hitachi Energy. HE DOESN'T HAVE OWN BUSINESS.",
+      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.",
+      "translation_text": "MY HUSBAND WORKS FOR StoneX Inc. HE DOESN'T HAVE HIS OWN BUSINESS.",
+      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink ON NIE MA WŁASNEJ FIRMY.",
+      "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink ON NIE MA WŁASNEJ FIRMY.",
+      "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.",
+      "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc. HE DOESN'T HAVE HIS OWN BUSINESS.",
       "display_question": "Q: Czy pani mąż pracuje w firmie, czy ma własną działalność gospodarczą?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.",
       "reference_question": "Q: Does your husband work in a company or does he run his own business?",
-      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX. HE DOESN'T HAVE OWN BUSINESS.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc. HE DOESN'T HAVE HIS OWN BUSINESS.",
       "source_question": "Q: Czy pani mąż pracuje w firmie, czy ma własną działalność gospodarczą?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.",
       "output_file": "audio/0154-entry-0077-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0154-entry-0077-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0154-entry-0077-answer.mp3"
     },
     {
       "ordinal": 155,
@@ -2961,7 +2961,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Z jakiego kraju pani pochodzi?",
       "source_answer": "A: POCHODZĘ Z INDII.",
       "output_file": "audio/0155-entry-0078-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0155-entry-0078-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0155-entry-0078-question.mp3"
     },
     {
       "ordinal": 156,
@@ -2980,45 +2980,45 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Z jakiego kraju pani pochodzi?",
       "source_answer": "A: POCHODZĘ Z INDII.",
       "output_file": "audio/0156-entry-0078-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0156-entry-0078-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0156-entry-0078-answer.mp3"
     },
     {
       "ordinal": 157,
       "entry_index": 79,
       "kind": "question",
-      "display_text": "Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-      "translation_text": "Does your daughter go to public or private school?",
-      "spoken_text": "Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-      "text": "Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-      "original_text": "Czy pani córka chodzi do szkoły publicznej czy prywatnej?",
-      "original_reference_text": "Does your daughter go to public or private school?",
-      "display_question": "Q: Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-      "display_answer": "A: Mój syn chodzi do szkoły publicznej.",
-      "reference_question": "Q: Does your daughter go to public or private school?",
-      "reference_answer": "A: My daughter goes to public school.",
-      "source_question": "Q: Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-      "source_answer": "A: Mój syn chodzi do szkoły publicznej.",
+      "display_text": "Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+      "translation_text": "Does your son go to public or bilingual school?",
+      "spoken_text": "Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+      "text": "Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+      "original_text": "Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+      "original_reference_text": "Does your son go to public or bilingual school?",
+      "display_question": "Q: Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+      "display_answer": "A: Mój syn chodzi do szkoły dwujęzycznej.",
+      "reference_question": "Q: Does your son go to public or bilingual school?",
+      "reference_answer": "A: My son goes to bilingual school.",
+      "source_question": "Q: Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+      "source_answer": "A: Mój syn chodzi do szkoły dwujęzycznej.",
       "output_file": "audio/0157-entry-0079-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0157-entry-0079-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0157-entry-0079-question.mp3"
     },
     {
       "ordinal": 158,
       "entry_index": 79,
       "kind": "answer",
-      "display_text": "Mój syn chodzi do szkoły publicznej.",
-      "translation_text": "My daughter goes to public school.",
-      "spoken_text": "Mój syn chodzi do szkoły publicznej.",
-      "text": "Mój syn chodzi do szkoły publicznej.",
-      "original_text": "Moja córka chodzi do SZKOŁA PUBLICZNA.",
-      "original_reference_text": "My daughter goes to public school.",
-      "display_question": "Q: Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-      "display_answer": "A: Mój syn chodzi do szkoły publicznej.",
-      "reference_question": "Q: Does your daughter go to public or private school?",
-      "reference_answer": "A: My daughter goes to public school.",
-      "source_question": "Q: Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-      "source_answer": "A: Mój syn chodzi do szkoły publicznej.",
+      "display_text": "Mój syn chodzi do szkoły dwujęzycznej.",
+      "translation_text": "My son goes to bilingual school.",
+      "spoken_text": "Mój syn chodzi do szkoły dwujęzycznej.",
+      "text": "Mój syn chodzi do szkoły dwujęzycznej.",
+      "original_text": "Mój syn chodzi do szkoły dwujęzycznej.",
+      "original_reference_text": "My son goes to bilingual school.",
+      "display_question": "Q: Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+      "display_answer": "A: Mój syn chodzi do szkoły dwujęzycznej.",
+      "reference_question": "Q: Does your son go to public or bilingual school?",
+      "reference_answer": "A: My son goes to bilingual school.",
+      "source_question": "Q: Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+      "source_answer": "A: Mój syn chodzi do szkoły dwujęzycznej.",
       "output_file": "audio/0158-entry-0079-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0158-entry-0079-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0158-entry-0079-answer.mp3"
     },
     {
       "ordinal": 159,
@@ -3037,7 +3037,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Od kiedy jest pani w Polsce?",
       "source_answer": "A: JESTEM W POLSCE OD LISTOPADA 2018 ROKU.",
       "output_file": "audio/0159-entry-0080-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0159-entry-0080-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0159-entry-0080-question.mp3"
     },
     {
       "ordinal": 160,
@@ -3056,7 +3056,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Od kiedy jest pani w Polsce?",
       "source_answer": "A: JESTEM W POLSCE OD LISTOPADA 2018 ROKU.",
       "output_file": "audio/0160-entry-0080-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0160-entry-0080-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0160-entry-0080-answer.mp3"
     },
     {
       "ordinal": 161,
@@ -3075,7 +3075,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani dziecko uczęszcza do polskojęzycznej szkoły lub przedszkola?",
       "source_answer": "A: TAK, MOJE DZIECKO CHODZI DO POLSKOJĘZYCZNEJ SZKOŁY.",
       "output_file": "audio/0161-entry-0081-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0161-entry-0081-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0161-entry-0081-question.mp3"
     },
     {
       "ordinal": 162,
@@ -3094,7 +3094,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani dziecko uczęszcza do polskojęzycznej szkoły lub przedszkola?",
       "source_answer": "A: TAK, MOJE DZIECKO CHODZI DO POLSKOJĘZYCZNEJ SZKOŁY.",
       "output_file": "audio/0162-entry-0081-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0162-entry-0081-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0162-entry-0081-answer.mp3"
     },
     {
       "ordinal": 163,
@@ -3107,32 +3107,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Co robi pani mąż?",
       "original_reference_text": "What does your husband do?",
       "display_question": "Q: Co robi pani mąż?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: What does your husband do?",
-      "reference_answer": "A: MY HUSBAND DEALS WITH StoneX.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
       "source_question": "Q: Co robi pani mąż?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0163-entry-0082-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0163-entry-0082-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0163-entry-0082-question.mp3"
     },
     {
       "ordinal": 164,
       "entry_index": 82,
       "kind": "answer",
-      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "translation_text": "MY HUSBAND DEALS WITH StoneX.",
-      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "original_text": "MÓJ MĄŻ ZAJMUJE SIĘ Hitachi Energy.",
-      "original_reference_text": "MY HUSBAND DEALS WITH Hitachi Energy.",
+      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+      "translation_text": "MY HUSBAND WORKS FOR StoneX Inc.",
+      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+      "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+      "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+      "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc.",
       "display_question": "Q: Co robi pani mąż?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: What does your husband do?",
-      "reference_answer": "A: MY HUSBAND DEALS WITH StoneX.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
       "source_question": "Q: Co robi pani mąż?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0164-entry-0082-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0164-entry-0082-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0164-entry-0082-answer.mp3"
     },
     {
       "ordinal": 165,
@@ -3151,7 +3151,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ile lat pani mieszka w Polsce?",
       "source_answer": "A: MIESZKAM W POLSCE OSIEM LAT.",
       "output_file": "audio/0165-entry-0083-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0165-entry-0083-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0165-entry-0083-question.mp3"
     },
     {
       "ordinal": 166,
@@ -3170,7 +3170,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ile lat pani mieszka w Polsce?",
       "source_answer": "A: MIESZKAM W POLSCE OSIEM LAT.",
       "output_file": "audio/0166-entry-0083-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0166-entry-0083-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0166-entry-0083-answer.mp3"
     },
     {
       "ordinal": 167,
@@ -3189,7 +3189,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani mąż pracuje?",
       "source_answer": "A: TAK, MÓJ MĄŻ PRACUJE ZAWODOWO.",
       "output_file": "audio/0167-entry-0084-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0167-entry-0084-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0167-entry-0084-question.mp3"
     },
     {
       "ordinal": 168,
@@ -3208,7 +3208,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani mąż pracuje?",
       "source_answer": "A: TAK, MÓJ MĄŻ PRACUJE ZAWODOWO.",
       "output_file": "audio/0168-entry-0084-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0168-entry-0084-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0168-entry-0084-answer.mp3"
     },
     {
       "ordinal": 169,
@@ -3227,7 +3227,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakim mieście pani mieszkała w Indiach?",
       "source_answer": "A: Mieszkałam w Bharthana.",
       "output_file": "audio/0169-entry-0085-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0169-entry-0085-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0169-entry-0085-question.mp3"
     },
     {
       "ordinal": 170,
@@ -3246,7 +3246,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakim mieście pani mieszkała w Indiach?",
       "source_answer": "A: Mieszkałam w Bharthana.",
       "output_file": "audio/0170-entry-0085-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0170-entry-0085-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0170-entry-0085-answer.mp3"
     },
     {
       "ordinal": 171,
@@ -3265,7 +3265,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani dziecko ma polskich kolegów lub koleżanki?",
       "source_answer": "A: TAK, MOJE DZIECKO MA KILKU POLSKICH KOLEGÓW/KILKA POLSKICH KOLEŻANEK.",
       "output_file": "audio/0171-entry-0086-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0171-entry-0086-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0171-entry-0086-question.mp3"
     },
     {
       "ordinal": 172,
@@ -3284,7 +3284,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani dziecko ma polskich kolegów lub koleżanki?",
       "source_answer": "A: TAK, MOJE DZIECKO MA KILKU POLSKICH KOLEGÓW/KILKA POLSKICH KOLEŻANEK.",
       "output_file": "audio/0172-entry-0086-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0172-entry-0086-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0172-entry-0086-answer.mp3"
     },
     {
       "ordinal": 173,
@@ -3303,7 +3303,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani jest w Polsce?",
       "source_answer": "A: JESTEM W POLSCE 8 LAT.",
       "output_file": "audio/0173-entry-0087-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0173-entry-0087-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0173-entry-0087-question.mp3"
     },
     {
       "ordinal": 174,
@@ -3322,7 +3322,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani jest w Polsce?",
       "source_answer": "A: JESTEM W POLSCE 8 LAT.",
       "output_file": "audio/0174-entry-0087-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0174-entry-0087-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0174-entry-0087-answer.mp3"
     },
     {
       "ordinal": 175,
@@ -3341,7 +3341,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Skąd pani jest?",
       "source_answer": "A: JESTEM Z INDII.",
       "output_file": "audio/0175-entry-0088-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0175-entry-0088-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0175-entry-0088-question.mp3"
     },
     {
       "ordinal": 176,
@@ -3360,7 +3360,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Skąd pani jest?",
       "source_answer": "A: JESTEM Z INDII.",
       "output_file": "audio/0176-entry-0088-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0176-entry-0088-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0176-entry-0088-answer.mp3"
     },
     {
       "ordinal": 177,
@@ -3379,7 +3379,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani dziecko zostaje w przedszkolu/szkole/żłobku?",
       "source_answer": "A: MÓJ SYN JEST W SZKOLE OKOŁO 6 GODZIN.",
       "output_file": "audio/0177-entry-0089-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0177-entry-0089-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0177-entry-0089-question.mp3"
     },
     {
       "ordinal": 178,
@@ -3398,7 +3398,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak długo pani dziecko zostaje w przedszkolu/szkole/żłobku?",
       "source_answer": "A: MÓJ SYN JEST W SZKOLE OKOŁO 6 GODZIN.",
       "output_file": "audio/0178-entry-0089-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0178-entry-0089-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0178-entry-0089-answer.mp3"
     },
     {
       "ordinal": 179,
@@ -3417,7 +3417,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaka jest pani rodzina?",
       "source_answer": "A: MOJA RODZINA NIE JEST DUŻA TUTAJ W POLSCE. MOJA RODZINA TO MÓJ MĄŻ I MÓJ SYN.",
       "output_file": "audio/0179-entry-0090-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0179-entry-0090-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0179-entry-0090-question.mp3"
     },
     {
       "ordinal": 180,
@@ -3436,7 +3436,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaka jest pani rodzina?",
       "source_answer": "A: MOJA RODZINA NIE JEST DUŻA TUTAJ W POLSCE. MOJA RODZINA TO MÓJ MĄŻ I MÓJ SYN.",
       "output_file": "audio/0180-entry-0090-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0180-entry-0090-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0180-entry-0090-answer.mp3"
     },
     {
       "ordinal": 181,
@@ -3455,7 +3455,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Od ilu lat jest pani w Polsce?",
       "source_answer": "A: JESTEM W POLSCE OD OSIEM LAT.",
       "output_file": "audio/0181-entry-0091-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0181-entry-0091-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0181-entry-0091-question.mp3"
     },
     {
       "ordinal": 182,
@@ -3474,7 +3474,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Od ilu lat jest pani w Polsce?",
       "source_answer": "A: JESTEM W POLSCE OD OSIEM LAT.",
       "output_file": "audio/0182-entry-0091-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0182-entry-0091-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0182-entry-0091-answer.mp3"
     },
     {
       "ordinal": 183,
@@ -3487,32 +3487,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Do jakiej szkoły chodzi pani dziecko?",
       "original_reference_text": "What school does your child go to?",
       "display_question": "Q: Do jakiej szkoły chodzi pani dziecko?",
-      "display_answer": "A: MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
+      "display_answer": "A: MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
       "reference_question": "Q: What school does your child go to?",
-      "reference_answer": "A: MY DAUGHTER goes to public school.",
+      "reference_answer": "A: MY SON GOES TO BILINGUAL SCHOOL.",
       "source_question": "Q: Do jakiej szkoły chodzi pani dziecko?",
-      "source_answer": "A: MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
+      "source_answer": "A: MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
       "output_file": "audio/0183-entry-0092-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0183-entry-0092-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0183-entry-0092-question.mp3"
     },
     {
       "ordinal": 184,
       "entry_index": 92,
       "kind": "answer",
-      "display_text": "MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
-      "translation_text": "MY DAUGHTER goes to public school.",
-      "spoken_text": "MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
-      "text": "MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
-      "original_text": "MOJA CÓRKA chodzi DO SZKOŁY PUBLICZNEJ.",
-      "original_reference_text": "MY DAUGHTER goes to public school.",
+      "display_text": "MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
+      "translation_text": "MY SON GOES TO BILINGUAL SCHOOL.",
+      "spoken_text": "MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
+      "text": "MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
+      "original_text": "MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
+      "original_reference_text": "MY SON GOES TO BILINGUAL SCHOOL.",
       "display_question": "Q: Do jakiej szkoły chodzi pani dziecko?",
-      "display_answer": "A: MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
+      "display_answer": "A: MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
       "reference_question": "Q: What school does your child go to?",
-      "reference_answer": "A: MY DAUGHTER goes to public school.",
+      "reference_answer": "A: MY SON GOES TO BILINGUAL SCHOOL.",
       "source_question": "Q: Do jakiej szkoły chodzi pani dziecko?",
-      "source_answer": "A: MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
+      "source_answer": "A: MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
       "output_file": "audio/0184-entry-0092-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0184-entry-0092-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0184-entry-0092-answer.mp3"
     },
     {
       "ordinal": 185,
@@ -3531,7 +3531,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy to jest szkoła publiczna czy prywatna?",
       "source_answer": "A: TO JEST SZKOŁA PUBLICZNA.",
       "output_file": "audio/0185-entry-0093-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0185-entry-0093-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0185-entry-0093-question.mp3"
     },
     {
       "ordinal": 186,
@@ -3550,7 +3550,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy to jest szkoła publiczna czy prywatna?",
       "source_answer": "A: TO JEST SZKOŁA PUBLICZNA.",
       "output_file": "audio/0186-entry-0093-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0186-entry-0093-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0186-entry-0093-answer.mp3"
     },
     {
       "ordinal": 187,
@@ -3563,32 +3563,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Czym się zajmuje pani mąż?",
       "original_reference_text": "What does your husband do?",
       "display_question": "Q: Czym się zajmuje pani mąż?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: What does your husband do?",
-      "reference_answer": "A: MY HUSBAND DEALS WITH StoneX.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
       "source_question": "Q: Czym się zajmuje pani mąż?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0187-entry-0094-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0187-entry-0094-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0187-entry-0094-question.mp3"
     },
     {
       "ordinal": 188,
       "entry_index": 94,
       "kind": "answer",
-      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "translation_text": "MY HUSBAND DEALS WITH StoneX.",
-      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-      "original_text": "MÓJ MĄŻ ZAJMUJE SIĘ Hitachi Energy.",
-      "original_reference_text": "MY HUSBAND DEALS WITH Hitachi Energy.",
+      "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+      "translation_text": "MY HUSBAND WORKS FOR StoneX Inc.",
+      "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+      "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+      "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+      "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc.",
       "display_question": "Q: Czym się zajmuje pani mąż?",
-      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: What does your husband do?",
-      "reference_answer": "A: MY HUSBAND DEALS WITH StoneX.",
+      "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
       "source_question": "Q: Czym się zajmuje pani mąż?",
-      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0188-entry-0094-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0188-entry-0094-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0188-entry-0094-answer.mp3"
     },
     {
       "ordinal": 189,
@@ -3607,7 +3607,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani mieszkała w Indiach?",
       "source_answer": "A: Mieszkałam w Bharthana. To moje rodzinne miasto.To wschodnia część Indii.",
       "output_file": "audio/0189-entry-0095-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0189-entry-0095-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0189-entry-0095-question.mp3"
     },
     {
       "ordinal": 190,
@@ -3626,7 +3626,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani mieszkała w Indiach?",
       "source_answer": "A: Mieszkałam w Bharthana. To moje rodzinne miasto.To wschodnia część Indii.",
       "output_file": "audio/0190-entry-0095-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0190-entry-0095-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0190-entry-0095-answer.mp3"
     },
     {
       "ordinal": 191,
@@ -3645,7 +3645,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kiedy pani przyjechała do Polski?",
       "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
       "output_file": "audio/0191-entry-0096-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0191-entry-0096-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0191-entry-0096-question.mp3"
     },
     {
       "ordinal": 192,
@@ -3664,7 +3664,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kiedy pani przyjechała do Polski?",
       "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
       "output_file": "audio/0192-entry-0096-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0192-entry-0096-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0192-entry-0096-answer.mp3"
     },
     {
       "ordinal": 193,
@@ -3683,7 +3683,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani rodzinę?",
       "source_answer": "A: TAK, MAM RODZINĘ.",
       "output_file": "audio/0193-entry-0097-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0193-entry-0097-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0193-entry-0097-question.mp3"
     },
     {
       "ordinal": 194,
@@ -3702,7 +3702,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani rodzinę?",
       "source_answer": "A: TAK, MAM RODZINĘ.",
       "output_file": "audio/0194-entry-0097-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0194-entry-0097-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0194-entry-0097-answer.mp3"
     },
     {
       "ordinal": 195,
@@ -3721,7 +3721,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Do jakiego przedszkola lub żłobka chodzi pani dziecko?",
       "source_answer": "A: MÓJ SYN CHODZI DO SZKOŁY.",
       "output_file": "audio/0195-entry-0098-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0195-entry-0098-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0195-entry-0098-question.mp3"
     },
     {
       "ordinal": 196,
@@ -3740,7 +3740,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Do jakiego przedszkola lub żłobka chodzi pani dziecko?",
       "source_answer": "A: MÓJ SYN CHODZI DO SZKOŁY.",
       "output_file": "audio/0196-entry-0098-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0196-entry-0098-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0196-entry-0098-answer.mp3"
     },
     {
       "ordinal": 197,
@@ -3759,7 +3759,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kto jest w Pani rodzinie?",
       "source_answer": "A: Moja rodzina w Polsce nie jest duża. Moja rodzina to mój mąż i mój syn.",
       "output_file": "audio/0197-entry-0099-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0197-entry-0099-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0197-entry-0099-question.mp3"
     },
     {
       "ordinal": 198,
@@ -3778,7 +3778,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kto jest w Pani rodzinie?",
       "source_answer": "A: Moja rodzina w Polsce nie jest duża. Moja rodzina to mój mąż i mój syn.",
       "output_file": "audio/0198-entry-0099-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0198-entry-0099-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0198-entry-0099-answer.mp3"
     },
     {
       "ordinal": 199,
@@ -3791,32 +3791,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Czy pani partner pracuje?",
       "original_reference_text": "Does your partner work?",
       "display_question": "Q: Czy pani partner pracuje?",
-      "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: Does your partner work?",
-      "reference_answer": "A: MY partner WORKS FOR StoneX.",
+      "reference_answer": "A: MY PARTNER WORKS FOR StoneX Inc.",
       "source_question": "Q: Czy pani partner pracuje?",
-      "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0199-entry-0100-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0199-entry-0100-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0199-entry-0100-question.mp3"
     },
     {
       "ordinal": 200,
       "entry_index": 100,
       "kind": "answer",
-      "display_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-      "translation_text": "MY partner WORKS FOR StoneX.",
-      "spoken_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-      "text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-      "original_text": "MÓJ partner PRACUJE W FIRMIE Hitachi Energy.",
-      "original_reference_text": "MY partner WORKS FOR Hitachi Energy.",
+      "display_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
+      "translation_text": "MY PARTNER WORKS FOR StoneX Inc.",
+      "spoken_text": "MÓJ PARTNER PRACUJE W FIRMIE Stone Eks Ink",
+      "text": "MÓJ PARTNER PRACUJE W FIRMIE Stone Eks Ink",
+      "original_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
+      "original_reference_text": "MY PARTNER WORKS FOR StoneX Inc.",
       "display_question": "Q: Czy pani partner pracuje?",
-      "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
+      "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
       "reference_question": "Q: Does your partner work?",
-      "reference_answer": "A: MY partner WORKS FOR StoneX.",
+      "reference_answer": "A: MY PARTNER WORKS FOR StoneX Inc.",
       "source_question": "Q: Czy pani partner pracuje?",
-      "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
+      "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
       "output_file": "audio/0200-entry-0100-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0200-entry-0100-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0200-entry-0100-answer.mp3"
     },
     {
       "ordinal": 201,
@@ -3835,7 +3835,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie są pani zainteresowania?",
       "source_answer": "A: Interesuję się sportem, kinem, muzyką i gotowaniem.",
       "output_file": "audio/0201-entry-0101-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0201-entry-0101-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0201-entry-0101-question.mp3"
     },
     {
       "ordinal": 202,
@@ -3854,7 +3854,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie są pani zainteresowania?",
       "source_answer": "A: Interesuję się sportem, kinem, muzyką i gotowaniem.",
       "output_file": "audio/0202-entry-0101-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0202-entry-0101-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0202-entry-0101-answer.mp3"
     },
     {
       "ordinal": 203,
@@ -3873,7 +3873,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kim pani jest?",
       "source_answer": "A: Jestem HINDUSką.",
       "output_file": "audio/0203-entry-0102-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0203-entry-0102-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0203-entry-0102-question.mp3"
     },
     {
       "ordinal": 204,
@@ -3892,7 +3892,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kim pani jest?",
       "source_answer": "A: Jestem HINDUSką.",
       "output_file": "audio/0204-entry-0102-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0204-entry-0102-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0204-entry-0102-answer.mp3"
     },
     {
       "ordinal": 205,
@@ -3911,7 +3911,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Co pani lubi robić w wolnym czasie?",
       "source_answer": "A: W wolnym czasie lubię gotować, słuchać muzyki, spacerować, podróżować z rodziną i bawić się z moim synem.",
       "output_file": "audio/0205-entry-0103-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0205-entry-0103-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0205-entry-0103-question.mp3"
     },
     {
       "ordinal": 206,
@@ -3930,7 +3930,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Co pani lubi robić w wolnym czasie?",
       "source_answer": "A: W wolnym czasie lubię gotować, słuchać muzyki, spacerować, podróżować z rodziną i bawić się z moim synem.",
       "output_file": "audio/0206-entry-0103-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0206-entry-0103-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0206-entry-0103-answer.mp3"
     },
     {
       "ordinal": 207,
@@ -3949,7 +3949,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakich językach pani mówi?",
       "source_answer": "A: Mówię w hindi, angielsku i polsku.",
       "output_file": "audio/0207-entry-0104-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0207-entry-0104-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0207-entry-0104-question.mp3"
     },
     {
       "ordinal": 208,
@@ -3968,7 +3968,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakich językach pani mówi?",
       "source_answer": "A: Mówię w hindi, angielsku i polsku.",
       "output_file": "audio/0208-entry-0104-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0208-entry-0104-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0208-entry-0104-answer.mp3"
     },
     {
       "ordinal": 209,
@@ -3987,7 +3987,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czym się pani interesuje?",
       "source_answer": "A: Interesuję się sportem, kinem, muzyką i gotowaniem.",
       "output_file": "audio/0209-entry-0105-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0209-entry-0105-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0209-entry-0105-question.mp3"
     },
     {
       "ordinal": 210,
@@ -4006,7 +4006,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czym się pani interesuje?",
       "source_answer": "A: Interesuję się sportem, kinem, muzyką i gotowaniem.",
       "output_file": "audio/0210-entry-0105-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0210-entry-0105-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0210-entry-0105-answer.mp3"
     },
     {
       "ordinal": 211,
@@ -4025,7 +4025,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie pani zna języki?",
       "source_answer": "A: Znam język hindi, angielski i polski.",
       "output_file": "audio/0211-entry-0106-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0211-entry-0106-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0211-entry-0106-question.mp3"
     },
     {
       "ordinal": 212,
@@ -4044,7 +4044,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie pani zna języki?",
       "source_answer": "A: Znam język hindi, angielski i polski.",
       "output_file": "audio/0212-entry-0106-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0212-entry-0106-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0212-entry-0106-answer.mp3"
     },
     {
       "ordinal": 213,
@@ -4063,7 +4063,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani ma jakieś hobby?",
       "source_answer": "A: Tak. Moje hobby to sport, kino, muzyka, zajmuję się ogrodem, gotowanie.",
       "output_file": "audio/0213-entry-0107-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0213-entry-0107-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0213-entry-0107-question.mp3"
     },
     {
       "ordinal": 214,
@@ -4082,7 +4082,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani ma jakieś hobby?",
       "source_answer": "A: Tak. Moje hobby to sport, kino, muzyka, zajmuję się ogrodem, gotowanie.",
       "output_file": "audio/0214-entry-0107-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0214-entry-0107-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0214-entry-0107-answer.mp3"
     },
     {
       "ordinal": 215,
@@ -4101,7 +4101,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaka jest pani narodowość?",
       "source_answer": "A: Jestem HINDUSką.",
       "output_file": "audio/0215-entry-0108-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0215-entry-0108-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0215-entry-0108-question.mp3"
     },
     {
       "ordinal": 216,
@@ -4120,7 +4120,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaka jest pani narodowość?",
       "source_answer": "A: Jestem HINDUSką.",
       "output_file": "audio/0216-entry-0108-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0216-entry-0108-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0216-entry-0108-answer.mp3"
     },
     {
       "ordinal": 217,
@@ -4139,7 +4139,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Co pani lubi robić?",
       "source_answer": "A: W wolnym czasie lubię gotować, słuchać muzyki, spacerować, podróżować z rodziną i bawić się z moim synem.",
       "output_file": "audio/0217-entry-0109-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0217-entry-0109-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0217-entry-0109-question.mp3"
     },
     {
       "ordinal": 218,
@@ -4158,7 +4158,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Co pani lubi robić?",
       "source_answer": "A: W wolnym czasie lubię gotować, słuchać muzyki, spacerować, podróżować z rodziną i bawić się z moim synem.",
       "output_file": "audio/0218-entry-0109-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0218-entry-0109-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0218-entry-0109-answer.mp3"
     },
     {
       "ordinal": 219,
@@ -4177,7 +4177,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie pani ma obowiązki na swoim stanowisku?",
       "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotkam się z klientami w sprawie dokumentacji technicznej.",
       "output_file": "audio/0219-entry-0110-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0219-entry-0110-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0219-entry-0110-question.mp3"
     },
     {
       "ordinal": 220,
@@ -4196,7 +4196,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie pani ma obowiązki na swoim stanowisku?",
       "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotkam się z klientami w sprawie dokumentacji technicznej.",
       "output_file": "audio/0220-entry-0110-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0220-entry-0110-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0220-entry-0110-answer.mp3"
     },
     {
       "ordinal": 221,
@@ -4215,7 +4215,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakich językach pani porozumiewa się w pracy?",
       "source_answer": "A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.",
       "output_file": "audio/0221-entry-0111-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0221-entry-0111-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0221-entry-0111-question.mp3"
     },
     {
       "ordinal": 222,
@@ -4234,7 +4234,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakich językach pani porozumiewa się w pracy?",
       "source_answer": "A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.",
       "output_file": "audio/0222-entry-0111-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0222-entry-0111-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0222-entry-0111-answer.mp3"
     },
     {
       "ordinal": 223,
@@ -4253,7 +4253,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kim pani jest z pochodzenia?",
       "source_answer": "A: Jestem HINDUSką.",
       "output_file": "audio/0223-entry-0112-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0223-entry-0112-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0223-entry-0112-question.mp3"
     },
     {
       "ordinal": 224,
@@ -4272,7 +4272,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kim pani jest z pochodzenia?",
       "source_answer": "A: Jestem HINDUSką.",
       "output_file": "audio/0224-entry-0112-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0224-entry-0112-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0224-entry-0112-answer.mp3"
     },
     {
       "ordinal": 225,
@@ -4291,7 +4291,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak często pani jeździ do siedziby firmy?",
       "source_answer": "A: W biurze w firmie pracuję raz w tygodniu,w poniedziałki.",
       "output_file": "audio/0225-entry-0113-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0225-entry-0113-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0225-entry-0113-question.mp3"
     },
     {
       "ordinal": 226,
@@ -4310,7 +4310,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak często pani jeździ do siedziby firmy?",
       "source_answer": "A: W biurze w firmie pracuję raz w tygodniu,w poniedziałki.",
       "output_file": "audio/0226-entry-0113-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0226-entry-0113-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0226-entry-0113-answer.mp3"
     },
     {
       "ordinal": 227,
@@ -4329,7 +4329,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ile lat pracuje pani w obecnej firmie?",
       "source_answer": "A: W obecnej firmie pracuje 7 lat.",
       "output_file": "audio/0227-entry-0114-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0227-entry-0114-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0227-entry-0114-question.mp3"
     },
     {
       "ordinal": 228,
@@ -4348,7 +4348,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ile lat pracuje pani w obecnej firmie?",
       "source_answer": "A: W obecnej firmie pracuje 7 lat.",
       "output_file": "audio/0228-entry-0114-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0228-entry-0114-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0228-entry-0114-answer.mp3"
     },
     {
       "ordinal": 229,
@@ -4367,7 +4367,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pracuje pani online w domu czy w siedzibie firmy?",
       "source_answer": "A: Pracuję online w domu. W biurze w firmie pracuję raz w tygodniu, w poniedziałki.",
       "output_file": "audio/0229-entry-0115-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0229-entry-0115-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0229-entry-0115-question.mp3"
     },
     {
       "ordinal": 230,
@@ -4386,7 +4386,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pracuje pani online w domu czy w siedzibie firmy?",
       "source_answer": "A: Pracuję online w domu. W biurze w firmie pracuję raz w tygodniu, w poniedziałki.",
       "output_file": "audio/0230-entry-0115-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0230-entry-0115-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0230-entry-0115-answer.mp3"
     },
     {
       "ordinal": 231,
@@ -4405,7 +4405,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak często pani jeździ do siedziby firmy?",
       "source_answer": "A: Jeździ do siedziby firmy raz w tygodniu,w poniedziałki.",
       "output_file": "audio/0231-entry-0116-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0231-entry-0116-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0231-entry-0116-question.mp3"
     },
     {
       "ordinal": 232,
@@ -4424,7 +4424,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak często pani jeździ do siedziby firmy?",
       "source_answer": "A: Jeździ do siedziby firmy raz w tygodniu,w poniedziałki.",
       "output_file": "audio/0232-entry-0116-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0232-entry-0116-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0232-entry-0116-answer.mp3"
     },
     {
       "ordinal": 233,
@@ -4443,7 +4443,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Co lubisz robić?",
       "source_answer": "A: W wolnym czasie lubię gotować, słuchać muzyki, spacerować, podróżować z rodziną i bawić się z moim synem.",
       "output_file": "audio/0233-entry-0117-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0233-entry-0117-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0233-entry-0117-question.mp3"
     },
     {
       "ordinal": 234,
@@ -4462,7 +4462,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Co lubisz robić?",
       "source_answer": "A: W wolnym czasie lubię gotować, słuchać muzyki, spacerować, podróżować z rodziną i bawić się z moim synem.",
       "output_file": "audio/0234-entry-0117-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0234-entry-0117-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0234-entry-0117-answer.mp3"
     },
     {
       "ordinal": 235,
@@ -4481,7 +4481,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak pani ocenia swój poziom języka polskiego?",
       "source_answer": "A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.",
       "output_file": "audio/0235-entry-0118-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0235-entry-0118-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0235-entry-0118-question.mp3"
     },
     {
       "ordinal": 236,
@@ -4500,7 +4500,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak pani ocenia swój poziom języka polskiego?",
       "source_answer": "A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.",
       "output_file": "audio/0236-entry-0118-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0236-entry-0118-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0236-entry-0118-answer.mp3"
     },
     {
       "ordinal": 237,
@@ -4519,7 +4519,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ogląda pani polską telewizję?",
       "source_answer": "A: Tak, czasami oglądam polską telewizję dla Wiadomości i Bajki dla dzieci.",
       "output_file": "audio/0237-entry-0119-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0237-entry-0119-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0237-entry-0119-question.mp3"
     },
     {
       "ordinal": 238,
@@ -4538,7 +4538,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ogląda pani polską telewizję?",
       "source_answer": "A: Tak, czasami oglądam polską telewizję dla Wiadomości i Bajki dla dzieci.",
       "output_file": "audio/0238-entry-0119-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0238-entry-0119-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0238-entry-0119-answer.mp3"
     },
     {
       "ordinal": 239,
@@ -4557,7 +4557,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jaki sposób ćwiczy pani język polski?",
       "source_answer": "A: Staram się ćwiczyć po polsku z moim synem, ponieważ on mówi po polsku bardzo dobrze. Rozmawiam też po polsku w szkole mojego syna oraz mam prywatne lekcje dwa razy w tygodniu z nauczycielką. Codziennie słucham wiadomości w radiu.",
       "output_file": "audio/0239-entry-0120-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0239-entry-0120-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0239-entry-0120-question.mp3"
     },
     {
       "ordinal": 240,
@@ -4576,7 +4576,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jaki sposób ćwiczy pani język polski?",
       "source_answer": "A: Staram się ćwiczyć po polsku z moim synem, ponieważ on mówi po polsku bardzo dobrze. Rozmawiam też po polsku w szkole mojego syna oraz mam prywatne lekcje dwa razy w tygodniu z nauczycielką. Codziennie słucham wiadomości w radiu.",
       "output_file": "audio/0240-entry-0120-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0240-entry-0120-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0240-entry-0120-answer.mp3"
     },
     {
       "ordinal": 241,
@@ -4595,7 +4595,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy będzie pani odpowiadać po polsku?",
       "source_answer": "A: TAK, BĘDĘ ODPOWIADAC PO POLSKU.",
       "output_file": "audio/0241-entry-0121-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0241-entry-0121-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0241-entry-0121-question.mp3"
     },
     {
       "ordinal": 242,
@@ -4614,7 +4614,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy będzie pani odpowiadać po polsku?",
       "source_answer": "A: TAK, BĘDĘ ODPOWIADAC PO POLSKU.",
       "output_file": "audio/0242-entry-0121-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0242-entry-0121-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0242-entry-0121-answer.mp3"
     },
     {
       "ordinal": 243,
@@ -4633,7 +4633,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie na co dzień pani mówi po polsku?",
       "source_answer": "A: Na co dzień mówię po polsku w domu z moim synem. Mówię po polsku w szkole mojego syna. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.",
       "output_file": "audio/0243-entry-0122-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0243-entry-0122-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0243-entry-0122-question.mp3"
     },
     {
       "ordinal": 244,
@@ -4652,7 +4652,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie na co dzień pani mówi po polsku?",
       "source_answer": "A: Na co dzień mówię po polsku w domu z moim synem. Mówię po polsku w szkole mojego syna. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.",
       "output_file": "audio/0244-entry-0122-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0244-entry-0122-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0244-entry-0122-answer.mp3"
     },
     {
       "ordinal": 245,
@@ -4671,7 +4671,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani rozumie język polski?",
       "source_answer": "A: OCZYWIŚCIE, ROZUMIEM.",
       "output_file": "audio/0245-entry-0123-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0245-entry-0123-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0245-entry-0123-question.mp3"
     },
     {
       "ordinal": 246,
@@ -4690,7 +4690,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani rozumie język polski?",
       "source_answer": "A: OCZYWIŚCIE, ROZUMIEM.",
       "output_file": "audio/0246-entry-0123-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0246-entry-0123-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0246-entry-0123-answer.mp3"
     },
     {
       "ordinal": 247,
@@ -4709,7 +4709,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy mówisz po polsku, żeby komunikować się z miejscowymi mieszkańcami?",
       "source_answer": "A: Tak, mówię po polsku w różnych miejscach w Krakowie, na przykład w szkole mojego syna, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie i w taksówce.",
       "output_file": "audio/0247-entry-0124-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0247-entry-0124-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0247-entry-0124-question.mp3"
     },
     {
       "ordinal": 248,
@@ -4728,7 +4728,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy mówisz po polsku, żeby komunikować się z miejscowymi mieszkańcami?",
       "source_answer": "A: Tak, mówię po polsku w różnych miejscach w Krakowie, na przykład w szkole mojego syna, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie i w taksówce.",
       "output_file": "audio/0248-entry-0124-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0248-entry-0124-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0248-entry-0124-answer.mp3"
     },
     {
       "ordinal": 249,
@@ -4747,7 +4747,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak pani ocenia swoje umiejętności z języka polskiego?",
       "source_answer": "A: DOBRZE OCENIAM SWOJE UMIEJĘTNOŚCI. DUŻO ROZUMIEM, ROBIĘ JESZCZE DUŻO BŁĘDÓW ALE STARAM SIĘ MÓWIĆ PO POLSKU.",
       "output_file": "audio/0249-entry-0125-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0249-entry-0125-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0249-entry-0125-question.mp3"
     },
     {
       "ordinal": 250,
@@ -4766,7 +4766,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak pani ocenia swoje umiejętności z języka polskiego?",
       "source_answer": "A: DOBRZE OCENIAM SWOJE UMIEJĘTNOŚCI. DUŻO ROZUMIEM, ROBIĘ JESZCZE DUŻO BŁĘDÓW ALE STARAM SIĘ MÓWIĆ PO POLSKU.",
       "output_file": "audio/0250-entry-0125-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0250-entry-0125-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0250-entry-0125-answer.mp3"
     },
     {
       "ordinal": 251,
@@ -4785,7 +4785,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani problem z codzienną komunikacją w języku polskim? Na przykład w aptece albo w sklepie?",
       "source_answer": "A: Nie, generalnie nie mam problemów z codzienną komunikacją po polsku. Czasami nie rozumiem wszystkiego, gdy jest za szybko.",
       "output_file": "audio/0251-entry-0126-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0251-entry-0126-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0251-entry-0126-question.mp3"
     },
     {
       "ordinal": 252,
@@ -4804,7 +4804,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani problem z codzienną komunikacją w języku polskim? Na przykład w aptece albo w sklepie?",
       "source_answer": "A: Nie, generalnie nie mam problemów z codzienną komunikacją po polsku. Czasami nie rozumiem wszystkiego, gdy jest za szybko.",
       "output_file": "audio/0252-entry-0126-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0252-entry-0126-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0252-entry-0126-answer.mp3"
     },
     {
       "ordinal": 253,
@@ -4823,7 +4823,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy śledzi pani jakiś polski kanał informacyjny?",
       "source_answer": "A: Tak, czasami oglądam TVN24 i CANAL+. Czasami słucham radia.",
       "output_file": "audio/0253-entry-0127-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0253-entry-0127-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0253-entry-0127-question.mp3"
     },
     {
       "ordinal": 254,
@@ -4842,7 +4842,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy śledzi pani jakiś polski kanał informacyjny?",
       "source_answer": "A: Tak, czasami oglądam TVN24 i CANAL+. Czasami słucham radia.",
       "output_file": "audio/0254-entry-0127-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0254-entry-0127-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0254-entry-0127-answer.mp3"
     },
     {
       "ordinal": 255,
@@ -4861,7 +4861,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani rozmawia po polsku w pracy?",
       "source_answer": "A: Tak rozmawiam po polsku w pracy z polskimi kolegami i klientami.",
       "output_file": "audio/0255-entry-0128-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0255-entry-0128-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0255-entry-0128-question.mp3"
     },
     {
       "ordinal": 256,
@@ -4880,7 +4880,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani rozmawia po polsku w pracy?",
       "source_answer": "A: Tak rozmawiam po polsku w pracy z polskimi kolegami i klientami.",
       "output_file": "audio/0256-entry-0128-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0256-entry-0128-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0256-entry-0128-answer.mp3"
     },
     {
       "ordinal": 257,
@@ -4899,7 +4899,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jaki sposób uczy się pani języka polskiego?",
       "source_answer": "A: Staram się ćwiczyć po polsku z moim synem, ponieważ on mówi po polsku bardzo dobrze. Rozmawiam też po polsku w szkole mojego syna oraz mam prywatne lekcje dwa razy w tygodniu z nauczycielką. Codziennie słucham wiadomości w radiu.",
       "output_file": "audio/0257-entry-0129-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0257-entry-0129-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0257-entry-0129-question.mp3"
     },
     {
       "ordinal": 258,
@@ -4918,7 +4918,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jaki sposób uczy się pani języka polskiego?",
       "source_answer": "A: Staram się ćwiczyć po polsku z moim synem, ponieważ on mówi po polsku bardzo dobrze. Rozmawiam też po polsku w szkole mojego syna oraz mam prywatne lekcje dwa razy w tygodniu z nauczycielką. Codziennie słucham wiadomości w radiu.",
       "output_file": "audio/0258-entry-0129-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0258-entry-0129-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0258-entry-0129-answer.mp3"
     },
     {
       "ordinal": 259,
@@ -4937,7 +4937,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak ocenia Pani swój poziom znajomości języka polskiego?",
       "source_answer": "A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.",
       "output_file": "audio/0259-entry-0130-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0259-entry-0130-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0259-entry-0130-question.mp3"
     },
     {
       "ordinal": 260,
@@ -4956,7 +4956,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak ocenia Pani swój poziom znajomości języka polskiego?",
       "source_answer": "A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.",
       "output_file": "audio/0260-entry-0130-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0260-entry-0130-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0260-entry-0130-answer.mp3"
     },
     {
       "ordinal": 261,
@@ -4975,7 +4975,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy posiada pani jakiś certyfikat potwierdzający swoją znajomość języka polskiego?",
       "source_answer": "A: Nie, nie mam certyfikatu z języka polskiego.",
       "output_file": "audio/0261-entry-0131-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0261-entry-0131-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0261-entry-0131-question.mp3"
     },
     {
       "ordinal": 262,
@@ -4994,7 +4994,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy posiada pani jakiś certyfikat potwierdzający swoją znajomość języka polskiego?",
       "source_answer": "A: Nie, nie mam certyfikatu z języka polskiego.",
       "output_file": "audio/0262-entry-0131-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0262-entry-0131-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0262-entry-0131-answer.mp3"
     },
     {
       "ordinal": 263,
@@ -5013,7 +5013,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie na co dzień pani używa języka polskiego?",
       "source_answer": "A: Na co dzień mówię po polsku w domu z moim synem. Mówię po polsku w szkole mojego syna. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.",
       "output_file": "audio/0263-entry-0132-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0263-entry-0132-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0263-entry-0132-question.mp3"
     },
     {
       "ordinal": 264,
@@ -5032,7 +5032,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie na co dzień pani używa języka polskiego?",
       "source_answer": "A: Na co dzień mówię po polsku w domu z moim synem. Mówię po polsku w szkole mojego syna. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.",
       "output_file": "audio/0264-entry-0132-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0264-entry-0132-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0264-entry-0132-answer.mp3"
     },
     {
       "ordinal": 265,
@@ -5051,7 +5051,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy mówi pani po polsku, żeby komunikować się z Polakami?",
       "source_answer": "A: Tak, mówię po polsku w różnych miejscach w Krakowie, na przykład w szkole mojego syna, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie i w taksówce.",
       "output_file": "audio/0265-entry-0133-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0265-entry-0133-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0265-entry-0133-question.mp3"
     },
     {
       "ordinal": 266,
@@ -5070,7 +5070,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy mówi pani po polsku, żeby komunikować się z Polakami?",
       "source_answer": "A: Tak, mówię po polsku w różnych miejscach w Krakowie, na przykład w szkole mojego syna, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie i w taksówce.",
       "output_file": "audio/0266-entry-0133-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0266-entry-0133-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0266-entry-0133-answer.mp3"
     },
     {
       "ordinal": 267,
@@ -5089,7 +5089,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak pani ocenia swój język polski?",
       "source_answer": "A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.",
       "output_file": "audio/0267-entry-0134-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0267-entry-0134-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0267-entry-0134-question.mp3"
     },
     {
       "ordinal": 268,
@@ -5108,7 +5108,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak pani ocenia swój język polski?",
       "source_answer": "A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.",
       "output_file": "audio/0268-entry-0134-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0268-entry-0134-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0268-entry-0134-answer.mp3"
     },
     {
       "ordinal": 269,
@@ -5127,7 +5127,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani jakiś znajomych?",
       "source_answer": "A: TAK, MAM KILKU ZNAJOMYCH.",
       "output_file": "audio/0269-entry-0135-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0269-entry-0135-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0269-entry-0135-question.mp3"
     },
     {
       "ordinal": 270,
@@ -5146,7 +5146,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani jakiś znajomych?",
       "source_answer": "A: TAK, MAM KILKU ZNAJOMYCH.",
       "output_file": "audio/0270-entry-0135-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0270-entry-0135-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0270-entry-0135-answer.mp3"
     },
     {
       "ordinal": 271,
@@ -5165,7 +5165,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani chodzi na zakupy?",
       "source_answer": "A: Chodzić na zakupy w centrum SERENADA, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.",
       "output_file": "audio/0271-entry-0136-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0271-entry-0136-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0271-entry-0136-question.mp3"
     },
     {
       "ordinal": 272,
@@ -5184,7 +5184,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani chodzi na zakupy?",
       "source_answer": "A: Chodzić na zakupy w centrum SERENADA, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.",
       "output_file": "audio/0272-entry-0136-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0272-entry-0136-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0272-entry-0136-answer.mp3"
     },
     {
       "ordinal": 273,
@@ -5203,7 +5203,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Proszę, opowiedzieć coś o swoich sąsiadach?",
       "source_answer": "A: Moi sąsiedzi mieszkają w tym samym bloku co ja. Mój sąsiad Bartek mieszka w mieszkaniu naprzeciwko mnie. Często rozmawiamy. On ma 40 lat i jest nauczycielem historii. On jest bardzo sympatyczny. Ma piękną żonę i córkę. Lubią indyjskie jedzenie. Czasami jemy razem kolację i oglądamy filmy a nasze dzieci bawią się razem.",
       "output_file": "audio/0273-entry-0137-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0273-entry-0137-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0273-entry-0137-question.mp3"
     },
     {
       "ordinal": 274,
@@ -5222,7 +5222,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Proszę, opowiedzieć coś o swoich sąsiadach?",
       "source_answer": "A: Moi sąsiedzi mieszkają w tym samym bloku co ja. Mój sąsiad Bartek mieszka w mieszkaniu naprzeciwko mnie. Często rozmawiamy. On ma 40 lat i jest nauczycielem historii. On jest bardzo sympatyczny. Ma piękną żonę i córkę. Lubią indyjskie jedzenie. Czasami jemy razem kolację i oglądamy filmy a nasze dzieci bawią się razem.",
       "output_file": "audio/0274-entry-0137-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0274-entry-0137-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0274-entry-0137-answer.mp3"
     },
     {
       "ordinal": 275,
@@ -5241,7 +5241,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jacy są pani sąsiedzi?",
       "source_answer": "A: Moi sasiedzi sa bardzo sympatyczni,mili i pomocni.",
       "output_file": "audio/0275-entry-0138-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0275-entry-0138-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0275-entry-0138-question.mp3"
     },
     {
       "ordinal": 276,
@@ -5260,7 +5260,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jacy są pani sąsiedzi?",
       "source_answer": "A: Moi sasiedzi sa bardzo sympatyczni,mili i pomocni.",
       "output_file": "audio/0276-entry-0138-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0276-entry-0138-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0276-entry-0138-answer.mp3"
     },
     {
       "ordinal": 277,
@@ -5279,7 +5279,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani kupuje artykuły spożywcze?",
       "source_answer": "A: Artykuły spożywcze kupuję w Auchan, Biedronce i Lidlu.",
       "output_file": "audio/0277-entry-0139-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0277-entry-0139-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0277-entry-0139-question.mp3"
     },
     {
       "ordinal": 278,
@@ -5298,7 +5298,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani kupuje artykuły spożywcze?",
       "source_answer": "A: Artykuły spożywcze kupuję w Auchan, Biedronce i Lidlu.",
       "output_file": "audio/0278-entry-0139-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0278-entry-0139-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0278-entry-0139-answer.mp3"
     },
     {
       "ordinal": 279,
@@ -5317,7 +5317,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ilu ma pani polskich przyjaciół?",
       "source_answer": "A: MAM KILKU POLSKICH PRZYJACIÓŁ. TO SĄ GŁÓWNIE KOLEDZY Z PRACY.",
       "output_file": "audio/0279-entry-0140-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0279-entry-0140-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0279-entry-0140-question.mp3"
     },
     {
       "ordinal": 280,
@@ -5336,7 +5336,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Ilu ma pani polskich przyjaciół?",
       "source_answer": "A: MAM KILKU POLSKICH PRZYJACIÓŁ. TO SĄ GŁÓWNIE KOLEDZY Z PRACY.",
       "output_file": "audio/0280-entry-0140-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0280-entry-0140-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0280-entry-0140-answer.mp3"
     },
     {
       "ordinal": 281,
@@ -5355,7 +5355,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kto zawozi pani syna do szkoły?",
       "source_answer": "A: Mój syn chodzi do szkoły sam.",
       "output_file": "audio/0281-entry-0141-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0281-entry-0141-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0281-entry-0141-question.mp3"
     },
     {
       "ordinal": 282,
@@ -5374,7 +5374,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Kto zawozi pani syna do szkoły?",
       "source_answer": "A: Mój syn chodzi do szkoły sam.",
       "output_file": "audio/0282-entry-0141-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0282-entry-0141-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0282-entry-0141-answer.mp3"
     },
     {
       "ordinal": 283,
@@ -5393,7 +5393,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Proszę, opowiedzieć coś o swoich znajomych?",
       "source_answer": "A: Moi znajomi mieszkają w tym samym bloku co ja. Mój znajomy bartek mieszka w mieszkaniu naprzeciwko mnie. Często rozmawiamy. On ma 40 lat i jest nauczycielem historii. On jest bardzo sympatyczny. Ma piękną żonę i córkę. Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.",
       "output_file": "audio/0283-entry-0142-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0283-entry-0142-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0283-entry-0142-question.mp3"
     },
     {
       "ordinal": 284,
@@ -5412,7 +5412,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Proszę, opowiedzieć coś o swoich znajomych?",
       "source_answer": "A: Moi znajomi mieszkają w tym samym bloku co ja. Mój znajomy bartek mieszka w mieszkaniu naprzeciwko mnie. Często rozmawiamy. On ma 40 lat i jest nauczycielem historii. On jest bardzo sympatyczny. Ma piękną żonę i córkę. Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.",
       "output_file": "audio/0284-entry-0142-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0284-entry-0142-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0284-entry-0142-answer.mp3"
     },
     {
       "ordinal": 285,
@@ -5431,7 +5431,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani jakiś przyjaciół?",
       "source_answer": "A: TAK, MAM KILKU PRZYJACIÓŁ.",
       "output_file": "audio/0285-entry-0143-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0285-entry-0143-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0285-entry-0143-question.mp3"
     },
     {
       "ordinal": 286,
@@ -5450,7 +5450,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani jakiś przyjaciół?",
       "source_answer": "A: TAK, MAM KILKU PRZYJACIÓŁ.",
       "output_file": "audio/0286-entry-0143-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0286-entry-0143-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0286-entry-0143-answer.mp3"
     },
     {
       "ordinal": 287,
@@ -5469,7 +5469,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak dużo masz polskich przyjaciół?",
       "source_answer": "A: MAM KILKU POLSKICH PRZYJACIÓŁ. TO SĄ GŁÓWNIE KOLEDZY Z PRACY.",
       "output_file": "audio/0287-entry-0144-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0287-entry-0144-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0287-entry-0144-question.mp3"
     },
     {
       "ordinal": 288,
@@ -5488,7 +5488,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak dużo masz polskich przyjaciół?",
       "source_answer": "A: MAM KILKU POLSKICH PRZYJACIÓŁ. TO SĄ GŁÓWNIE KOLEDZY Z PRACY.",
       "output_file": "audio/0288-entry-0144-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0288-entry-0144-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0288-entry-0144-answer.mp3"
     },
     {
       "ordinal": 289,
@@ -5507,7 +5507,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaka jest pani relacja z sąsiadami?",
       "source_answer": "A: Mam bardzo dobre relacje z sąsiadami. Nigdy nie miałam konfliktu z sąsiadami. Są mili i pomocni. Nasze dzieci bawią się razem.",
       "output_file": "audio/0289-entry-0145-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0289-entry-0145-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0289-entry-0145-question.mp3"
     },
     {
       "ordinal": 290,
@@ -5526,7 +5526,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jaka jest pani relacja z sąsiadami?",
       "source_answer": "A: Mam bardzo dobre relacje z sąsiadami. Nigdy nie miałam konfliktu z sąsiadami. Są mili i pomocni. Nasze dzieci bawią się razem.",
       "output_file": "audio/0290-entry-0145-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0290-entry-0145-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0290-entry-0145-answer.mp3"
     },
     {
       "ordinal": 291,
@@ -5545,7 +5545,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani jakiś sąsiadów?",
       "source_answer": "A: TAK, MAM KILKU SĄSIADÓW.",
       "output_file": "audio/0291-entry-0146-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0291-entry-0146-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0291-entry-0146-question.mp3"
     },
     {
       "ordinal": 292,
@@ -5564,7 +5564,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy ma pani jakiś sąsiadów?",
       "source_answer": "A: TAK, MAM KILKU SĄSIADÓW.",
       "output_file": "audio/0292-entry-0146-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0292-entry-0146-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0292-entry-0146-answer.mp3"
     },
     {
       "ordinal": 293,
@@ -5583,7 +5583,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Proszę, opowiedzieć coś o swoich przyjaciołach?",
       "source_answer": "A: Moi przyjaciele mieszkają w tym samym bloku co ja. Mój przyjaciel bartek mieszka w mieszkaniu naprzeciwko mnie. Często rozmawiamy. On ma 40 lat i jest nauczycielem historii. On jest bardzo sympatyczny. Ma piękną żonę i córkę. Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.",
       "output_file": "audio/0293-entry-0147-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0293-entry-0147-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0293-entry-0147-question.mp3"
     },
     {
       "ordinal": 294,
@@ -5602,7 +5602,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Proszę, opowiedzieć coś o swoich przyjaciołach?",
       "source_answer": "A: Moi przyjaciele mieszkają w tym samym bloku co ja. Mój przyjaciel bartek mieszka w mieszkaniu naprzeciwko mnie. Często rozmawiamy. On ma 40 lat i jest nauczycielem historii. On jest bardzo sympatyczny. Ma piękną żonę i córkę. Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.",
       "output_file": "audio/0294-entry-0147-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0294-entry-0147-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0294-entry-0147-answer.mp3"
     },
     {
       "ordinal": 295,
@@ -5621,7 +5621,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani robi zakupy w Krakowie?",
       "source_answer": "A: Generalnie robię zakupy w centrum SERENADA, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.",
       "output_file": "audio/0295-entry-0148-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0295-entry-0148-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0295-entry-0148-question.mp3"
     },
     {
       "ordinal": 296,
@@ -5640,7 +5640,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani robi zakupy w Krakowie?",
       "source_answer": "A: Generalnie robię zakupy w centrum SERENADA, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.",
       "output_file": "audio/0296-entry-0148-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0296-entry-0148-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0296-entry-0148-answer.mp3"
     },
     {
       "ordinal": 297,
@@ -5659,7 +5659,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak się komunikujesz w szpitalu albo w innej placówce medycznej?",
       "source_answer": "A: Zwykle mówię po angielsku, ponieważ żeby wszystko dobrze zrozumieć. Czasami mówię po polsku.",
       "output_file": "audio/0297-entry-0149-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0297-entry-0149-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0297-entry-0149-question.mp3"
     },
     {
       "ordinal": 298,
@@ -5678,7 +5678,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak się komunikujesz w szpitalu albo w innej placówce medycznej?",
       "source_answer": "A: Zwykle mówię po angielsku, ponieważ żeby wszystko dobrze zrozumieć. Czasami mówię po polsku.",
       "output_file": "audio/0298-entry-0149-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0298-entry-0149-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0298-entry-0149-answer.mp3"
     },
     {
       "ordinal": 299,
@@ -5697,7 +5697,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy posiadasz ubezpieczenie zdrowotne? Jakie?",
       "source_answer": "A: Tak, mam ubezpieczenie zdrowotne w Luxmed przez moją pracę w Narodowym Funduszu Zdrowia.",
       "output_file": "audio/0299-entry-0150-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0299-entry-0150-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0299-entry-0150-question.mp3"
     },
     {
       "ordinal": 300,
@@ -5716,7 +5716,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy posiadasz ubezpieczenie zdrowotne? Jakie?",
       "source_answer": "A: Tak, mam ubezpieczenie zdrowotne w Luxmed przez moją pracę w Narodowym Funduszu Zdrowia.",
       "output_file": "audio/0300-entry-0150-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0300-entry-0150-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0300-entry-0150-answer.mp3"
     },
     {
       "ordinal": 301,
@@ -5735,7 +5735,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy płacisz podatki w swoim rodzinnym kraju?",
       "source_answer": "A: Nie, Płacę podatki tylko w polsce.",
       "output_file": "audio/0301-entry-0151-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0301-entry-0151-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0301-entry-0151-question.mp3"
     },
     {
       "ordinal": 302,
@@ -5754,7 +5754,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy płacisz podatki w swoim rodzinnym kraju?",
       "source_answer": "A: Nie, Płacę podatki tylko w polsce.",
       "output_file": "audio/0302-entry-0151-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0302-entry-0151-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0302-entry-0151-answer.mp3"
     },
     {
       "ordinal": 303,
@@ -5773,7 +5773,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani idzie, kiedy ktoś z pani rodziny jest chory?",
       "source_answer": "A: Kiedy jesteśmy chorzy, idziemy do lekarza rodzinnego i on decyduje, co powinnam zrobić dalej.",
       "output_file": "audio/0303-entry-0152-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0303-entry-0152-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0303-entry-0152-question.mp3"
     },
     {
       "ordinal": 304,
@@ -5792,7 +5792,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie pani idzie, kiedy ktoś z pani rodziny jest chory?",
       "source_answer": "A: Kiedy jesteśmy chorzy, idziemy do lekarza rodzinnego i on decyduje, co powinnam zrobić dalej.",
       "output_file": "audio/0304-entry-0152-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0304-entry-0152-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0304-entry-0152-answer.mp3"
     },
     {
       "ordinal": 305,
@@ -5811,7 +5811,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie podatki płacisz w Polsce?",
       "source_answer": "A: Mam własne mieszkanie, płacę podatek od nieruchomości. Pracuje w Polsce i płacę podatek Dochodowy PIT. Raz w roku składam deklarację PIT.",
       "output_file": "audio/0305-entry-0153-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0305-entry-0153-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0305-entry-0153-question.mp3"
     },
     {
       "ordinal": 306,
@@ -5830,7 +5830,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie podatki płacisz w Polsce?",
       "source_answer": "A: Mam własne mieszkanie, płacę podatek od nieruchomości. Pracuje w Polsce i płacę podatek Dochodowy PIT. Raz w roku składam deklarację PIT.",
       "output_file": "audio/0306-entry-0153-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0306-entry-0153-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0306-entry-0153-answer.mp3"
     },
     {
       "ordinal": 307,
@@ -5849,7 +5849,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Do której placówki medycznej wolisz chodzić?",
       "source_answer": "A: To zależy. Kiedy jesteśmy chorzy, idziemy do lekarza rodzinnego i on decyduje, co powinnam zrobić dalej.",
       "output_file": "audio/0307-entry-0154-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0307-entry-0154-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0307-entry-0154-question.mp3"
     },
     {
       "ordinal": 308,
@@ -5868,7 +5868,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Do której placówki medycznej wolisz chodzić?",
       "source_answer": "A: To zależy. Kiedy jesteśmy chorzy, idziemy do lekarza rodzinnego i on decyduje, co powinnam zrobić dalej.",
       "output_file": "audio/0308-entry-0154-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0308-entry-0154-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0308-entry-0154-answer.mp3"
     },
     {
       "ordinal": 309,
@@ -5887,7 +5887,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy płacisz podatki w Polsce I w Indiach?",
       "source_answer": "A: Płacę podatki tylko w polsce.",
       "output_file": "audio/0309-entry-0155-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0309-entry-0155-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0309-entry-0155-question.mp3"
     },
     {
       "ordinal": 310,
@@ -5906,7 +5906,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy płacisz podatki w Polsce I w Indiach?",
       "source_answer": "A: Płacę podatki tylko w polsce.",
       "output_file": "audio/0310-entry-0155-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0310-entry-0155-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0310-entry-0155-answer.mp3"
     },
     {
       "ordinal": 311,
@@ -5925,7 +5925,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy byłeś kiedyś w więzieniu?",
       "source_answer": "A: Nie, nigdy nie byłam w więzieniu.",
       "output_file": "audio/0311-entry-0156-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0311-entry-0156-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0311-entry-0156-question.mp3"
     },
     {
       "ordinal": 312,
@@ -5944,7 +5944,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy byłeś kiedyś w więzieniu?",
       "source_answer": "A: Nie, nigdy nie byłam w więzieniu.",
       "output_file": "audio/0312-entry-0156-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0312-entry-0156-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0312-entry-0156-answer.mp3"
     },
     {
       "ordinal": 313,
@@ -5963,7 +5963,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak płacisz podatki w Polsce?",
       "source_answer": "A: Mam własne mieszkanie, płacę podatek od nieruchomości. Pracuje w Polsce i płacę podatek Dochodowy PIT. Raz w roku składam deklarację PIT.",
       "output_file": "audio/0313-entry-0157-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0313-entry-0157-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0313-entry-0157-question.mp3"
     },
     {
       "ordinal": 314,
@@ -5982,7 +5982,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak płacisz podatki w Polsce?",
       "source_answer": "A: Mam własne mieszkanie, płacę podatek od nieruchomości. Pracuje w Polsce i płacę podatek Dochodowy PIT. Raz w roku składam deklarację PIT.",
       "output_file": "audio/0314-entry-0157-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0314-entry-0157-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0314-entry-0157-answer.mp3"
     },
     {
       "ordinal": 315,
@@ -6001,7 +6001,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy kiedykolwiek byłaś w więzieniu?",
       "source_answer": "A: Nie, nigdy nie byłam w więzieniu.",
       "output_file": "audio/0315-entry-0158-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0315-entry-0158-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0315-entry-0158-question.mp3"
     },
     {
       "ordinal": 316,
@@ -6020,7 +6020,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy kiedykolwiek byłaś w więzieniu?",
       "source_answer": "A: Nie, nigdy nie byłam w więzieniu.",
       "output_file": "audio/0316-entry-0158-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0316-entry-0158-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0316-entry-0158-answer.mp3"
     },
     {
       "ordinal": 317,
@@ -6039,7 +6039,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie kupujesz lekarstwa?",
       "source_answer": "A: Lekarstwa kupuję w aptece.",
       "output_file": "audio/0317-entry-0159-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0317-entry-0159-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0317-entry-0159-question.mp3"
     },
     {
       "ordinal": 318,
@@ -6058,7 +6058,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Gdzie kupujesz lekarstwa?",
       "source_answer": "A: Lekarstwa kupuję w aptece.",
       "output_file": "audio/0318-entry-0159-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0318-entry-0159-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0318-entry-0159-answer.mp3"
     },
     {
       "ordinal": 319,
@@ -6077,7 +6077,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jaki sposób płacisz podatki w Polsce?",
       "source_answer": "A: Mam własne mieszkanie, płacę podatek od nieruchomości. Pracuje w Polsce i płacę podatek Dochodowy PIT. Raz w roku składam deklarację PIT.",
       "output_file": "audio/0319-entry-0160-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0319-entry-0160-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0319-entry-0160-question.mp3"
     },
     {
       "ordinal": 320,
@@ -6096,7 +6096,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jaki sposób płacisz podatki w Polsce?",
       "source_answer": "A: Mam własne mieszkanie, płacę podatek od nieruchomości. Pracuje w Polsce i płacę podatek Dochodowy PIT. Raz w roku składam deklarację PIT.",
       "output_file": "audio/0320-entry-0160-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0320-entry-0160-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0320-entry-0160-answer.mp3"
     },
     {
       "ordinal": 321,
@@ -6115,7 +6115,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy był Pani kiedyś skazany?",
       "source_answer": "A: Nie, nigdy nie byłam skazana.",
       "output_file": "audio/0321-entry-0161-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0321-entry-0161-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0321-entry-0161-question.mp3"
     },
     {
       "ordinal": 322,
@@ -6134,7 +6134,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy był Pani kiedyś skazany?",
       "source_answer": "A: Nie, nigdy nie byłam skazana.",
       "output_file": "audio/0322-entry-0161-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0322-entry-0161-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0322-entry-0161-answer.mp3"
     },
     {
       "ordinal": 323,
@@ -6153,7 +6153,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy płacisz podatki w Polsce?",
       "source_answer": "A: Płacę podatki tylko w polsce.",
       "output_file": "audio/0323-entry-0162-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0323-entry-0162-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0323-entry-0162-question.mp3"
     },
     {
       "ordinal": 324,
@@ -6172,7 +6172,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy płacisz podatki w Polsce?",
       "source_answer": "A: Płacę podatki tylko w polsce.",
       "output_file": "audio/0324-entry-0162-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0324-entry-0162-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0324-entry-0162-answer.mp3"
     },
     {
       "ordinal": 325,
@@ -6191,7 +6191,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy był Pani kiedyś w więzieniu?",
       "source_answer": "A: Nie, nigdy nie byłam w więzieniu.",
       "output_file": "audio/0325-entry-0163-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0325-entry-0163-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0325-entry-0163-question.mp3"
     },
     {
       "ordinal": 326,
@@ -6210,7 +6210,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy był Pani kiedyś w więzieniu?",
       "source_answer": "A: Nie, nigdy nie byłam w więzieniu.",
       "output_file": "audio/0326-entry-0163-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0326-entry-0163-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0326-entry-0163-answer.mp3"
     },
     {
       "ordinal": 327,
@@ -6229,7 +6229,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy byłaś kiedyś skazana?",
       "source_answer": "A: Nie, nigdy nie byłam skazana.",
       "output_file": "audio/0327-entry-0164-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0327-entry-0164-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0327-entry-0164-question.mp3"
     },
     {
       "ordinal": 328,
@@ -6248,7 +6248,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy byłaś kiedyś skazana?",
       "source_answer": "A: Nie, nigdy nie byłam skazana.",
       "output_file": "audio/0328-entry-0164-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0328-entry-0164-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0328-entry-0164-answer.mp3"
     },
     {
       "ordinal": 329,
@@ -6267,7 +6267,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy kiedykolwiek trafiłaś do więzienia?",
       "source_answer": "A: Nie, nigdy nie trafiłam do więzienia.",
       "output_file": "audio/0329-entry-0165-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0329-entry-0165-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0329-entry-0165-question.mp3"
     },
     {
       "ordinal": 330,
@@ -6286,7 +6286,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy kiedykolwiek trafiłaś do więzienia?",
       "source_answer": "A: Nie, nigdy nie trafiłam do więzienia.",
       "output_file": "audio/0330-entry-0165-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0330-entry-0165-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0330-entry-0165-answer.mp3"
     },
     {
       "ordinal": 331,
@@ -6305,7 +6305,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy miałaś jakieś problemy prawne w Polsce?",
       "source_answer": "A: Nie, nigdy nie miałam problemów prawnych w Polsce, w ani Indii.",
       "output_file": "audio/0331-entry-0166-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0331-entry-0166-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0331-entry-0166-question.mp3"
     },
     {
       "ordinal": 332,
@@ -6324,7 +6324,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy miałaś jakieś problemy prawne w Polsce?",
       "source_answer": "A: Nie, nigdy nie miałam problemów prawnych w Polsce, w ani Indii.",
       "output_file": "audio/0332-entry-0166-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0332-entry-0166-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0332-entry-0166-answer.mp3"
     },
     {
       "ordinal": 333,
@@ -6343,7 +6343,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy zostałaś kiedyś skazana?",
       "source_answer": "A: Nie, nigdy nie zostałam skazana.",
       "output_file": "audio/0333-entry-0167-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0333-entry-0167-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0333-entry-0167-question.mp3"
     },
     {
       "ordinal": 334,
@@ -6362,7 +6362,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy zostałaś kiedyś skazana?",
       "source_answer": "A: Nie, nigdy nie zostałam skazana.",
       "output_file": "audio/0334-entry-0167-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0334-entry-0167-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0334-entry-0167-answer.mp3"
     },
     {
       "ordinal": 335,
@@ -6381,7 +6381,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy kiedykolwiek zostałaś skazany?",
       "source_answer": "A: Nie, nigdy nie zostałam skazana.",
       "output_file": "audio/0335-entry-0168-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0335-entry-0168-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0335-entry-0168-question.mp3"
     },
     {
       "ordinal": 336,
@@ -6400,7 +6400,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy kiedykolwiek zostałaś skazany?",
       "source_answer": "A: Nie, nigdy nie zostałam skazana.",
       "output_file": "audio/0336-entry-0168-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0336-entry-0168-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0336-entry-0168-answer.mp3"
     },
     {
       "ordinal": 337,
@@ -6419,7 +6419,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy Pani Studiowałaś w Polsce?",
       "source_answer": "A: Nie, nie studiowałam na uniwersytecie w Polsce. Ale uczęszczałam na kurs florystki do szkoła Policealna Żak.",
       "output_file": "audio/0337-entry-0169-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0337-entry-0169-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0337-entry-0169-question.mp3"
     },
     {
       "ordinal": 338,
@@ -6438,7 +6438,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy Pani Studiowałaś w Polsce?",
       "source_answer": "A: Nie, nie studiowałam na uniwersytecie w Polsce. Ale uczęszczałam na kurs florystki do szkoła Policealna Żak.",
       "output_file": "audio/0338-entry-0169-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0338-entry-0169-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0338-entry-0169-answer.mp3"
     },
     {
       "ordinal": 339,
@@ -6457,7 +6457,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy Pani uczęszczała do jakiejś szkoły w polsce?",
       "source_answer": "A: Tak,uczęszczałam na kurs florystki do szkoła Policealna Żak.",
       "output_file": "audio/0339-entry-0170-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0339-entry-0170-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0339-entry-0170-question.mp3"
     },
     {
       "ordinal": 340,
@@ -6476,7 +6476,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy Pani uczęszczała do jakiejś szkoły w polsce?",
       "source_answer": "A: Tak,uczęszczałam na kurs florystki do szkoła Policealna Żak.",
       "output_file": "audio/0340-entry-0170-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0340-entry-0170-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0340-entry-0170-answer.mp3"
     },
     {
       "ordinal": 341,
@@ -6495,7 +6495,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy Pani uczyłaś się tam języka polskiego? na jakim poziomie?",
       "source_answer": "A: Nie, nie uczyłam się języka polskiego w szkole Żak. Ale wszystkie lekcje były po polsku.",
       "output_file": "audio/0341-entry-0171-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0341-entry-0171-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0341-entry-0171-question.mp3"
     },
     {
       "ordinal": 342,
@@ -6514,7 +6514,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy Pani uczyłaś się tam języka polskiego? na jakim poziomie?",
       "source_answer": "A: Nie, nie uczyłam się języka polskiego w szkole Żak. Ale wszystkie lekcje były po polsku.",
       "output_file": "audio/0342-entry-0171-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0342-entry-0171-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0342-entry-0171-answer.mp3"
     },
     {
       "ordinal": 343,
@@ -6533,7 +6533,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Dlaczego wybrałaś kierunek florystyka w policealnej szkole żak? Z jakiego powodu zaczęła pani naukę w szkole policealnej?",
       "source_answer": "A: Myślę, że jest kilka powodów:",
       "output_file": "audio/0343-entry-0172-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0343-entry-0172-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0343-entry-0172-question.mp3"
     },
     {
       "ordinal": 344,
@@ -6552,7 +6552,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Dlaczego wybrałaś kierunek florystyka w policealnej szkole żak? Z jakiego powodu zaczęła pani naukę w szkole policealnej?",
       "source_answer": "A: Myślę, że jest kilka powodów:",
       "output_file": "audio/0344-entry-0172-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0344-entry-0172-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0344-entry-0172-answer.mp3"
     },
     {
       "ordinal": 345,
@@ -6571,7 +6571,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie były lekcje?",
       "source_answer": "A: Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
       "output_file": "audio/0345-entry-0173-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0345-entry-0173-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0345-entry-0173-question.mp3"
     },
     {
       "ordinal": 346,
@@ -6590,7 +6590,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakie były lekcje?",
       "source_answer": "A: Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
       "output_file": "audio/0346-entry-0173-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0346-entry-0173-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0346-entry-0173-answer.mp3"
     },
     {
       "ordinal": 347,
@@ -6609,7 +6609,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani płaciła za szkołę?",
       "source_answer": "A: Nie, nie płaciłam za szkołę. kurs był bezpłatny.",
       "output_file": "audio/0347-entry-0174-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0347-entry-0174-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0347-entry-0174-question.mp3"
     },
     {
       "ordinal": 348,
@@ -6628,7 +6628,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani płaciła za szkołę?",
       "source_answer": "A: Nie, nie płaciłam za szkołę. kurs był bezpłatny.",
       "output_file": "audio/0348-entry-0174-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0348-entry-0174-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0348-entry-0174-answer.mp3"
     },
     {
       "ordinal": 349,
@@ -6647,7 +6647,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani chodziła do jakiejś szkoły w polsce?",
       "source_answer": "A: Tak,chodziłam na kurs florystki do szkoła Policealna Żak.",
       "output_file": "audio/0349-entry-0175-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0349-entry-0175-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0349-entry-0175-question.mp3"
     },
     {
       "ordinal": 350,
@@ -6666,7 +6666,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani chodziła do jakiejś szkoły w polsce?",
       "source_answer": "A: Tak,chodziłam na kurs florystki do szkoła Policealna Żak.",
       "output_file": "audio/0350-entry-0175-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0350-entry-0175-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0350-entry-0175-answer.mp3"
     },
     {
       "ordinal": 351,
@@ -6685,7 +6685,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Z jakiego powodu zaczęła pani naukę w szkole policealnej?",
       "source_answer": "A: Myślę, że jest kilka powodów:",
       "output_file": "audio/0351-entry-0176-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0351-entry-0176-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0351-entry-0176-question.mp3"
     },
     {
       "ordinal": 352,
@@ -6704,7 +6704,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Z jakiego powodu zaczęła pani naukę w szkole policealnej?",
       "source_answer": "A: Myślę, że jest kilka powodów:",
       "output_file": "audio/0352-entry-0176-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0352-entry-0176-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0352-entry-0176-answer.mp3"
     },
     {
       "ordinal": 353,
@@ -6723,7 +6723,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani płaciła za egzamin?",
       "source_answer": "A: Nie, nie płaciłam za egzamin. Egzaminy był bezpłatny.",
       "output_file": "audio/0353-entry-0177-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0353-entry-0177-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0353-entry-0177-question.mp3"
     },
     {
       "ordinal": 354,
@@ -6742,7 +6742,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Czy pani płaciła za egzamin?",
       "source_answer": "A: Nie, nie płaciłam za egzamin. Egzaminy był bezpłatny.",
       "output_file": "audio/0354-entry-0177-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0354-entry-0177-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0354-entry-0177-answer.mp3"
     },
     {
       "ordinal": 355,
@@ -6761,7 +6761,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak wyglądały zajęcia?",
       "source_answer": "A: Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
       "output_file": "audio/0355-entry-0178-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0355-entry-0178-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0355-entry-0178-question.mp3"
     },
     {
       "ordinal": 356,
@@ -6780,7 +6780,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jak wyglądały zajęcia?",
       "source_answer": "A: Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
       "output_file": "audio/0356-entry-0178-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0356-entry-0178-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0356-entry-0178-answer.mp3"
     },
     {
       "ordinal": 357,
@@ -6799,7 +6799,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakim języku były prowadzone zajęcia?",
       "source_answer": "A: Zajęcia były prowadzone tylko po polsku.",
       "output_file": "audio/0357-entry-0179-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0357-entry-0179-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0357-entry-0179-question.mp3"
     },
     {
       "ordinal": 358,
@@ -6818,7 +6818,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: W jakim języku były prowadzone zajęcia?",
       "source_answer": "A: Zajęcia były prowadzone tylko po polsku.",
       "output_file": "audio/0358-entry-0179-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0358-entry-0179-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0358-entry-0179-answer.mp3"
     },
     {
       "ordinal": 359,
@@ -6837,7 +6837,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakiej narodowości były inne osoby uczestniczące w kursie?",
       "source_answer": "A: Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.",
       "output_file": "audio/0359-entry-0180-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0359-entry-0180-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0359-entry-0180-question.mp3"
     },
     {
       "ordinal": 360,
@@ -6856,7 +6856,7 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "source_question": "Q: Jakiej narodowości były inne osoby uczestniczące w kursie?",
       "source_answer": "A: Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.",
       "output_file": "audio/0360-entry-0180-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0360-entry-0180-answer.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0360-entry-0180-answer.mp3"
     },
     {
       "ordinal": 361,
@@ -6869,16 +6869,35 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "Czy nauczyciel prowadził zajęcia po polsku?",
       "original_reference_text": "Did the teacher conduct classes in Polish?",
       "display_question": "Q: Czy nauczyciel prowadził zajęcia po polsku?",
-      "display_answer": "",
+      "display_answer": "A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
       "reference_question": "Q: Did the teacher conduct classes in Polish?",
-      "reference_answer": "",
+      "reference_answer": "A: Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.",
       "source_question": "Q: Czy nauczyciel prowadził zajęcia po polsku?",
-      "source_answer": "",
+      "source_answer": "A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
       "output_file": "audio/0361-entry-0181-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0361-entry-0181-question.mp3"
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0361-entry-0181-question.mp3"
     },
     {
       "ordinal": 362,
+      "entry_index": 181,
+      "kind": "answer",
+      "display_text": "Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+      "translation_text": "Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.",
+      "spoken_text": "Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+      "text": "Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+      "original_text": "Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+      "original_reference_text": "Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.",
+      "display_question": "Q: Czy nauczyciel prowadził zajęcia po polsku?",
+      "display_answer": "A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+      "reference_question": "Q: Did the teacher conduct classes in Polish?",
+      "reference_answer": "A: Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.",
+      "source_question": "Q: Czy nauczyciel prowadził zajęcia po polsku?",
+      "source_answer": "A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+      "output_file": "audio/0362-entry-0181-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0362-entry-0181-answer.mp3"
+    },
+    {
+      "ordinal": 363,
       "entry_index": 182,
       "kind": "question",
       "display_text": "W jakie dni odbywały się zajęcia?",
@@ -6893,11 +6912,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Classes only on weekends, Saturday and Sunday, every other weekend.",
       "source_question": "Q: W jakie dni odbywały się zajęcia?",
       "source_answer": "A: Zajęcia tylko w weekendy, w sobotę i niedzielę, co drugi weekend.",
-      "output_file": "audio/0362-entry-0182-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0362-entry-0182-question.mp3"
+      "output_file": "audio/0363-entry-0182-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0363-entry-0182-question.mp3"
     },
     {
-      "ordinal": 363,
+      "ordinal": 364,
       "entry_index": 182,
       "kind": "answer",
       "display_text": "Zajęcia tylko w weekendy, w sobotę i niedzielę, co drugi weekend.",
@@ -6912,11 +6931,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Classes only on weekends, Saturday and Sunday, every other weekend.",
       "source_question": "Q: W jakie dni odbywały się zajęcia?",
       "source_answer": "A: Zajęcia tylko w weekendy, w sobotę i niedzielę, co drugi weekend.",
-      "output_file": "audio/0363-entry-0182-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0363-entry-0182-answer.mp3"
+      "output_file": "audio/0364-entry-0182-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0364-entry-0182-answer.mp3"
     },
     {
-      "ordinal": 364,
+      "ordinal": 365,
       "entry_index": 183,
       "kind": "question",
       "display_text": "Ile godzin dziennie było zajęć?",
@@ -6931,11 +6950,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Classes eight hours a day.",
       "source_question": "Q: Ile godzin dziennie było zajęć?",
       "source_answer": "A: Zajęcia osiem godzin dziennie.",
-      "output_file": "audio/0364-entry-0183-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0364-entry-0183-question.mp3"
+      "output_file": "audio/0365-entry-0183-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0365-entry-0183-question.mp3"
     },
     {
-      "ordinal": 365,
+      "ordinal": 366,
       "entry_index": 183,
       "kind": "answer",
       "display_text": "Zajęcia osiem godzin dziennie.",
@@ -6950,11 +6969,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Classes eight hours a day.",
       "source_question": "Q: Ile godzin dziennie było zajęć?",
       "source_answer": "A: Zajęcia osiem godzin dziennie.",
-      "output_file": "audio/0365-entry-0183-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0365-entry-0183-answer.mp3"
+      "output_file": "audio/0366-entry-0183-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0366-entry-0183-answer.mp3"
     },
     {
-      "ordinal": 366,
+      "ordinal": 367,
       "entry_index": 184,
       "kind": "question",
       "display_text": "Czy nauczyciel podczas lekcji zawsze mówił po polsku?",
@@ -6969,11 +6988,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.",
       "source_question": "Q: Czy nauczyciel podczas lekcji zawsze mówił po polsku?",
       "source_answer": "A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
-      "output_file": "audio/0366-entry-0184-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0366-entry-0184-question.mp3"
+      "output_file": "audio/0367-entry-0184-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0367-entry-0184-question.mp3"
     },
     {
-      "ordinal": 367,
+      "ordinal": 368,
       "entry_index": 184,
       "kind": "answer",
       "display_text": "Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
@@ -6988,11 +7007,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.",
       "source_question": "Q: Czy nauczyciel podczas lekcji zawsze mówił po polsku?",
       "source_answer": "A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
-      "output_file": "audio/0367-entry-0184-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0367-entry-0184-answer.mp3"
+      "output_file": "audio/0368-entry-0184-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0368-entry-0184-answer.mp3"
     },
     {
-      "ordinal": 368,
+      "ordinal": 369,
       "entry_index": 185,
       "kind": "question",
       "display_text": "Ile było osób w grupie?",
@@ -7007,11 +7026,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Officially, there were one hundred and twenty people in my group, but only twenty to thirty people attended classes.",
       "source_question": "Q: Ile było osób w grupie?",
       "source_answer": "A: Oficjalnie w mojej grupie było sto dwadzieścia osób, ale tylko od dwudziestu do trzydziestu osób chodziło na zajęcia.",
-      "output_file": "audio/0368-entry-0185-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0368-entry-0185-question.mp3"
+      "output_file": "audio/0369-entry-0185-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0369-entry-0185-question.mp3"
     },
     {
-      "ordinal": 369,
+      "ordinal": 370,
       "entry_index": 185,
       "kind": "answer",
       "display_text": "Oficjalnie w mojej grupie było sto dwadzieścia osób, ale tylko od dwudziestu do trzydziestu osób chodziło na zajęcia.",
@@ -7026,11 +7045,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Officially, there were one hundred and twenty people in my group, but only twenty to thirty people attended classes.",
       "source_question": "Q: Ile było osób w grupie?",
       "source_answer": "A: Oficjalnie w mojej grupie było sto dwadzieścia osób, ale tylko od dwudziestu do trzydziestu osób chodziło na zajęcia.",
-      "output_file": "audio/0369-entry-0185-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0369-entry-0185-answer.mp3"
+      "output_file": "audio/0370-entry-0185-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0370-entry-0185-answer.mp3"
     },
     {
-      "ordinal": 370,
+      "ordinal": 371,
       "entry_index": 186,
       "kind": "question",
       "display_text": "Ilu z nich mówiło po polsku?",
@@ -7045,11 +7064,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Everyone spoke Polish.",
       "source_question": "Q: Ilu z nich mówiło po polsku?",
       "source_answer": "A: Każdy mówił po polsku.",
-      "output_file": "audio/0370-entry-0186-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0370-entry-0186-question.mp3"
+      "output_file": "audio/0371-entry-0186-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0371-entry-0186-question.mp3"
     },
     {
-      "ordinal": 371,
+      "ordinal": 372,
       "entry_index": 186,
       "kind": "answer",
       "display_text": "Każdy mówił po polsku.",
@@ -7064,11 +7083,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Everyone spoke Polish.",
       "source_question": "Q: Ilu z nich mówiło po polsku?",
       "source_answer": "A: Każdy mówił po polsku.",
-      "output_file": "audio/0371-entry-0186-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0371-entry-0186-answer.mp3"
+      "output_file": "audio/0372-entry-0186-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0372-entry-0186-answer.mp3"
     },
     {
-      "ordinal": 372,
+      "ordinal": 373,
       "entry_index": 187,
       "kind": "question",
       "display_text": "Na jakie okazje robiła pani bukiety?",
@@ -7083,11 +7102,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I made bouquets for birthdays, weddings, and funerals (funeral bouquets).",
       "source_question": "Q: Na jakie okazje robiła pani bukiety?",
       "source_answer": "A: Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).",
-      "output_file": "audio/0372-entry-0187-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0372-entry-0187-question.mp3"
+      "output_file": "audio/0373-entry-0187-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0373-entry-0187-question.mp3"
     },
     {
-      "ordinal": 373,
+      "ordinal": 374,
       "entry_index": 187,
       "kind": "answer",
       "display_text": "Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).",
@@ -7102,11 +7121,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I made bouquets for birthdays, weddings, and funerals (funeral bouquets).",
       "source_question": "Q: Na jakie okazje robiła pani bukiety?",
       "source_answer": "A: Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).",
-      "output_file": "audio/0373-entry-0187-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0373-entry-0187-answer.mp3"
+      "output_file": "audio/0374-entry-0187-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0374-entry-0187-answer.mp3"
     },
     {
-      "ordinal": 374,
+      "ordinal": 375,
       "entry_index": 188,
       "kind": "question",
       "display_text": "Ile osób z grupy dostało dyplom?",
@@ -7121,11 +7140,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I don't know exactly, but I think everyone who took classes and passed the semester exams got a diploma.",
       "source_question": "Q: Ile osób z grupy dostało dyplom?",
       "source_answer": "A: Nie wiem dokładnie, ale myślę, że każdy, kto chodził na zajęcia i zdał egzaminy semestralne, dostał dyplom.",
-      "output_file": "audio/0374-entry-0188-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0374-entry-0188-question.mp3"
+      "output_file": "audio/0375-entry-0188-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0375-entry-0188-question.mp3"
     },
     {
-      "ordinal": 375,
+      "ordinal": 376,
       "entry_index": 188,
       "kind": "answer",
       "display_text": "Nie wiem dokładnie, ale myślę, że każdy, kto chodził na zajęcia i zdał egzaminy semestralne, dostał dyplom.",
@@ -7140,11 +7159,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I don't know exactly, but I think everyone who took classes and passed the semester exams got a diploma.",
       "source_question": "Q: Ile osób z grupy dostało dyplom?",
       "source_answer": "A: Nie wiem dokładnie, ale myślę, że każdy, kto chodził na zajęcia i zdał egzaminy semestralne, dostał dyplom.",
-      "output_file": "audio/0375-entry-0188-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0375-entry-0188-answer.mp3"
+      "output_file": "audio/0376-entry-0188-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0376-entry-0188-answer.mp3"
     },
     {
-      "ordinal": 376,
+      "ordinal": 377,
       "entry_index": 189,
       "kind": "question",
       "display_text": "Ile osób w grupie było zaawansowanych w języku polskim?",
@@ -7159,11 +7178,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Everyone spoke Polish. The course was attended by approximately seventy percent Poles and thirty percent foreigners.",
       "source_question": "Q: Ile osób w grupie było zaawansowanych w języku polskim?",
       "source_answer": "A: Każdy mówił po polsku. Na kursie było około siedemdziesiąt procent polaków i trzydzieści procent obcokrajowców.",
-      "output_file": "audio/0376-entry-0189-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0376-entry-0189-question.mp3"
+      "output_file": "audio/0377-entry-0189-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0377-entry-0189-question.mp3"
     },
     {
-      "ordinal": 377,
+      "ordinal": 378,
       "entry_index": 189,
       "kind": "answer",
       "display_text": "Każdy mówił po polsku. Na kursie było około siedemdziesiąt procent polaków i trzydzieści procent obcokrajowców.",
@@ -7178,11 +7197,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Everyone spoke Polish. The course was attended by approximately seventy percent Poles and thirty percent foreigners.",
       "source_question": "Q: Ile osób w grupie było zaawansowanych w języku polskim?",
       "source_answer": "A: Każdy mówił po polsku. Na kursie było około siedemdziesiąt procent polaków i trzydzieści procent obcokrajowców.",
-      "output_file": "audio/0377-entry-0189-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0377-entry-0189-answer.mp3"
+      "output_file": "audio/0378-entry-0189-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0378-entry-0189-answer.mp3"
     },
     {
-      "ordinal": 378,
+      "ordinal": 379,
       "entry_index": 190,
       "kind": "question",
       "display_text": "Jak były prowadzone zajecia?",
@@ -7197,11 +7216,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: The classes were very interesting. We learned theory and practiced a lot. During practical classes, we had to make flower arrangements, i.e. bouquets, where we acquired comprehensive floristic knowledge. The classes were only in Polish.",
       "source_question": "Q: Jak były prowadzone zajecia?",
       "source_answer": "A: Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
-      "output_file": "audio/0378-entry-0190-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0378-entry-0190-question.mp3"
+      "output_file": "audio/0379-entry-0190-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0379-entry-0190-question.mp3"
     },
     {
-      "ordinal": 379,
+      "ordinal": 380,
       "entry_index": 190,
       "kind": "answer",
       "display_text": "Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
@@ -7216,11 +7235,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: The classes were very interesting. We learned theory and practiced a lot. During practical classes, we had to make flower arrangements, i.e. bouquets, where we acquired comprehensive floristic knowledge. The classes were only in Polish.",
       "source_question": "Q: Jak były prowadzone zajecia?",
       "source_answer": "A: Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
-      "output_file": "audio/0379-entry-0190-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0379-entry-0190-answer.mp3"
+      "output_file": "audio/0380-entry-0190-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0380-entry-0190-answer.mp3"
     },
     {
-      "ordinal": 380,
+      "ordinal": 381,
       "entry_index": 191,
       "kind": "question",
       "display_text": "W jakich godzinach odbywały się zajęcia?",
@@ -7235,11 +7254,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: The classes lasted eight hours.",
       "source_question": "Q: W jakich godzinach odbywały się zajęcia?",
       "source_answer": "A: Zajęcia odbywały się przez osiem godzin.",
-      "output_file": "audio/0380-entry-0191-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0380-entry-0191-question.mp3"
+      "output_file": "audio/0381-entry-0191-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0381-entry-0191-question.mp3"
     },
     {
-      "ordinal": 381,
+      "ordinal": 382,
       "entry_index": 191,
       "kind": "answer",
       "display_text": "Zajęcia odbywały się przez osiem godzin.",
@@ -7254,11 +7273,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: The classes lasted eight hours.",
       "source_question": "Q: W jakich godzinach odbywały się zajęcia?",
       "source_answer": "A: Zajęcia odbywały się przez osiem godzin.",
-      "output_file": "audio/0381-entry-0191-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0381-entry-0191-answer.mp3"
+      "output_file": "audio/0382-entry-0191-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0382-entry-0191-answer.mp3"
     },
     {
-      "ordinal": 382,
+      "ordinal": 383,
       "entry_index": 192,
       "kind": "question",
       "display_text": "W jakie dni i godziny odbywały się zajęcia?",
@@ -7273,11 +7292,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Classes were held only on weekends, on Saturdays and Sundays, every other weekend, for 8 hours.",
       "source_question": "Q: W jakie dni i godziny odbywały się zajęcia?",
       "source_answer": "A: Zajęcia odbywały się tylko w weekendy, w soboty i niedziele, co drugi weekend, przez 8 godzin.",
-      "output_file": "audio/0382-entry-0192-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0382-entry-0192-question.mp3"
+      "output_file": "audio/0383-entry-0192-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0383-entry-0192-question.mp3"
     },
     {
-      "ordinal": 383,
+      "ordinal": 384,
       "entry_index": 192,
       "kind": "answer",
       "display_text": "Zajęcia odbywały się tylko w weekendy, w soboty i niedziele, co drugi weekend, przez 8 godzin.",
@@ -7292,11 +7311,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Classes were held only on weekends, on Saturdays and Sundays, every other weekend, for 8 hours.",
       "source_question": "Q: W jakie dni i godziny odbywały się zajęcia?",
       "source_answer": "A: Zajęcia odbywały się tylko w weekendy, w soboty i niedziele, co drugi weekend, przez 8 godzin.",
-      "output_file": "audio/0383-entry-0192-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0383-entry-0192-answer.mp3"
+      "output_file": "audio/0384-entry-0192-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0384-entry-0192-answer.mp3"
     },
     {
-      "ordinal": 384,
+      "ordinal": 385,
       "entry_index": 193,
       "kind": "question",
       "display_text": "Jak się nazywała szkoła?",
@@ -7311,11 +7330,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: The school was called Policealna Żak.",
       "source_question": "Q: Jak się nazywała szkoła?",
       "source_answer": "A: Szkoła nazywała się Policealna Żak.",
-      "output_file": "audio/0384-entry-0193-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0384-entry-0193-question.mp3"
+      "output_file": "audio/0385-entry-0193-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0385-entry-0193-question.mp3"
     },
     {
-      "ordinal": 385,
+      "ordinal": 386,
       "entry_index": 193,
       "kind": "answer",
       "display_text": "Szkoła nazywała się Policealna Żak.",
@@ -7330,11 +7349,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: The school was called Policealna Żak.",
       "source_question": "Q: Jak się nazywała szkoła?",
       "source_answer": "A: Szkoła nazywała się Policealna Żak.",
-      "output_file": "audio/0385-entry-0193-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0385-entry-0193-answer.mp3"
+      "output_file": "audio/0386-entry-0193-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0386-entry-0193-answer.mp3"
     },
     {
-      "ordinal": 386,
+      "ordinal": 387,
       "entry_index": 194,
       "kind": "question",
       "display_text": "Jakiej narodowości były osoby na kursie?",
@@ -7349,11 +7368,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: There were people on the course from: Iran, Iraq, Ukraine, India, Spain and Turkey.",
       "source_question": "Q: Jakiej narodowości były osoby na kursie?",
       "source_answer": "A: Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.",
-      "output_file": "audio/0386-entry-0194-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0386-entry-0194-question.mp3"
+      "output_file": "audio/0387-entry-0194-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0387-entry-0194-question.mp3"
     },
     {
-      "ordinal": 387,
+      "ordinal": 388,
       "entry_index": 194,
       "kind": "answer",
       "display_text": "Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.",
@@ -7368,11 +7387,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: There were people on the course from: Iran, Iraq, Ukraine, India, Spain and Turkey.",
       "source_question": "Q: Jakiej narodowości były osoby na kursie?",
       "source_answer": "A: Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.",
-      "output_file": "audio/0387-entry-0194-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0387-entry-0194-answer.mp3"
+      "output_file": "audio/0388-entry-0194-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0388-entry-0194-answer.mp3"
     },
     {
-      "ordinal": 388,
+      "ordinal": 389,
       "entry_index": 195,
       "kind": "question",
       "display_text": "Jakie bukiety pani robiła na kursie?",
@@ -7387,11 +7406,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I made bouquets for birthdays, weddings, and funerals (funeral bouquets).",
       "source_question": "Q: Jakie bukiety pani robiła na kursie?",
       "source_answer": "A: Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).",
-      "output_file": "audio/0388-entry-0195-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0388-entry-0195-question.mp3"
+      "output_file": "audio/0389-entry-0195-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0389-entry-0195-question.mp3"
     },
     {
-      "ordinal": 389,
+      "ordinal": 390,
       "entry_index": 195,
       "kind": "answer",
       "display_text": "Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).",
@@ -7406,11 +7425,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I made bouquets for birthdays, weddings, and funerals (funeral bouquets).",
       "source_question": "Q: Jakie bukiety pani robiła na kursie?",
       "source_answer": "A: Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).",
-      "output_file": "audio/0389-entry-0195-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0389-entry-0195-answer.mp3"
+      "output_file": "audio/0390-entry-0195-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0390-entry-0195-answer.mp3"
     },
     {
-      "ordinal": 390,
+      "ordinal": 391,
       "entry_index": 196,
       "kind": "question",
       "display_text": "Czy używała pani internetu na zajęciach z florystyki?",
@@ -7425,11 +7444,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Yes, I used the Internet for a few words.",
       "source_question": "Q: Czy używała pani internetu na zajęciach z florystyki?",
       "source_answer": "A: Tak, używałam internetu do kilku słów.",
-      "output_file": "audio/0390-entry-0196-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0390-entry-0196-question.mp3"
+      "output_file": "audio/0391-entry-0196-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0391-entry-0196-question.mp3"
     },
     {
-      "ordinal": 391,
+      "ordinal": 392,
       "entry_index": 196,
       "kind": "answer",
       "display_text": "Tak, używałam internetu do kilku słów.",
@@ -7444,11 +7463,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Yes, I used the Internet for a few words.",
       "source_question": "Q: Czy używała pani internetu na zajęciach z florystyki?",
       "source_answer": "A: Tak, używałam internetu do kilku słów.",
-      "output_file": "audio/0391-entry-0196-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0391-entry-0196-answer.mp3"
+      "output_file": "audio/0392-entry-0196-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0392-entry-0196-answer.mp3"
     },
     {
-      "ordinal": 392,
+      "ordinal": 393,
       "entry_index": 197,
       "kind": "question",
       "display_text": "Jak długo trwał kurs?",
@@ -7463,11 +7482,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: The course lasted one year, two semesters.",
       "source_question": "Q: Jak długo trwał kurs?",
       "source_answer": "A: Kurs trwał jeden rok, dwa semestry.",
-      "output_file": "audio/0392-entry-0197-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0392-entry-0197-question.mp3"
+      "output_file": "audio/0393-entry-0197-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0393-entry-0197-question.mp3"
     },
     {
-      "ordinal": 393,
+      "ordinal": 394,
       "entry_index": 197,
       "kind": "answer",
       "display_text": "Kurs trwał jeden rok, dwa semestry.",
@@ -7482,11 +7501,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: The course lasted one year, two semesters.",
       "source_question": "Q: Jak długo trwał kurs?",
       "source_answer": "A: Kurs trwał jeden rok, dwa semestry.",
-      "output_file": "audio/0393-entry-0197-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0393-entry-0197-answer.mp3"
+      "output_file": "audio/0394-entry-0197-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0394-entry-0197-answer.mp3"
     },
     {
-      "ordinal": 394,
+      "ordinal": 395,
       "entry_index": 198,
       "kind": "question",
       "display_text": "Jakie pani miała Przedmioty?",
@@ -7501,11 +7520,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I had items such as: 1. English language 2. basics of floristry 3. cultural foundations of floristry 4. making wedding compositions 5. making funeral compositions 6. Non-plant materials science 7. Plant materials science",
       "source_question": "Q: Jakie pani miała Przedmioty?",
       "source_answer": "A: Miałam takie przedmioty jak: 1. język angielski 2. podstawy florystyki 3. kulturowe podstawy florystyki 4. wykonywanie kompozycji ślubnych 5. wykonywanie kompozycji funeralnych 6. Materiałoznawstwo nierośliny 7. Materiałoznawstwo rośliny",
-      "output_file": "audio/0394-entry-0198-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0394-entry-0198-question.mp3"
+      "output_file": "audio/0395-entry-0198-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0395-entry-0198-question.mp3"
     },
     {
-      "ordinal": 395,
+      "ordinal": 396,
       "entry_index": 198,
       "kind": "answer",
       "display_text": "Miałam takie przedmioty jak: 1. język angielski 2. podstawy florystyki 3. kulturowe podstawy florystyki 4. wykonywanie kompozycji ślubnych 5. wykonywanie kompozycji funeralnych 6. Materiałoznawstwo nierośliny 7. Materiałoznawstwo rośliny",
@@ -7520,11 +7539,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I had items such as: 1. English language 2. basics of floristry 3. cultural foundations of floristry 4. making wedding compositions 5. making funeral compositions 6. Non-plant materials science 7. Plant materials science",
       "source_question": "Q: Jakie pani miała Przedmioty?",
       "source_answer": "A: Miałam takie przedmioty jak: 1. język angielski 2. podstawy florystyki 3. kulturowe podstawy florystyki 4. wykonywanie kompozycji ślubnych 5. wykonywanie kompozycji funeralnych 6. Materiałoznawstwo nierośliny 7. Materiałoznawstwo rośliny",
-      "output_file": "audio/0395-entry-0198-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0395-entry-0198-answer.mp3"
+      "output_file": "audio/0396-entry-0198-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0396-entry-0198-answer.mp3"
     },
     {
-      "ordinal": 396,
+      "ordinal": 397,
       "entry_index": 199,
       "kind": "question",
       "display_text": "Czego się pani nauczyła na przedmiocie Kulturowe podstawy florystyki?",
@@ -7539,11 +7558,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned the history and symbolism of plants in Poland.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie Kulturowe podstawy florystyki?",
       "source_answer": "A: Na tym przedmiocie uczyłam się historii i symboliki roślin w Polsce.",
-      "output_file": "audio/0396-entry-0199-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0396-entry-0199-question.mp3"
+      "output_file": "audio/0397-entry-0199-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0397-entry-0199-question.mp3"
     },
     {
-      "ordinal": 397,
+      "ordinal": 398,
       "entry_index": 199,
       "kind": "answer",
       "display_text": "Na tym przedmiocie uczyłam się historii i symboliki roślin w Polsce.",
@@ -7558,11 +7577,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned the history and symbolism of plants in Poland.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie Kulturowe podstawy florystyki?",
       "source_answer": "A: Na tym przedmiocie uczyłam się historii i symboliki roślin w Polsce.",
-      "output_file": "audio/0397-entry-0199-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0397-entry-0199-answer.mp3"
+      "output_file": "audio/0398-entry-0199-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0398-entry-0199-answer.mp3"
     },
     {
-      "ordinal": 398,
+      "ordinal": 399,
       "entry_index": 200,
       "kind": "question",
       "display_text": "Czego się pani nauczyła na przedmiocie podstawy florystyki / kompozycje florystyczne?",
@@ -7577,11 +7596,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned the theory of colors, proportions and styles.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie podstawy florystyki / kompozycje florystyczne?",
       "source_answer": "A: Na tym przedmiocie uczyłam się teorii kolorów, proporcji, stylów.",
-      "output_file": "audio/0398-entry-0200-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0398-entry-0200-question.mp3"
+      "output_file": "audio/0399-entry-0200-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0399-entry-0200-question.mp3"
     },
     {
-      "ordinal": 399,
+      "ordinal": 400,
       "entry_index": 200,
       "kind": "answer",
       "display_text": "Na tym przedmiocie uczyłam się teorii kolorów, proporcji, stylów.",
@@ -7596,11 +7615,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned the theory of colors, proportions and styles.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie podstawy florystyki / kompozycje florystyczne?",
       "source_answer": "A: Na tym przedmiocie uczyłam się teorii kolorów, proporcji, stylów.",
-      "output_file": "audio/0399-entry-0200-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0399-entry-0200-answer.mp3"
+      "output_file": "audio/0400-entry-0200-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0400-entry-0200-answer.mp3"
     },
     {
-      "ordinal": 400,
+      "ordinal": 401,
       "entry_index": 201,
       "kind": "question",
       "display_text": "Czego się pani nauczyła na przedmiocie PROJEKTOWANIE I SPRZEDAŻ USŁUG FLORYSTYCZNYCH?",
@@ -7615,11 +7634,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I learned marketing and customer service in this subject.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie PROJEKTOWANIE I SPRZEDAŻ USŁUG FLORYSTYCZNYCH?",
       "source_answer": "A: Na tym przedmiocie uczyłam się marketingu i obsługi klienta.",
-      "output_file": "audio/0400-entry-0201-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0400-entry-0201-question.mp3"
+      "output_file": "audio/0401-entry-0201-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0401-entry-0201-question.mp3"
     },
     {
-      "ordinal": 401,
+      "ordinal": 402,
       "entry_index": 201,
       "kind": "answer",
       "display_text": "Na tym przedmiocie uczyłam się marketingu i obsługi klienta.",
@@ -7634,11 +7653,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I learned marketing and customer service in this subject.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie PROJEKTOWANIE I SPRZEDAŻ USŁUG FLORYSTYCZNYCH?",
       "source_answer": "A: Na tym przedmiocie uczyłam się marketingu i obsługi klienta.",
-      "output_file": "audio/0401-entry-0201-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0401-entry-0201-answer.mp3"
+      "output_file": "audio/0402-entry-0201-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0402-entry-0201-answer.mp3"
     },
     {
-      "ordinal": 402,
+      "ordinal": 403,
       "entry_index": 202,
       "kind": "question",
       "display_text": "Czego się pani nauczyła na przedmiocie ŚRODKI WYRAZU TWÓRCZEGO?",
@@ -7653,11 +7672,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned the rules of color composition and making floral decorations.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie ŚRODKI WYRAZU TWÓRCZEGO?",
       "source_answer": "A: Na tym przedmiocie uczyłam się reguł kompozycji kolorów oraz robienia dekoracji florystycznych.",
-      "output_file": "audio/0402-entry-0202-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0402-entry-0202-question.mp3"
+      "output_file": "audio/0403-entry-0202-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0403-entry-0202-question.mp3"
     },
     {
-      "ordinal": 403,
+      "ordinal": 404,
       "entry_index": 202,
       "kind": "answer",
       "display_text": "Na tym przedmiocie uczyłam się reguł kompozycji kolorów oraz robienia dekoracji florystycznych.",
@@ -7672,11 +7691,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned the rules of color composition and making floral decorations.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie ŚRODKI WYRAZU TWÓRCZEGO?",
       "source_answer": "A: Na tym przedmiocie uczyłam się reguł kompozycji kolorów oraz robienia dekoracji florystycznych.",
-      "output_file": "audio/0403-entry-0202-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0403-entry-0202-answer.mp3"
+      "output_file": "audio/0404-entry-0202-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0404-entry-0202-answer.mp3"
     },
     {
-      "ordinal": 404,
+      "ordinal": 405,
       "entry_index": 203,
       "kind": "question",
       "display_text": "Czego się pani nauczyła na przedmiocie WYKONYWANIE DEKORACJI WNĘTRZ I ARANŻACJI Obsadzanych?",
@@ -7691,11 +7710,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned how to decorate interiors and arrange plants.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE DEKORACJI WNĘTRZ I ARANŻACJI Obsadzanych?",
       "source_answer": "A: Na tym przedmiocie uczyłam się dekorować wnętrza i komponować rośliny.",
-      "output_file": "audio/0404-entry-0203-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0404-entry-0203-question.mp3"
+      "output_file": "audio/0405-entry-0203-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0405-entry-0203-question.mp3"
     },
     {
-      "ordinal": 405,
+      "ordinal": 406,
       "entry_index": 203,
       "kind": "answer",
       "display_text": "Na tym przedmiocie uczyłam się dekorować wnętrza i komponować rośliny.",
@@ -7710,11 +7729,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned how to decorate interiors and arrange plants.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE DEKORACJI WNĘTRZ I ARANŻACJI Obsadzanych?",
       "source_answer": "A: Na tym przedmiocie uczyłam się dekorować wnętrza i komponować rośliny.",
-      "output_file": "audio/0405-entry-0203-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0405-entry-0203-answer.mp3"
+      "output_file": "audio/0406-entry-0203-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0406-entry-0203-answer.mp3"
     },
     {
-      "ordinal": 406,
+      "ordinal": 407,
       "entry_index": 204,
       "kind": "question",
       "display_text": "Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI FUNERALNYCH?",
@@ -7729,11 +7748,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned how to make funeral compositions, for example wreaths and condolence bouquets.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI FUNERALNYCH?",
       "source_answer": "A: Na tym przedmiocie uczyłam się robić kompozycje pogrzebowe na przykład wieńce i bukiety kondolencyjne.",
-      "output_file": "audio/0406-entry-0204-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0406-entry-0204-question.mp3"
+      "output_file": "audio/0407-entry-0204-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0407-entry-0204-question.mp3"
     },
     {
-      "ordinal": 407,
+      "ordinal": 408,
       "entry_index": 204,
       "kind": "answer",
       "display_text": "Na tym przedmiocie uczyłam się robić kompozycje pogrzebowe na przykład wieńce i bukiety kondolencyjne.",
@@ -7748,11 +7767,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned how to make funeral compositions, for example wreaths and condolence bouquets.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI FUNERALNYCH?",
       "source_answer": "A: Na tym przedmiocie uczyłam się robić kompozycje pogrzebowe na przykład wieńce i bukiety kondolencyjne.",
-      "output_file": "audio/0407-entry-0204-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0407-entry-0204-answer.mp3"
+      "output_file": "audio/0408-entry-0204-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0408-entry-0204-answer.mp3"
     },
     {
-      "ordinal": 408,
+      "ordinal": 409,
       "entry_index": 205,
       "kind": "question",
       "display_text": "Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI ŚLUBNYCH?",
@@ -7767,11 +7786,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned how to make wedding compositions, church, premises and car decorations.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI ŚLUBNYCH?",
       "source_answer": "A: Na tym przedmiocie uczyłam się robić kompozycji ślubnych, dekoracji kościoła, lokalu i samochodu.",
-      "output_file": "audio/0408-entry-0205-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0408-entry-0205-question.mp3"
+      "output_file": "audio/0409-entry-0205-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0409-entry-0205-question.mp3"
     },
     {
-      "ordinal": 409,
+      "ordinal": 410,
       "entry_index": 205,
       "kind": "answer",
       "display_text": "Na tym przedmiocie uczyłam się robić kompozycji ślubnych, dekoracji kościoła, lokalu i samochodu.",
@@ -7786,11 +7805,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned how to make wedding compositions, church, premises and car decorations.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI ŚLUBNYCH?",
       "source_answer": "A: Na tym przedmiocie uczyłam się robić kompozycji ślubnych, dekoracji kościoła, lokalu i samochodu.",
-      "output_file": "audio/0409-entry-0205-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0409-entry-0205-answer.mp3"
+      "output_file": "audio/0410-entry-0205-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0410-entry-0205-answer.mp3"
     },
     {
-      "ordinal": 410,
+      "ordinal": 411,
       "entry_index": 206,
       "kind": "question",
       "display_text": "Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI OKOLICZNOŚCIOWYCH ?",
@@ -7805,11 +7824,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned how to make flower arrangements for various occasions, such as birthdays and holidays.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI OKOLICZNOŚCIOWYCH ?",
       "source_answer": "A: Na tym przedmiocie uczyłam się robić kompozycje kwiatowe na różne okazje na przykład urodziny, święta.",
-      "output_file": "audio/0410-entry-0206-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0410-entry-0206-question.mp3"
+      "output_file": "audio/0411-entry-0206-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0411-entry-0206-question.mp3"
     },
     {
-      "ordinal": 411,
+      "ordinal": 412,
       "entry_index": 206,
       "kind": "answer",
       "display_text": "Na tym przedmiocie uczyłam się robić kompozycje kwiatowe na różne okazje na przykład urodziny, święta.",
@@ -7824,11 +7843,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned how to make flower arrangements for various occasions, such as birthdays and holidays.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI OKOLICZNOŚCIOWYCH ?",
       "source_answer": "A: Na tym przedmiocie uczyłam się robić kompozycje kwiatowe na różne okazje na przykład urodziny, święta.",
-      "output_file": "audio/0411-entry-0206-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0411-entry-0206-answer.mp3"
+      "output_file": "audio/0412-entry-0206-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0412-entry-0206-answer.mp3"
     },
     {
-      "ordinal": 412,
+      "ordinal": 413,
       "entry_index": 207,
       "kind": "question",
       "display_text": "Czego się pani nauczyła na przedmiocie JĘZYK ANGIELSKI?",
@@ -7843,11 +7862,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned professional floristic vocabulary.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie JĘZYK ANGIELSKI?",
       "source_answer": "A: Na tym przedmiocie uczyłam się profesjonalnego słownictwa florystycznego.",
-      "output_file": "audio/0412-entry-0207-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0412-entry-0207-question.mp3"
+      "output_file": "audio/0413-entry-0207-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0413-entry-0207-question.mp3"
     },
     {
-      "ordinal": 413,
+      "ordinal": 414,
       "entry_index": 207,
       "kind": "answer",
       "display_text": "Na tym przedmiocie uczyłam się profesjonalnego słownictwa florystycznego.",
@@ -7862,11 +7881,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject I learned professional floristic vocabulary.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie JĘZYK ANGIELSKI?",
       "source_answer": "A: Na tym przedmiocie uczyłam się profesjonalnego słownictwa florystycznego.",
-      "output_file": "audio/0413-entry-0207-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0413-entry-0207-answer.mp3"
+      "output_file": "audio/0414-entry-0207-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0414-entry-0207-answer.mp3"
     },
     {
-      "ordinal": 414,
+      "ordinal": 415,
       "entry_index": 208,
       "kind": "question",
       "display_text": "Czego się pani nauczyła na przedmiocie Materiałoznawstwo Nieroślinny?",
@@ -7881,11 +7900,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject, I learned various floristic tools, such as floral scissors, floral foil, secateurs, wire, tape and hot glue.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie Materiałoznawstwo Nieroślinny?",
       "source_answer": "A: Na tym przedmiocie uczyłam się różnych narzędzi florystycznych, takich jak nożyczki florystyczne, Folia florystyczna, Sekator, drut, taśma i Klej na gorąco.",
-      "output_file": "audio/0414-entry-0208-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0414-entry-0208-question.mp3"
+      "output_file": "audio/0415-entry-0208-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0415-entry-0208-question.mp3"
     },
     {
-      "ordinal": 415,
+      "ordinal": 416,
       "entry_index": 208,
       "kind": "answer",
       "display_text": "Na tym przedmiocie uczyłam się różnych narzędzi florystycznych, takich jak nożyczki florystyczne, Folia florystyczna, Sekator, drut, taśma i Klej na gorąco.",
@@ -7900,11 +7919,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this subject, I learned various floristic tools, such as floral scissors, floral foil, secateurs, wire, tape and hot glue.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie Materiałoznawstwo Nieroślinny?",
       "source_answer": "A: Na tym przedmiocie uczyłam się różnych narzędzi florystycznych, takich jak nożyczki florystyczne, Folia florystyczna, Sekator, drut, taśma i Klej na gorąco.",
-      "output_file": "audio/0415-entry-0208-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0415-entry-0208-answer.mp3"
+      "output_file": "audio/0416-entry-0208-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0416-entry-0208-answer.mp3"
     },
     {
-      "ordinal": 416,
+      "ordinal": 417,
       "entry_index": 209,
       "kind": "question",
       "display_text": "Czego się pani nauczyła na przedmiocie Materiałoznawstwo roślinny?",
@@ -7919,11 +7938,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this course I learned about plants and how to care for them.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie Materiałoznawstwo roślinny?",
       "source_answer": "A: Na tym prezdmiocie uczyłam się o roślinach i jak o nie dbać.",
-      "output_file": "audio/0416-entry-0209-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0416-entry-0209-question.mp3"
+      "output_file": "audio/0417-entry-0209-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0417-entry-0209-question.mp3"
     },
     {
-      "ordinal": 417,
+      "ordinal": 418,
       "entry_index": 209,
       "kind": "answer",
       "display_text": "Na tym prezdmiocie uczyłam się o roślinach i jak o nie dbać.",
@@ -7938,11 +7957,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this course I learned about plants and how to care for them.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie Materiałoznawstwo roślinny?",
       "source_answer": "A: Na tym prezdmiocie uczyłam się o roślinach i jak o nie dbać.",
-      "output_file": "audio/0417-entry-0209-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0417-entry-0209-answer.mp3"
+      "output_file": "audio/0418-entry-0209-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0418-entry-0209-answer.mp3"
     },
     {
-      "ordinal": 418,
+      "ordinal": 419,
       "entry_index": 210,
       "kind": "question",
       "display_text": "Czego się pani nauczyła na przedmiocie Praktyka zawodowa?",
@@ -7957,11 +7976,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this course, I learned how to make bouquets, flower arrangements and serve customers.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie Praktyka zawodowa?",
       "source_answer": "A: Na tym prezdmiocie uczyłam się robić bukiety, kompozycje kwiatowe i obsługiwać klientów.",
-      "output_file": "audio/0418-entry-0210-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0418-entry-0210-question.mp3"
+      "output_file": "audio/0419-entry-0210-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0419-entry-0210-question.mp3"
     },
     {
-      "ordinal": 419,
+      "ordinal": 420,
       "entry_index": 210,
       "kind": "answer",
       "display_text": "Na tym prezdmiocie uczyłam się robić bukiety, kompozycje kwiatowe i obsługiwać klientów.",
@@ -7976,11 +7995,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: In this course, I learned how to make bouquets, flower arrangements and serve customers.",
       "source_question": "Q: Czego się pani nauczyła na przedmiocie Praktyka zawodowa?",
       "source_answer": "A: Na tym prezdmiocie uczyłam się robić bukiety, kompozycje kwiatowe i obsługiwać klientów.",
-      "output_file": "audio/0419-entry-0210-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0419-entry-0210-answer.mp3"
+      "output_file": "audio/0420-entry-0210-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0420-entry-0210-answer.mp3"
     },
     {
-      "ordinal": 420,
+      "ordinal": 421,
       "entry_index": 211,
       "kind": "question",
       "display_text": "Z KTÓREGO PRZEDMIOTU BYŁY EGZAMINY?",
@@ -7995,11 +8014,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: There were exams in all subjects. There were theoretical and practical exams. The theoretical exam was a test and during the practical exam I made bouquets for various occasions.",
       "source_question": "Q: Z KTÓREGO PRZEDMIOTU BYŁY EGZAMINY?",
       "source_answer": "A: Egzaminy były ze wszystkich przedmiotów. Były egzaminy teoretyczne i praktyczne. Egzamin teoretyczny to był test a na egzaminie praktycznym robiłam bukiety na różne okazje.",
-      "output_file": "audio/0420-entry-0211-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0420-entry-0211-question.mp3"
+      "output_file": "audio/0421-entry-0211-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0421-entry-0211-question.mp3"
     },
     {
-      "ordinal": 421,
+      "ordinal": 422,
       "entry_index": 211,
       "kind": "answer",
       "display_text": "Egzaminy były ze wszystkich przedmiotów. Były egzaminy teoretyczne i praktyczne. Egzamin teoretyczny to był test a na egzaminie praktycznym robiłam bukiety na różne okazje.",
@@ -8014,11 +8033,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: There were exams in all subjects. There were theoretical and practical exams. The theoretical exam was a test and during the practical exam I made bouquets for various occasions.",
       "source_question": "Q: Z KTÓREGO PRZEDMIOTU BYŁY EGZAMINY?",
       "source_answer": "A: Egzaminy były ze wszystkich przedmiotów. Były egzaminy teoretyczne i praktyczne. Egzamin teoretyczny to był test a na egzaminie praktycznym robiłam bukiety na różne okazje.",
-      "output_file": "audio/0421-entry-0211-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0421-entry-0211-answer.mp3"
+      "output_file": "audio/0422-entry-0211-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0422-entry-0211-answer.mp3"
     },
     {
-      "ordinal": 422,
+      "ordinal": 423,
       "entry_index": 212,
       "kind": "question",
       "display_text": "PROSZĘ POWIEDZIEĆ KIEDY I DO CZEGO UŻYWA SIĘ TYCH NARZĘDZI?",
@@ -8033,11 +8052,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Floral scissors - used for cutting flowers and branches Pruning shears - used to cut thick branches Hot glue - used to JOIN elements Tape – used to CONNECT elements. Floral foil - used for packing bouquets Wire - used to attach flowers and decorations. Ribbons - used for decoration Floral sponge is used for flower arrangements.",
       "source_question": "Q: PROSZĘ POWIEDZIEĆ KIEDY I DO CZEGO UŻYWA SIĘ TYCH NARZĘDZI?",
       "source_answer": "A: Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi Sekator - używa się do cięcia grubych gałęzi Klej na gorąco - używa się do POŁACZENIA elementów Taśma – używa się do POŁACZENIA elementów. Folia florystyczna - używa się do pakowania bukietów Drut - używa się do mocowania kwiatów i dekoracji. Wstążki - używa się do dekoracji Gąbka florystyczna używa się do kompozycji kwiatowych.",
-      "output_file": "audio/0422-entry-0212-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0422-entry-0212-question.mp3"
+      "output_file": "audio/0423-entry-0212-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0423-entry-0212-question.mp3"
     },
     {
-      "ordinal": 423,
+      "ordinal": 424,
       "entry_index": 212,
       "kind": "answer",
       "display_text": "Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi Sekator - używa się do cięcia grubych gałęzi Klej na gorąco - używa się do POŁACZENIA elementów Taśma – używa się do POŁACZENIA elementów. Folia florystyczna - używa się do pakowania bukietów Drut - używa się do mocowania kwiatów i dekoracji. Wstążki - używa się do dekoracji Gąbka florystyczna używa się do kompozycji kwiatowych.",
@@ -8052,11 +8071,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Floral scissors - used for cutting flowers and branches Pruning shears - used to cut thick branches Hot glue - used to JOIN elements Tape – used to CONNECT elements. Floral foil - used for packing bouquets Wire - used to attach flowers and decorations. Ribbons - used for decoration Floral sponge is used for flower arrangements.",
       "source_question": "Q: PROSZĘ POWIEDZIEĆ KIEDY I DO CZEGO UŻYWA SIĘ TYCH NARZĘDZI?",
       "source_answer": "A: Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi Sekator - używa się do cięcia grubych gałęzi Klej na gorąco - używa się do POŁACZENIA elementów Taśma – używa się do POŁACZENIA elementów. Folia florystyczna - używa się do pakowania bukietów Drut - używa się do mocowania kwiatów i dekoracji. Wstążki - używa się do dekoracji Gąbka florystyczna używa się do kompozycji kwiatowych.",
-      "output_file": "audio/0423-entry-0212-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0423-entry-0212-answer.mp3"
+      "output_file": "audio/0424-entry-0212-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0424-entry-0212-answer.mp3"
     },
     {
-      "ordinal": 424,
+      "ordinal": 425,
       "entry_index": 213,
       "kind": "question",
       "display_text": "JAK PANI PRACOWAŁA W KLASIE? TO BYŁA PRACA INDYWIDUALNA CZY W GRUPIE?",
@@ -8071,11 +8090,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: It depends. Sometimes I worked individually, and sometimes I made bouquets in a group.",
       "source_question": "Q: JAK PANI PRACOWAŁA W KLASIE? TO BYŁA PRACA INDYWIDUALNA CZY W GRUPIE?",
       "source_answer": "A: To zależy. Czasami pracowałam indywidualnie, a czasami w grupie robiłam bukiety.",
-      "output_file": "audio/0424-entry-0213-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0424-entry-0213-question.mp3"
+      "output_file": "audio/0425-entry-0213-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0425-entry-0213-question.mp3"
     },
     {
-      "ordinal": 425,
+      "ordinal": 426,
       "entry_index": 213,
       "kind": "answer",
       "display_text": "To zależy. Czasami pracowałam indywidualnie, a czasami w grupie robiłam bukiety.",
@@ -8090,11 +8109,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: It depends. Sometimes I worked individually, and sometimes I made bouquets in a group.",
       "source_question": "Q: JAK PANI PRACOWAŁA W KLASIE? TO BYŁA PRACA INDYWIDUALNA CZY W GRUPIE?",
       "source_answer": "A: To zależy. Czasami pracowałam indywidualnie, a czasami w grupie robiłam bukiety.",
-      "output_file": "audio/0425-entry-0213-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0425-entry-0213-answer.mp3"
+      "output_file": "audio/0426-entry-0213-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0426-entry-0213-answer.mp3"
     },
     {
-      "ordinal": 426,
+      "ordinal": 427,
       "entry_index": 214,
       "kind": "question",
       "display_text": "CZY UCZNIOWIE PODCZAS LEKCJI UŻYWALI TŁUMACZA NA PRZYKŁAD GOOGLE TRANSLATE?. CZY PANI UŻYWAŁA ?",
@@ -8109,11 +8128,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Yes, sometimes I used the Internet to translate a few words. Sometimes I asked the teacher or classmates to repeat it, or I used a translator, such as Google Translate.",
       "source_question": "Q: CZY UCZNIOWIE PODCZAS LEKCJI UŻYWALI TŁUMACZA NA PRZYKŁAD GOOGLE TRANSLATE?. CZY PANI UŻYWAŁA ?",
       "source_answer": "A: Tak, czasami używałam internetu do tłumaczenia kilku słów. Czasami prosiłam nauczyciela albo koleżanki, żeby powtórzyli, albo używałam tłumacza, na przykład Google Translate.",
-      "output_file": "audio/0426-entry-0214-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0426-entry-0214-question.mp3"
+      "output_file": "audio/0427-entry-0214-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0427-entry-0214-question.mp3"
     },
     {
-      "ordinal": 427,
+      "ordinal": 428,
       "entry_index": 214,
       "kind": "answer",
       "display_text": "Tak, czasami używałam internetu do tłumaczenia kilku słów. Czasami prosiłam nauczyciela albo koleżanki, żeby powtórzyli, albo używałam tłumacza, na przykład Google Translate.",
@@ -8128,11 +8147,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Yes, sometimes I used the Internet to translate a few words. Sometimes I asked the teacher or classmates to repeat it, or I used a translator, such as Google Translate.",
       "source_question": "Q: CZY UCZNIOWIE PODCZAS LEKCJI UŻYWALI TŁUMACZA NA PRZYKŁAD GOOGLE TRANSLATE?. CZY PANI UŻYWAŁA ?",
       "source_answer": "A: Tak, czasami używałam internetu do tłumaczenia kilku słów. Czasami prosiłam nauczyciela albo koleżanki, żeby powtórzyli, albo używałam tłumacza, na przykład Google Translate.",
-      "output_file": "audio/0427-entry-0214-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0427-entry-0214-answer.mp3"
+      "output_file": "audio/0428-entry-0214-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0428-entry-0214-answer.mp3"
     },
     {
-      "ordinal": 428,
+      "ordinal": 429,
       "entry_index": 215,
       "kind": "question",
       "display_text": "JAKIE DOKUMENTY PANI POTRZEBOWAŁA ŻEBY ZAPISAĆ SIĘ DO SZKOŁY?",
@@ -8147,11 +8166,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I needed a certificate from a university in India and a passport.",
       "source_question": "Q: JAKIE DOKUMENTY PANI POTRZEBOWAŁA ŻEBY ZAPISAĆ SIĘ DO SZKOŁY?",
       "source_answer": "A: Potrzebowałam certyfikat z uniwersytetu w Indiach i Paszport.",
-      "output_file": "audio/0428-entry-0215-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0428-entry-0215-question.mp3"
+      "output_file": "audio/0429-entry-0215-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0429-entry-0215-question.mp3"
     },
     {
-      "ordinal": 429,
+      "ordinal": 430,
       "entry_index": 215,
       "kind": "answer",
       "display_text": "Potrzebowałam certyfikat z uniwersytetu w Indiach i Paszport.",
@@ -8166,11 +8185,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I needed a certificate from a university in India and a passport.",
       "source_question": "Q: JAKIE DOKUMENTY PANI POTRZEBOWAŁA ŻEBY ZAPISAĆ SIĘ DO SZKOŁY?",
       "source_answer": "A: Potrzebowałam certyfikat z uniwersytetu w Indiach i Paszport.",
-      "output_file": "audio/0429-entry-0215-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0429-entry-0215-answer.mp3"
+      "output_file": "audio/0430-entry-0215-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0430-entry-0215-answer.mp3"
     },
     {
-      "ordinal": 430,
+      "ordinal": 431,
       "entry_index": 216,
       "kind": "question",
       "display_text": "JAK WYGLĄDAŁ PROCES REKRUTACJI I W JAKIM JĘZYKU BYŁ PROWADZONY?",
@@ -8185,11 +8204,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: First, I applied online and created a form for the course, then I signed up at the school office and needed a certificate from a university in India and a passport. Recruitment was in Polish. The online form was in Polish and the school secretary also spoke Polish.",
       "source_question": "Q: JAK WYGLĄDAŁ PROCES REKRUTACJI I W JAKIM JĘZYKU BYŁ PROWADZONY?",
       "source_answer": "A: Najpierw aplikowałam online i zrobiłam formularz na kurs, potem zapisałam się w biurze szkoły i potrzebowałam certyfikat z uniwersytetu w Indiach i paszport. Rekrutacja była po polsku. Formularz online był po polsku i sekretarka w szkole mówiła też po polsku.",
-      "output_file": "audio/0430-entry-0216-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0430-entry-0216-question.mp3"
+      "output_file": "audio/0431-entry-0216-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0431-entry-0216-question.mp3"
     },
     {
-      "ordinal": 431,
+      "ordinal": 432,
       "entry_index": 216,
       "kind": "answer",
       "display_text": "Najpierw aplikowałam online i zrobiłam formularz na kurs, potem zapisałam się w biurze szkoły i potrzebowałam certyfikat z uniwersytetu w Indiach i paszport. Rekrutacja była po polsku. Formularz online był po polsku i sekretarka w szkole mówiła też po polsku.",
@@ -8204,11 +8223,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: First, I applied online and created a form for the course, then I signed up at the school office and needed a certificate from a university in India and a passport. Recruitment was in Polish. The online form was in Polish and the school secretary also spoke Polish.",
       "source_question": "Q: JAK WYGLĄDAŁ PROCES REKRUTACJI I W JAKIM JĘZYKU BYŁ PROWADZONY?",
       "source_answer": "A: Najpierw aplikowałam online i zrobiłam formularz na kurs, potem zapisałam się w biurze szkoły i potrzebowałam certyfikat z uniwersytetu w Indiach i paszport. Rekrutacja była po polsku. Formularz online był po polsku i sekretarka w szkole mówiła też po polsku.",
-      "output_file": "audio/0431-entry-0216-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0431-entry-0216-answer.mp3"
+      "output_file": "audio/0432-entry-0216-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0432-entry-0216-answer.mp3"
     },
     {
-      "ordinal": 432,
+      "ordinal": 433,
       "entry_index": 217,
       "kind": "question",
       "display_text": "JAK WYGLĄDAŁ EGZAMINY? W JAKIM JĘZYKU BYŁ PROWADZONY?",
@@ -8223,11 +8242,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: The exams were theoretical and practical. They were in Polish.",
       "source_question": "Q: JAK WYGLĄDAŁ EGZAMINY? W JAKIM JĘZYKU BYŁ PROWADZONY?",
       "source_answer": "A: Egzaminy były teoretyczne i praktyczne. Były po polsku.",
-      "output_file": "audio/0432-entry-0217-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0432-entry-0217-question.mp3"
+      "output_file": "audio/0433-entry-0217-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0433-entry-0217-question.mp3"
     },
     {
-      "ordinal": 433,
+      "ordinal": 434,
       "entry_index": 217,
       "kind": "answer",
       "display_text": "Egzaminy były teoretyczne i praktyczne. Były po polsku.",
@@ -8242,11 +8261,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: The exams were theoretical and practical. They were in Polish.",
       "source_question": "Q: JAK WYGLĄDAŁ EGZAMINY? W JAKIM JĘZYKU BYŁ PROWADZONY?",
       "source_answer": "A: Egzaminy były teoretyczne i praktyczne. Były po polsku.",
-      "output_file": "audio/0433-entry-0217-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0433-entry-0217-answer.mp3"
+      "output_file": "audio/0434-entry-0217-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0434-entry-0217-answer.mp3"
     },
     {
-      "ordinal": 434,
+      "ordinal": 435,
       "entry_index": 218,
       "kind": "question",
       "display_text": "PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA W FIRMIE IT, TO DLACZEGO ZROBIŁA PANI KURS FLORYSTYCZNY?",
@@ -8261,11 +8280,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I work as an IT tester and that is my profession, but floristry is my hobby. I like flowers, I like making bouquets for my loved ones. I also signed up for a floristry course to practice and speak Polish because the teachers only spoke Polish during classes.",
       "source_question": "Q: PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA W FIRMIE IT, TO DLACZEGO ZROBIŁA PANI KURS FLORYSTYCZNY?",
       "source_answer": "A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. Lubię kwiaty, lubię robić bukiety dla moich bliskich. Zapisałam się na kurs florystyczny też żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.",
-      "output_file": "audio/0434-entry-0218-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0434-entry-0218-question.mp3"
+      "output_file": "audio/0435-entry-0218-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0435-entry-0218-question.mp3"
     },
     {
-      "ordinal": 435,
+      "ordinal": 436,
       "entry_index": 218,
       "kind": "answer",
       "display_text": "Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. Lubię kwiaty, lubię robić bukiety dla moich bliskich. Zapisałam się na kurs florystyczny też żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.",
@@ -8280,11 +8299,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I work as an IT tester and that is my profession, but floristry is my hobby. I like flowers, I like making bouquets for my loved ones. I also signed up for a floristry course to practice and speak Polish because the teachers only spoke Polish during classes.",
       "source_question": "Q: PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA W FIRMIE IT, TO DLACZEGO ZROBIŁA PANI KURS FLORYSTYCZNY?",
       "source_answer": "A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. Lubię kwiaty, lubię robić bukiety dla moich bliskich. Zapisałam się na kurs florystyczny też żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.",
-      "output_file": "audio/0435-entry-0218-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0435-entry-0218-answer.mp3"
+      "output_file": "audio/0436-entry-0218-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0436-entry-0218-answer.mp3"
     },
     {
-      "ordinal": 436,
+      "ordinal": 437,
       "entry_index": 219,
       "kind": "question",
       "display_text": "PROSZĘ WYMIENIĆ PO POLSKU NARZĘDZIA FLORYSTYCZNE?",
@@ -8299,11 +8318,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Floral scissors - used for cutting flowers and branches Pruning shears - used to cut thick branches Hot glue - used to JOIN elements Tape – used to CONNECT elements. Floral foil - used for packing bouquets Wire - used to attach flowers and decorations. Ribbons - used for decoration",
       "source_question": "Q: PROSZĘ WYMIENIĆ PO POLSKU NARZĘDZIA FLORYSTYCZNE?",
       "source_answer": "A: Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi Sekator - używa się do cięcia grubych gałęzi Klej na gorąco - używa się do POŁACZENIA elementów Taśma – używa się do POŁACZENIA elementów. Folia florystyczna - używa się do pakowania bukietów Drut - używa się do mocowania kwiatów i dekoracji. Wstążki - używa się do dekoracji",
-      "output_file": "audio/0436-entry-0219-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0436-entry-0219-question.mp3"
+      "output_file": "audio/0437-entry-0219-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0437-entry-0219-question.mp3"
     },
     {
-      "ordinal": 437,
+      "ordinal": 438,
       "entry_index": 219,
       "kind": "answer",
       "display_text": "Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi Sekator - używa się do cięcia grubych gałęzi Klej na gorąco - używa się do POŁACZENIA elementów Taśma – używa się do POŁACZENIA elementów. Folia florystyczna - używa się do pakowania bukietów Drut - używa się do mocowania kwiatów i dekoracji. Wstążki - używa się do dekoracji",
@@ -8318,11 +8337,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: Floral scissors - used for cutting flowers and branches Pruning shears - used to cut thick branches Hot glue - used to JOIN elements Tape – used to CONNECT elements. Floral foil - used for packing bouquets Wire - used to attach flowers and decorations. Ribbons - used for decoration",
       "source_question": "Q: PROSZĘ WYMIENIĆ PO POLSKU NARZĘDZIA FLORYSTYCZNE?",
       "source_answer": "A: Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi Sekator - używa się do cięcia grubych gałęzi Klej na gorąco - używa się do POŁACZENIA elementów Taśma – używa się do POŁACZENIA elementów. Folia florystyczna - używa się do pakowania bukietów Drut - używa się do mocowania kwiatów i dekoracji. Wstążki - używa się do dekoracji",
-      "output_file": "audio/0437-entry-0219-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0437-entry-0219-answer.mp3"
+      "output_file": "audio/0438-entry-0219-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0438-entry-0219-answer.mp3"
     },
     {
-      "ordinal": 438,
+      "ordinal": 439,
       "entry_index": 220,
       "kind": "question",
       "display_text": "DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
@@ -8332,35 +8351,35 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
       "original_reference_text": "WHY ARE YOU APPLYING FOR A PERMANENT RESIDENCE CARD AND A LONG-TERM RESIDENT CARD OF THE EUROPEAN UNION?",
       "display_question": "Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
-      "display_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+      "display_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
       "reference_question": "Q: WHY ARE YOU APPLYING FOR A PERMANENT RESIDENCE CARD AND A LONG-TERM RESIDENT CARD OF THE EUROPEAN UNION?",
-      "reference_answer": "A: I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
+      "reference_answer": "A: I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
       "source_question": "Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
-      "source_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-      "output_file": "audio/0438-entry-0220-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0438-entry-0220-question.mp3"
-    },
-    {
-      "ordinal": 439,
-      "entry_index": 220,
-      "kind": "answer",
-      "display_text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-      "translation_text": "I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
-      "spoken_text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-      "text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-      "original_text": "Planuję na stałe zostać w Polsce z rodziną. moja córka chodzi do polskiej, publicznej szkoły, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-      "original_reference_text": "I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
-      "display_question": "Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
-      "display_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-      "reference_question": "Q: WHY ARE YOU APPLYING FOR A PERMANENT RESIDENCE CARD AND A LONG-TERM RESIDENT CARD OF THE EUROPEAN UNION?",
-      "reference_answer": "A: I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
-      "source_question": "Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
-      "source_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-      "output_file": "audio/0439-entry-0220-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0439-entry-0220-answer.mp3"
+      "source_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+      "output_file": "audio/0439-entry-0220-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0439-entry-0220-question.mp3"
     },
     {
       "ordinal": 440,
+      "entry_index": 220,
+      "kind": "answer",
+      "display_text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+      "translation_text": "I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
+      "spoken_text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+      "text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+      "original_text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+      "original_reference_text": "I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
+      "display_question": "Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
+      "display_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+      "reference_question": "Q: WHY ARE YOU APPLYING FOR A PERMANENT RESIDENCE CARD AND A LONG-TERM RESIDENT CARD OF THE EUROPEAN UNION?",
+      "reference_answer": "A: I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
+      "source_question": "Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
+      "source_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+      "output_file": "audio/0440-entry-0220-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0440-entry-0220-answer.mp3"
+    },
+    {
+      "ordinal": 441,
       "entry_index": 221,
       "kind": "question",
       "display_text": "UKOŃCZYŁA PANI SZKOŁĘ FLORYSTYKI, TO DLACZEGO PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA?",
@@ -8375,11 +8394,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I work as an IT tester and that is my profession, but floristry is my hobby. I like flowers, I like making bouquets for my loved ones. I also signed up for a floristry course to practice and speak Polish because the teachers only spoke Polish during classes.",
       "source_question": "Q: UKOŃCZYŁA PANI SZKOŁĘ FLORYSTYKI, TO DLACZEGO PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA?",
       "source_answer": "A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. Lubię kwiaty, lubię robić bukiety dla moich bliskich. Zapisałam się na kurs florystyczny też żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.",
-      "output_file": "audio/0440-entry-0221-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0440-entry-0221-question.mp3"
+      "output_file": "audio/0441-entry-0221-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0441-entry-0221-question.mp3"
     },
     {
-      "ordinal": 441,
+      "ordinal": 442,
       "entry_index": 221,
       "kind": "answer",
       "display_text": "Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. Lubię kwiaty, lubię robić bukiety dla moich bliskich. Zapisałam się na kurs florystyczny też żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.",
@@ -8394,11 +8413,11 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "reference_answer": "A: I work as an IT tester and that is my profession, but floristry is my hobby. I like flowers, I like making bouquets for my loved ones. I also signed up for a floristry course to practice and speak Polish because the teachers only spoke Polish during classes.",
       "source_question": "Q: UKOŃCZYŁA PANI SZKOŁĘ FLORYSTYKI, TO DLACZEGO PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA?",
       "source_answer": "A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. Lubię kwiaty, lubię robić bukiety dla moich bliskich. Zapisałam się na kurs florystyczny też żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.",
-      "output_file": "audio/0441-entry-0221-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0441-entry-0221-answer.mp3"
+      "output_file": "audio/0442-entry-0221-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0442-entry-0221-answer.mp3"
     },
     {
-      "ordinal": 442,
+      "ordinal": 443,
       "entry_index": 222,
       "kind": "question",
       "display_text": "CZY CHCE PANI JESZCZE COŚ DODAĆ?",
@@ -8408,32 +8427,32 @@ window.__LANGUAGE_LEARNING_BUNDLE__ = {
       "original_text": "CZY CHCE PANI JESZCZE COŚ DODAĆ?",
       "original_reference_text": "DO YOU WANT TO ADD ANYTHING ELSE?",
       "display_question": "Q: CZY CHCE PANI JESZCZE COŚ DODAĆ?",
-      "display_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+      "display_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
       "reference_question": "Q: DO YOU WANT TO ADD ANYTHING ELSE?",
-      "reference_answer": "A: Thank you for your time. I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
+      "reference_answer": "A: Thank you for your time. I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
       "source_question": "Q: CZY CHCE PANI JESZCZE COŚ DODAĆ?",
-      "source_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
-      "output_file": "audio/0442-entry-0222-question.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0442-entry-0222-question.mp3"
+      "source_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+      "output_file": "audio/0443-entry-0222-question.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0443-entry-0222-question.mp3"
     },
     {
-      "ordinal": 443,
+      "ordinal": 444,
       "entry_index": 222,
       "kind": "answer",
-      "display_text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
-      "translation_text": "Thank you for your time. I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
-      "spoken_text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
-      "text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
-      "original_text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. moja córka chodzi do polskiej, publicznej szkoły, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
-      "original_reference_text": "Thank you for your time. I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
+      "display_text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+      "translation_text": "Thank you for your time. I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
+      "spoken_text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+      "text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+      "original_text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+      "original_reference_text": "Thank you for your time. I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
       "display_question": "Q: CZY CHCE PANI JESZCZE COŚ DODAĆ?",
-      "display_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+      "display_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
       "reference_question": "Q: DO YOU WANT TO ADD ANYTHING ELSE?",
-      "reference_answer": "A: Thank you for your time. I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
+      "reference_answer": "A: Thank you for your time. I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
       "source_question": "Q: CZY CHCE PANI JESZCZE COŚ DODAĆ?",
-      "source_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
-      "output_file": "audio/0443-entry-0222-answer.mp3",
-      "output_file_from_repo_root": "output-demo-pack/audio/0443-entry-0222-answer.mp3"
+      "source_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+      "output_file": "audio/0444-entry-0222-answer.mp3",
+      "output_file_from_repo_root": "output-demo-pack-fresh/audio/0444-entry-0222-answer.mp3"
     }
   ]
 };
@@ -8449,32 +8468,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Jakie są pani kwalifikacje zawodowe?",
     "original_reference_text": "What are your professional qualifications?",
     "display_question": "Q: Jakie są pani kwalifikacje zawodowe?",
-    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
     "reference_question": "Q: What are your professional qualifications?",
-    "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
+    "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
     "source_question": "Q: Jakie są pani kwalifikacje zawodowe?",
-    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "output_file": "output-demo-pack/audio/0001-entry-0001-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0001-entry-0001-question.mp3"
+    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "output_file": "output-demo-pack-fresh/audio/0001-entry-0001-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0001-entry-0001-question.mp3"
   },
   {
     "ordinal": 2,
     "entry_index": 1,
     "kind": "answer",
-    "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "translation_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
-    "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "original_reference_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
+    "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "translation_text": "I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
+    "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "original_reference_text": "I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
     "display_question": "Q: Jakie są pani kwalifikacje zawodowe?",
-    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
     "reference_question": "Q: What are your professional qualifications?",
-    "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
+    "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
     "source_question": "Q: Jakie są pani kwalifikacje zawodowe?",
-    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "output_file": "output-demo-pack/audio/0002-entry-0001-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0002-entry-0001-answer.mp3"
+    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "output_file": "output-demo-pack-fresh/audio/0002-entry-0001-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0002-entry-0001-answer.mp3"
   },
   {
     "ordinal": 3,
@@ -8487,32 +8506,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Kiedy ostatnio pani była w Indiach?",
     "original_reference_text": "When was the last time you were in India?",
     "display_question": "Q: Kiedy ostatnio pani była w Indiach?",
-    "display_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
+    "display_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
     "reference_question": "Q: When was the last time you were in India?",
-    "reference_answer": "A: I was last in India on January 28, 2024.",
+    "reference_answer": "A: I was last in India on March 20, 2026.",
     "source_question": "Q: Kiedy ostatnio pani była w Indiach?",
-    "source_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
-    "output_file": "output-demo-pack/audio/0003-entry-0002-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0003-entry-0002-question.mp3"
+    "source_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
+    "output_file": "output-demo-pack-fresh/audio/0003-entry-0002-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0003-entry-0002-question.mp3"
   },
   {
     "ordinal": 4,
     "entry_index": 2,
     "kind": "answer",
-    "display_text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
-    "translation_text": "I was last in India on January 28, 2024.",
-    "spoken_text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
-    "text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
-    "original_text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
-    "original_reference_text": "I was last in India on January 28, 2024.",
+    "display_text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+    "translation_text": "I was last in India on March 20, 2026.",
+    "spoken_text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+    "text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+    "original_text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+    "original_reference_text": "I was last in India on March 20, 2026.",
     "display_question": "Q: Kiedy ostatnio pani była w Indiach?",
-    "display_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
+    "display_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
     "reference_question": "Q: When was the last time you were in India?",
-    "reference_answer": "A: I was last in India on January 28, 2024.",
+    "reference_answer": "A: I was last in India on March 20, 2026.",
     "source_question": "Q: Kiedy ostatnio pani była w Indiach?",
-    "source_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r.",
-    "output_file": "output-demo-pack/audio/0004-entry-0002-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0004-entry-0002-answer.mp3"
+    "source_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
+    "output_file": "output-demo-pack-fresh/audio/0004-entry-0002-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0004-entry-0002-answer.mp3"
   },
   {
     "ordinal": 5,
@@ -8530,8 +8549,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE OWN PROPERTY. This is a three-room apartment.",
     "source_question": "Q: Czy posiada pani własną nieruchomość?",
     "source_answer": "A: TAK MAM/POSIADAM WŁASNĄ NIERUCHOMOŚĆ. To jest trzypokojowe mieszkanie.",
-    "output_file": "output-demo-pack/audio/0005-entry-0003-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0005-entry-0003-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0005-entry-0003-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0005-entry-0003-question.mp3"
   },
   {
     "ordinal": 6,
@@ -8549,8 +8568,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE OWN PROPERTY. This is a three-room apartment.",
     "source_question": "Q: Czy posiada pani własną nieruchomość?",
     "source_answer": "A: TAK MAM/POSIADAM WŁASNĄ NIERUCHOMOŚĆ. To jest trzypokojowe mieszkanie.",
-    "output_file": "output-demo-pack/audio/0006-entry-0003-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0006-entry-0003-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0006-entry-0003-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0006-entry-0003-answer.mp3"
   },
   {
     "ordinal": 7,
@@ -8568,8 +8587,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Generally, I speak English at work because it is an international company. But I speak Polish with Polish colleagues and clients.",
     "source_question": "Q: W jakich językach pani porozumiewa się w pracy?",
     "source_answer": "A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.",
-    "output_file": "output-demo-pack/audio/0007-entry-0004-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0007-entry-0004-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0007-entry-0004-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0007-entry-0004-question.mp3"
   },
   {
     "ordinal": 8,
@@ -8587,8 +8606,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Generally, I speak English at work because it is an international company. But I speak Polish with Polish colleagues and clients.",
     "source_question": "Q: W jakich językach pani porozumiewa się w pracy?",
     "source_answer": "A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.",
-    "output_file": "output-demo-pack/audio/0008-entry-0004-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0008-entry-0004-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0008-entry-0004-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0008-entry-0004-answer.mp3"
   },
   {
     "ordinal": 9,
@@ -8606,8 +8625,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE LIVED IN POLAND FOR 8 YEARS/ I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.",
     "source_question": "Q: Jak długo pani mieszka w Polsce?",
     "source_answer": "A: MIESZKAM W POLSCE 8 LAT./ JESTEM W POLSCE OD LISTOPADA 2018 ROKU.",
-    "output_file": "output-demo-pack/audio/0009-entry-0005-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0009-entry-0005-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0009-entry-0005-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0009-entry-0005-question.mp3"
   },
   {
     "ordinal": 10,
@@ -8625,8 +8644,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE LIVED IN POLAND FOR 8 YEARS/ I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.",
     "source_question": "Q: Jak długo pani mieszka w Polsce?",
     "source_answer": "A: MIESZKAM W POLSCE 8 LAT./ JESTEM W POLSCE OD LISTOPADA 2018 ROKU.",
-    "output_file": "output-demo-pack/audio/0010-entry-0005-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0010-entry-0005-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0010-entry-0005-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0010-entry-0005-answer.mp3"
   },
   {
     "ordinal": 11,
@@ -8644,8 +8663,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Because: I understood everything that the lady in the office said in Polish, but I preferred to speak English to be sure that I understood everything correctly.",
     "source_question": "Q: Dlaczego pani rozmawiała po angielsku w biurze emigracyjnym?",
     "source_answer": "A: Bo: wszystko rozumiałam co pani w biurze mówiła po polsku ale wolałam mówić po angielsku żeby być pewną, że zrozumiałam wszystko dobrze.",
-    "output_file": "output-demo-pack/audio/0011-entry-0006-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0011-entry-0006-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0011-entry-0006-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0011-entry-0006-question.mp3"
   },
   {
     "ordinal": 12,
@@ -8663,8 +8682,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Because: I understood everything that the lady in the office said in Polish, but I preferred to speak English to be sure that I understood everything correctly.",
     "source_question": "Q: Dlaczego pani rozmawiała po angielsku w biurze emigracyjnym?",
     "source_answer": "A: Bo: wszystko rozumiałam co pani w biurze mówiła po polsku ale wolałam mówić po angielsku żeby być pewną, że zrozumiałam wszystko dobrze.",
-    "output_file": "output-demo-pack/audio/0012-entry-0006-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0012-entry-0006-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0012-entry-0006-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0012-entry-0006-answer.mp3"
   },
   {
     "ordinal": 13,
@@ -8682,8 +8701,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Previously, I lived in India, in Bharthana. Before I came to Poland, I only lived in India. I basically lived in Bharthana - that's my hometown - but then I worked and lived in Delhi. After my husband got a job in Poland, I came to Poland, and I have been living in Poland since then.",
     "source_question": "Q: Gdzie pani mieszkała wcześniej?",
     "source_answer": "A: Wcześniej mieszkałam w Indiach, w Bharthana. Zanim przyjechałam do Polski, mieszkałam tylko w Indiach. Generalnie mieszkałam w Bharthana — to jest moje rodzinne miasto — ale potem pracowałam i mieszkałam w Delhi. Po tym jak mój mąż dostał pracę w Polsce, przyjechałam do Polski, i od tego czasu mieszkam w Polsce.",
-    "output_file": "output-demo-pack/audio/0013-entry-0007-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0013-entry-0007-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0013-entry-0007-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0013-entry-0007-question.mp3"
   },
   {
     "ordinal": 14,
@@ -8701,8 +8720,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Previously, I lived in India, in Bharthana. Before I came to Poland, I only lived in India. I basically lived in Bharthana - that's my hometown - but then I worked and lived in Delhi. After my husband got a job in Poland, I came to Poland, and I have been living in Poland since then.",
     "source_question": "Q: Gdzie pani mieszkała wcześniej?",
     "source_answer": "A: Wcześniej mieszkałam w Indiach, w Bharthana. Zanim przyjechałam do Polski, mieszkałam tylko w Indiach. Generalnie mieszkałam w Bharthana — to jest moje rodzinne miasto — ale potem pracowałam i mieszkałam w Delhi. Po tym jak mój mąż dostał pracę w Polsce, przyjechałam do Polski, i od tego czasu mieszkam w Polsce.",
-    "output_file": "output-demo-pack/audio/0014-entry-0007-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0014-entry-0007-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0014-entry-0007-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0014-entry-0007-answer.mp3"
   },
   {
     "ordinal": 15,
@@ -8715,32 +8734,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Jak nazywa się firma, która zaoferowała pani pracę w Polsce?",
     "original_reference_text": "What is the name of the company that offered you a job in Poland?",
     "display_question": "Q: Jak nazywa się firma, która zaoferowała pani pracę w Polsce?",
-    "display_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+    "display_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
     "reference_question": "Q: What is the name of the company that offered you a job in Poland?",
-    "reference_answer": "A: The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+    "reference_answer": "A: The company that offered me a job in Poland is UBS Bank.",
     "source_question": "Q: Jak nazywa się firma, która zaoferowała pani pracę w Polsce?",
-    "source_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "output_file": "output-demo-pack/audio/0015-entry-0008-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0015-entry-0008-question.mp3"
+    "source_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+    "output_file": "output-demo-pack-fresh/audio/0015-entry-0008-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0015-entry-0008-question.mp3"
   },
   {
     "ordinal": 16,
     "entry_index": 8,
     "kind": "answer",
-    "display_text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "translation_text": "The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
-    "spoken_text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Biltrast. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Biltrast. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "original_text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "original_reference_text": "The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+    "display_text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+    "translation_text": "The company that offered me a job in Poland is UBS Bank.",
+    "spoken_text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+    "text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+    "original_text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+    "original_reference_text": "The company that offered me a job in Poland is UBS Bank.",
     "display_question": "Q: Jak nazywa się firma, która zaoferowała pani pracę w Polsce?",
-    "display_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+    "display_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
     "reference_question": "Q: What is the name of the company that offered you a job in Poland?",
-    "reference_answer": "A: The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+    "reference_answer": "A: The company that offered me a job in Poland is UBS Bank.",
     "source_question": "Q: Jak nazywa się firma, która zaoferowała pani pracę w Polsce?",
-    "source_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "output_file": "output-demo-pack/audio/0016-entry-0008-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0016-entry-0008-answer.mp3"
+    "source_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+    "output_file": "output-demo-pack-fresh/audio/0016-entry-0008-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0016-entry-0008-answer.mp3"
   },
   {
     "ordinal": 17,
@@ -8758,8 +8777,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM FROM INDIA.",
     "source_question": "Q: Skąd pani jest?",
     "source_answer": "A: JESTEM Z INDII.",
-    "output_file": "output-demo-pack/audio/0017-entry-0009-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0017-entry-0009-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0017-entry-0009-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0017-entry-0009-question.mp3"
   },
   {
     "ordinal": 18,
@@ -8777,8 +8796,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM FROM INDIA.",
     "source_question": "Q: Skąd pani jest?",
     "source_answer": "A: JESTEM Z INDII.",
-    "output_file": "output-demo-pack/audio/0018-entry-0009-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0018-entry-0009-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0018-entry-0009-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0018-entry-0009-answer.mp3"
   },
   {
     "ordinal": 19,
@@ -8796,8 +8815,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I go to work by tram, bus or car. Sometimes in the summer I walk.",
     "source_question": "Q: Czym pani dojeżdża do pracy?",
     "source_answer": "A: Do pracy jeżdżę tramwajem albo autobusem albo samochodem. Czasami latem chodzę pieszo.",
-    "output_file": "output-demo-pack/audio/0019-entry-0010-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0019-entry-0010-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0019-entry-0010-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0019-entry-0010-question.mp3"
   },
   {
     "ordinal": 20,
@@ -8815,8 +8834,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I go to work by tram, bus or car. Sometimes in the summer I walk.",
     "source_question": "Q: Czym pani dojeżdża do pracy?",
     "source_answer": "A: Do pracy jeżdżę tramwajem albo autobusem albo samochodem. Czasami latem chodzę pieszo.",
-    "output_file": "output-demo-pack/audio/0020-entry-0010-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0020-entry-0010-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0020-entry-0010-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0020-entry-0010-answer.mp3"
   },
   {
     "ordinal": 21,
@@ -8834,8 +8853,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I work as a senior test automation engineer.",
     "source_question": "Q: Na jakim stanowisku pani pracuje?",
     "source_answer": "A: Pracuję na stanowisku starszego inżyniera do spraw automatyzacji testów.",
-    "output_file": "output-demo-pack/audio/0021-entry-0011-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0021-entry-0011-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0021-entry-0011-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0021-entry-0011-question.mp3"
   },
   {
     "ordinal": 22,
@@ -8853,8 +8872,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I work as a senior test automation engineer.",
     "source_question": "Q: Na jakim stanowisku pani pracuje?",
     "source_answer": "A: Pracuję na stanowisku starszego inżyniera do spraw automatyzacji testów.",
-    "output_file": "output-demo-pack/audio/0022-entry-0011-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0022-entry-0011-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0022-entry-0011-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0022-entry-0011-answer.mp3"
   },
   {
     "ordinal": 23,
@@ -8872,8 +8891,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE LIVED IN Krakow for 8 YEARS.",
     "source_question": "Q: Jak długo pani mieszka w Krakowie?",
     "source_answer": "A: MIESZKAM W Krakowie 8 LAT.",
-    "output_file": "output-demo-pack/audio/0023-entry-0012-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0023-entry-0012-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0023-entry-0012-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0023-entry-0012-question.mp3"
   },
   {
     "ordinal": 24,
@@ -8891,8 +8910,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE LIVED IN Krakow for 8 YEARS.",
     "source_question": "Q: Jak długo pani mieszka w Krakowie?",
     "source_answer": "A: MIESZKAM W Krakowie 8 LAT.",
-    "output_file": "output-demo-pack/audio/0024-entry-0012-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0024-entry-0012-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0024-entry-0012-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0024-entry-0012-answer.mp3"
   },
   {
     "ordinal": 25,
@@ -8910,8 +8929,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE OWN PROPERTY. This is a three-room apartment.",
     "source_question": "Q: Czy ma pani własną nieruchomość?",
     "source_answer": "A: TAK MAM/POSIADAM WŁASNĄ NIERUCHOMOŚĆ. To jest trzypokojowe mieszkanie.",
-    "output_file": "output-demo-pack/audio/0025-entry-0013-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0025-entry-0013-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0025-entry-0013-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0025-entry-0013-question.mp3"
   },
   {
     "ordinal": 26,
@@ -8929,8 +8948,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE OWN PROPERTY. This is a three-room apartment.",
     "source_question": "Q: Czy ma pani własną nieruchomość?",
     "source_answer": "A: TAK MAM/POSIADAM WŁASNĄ NIERUCHOMOŚĆ. To jest trzypokojowe mieszkanie.",
-    "output_file": "output-demo-pack/audio/0026-entry-0013-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0026-entry-0013-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0026-entry-0013-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0026-entry-0013-answer.mp3"
   },
   {
     "ordinal": 27,
@@ -8948,8 +8967,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM A COMPUTER ENGINEER BY PROFESSION.",
     "source_question": "Q: Jaki zawód pani wykonuje?",
     "source_answer": "A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.",
-    "output_file": "output-demo-pack/audio/0027-entry-0014-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0027-entry-0014-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0027-entry-0014-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0027-entry-0014-question.mp3"
   },
   {
     "ordinal": 28,
@@ -8967,8 +8986,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM A COMPUTER ENGINEER BY PROFESSION.",
     "source_question": "Q: Jaki zawód pani wykonuje?",
     "source_answer": "A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.",
-    "output_file": "output-demo-pack/audio/0028-entry-0014-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0028-entry-0014-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0028-entry-0014-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0028-entry-0014-answer.mp3"
   },
   {
     "ordinal": 29,
@@ -8986,8 +9005,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE BEEN IN POLAND FOR EIGHT YEARS.",
     "source_question": "Q: Od ilu lat jest pani w Polsce?",
     "source_answer": "A: JESTEM W POLSCE OD OSIEM LAT.",
-    "output_file": "output-demo-pack/audio/0029-entry-0015-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0029-entry-0015-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0029-entry-0015-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0029-entry-0015-question.mp3"
   },
   {
     "ordinal": 30,
@@ -9005,8 +9024,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE BEEN IN POLAND FOR EIGHT YEARS.",
     "source_question": "Q: Od ilu lat jest pani w Polsce?",
     "source_answer": "A: JESTEM W POLSCE OD OSIEM LAT.",
-    "output_file": "output-demo-pack/audio/0030-entry-0015-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0030-entry-0015-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0030-entry-0015-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0030-entry-0015-answer.mp3"
   },
   {
     "ordinal": 31,
@@ -9024,8 +9043,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I got a job at LinkedIn. This is an online application.",
     "source_question": "Q: Jak pani dostała pracę w Polsce?",
     "source_answer": "A: Dostałam pracę na LinkedIn. To jest online aplikacja.",
-    "output_file": "output-demo-pack/audio/0031-entry-0016-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0031-entry-0016-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0031-entry-0016-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0031-entry-0016-question.mp3"
   },
   {
     "ordinal": 32,
@@ -9043,8 +9062,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I got a job at LinkedIn. This is an online application.",
     "source_question": "Q: Jak pani dostała pracę w Polsce?",
     "source_answer": "A: Dostałam pracę na LinkedIn. To jest online aplikacja.",
-    "output_file": "output-demo-pack/audio/0032-entry-0016-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0032-entry-0016-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0032-entry-0016-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0032-entry-0016-answer.mp3"
   },
   {
     "ordinal": 33,
@@ -9062,8 +9081,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I live in Krakow, Os. Piastów 56C, Apartment No. 160, Poztowy Code 31-625, Poland.",
     "source_question": "Q: Gdzie pani mieszka?",
     "source_answer": "A: Mieszkam w Krakowie przy ulicy Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418.",
-    "output_file": "output-demo-pack/audio/0033-entry-0017-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0033-entry-0017-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0033-entry-0017-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0033-entry-0017-question.mp3"
   },
   {
     "ordinal": 34,
@@ -9081,8 +9100,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I live in Krakow, Os. Piastów 56C, Apartment No. 160, Poztowy Code 31-625, Poland.",
     "source_question": "Q: Gdzie pani mieszka?",
     "source_answer": "A: Mieszkam w Krakowie przy ulicy Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418.",
-    "output_file": "output-demo-pack/audio/0034-entry-0017-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0034-entry-0017-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0034-entry-0017-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0034-entry-0017-answer.mp3"
   },
   {
     "ordinal": 35,
@@ -9100,8 +9119,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I work as a senior test automation engineer.",
     "source_question": "Q: Jakie stanowisko pani zajmuje?",
     "source_answer": "A: Pracuję na stanowisku starszego inżyniera do spraw automatyzacji testów.",
-    "output_file": "output-demo-pack/audio/0035-entry-0018-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0035-entry-0018-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0035-entry-0018-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0035-entry-0018-question.mp3"
   },
   {
     "ordinal": 36,
@@ -9119,8 +9138,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I work as a senior test automation engineer.",
     "source_question": "Q: Jakie stanowisko pani zajmuje?",
     "source_answer": "A: Pracuję na stanowisku starszego inżyniera do spraw automatyzacji testów.",
-    "output_file": "output-demo-pack/audio/0036-entry-0018-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0036-entry-0018-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0036-entry-0018-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0036-entry-0018-answer.mp3"
   },
   {
     "ordinal": 37,
@@ -9138,8 +9157,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I lived in Bharthana.",
     "source_question": "Q: W jakim mieście pani mieszkała w Indiach?",
     "source_answer": "A: Mieszkałam w Bharthana.",
-    "output_file": "output-demo-pack/audio/0037-entry-0019-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0037-entry-0019-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0037-entry-0019-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0037-entry-0019-question.mp3"
   },
   {
     "ordinal": 38,
@@ -9157,8 +9176,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I lived in Bharthana.",
     "source_question": "Q: W jakim mieście pani mieszkała w Indiach?",
     "source_answer": "A: Mieszkałam w Bharthana.",
-    "output_file": "output-demo-pack/audio/0038-entry-0019-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0038-entry-0019-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0038-entry-0019-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0038-entry-0019-answer.mp3"
   },
   {
     "ordinal": 39,
@@ -9176,8 +9195,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I LIVE IN POLAND BECAUSE I HAVE A WORK HERE.",
     "source_question": "Q: Dlaczego mieszka pani w Polsce?",
     "source_answer": "A: MIESZKAM W POLSCE BO MAM TUTAJ PRACĘ.",
-    "output_file": "output-demo-pack/audio/0039-entry-0020-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0039-entry-0020-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0039-entry-0020-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0039-entry-0020-question.mp3"
   },
   {
     "ordinal": 40,
@@ -9195,8 +9214,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I LIVE IN POLAND BECAUSE I HAVE A WORK HERE.",
     "source_question": "Q: Dlaczego mieszka pani w Polsce?",
     "source_answer": "A: MIESZKAM W POLSCE BO MAM TUTAJ PRACĘ.",
-    "output_file": "output-demo-pack/audio/0040-entry-0020-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0040-entry-0020-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0040-entry-0020-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0040-entry-0020-answer.mp3"
   },
   {
     "ordinal": 41,
@@ -9214,8 +9233,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My current address is Os. Piastow 56C, Apartment Number 160, Poztowy Code 31-625, Poland.",
     "source_question": "Q: Jaki jest pani obecny adres?",
     "source_answer": "A: Mój obecny adres to ulica Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418, Kraków.",
-    "output_file": "output-demo-pack/audio/0041-entry-0021-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0041-entry-0021-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0041-entry-0021-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0041-entry-0021-question.mp3"
   },
   {
     "ordinal": 42,
@@ -9233,8 +9252,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My current address is Os. Piastow 56C, Apartment Number 160, Poztowy Code 31-625, Poland.",
     "source_question": "Q: Jaki jest pani obecny adres?",
     "source_answer": "A: Mój obecny adres to ulica Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418, Kraków.",
-    "output_file": "output-demo-pack/audio/0042-entry-0021-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0042-entry-0021-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0042-entry-0021-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0042-entry-0021-answer.mp3"
   },
   {
     "ordinal": 43,
@@ -9252,8 +9271,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM FROM INDIA.",
     "source_question": "Q: Skąd pani pochodzi?",
     "source_answer": "A: POCHODZĘ Z INDII.",
-    "output_file": "output-demo-pack/audio/0043-entry-0022-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0043-entry-0022-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0043-entry-0022-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0043-entry-0022-question.mp3"
   },
   {
     "ordinal": 44,
@@ -9271,8 +9290,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM FROM INDIA.",
     "source_question": "Q: Skąd pani pochodzi?",
     "source_answer": "A: POCHODZĘ Z INDII.",
-    "output_file": "output-demo-pack/audio/0044-entry-0022-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0044-entry-0022-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0044-entry-0022-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0044-entry-0022-answer.mp3"
   },
   {
     "ordinal": 45,
@@ -9290,8 +9309,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.",
     "source_question": "Q: Co pani robi w pracy?",
     "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.",
-    "output_file": "output-demo-pack/audio/0045-entry-0023-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0045-entry-0023-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0045-entry-0023-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0045-entry-0023-question.mp3"
   },
   {
     "ordinal": 46,
@@ -9309,8 +9328,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.",
     "source_question": "Q: Co pani robi w pracy?",
     "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.",
-    "output_file": "output-demo-pack/audio/0046-entry-0023-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0046-entry-0023-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0046-entry-0023-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0046-entry-0023-answer.mp3"
   },
   {
     "ordinal": 47,
@@ -9328,8 +9347,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: He has been working in the current company for 7 years.",
     "source_question": "Q: Ile lat pracuje pani w obecnej firmie?",
     "source_answer": "A: W obecnej firmie pracuje 7 lat.",
-    "output_file": "output-demo-pack/audio/0047-entry-0024-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0047-entry-0024-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0047-entry-0024-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0047-entry-0024-question.mp3"
   },
   {
     "ordinal": 48,
@@ -9347,8 +9366,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: He has been working in the current company for 7 years.",
     "source_question": "Q: Ile lat pracuje pani w obecnej firmie?",
     "source_answer": "A: W obecnej firmie pracuje 7 lat.",
-    "output_file": "output-demo-pack/audio/0048-entry-0024-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0048-entry-0024-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0048-entry-0024-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0048-entry-0024-answer.mp3"
   },
   {
     "ordinal": 49,
@@ -9366,8 +9385,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I CAME TO POLAND 8 YEARS AGO.",
     "source_question": "Q: Jak dawno temu pani przyjechała do Polski?",
     "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
-    "output_file": "output-demo-pack/audio/0049-entry-0025-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0049-entry-0025-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0049-entry-0025-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0049-entry-0025-question.mp3"
   },
   {
     "ordinal": 50,
@@ -9385,8 +9404,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I CAME TO POLAND 8 YEARS AGO.",
     "source_question": "Q: Jak dawno temu pani przyjechała do Polski?",
     "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
-    "output_file": "output-demo-pack/audio/0050-entry-0025-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0050-entry-0025-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0050-entry-0025-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0050-entry-0025-answer.mp3"
   },
   {
     "ordinal": 51,
@@ -9404,8 +9423,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I don't live in a rented apartment. I live in my own apartment.",
     "source_question": "Q: Czy mieszka pani w wynajętym mieszkaniu?",
     "source_answer": "A: Nie, nie mieszkam w wynajętym mieszkaniu. Mieszkam w własnym mieszkaniu.",
-    "output_file": "output-demo-pack/audio/0051-entry-0026-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0051-entry-0026-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0051-entry-0026-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0051-entry-0026-question.mp3"
   },
   {
     "ordinal": 52,
@@ -9423,8 +9442,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I don't live in a rented apartment. I live in my own apartment.",
     "source_question": "Q: Czy mieszka pani w wynajętym mieszkaniu?",
     "source_answer": "A: Nie, nie mieszkam w wynajętym mieszkaniu. Mieszkam w własnym mieszkaniu.",
-    "output_file": "output-demo-pack/audio/0052-entry-0026-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0052-entry-0026-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0052-entry-0026-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0052-entry-0026-answer.mp3"
   },
   {
     "ordinal": 53,
@@ -9442,8 +9461,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I currently live in Krakow, Os. Pistyczny 56C, Apartment number 160, Poztowy Code-31625, Poland.",
     "source_question": "Q: Jaki jest pani aktualny adres?",
     "source_answer": "A: Aktualnie mieszkam w Krakowie przy ulicy Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418.",
-    "output_file": "output-demo-pack/audio/0053-entry-0027-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0053-entry-0027-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0053-entry-0027-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0053-entry-0027-question.mp3"
   },
   {
     "ordinal": 54,
@@ -9461,8 +9480,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I currently live in Krakow, Os. Pistyczny 56C, Apartment number 160, Poztowy Code-31625, Poland.",
     "source_question": "Q: Jaki jest pani aktualny adres?",
     "source_answer": "A: Aktualnie mieszkam w Krakowie przy ulicy Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418.",
-    "output_file": "output-demo-pack/audio/0054-entry-0027-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0054-entry-0027-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0054-entry-0027-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0054-entry-0027-answer.mp3"
   },
   {
     "ordinal": 55,
@@ -9480,8 +9499,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.",
     "source_question": "Q: Czym się pani zajmuje w pracy?",
     "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.",
-    "output_file": "output-demo-pack/audio/0055-entry-0028-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0055-entry-0028-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0055-entry-0028-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0055-entry-0028-question.mp3"
   },
   {
     "ordinal": 56,
@@ -9499,8 +9518,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.",
     "source_question": "Q: Czym się pani zajmuje w pracy?",
     "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.",
-    "output_file": "output-demo-pack/audio/0056-entry-0028-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0056-entry-0028-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0056-entry-0028-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0056-entry-0028-answer.mp3"
   },
   {
     "ordinal": 57,
@@ -9513,32 +9532,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Jakie pani ma kwalifikacje?",
     "original_reference_text": "What are your qualifications?",
     "display_question": "Q: Jakie pani ma kwalifikacje?",
-    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
     "reference_question": "Q: What are your qualifications?",
-    "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
+    "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
     "source_question": "Q: Jakie pani ma kwalifikacje?",
-    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "output_file": "output-demo-pack/audio/0057-entry-0029-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0057-entry-0029-question.mp3"
+    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "output_file": "output-demo-pack-fresh/audio/0057-entry-0029-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0057-entry-0029-question.mp3"
   },
   {
     "ordinal": 58,
     "entry_index": 29,
     "kind": "answer",
-    "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "translation_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
-    "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "original_reference_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
+    "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "translation_text": "I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
+    "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "original_reference_text": "I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
     "display_question": "Q: Jakie pani ma kwalifikacje?",
-    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
     "reference_question": "Q: What are your qualifications?",
-    "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.",
+    "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science from a university in India.",
     "source_question": "Q: Jakie pani ma kwalifikacje?",
-    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "output_file": "output-demo-pack/audio/0058-entry-0029-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0058-entry-0029-answer.mp3"
+    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "output_file": "output-demo-pack-fresh/audio/0058-entry-0029-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0058-entry-0029-answer.mp3"
   },
   {
     "ordinal": 59,
@@ -9551,32 +9570,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Jak nazywa się firma, która dała pani ofertę pracy w Polsce?",
     "original_reference_text": "What is the name of the company that offered you a job in Poland?",
     "display_question": "Q: Jak nazywa się firma, która dała pani ofertę pracy w Polsce?",
-    "display_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+    "display_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
     "reference_question": "Q: What is the name of the company that offered you a job in Poland?",
-    "reference_answer": "A: The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+    "reference_answer": "A: The company that offered me a job in Poland is UBS Bank.",
     "source_question": "Q: Jak nazywa się firma, która dała pani ofertę pracy w Polsce?",
-    "source_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "output_file": "output-demo-pack/audio/0059-entry-0030-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0059-entry-0030-question.mp3"
+    "source_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+    "output_file": "output-demo-pack-fresh/audio/0059-entry-0030-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0059-entry-0030-question.mp3"
   },
   {
     "ordinal": 60,
     "entry_index": 30,
     "kind": "answer",
-    "display_text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "translation_text": "The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
-    "spoken_text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Biltrast. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Biltrast. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "original_text": "Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "original_reference_text": "The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+    "display_text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+    "translation_text": "The company that offered me a job in Poland is UBS Bank.",
+    "spoken_text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+    "text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+    "original_text": "Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+    "original_reference_text": "The company that offered me a job in Poland is UBS Bank.",
     "display_question": "Q: Jak nazywa się firma, która dała pani ofertę pracy w Polsce?",
-    "display_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+    "display_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
     "reference_question": "Q: What is the name of the company that offered you a job in Poland?",
-    "reference_answer": "A: The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+    "reference_answer": "A: The company that offered me a job in Poland is UBS Bank.",
     "source_question": "Q: Jak nazywa się firma, która dała pani ofertę pracy w Polsce?",
-    "source_answer": "A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "output_file": "output-demo-pack/audio/0060-entry-0030-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0060-entry-0030-answer.mp3"
+    "source_answer": "A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.",
+    "output_file": "output-demo-pack-fresh/audio/0060-entry-0030-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0060-entry-0030-answer.mp3"
   },
   {
     "ordinal": 61,
@@ -9594,8 +9613,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM A COMPUTER ENGINEER BY PROFESSION.",
     "source_question": "Q: Kim pani jest z zawodu?",
     "source_answer": "A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.",
-    "output_file": "output-demo-pack/audio/0061-entry-0031-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0061-entry-0031-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0061-entry-0031-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0061-entry-0031-question.mp3"
   },
   {
     "ordinal": 62,
@@ -9613,8 +9632,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM A COMPUTER ENGINEER BY PROFESSION.",
     "source_question": "Q: Kim pani jest z zawodu?",
     "source_answer": "A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.",
-    "output_file": "output-demo-pack/audio/0062-entry-0031-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0062-entry-0031-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0062-entry-0031-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0062-entry-0031-answer.mp3"
   },
   {
     "ordinal": 63,
@@ -9632,8 +9651,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I CAME TO POLAND 8 YEARS AGO.",
     "source_question": "Q: Kiedy pani przyjechała do Polski?",
     "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
-    "output_file": "output-demo-pack/audio/0063-entry-0032-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0063-entry-0032-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0063-entry-0032-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0063-entry-0032-question.mp3"
   },
   {
     "ordinal": 64,
@@ -9651,8 +9670,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I CAME TO POLAND 8 YEARS AGO.",
     "source_question": "Q: Kiedy pani przyjechała do Polski?",
     "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
-    "output_file": "output-demo-pack/audio/0064-entry-0032-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0064-entry-0032-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0064-entry-0032-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0064-entry-0032-answer.mp3"
   },
   {
     "ordinal": 65,
@@ -9670,8 +9689,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I live in Krakow, Os. Piastów 56C, Apartment No. 160, Poztowy Code 31-625, Poland.",
     "source_question": "Q: Pod jakim adresem pani mieszka?",
     "source_answer": "A: Mieszkam w Krakowie przy ulicy Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418.",
-    "output_file": "output-demo-pack/audio/0065-entry-0033-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0065-entry-0033-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0065-entry-0033-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0065-entry-0033-question.mp3"
   },
   {
     "ordinal": 66,
@@ -9689,8 +9708,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I live in Krakow, Os. Piastów 56C, Apartment No. 160, Poztowy Code 31-625, Poland.",
     "source_question": "Q: Pod jakim adresem pani mieszka?",
     "source_answer": "A: Mieszkam w Krakowie przy ulicy Przyjaźni Polsko-Węgierskiej 6 mieszkanie 120, kod pocztowy 30-418.",
-    "output_file": "output-demo-pack/audio/0066-entry-0033-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0066-entry-0033-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0066-entry-0033-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0066-entry-0033-answer.mp3"
   },
   {
     "ordinal": 67,
@@ -9708,8 +9727,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Generally, I speak English at work because it is an international company. But I speak Polish with Polish colleagues and clients.",
     "source_question": "Q: W jakich językach pani rozmawia w pracy?",
     "source_answer": "A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.",
-    "output_file": "output-demo-pack/audio/0067-entry-0034-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0067-entry-0034-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0067-entry-0034-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0067-entry-0034-question.mp3"
   },
   {
     "ordinal": 68,
@@ -9727,8 +9746,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Generally, I speak English at work because it is an international company. But I speak Polish with Polish colleagues and clients.",
     "source_question": "Q: W jakich językach pani rozmawia w pracy?",
     "source_answer": "A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.",
-    "output_file": "output-demo-pack/audio/0068-entry-0034-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0068-entry-0034-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0068-entry-0034-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0068-entry-0034-answer.mp3"
   },
   {
     "ordinal": 69,
@@ -9746,8 +9765,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE LIVED IN POLAND EIGHT YEARS.",
     "source_question": "Q: Ile lat pani mieszka w Polsce?",
     "source_answer": "A: MIESZKAM W POLSCE OSIEM LAT.",
-    "output_file": "output-demo-pack/audio/0069-entry-0035-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0069-entry-0035-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0069-entry-0035-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0069-entry-0035-question.mp3"
   },
   {
     "ordinal": 70,
@@ -9765,8 +9784,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE LIVED IN POLAND EIGHT YEARS.",
     "source_question": "Q: Ile lat pani mieszka w Polsce?",
     "source_answer": "A: MIESZKAM W POLSCE OSIEM LAT.",
-    "output_file": "output-demo-pack/audio/0070-entry-0035-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0070-entry-0035-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0070-entry-0035-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0070-entry-0035-answer.mp3"
   },
   {
     "ordinal": 71,
@@ -9784,8 +9803,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I lived in Bharthana. This is my hometown. It is the eastern part of India.",
     "source_question": "Q: Gdzie pani mieszkała w Indiach?",
     "source_answer": "A: Mieszkałam w Bharthana. To moje rodzinne miasto.To wschodnia część Indii.",
-    "output_file": "output-demo-pack/audio/0071-entry-0036-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0071-entry-0036-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0071-entry-0036-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0071-entry-0036-question.mp3"
   },
   {
     "ordinal": 72,
@@ -9803,8 +9822,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I lived in Bharthana. This is my hometown. It is the eastern part of India.",
     "source_question": "Q: Gdzie pani mieszkała w Indiach?",
     "source_answer": "A: Mieszkałam w Bharthana. To moje rodzinne miasto.To wschodnia część Indii.",
-    "output_file": "output-demo-pack/audio/0072-entry-0036-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0072-entry-0036-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0072-entry-0036-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0072-entry-0036-answer.mp3"
   },
   {
     "ordinal": 73,
@@ -9822,8 +9841,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I'M LEARNING POLISH BECAUSE I WORK IN POLAND.",
     "source_question": "Q: Dlaczego uczy się pani języka polskiego?",
     "source_answer": "A: UCZĘ SIĘ JĘZYKA POLSKIEGO, BO PRACUJĘ W POLSCE.",
-    "output_file": "output-demo-pack/audio/0073-entry-0037-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0073-entry-0037-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0073-entry-0037-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0073-entry-0037-question.mp3"
   },
   {
     "ordinal": 74,
@@ -9841,8 +9860,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I'M LEARNING POLISH BECAUSE I WORK IN POLAND.",
     "source_question": "Q: Dlaczego uczy się pani języka polskiego?",
     "source_answer": "A: UCZĘ SIĘ JĘZYKA POLSKIEGO, BO PRACUJĘ W POLSCE.",
-    "output_file": "output-demo-pack/audio/0074-entry-0037-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0074-entry-0037-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0074-entry-0037-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0074-entry-0037-answer.mp3"
   },
   {
     "ordinal": 75,
@@ -9860,8 +9879,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE BEEN IN POLAND FOR 8 YEARS.",
     "source_question": "Q: Jak długo pani jest w Polsce?",
     "source_answer": "A: JESTEM W POLSCE 8 LAT.",
-    "output_file": "output-demo-pack/audio/0075-entry-0038-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0075-entry-0038-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0075-entry-0038-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0075-entry-0038-question.mp3"
   },
   {
     "ordinal": 76,
@@ -9879,8 +9898,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE BEEN IN POLAND FOR 8 YEARS.",
     "source_question": "Q: Jak długo pani jest w Polsce?",
     "source_answer": "A: JESTEM W POLSCE 8 LAT.",
-    "output_file": "output-demo-pack/audio/0076-entry-0038-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0076-entry-0038-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0076-entry-0038-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0076-entry-0038-answer.mp3"
   },
   {
     "ordinal": 77,
@@ -9898,8 +9917,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM A COMPUTER ENGINEER BY PROFESSION.",
     "source_question": "Q: Jaki jest pani zawód?",
     "source_answer": "A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.",
-    "output_file": "output-demo-pack/audio/0077-entry-0039-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0077-entry-0039-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0077-entry-0039-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0077-entry-0039-question.mp3"
   },
   {
     "ordinal": 78,
@@ -9917,8 +9936,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM A COMPUTER ENGINEER BY PROFESSION.",
     "source_question": "Q: Jaki jest pani zawód?",
     "source_answer": "A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.",
-    "output_file": "output-demo-pack/audio/0078-entry-0039-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0078-entry-0039-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0078-entry-0039-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0078-entry-0039-answer.mp3"
   },
   {
     "ordinal": 79,
@@ -9936,8 +9955,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I go to work by tram, bus or car. Sometimes in the summer I walk.",
     "source_question": "Q: Czym pani jeździ do pracy?",
     "source_answer": "A: Do pracy jeżdżę tramwajem albo autobusem albo samochodem. Czasami latem chodzę pieszo.",
-    "output_file": "output-demo-pack/audio/0079-entry-0040-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0079-entry-0040-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0079-entry-0040-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0079-entry-0040-question.mp3"
   },
   {
     "ordinal": 80,
@@ -9955,8 +9974,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I go to work by tram, bus or car. Sometimes in the summer I walk.",
     "source_question": "Q: Czym pani jeździ do pracy?",
     "source_answer": "A: Do pracy jeżdżę tramwajem albo autobusem albo samochodem. Czasami latem chodzę pieszo.",
-    "output_file": "output-demo-pack/audio/0080-entry-0040-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0080-entry-0040-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0080-entry-0040-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0080-entry-0040-answer.mp3"
   },
   {
     "ordinal": 81,
@@ -9974,8 +9993,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM FROM INDIA.",
     "source_question": "Q: Z jakiego kraju pani pochodzi?",
     "source_answer": "A: POCHODZĘ Z INDII.",
-    "output_file": "output-demo-pack/audio/0081-entry-0041-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0081-entry-0041-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0081-entry-0041-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0081-entry-0041-question.mp3"
   },
   {
     "ordinal": 82,
@@ -9993,8 +10012,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM FROM INDIA.",
     "source_question": "Q: Z jakiego kraju pani pochodzi?",
     "source_answer": "A: POCHODZĘ Z INDII.",
-    "output_file": "output-demo-pack/audio/0082-entry-0041-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0082-entry-0041-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0082-entry-0041-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0082-entry-0041-answer.mp3"
   },
   {
     "ordinal": 83,
@@ -10012,8 +10031,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE LIVED IN POLAND FOR 8 YEARS/ I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.",
     "source_question": "Q: Od kiedy jest pani w Polsce?",
     "source_answer": "A: MIESZKAM W POLSCE 8 LAT./ JESTEM W POLSCE OD LISTOPADA 2018 ROKU.",
-    "output_file": "output-demo-pack/audio/0083-entry-0042-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0083-entry-0042-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0083-entry-0042-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0083-entry-0042-question.mp3"
   },
   {
     "ordinal": 84,
@@ -10031,8 +10050,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE LIVED IN POLAND FOR 8 YEARS/ I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.",
     "source_question": "Q: Od kiedy jest pani w Polsce?",
     "source_answer": "A: MIESZKAM W POLSCE 8 LAT./ JESTEM W POLSCE OD LISTOPADA 2018 ROKU.",
-    "output_file": "output-demo-pack/audio/0084-entry-0042-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0084-entry-0042-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0084-entry-0042-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0084-entry-0042-answer.mp3"
   },
   {
     "ordinal": 85,
@@ -10050,8 +10069,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I decided to work in Poland because my husband was the first to get a job in Poland. then I also worked in Poland.",
     "source_question": "Q: Dlaczego pani zdecydowała się pracować w Polsce?",
     "source_answer": "A: Ddecydowałam się pracować w Polsce bo mój mąż pierwszy dostał pracę w polsce. potem ja też pracowałam w polsce.",
-    "output_file": "output-demo-pack/audio/0085-entry-0043-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0085-entry-0043-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0085-entry-0043-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0085-entry-0043-question.mp3"
   },
   {
     "ordinal": 86,
@@ -10069,8 +10088,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I decided to work in Poland because my husband was the first to get a job in Poland. then I also worked in Poland.",
     "source_question": "Q: Dlaczego pani zdecydowała się pracować w Polsce?",
     "source_answer": "A: Ddecydowałam się pracować w Polsce bo mój mąż pierwszy dostał pracę w polsce. potem ja też pracowałam w polsce.",
-    "output_file": "output-demo-pack/audio/0086-entry-0043-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0086-entry-0043-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0086-entry-0043-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0086-entry-0043-answer.mp3"
   },
   {
     "ordinal": 87,
@@ -10088,8 +10107,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.",
     "source_question": "Q: Jakie pani ma obowiązki na swoim stanowisku?",
     "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.",
-    "output_file": "output-demo-pack/audio/0087-entry-0044-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0087-entry-0044-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0087-entry-0044-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0087-entry-0044-question.mp3"
   },
   {
     "ordinal": 88,
@@ -10107,8 +10126,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.",
     "source_question": "Q: Jakie pani ma obowiązki na swoim stanowisku?",
     "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.",
-    "output_file": "output-demo-pack/audio/0088-entry-0044-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0088-entry-0044-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0088-entry-0044-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0088-entry-0044-answer.mp3"
   },
   {
     "ordinal": 89,
@@ -10121,32 +10140,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Czy Pani mieszka sama?",
     "original_reference_text": "Do you live alone?",
     "display_question": "Q: Czy Pani mieszka sama?",
-    "display_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
+    "display_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.",
     "reference_question": "Q: Do you live alone?",
-    "reference_answer": "A: No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Shilpa and my daughter's name is Esabel.",
+    "reference_answer": "A: No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Pankaj and my daughter's name is Esabel.",
     "source_question": "Q: Czy Pani mieszka sama?",
-    "source_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
-    "output_file": "output-demo-pack/audio/0089-entry-0045-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0089-entry-0045-question.mp3"
+    "source_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.",
+    "output_file": "output-demo-pack-fresh/audio/0089-entry-0045-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0089-entry-0045-question.mp3"
   },
   {
     "ordinal": 90,
     "entry_index": 45,
     "kind": "answer",
-    "display_text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
-    "translation_text": "No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Shilpa and my daughter's name is Esabel.",
-    "spoken_text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
-    "text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
-    "original_text": "Nie, Nie mieszkam sama. Mieszkam z Rodziną, mój mąż i corka. Mój mąż ma na imię Rajesh a moja córka ma na imię Esabel .",
-    "original_reference_text": "No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Rajesh and my daughter's name is Esabel.",
+    "display_text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.",
+    "translation_text": "No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Pankaj and my daughter's name is Esabel.",
+    "spoken_text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankadż, a moja córka ma na imię Esabel.",
+    "text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankadż, a moja córka ma na imię Esabel.",
+    "original_text": "Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.",
+    "original_reference_text": "No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Pankaj and my daughter's name is Esabel.",
     "display_question": "Q: Czy Pani mieszka sama?",
-    "display_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
+    "display_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.",
     "reference_question": "Q: Do you live alone?",
-    "reference_answer": "A: No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Shilpa and my daughter's name is Esabel.",
+    "reference_answer": "A: No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Pankaj and my daughter's name is Esabel.",
     "source_question": "Q: Czy Pani mieszka sama?",
-    "source_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i z synem. Mój mąż ma na imię Shilpa.",
-    "output_file": "output-demo-pack/audio/0090-entry-0045-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0090-entry-0045-answer.mp3"
+    "source_answer": "A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.",
+    "output_file": "output-demo-pack-fresh/audio/0090-entry-0045-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0090-entry-0045-answer.mp3"
   },
   {
     "ordinal": 91,
@@ -10159,32 +10178,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Jakie są twoje kwalifikacje?",
     "original_reference_text": "What are your qualifications?",
     "display_question": "Q: Jakie są twoje kwalifikacje?",
-    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
+    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
     "reference_question": "Q: What are your qualifications?",
-    "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science.",
+    "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science.",
     "source_question": "Q: Jakie są twoje kwalifikacje?",
-    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-    "output_file": "output-demo-pack/audio/0091-entry-0046-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0091-entry-0046-question.mp3"
+    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+    "output_file": "output-demo-pack-fresh/audio/0091-entry-0046-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0091-entry-0046-question.mp3"
   },
   {
     "ordinal": 92,
     "entry_index": 46,
     "kind": "answer",
-    "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-    "translation_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science.",
-    "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-    "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-    "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-    "original_reference_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science.",
+    "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+    "translation_text": "I am a qualified computer engineer. I have a master's degree in computer science.",
+    "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+    "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+    "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+    "original_reference_text": "I am a qualified computer engineer. I have a master's degree in computer science.",
     "display_question": "Q: Jakie są twoje kwalifikacje?",
-    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
+    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
     "reference_question": "Q: What are your qualifications?",
-    "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science.",
+    "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science.",
     "source_question": "Q: Jakie są twoje kwalifikacje?",
-    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-    "output_file": "output-demo-pack/audio/0092-entry-0046-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0092-entry-0046-answer.mp3"
+    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+    "output_file": "output-demo-pack-fresh/audio/0092-entry-0046-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0092-entry-0046-answer.mp3"
   },
   {
     "ordinal": 93,
@@ -10197,32 +10216,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Jak się nazywa firma?",
     "original_reference_text": "What is the name of the company?",
     "display_question": "Q: Jak się nazywa firma?",
-    "display_answer": "A: Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+    "display_answer": "A: Moja firma to UBS Bank.",
     "reference_question": "Q: What is the name of the company?",
-    "reference_answer": "A: My company is called Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+    "reference_answer": "A: My company is UBS Bank.",
     "source_question": "Q: Jak się nazywa firma?",
-    "source_answer": "A: Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "output_file": "output-demo-pack/audio/0093-entry-0047-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0093-entry-0047-question.mp3"
+    "source_answer": "A: Moja firma to UBS Bank.",
+    "output_file": "output-demo-pack-fresh/audio/0093-entry-0047-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0093-entry-0047-question.mp3"
   },
   {
     "ordinal": 94,
     "entry_index": 47,
     "kind": "answer",
-    "display_text": "Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "translation_text": "My company is called Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
-    "spoken_text": "Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Biltrast. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "text": "Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Biltrast. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "original_text": "Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "original_reference_text": "My company is called Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+    "display_text": "Moja firma to UBS Bank.",
+    "translation_text": "My company is UBS Bank.",
+    "spoken_text": "Moja firma to UBS Bank.",
+    "text": "Moja firma to UBS Bank.",
+    "original_text": "Moja firma to UBS Bank.",
+    "original_reference_text": "My company is UBS Bank.",
     "display_question": "Q: Jak się nazywa firma?",
-    "display_answer": "A: Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
+    "display_answer": "A: Moja firma to UBS Bank.",
     "reference_question": "Q: What is the name of the company?",
-    "reference_answer": "A: My company is called Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.",
+    "reference_answer": "A: My company is UBS Bank.",
     "source_question": "Q: Jak się nazywa firma?",
-    "source_answer": "A: Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.",
-    "output_file": "output-demo-pack/audio/0094-entry-0047-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0094-entry-0047-answer.mp3"
+    "source_answer": "A: Moja firma to UBS Bank.",
+    "output_file": "output-demo-pack-fresh/audio/0094-entry-0047-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0094-entry-0047-answer.mp3"
   },
   {
     "ordinal": 95,
@@ -10240,8 +10259,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I came to Poland 8 years ago, on November 11, 2018. I came to Poland with my husband and daughter.",
     "source_question": "Q: Kiedy Pani przyjechał do Polski?",
     "source_answer": "A: Przyjechałam do Polski 8 lat temu, 11 listopada 2018 roku. Przyjechałam do Polski z mężem i synem.",
-    "output_file": "output-demo-pack/audio/0095-entry-0048-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0095-entry-0048-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0095-entry-0048-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0095-entry-0048-question.mp3"
   },
   {
     "ordinal": 96,
@@ -10259,8 +10278,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I came to Poland 8 years ago, on November 11, 2018. I came to Poland with my husband and daughter.",
     "source_question": "Q: Kiedy Pani przyjechał do Polski?",
     "source_answer": "A: Przyjechałam do Polski 8 lat temu, 11 listopada 2018 roku. Przyjechałam do Polski z mężem i synem.",
-    "output_file": "output-demo-pack/audio/0096-entry-0048-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0096-entry-0048-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0096-entry-0048-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0096-entry-0048-answer.mp3"
   },
   {
     "ordinal": 97,
@@ -10273,32 +10292,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Jakie masz kwalifikacje?",
     "original_reference_text": "What are your qualifications?",
     "display_question": "Q: Jakie masz kwalifikacje?",
-    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
+    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
     "reference_question": "Q: What are your qualifications?",
-    "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science.",
+    "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science.",
     "source_question": "Q: Jakie masz kwalifikacje?",
-    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-    "output_file": "output-demo-pack/audio/0097-entry-0049-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0097-entry-0049-question.mp3"
+    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+    "output_file": "output-demo-pack-fresh/audio/0097-entry-0049-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0097-entry-0049-question.mp3"
   },
   {
     "ordinal": 98,
     "entry_index": 49,
     "kind": "answer",
-    "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-    "translation_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science.",
-    "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-    "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-    "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-    "original_reference_text": "I am a qualified computer engineer. I have a bachelor's degree in computer science.",
+    "display_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+    "translation_text": "I am a qualified computer engineer. I have a master's degree in computer science.",
+    "spoken_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+    "text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+    "original_text": "Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+    "original_reference_text": "I am a qualified computer engineer. I have a master's degree in computer science.",
     "display_question": "Q: Jakie masz kwalifikacje?",
-    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
+    "display_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
     "reference_question": "Q: What are your qualifications?",
-    "reference_answer": "A: I am a qualified computer engineer. I have a bachelor's degree in computer science.",
+    "reference_answer": "A: I am a qualified computer engineer. I have a master's degree in computer science.",
     "source_question": "Q: Jakie masz kwalifikacje?",
-    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.",
-    "output_file": "output-demo-pack/audio/0098-entry-0049-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0098-entry-0049-answer.mp3"
+    "source_answer": "A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.",
+    "output_file": "output-demo-pack-fresh/audio/0098-entry-0049-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0098-entry-0049-answer.mp3"
   },
   {
     "ordinal": 99,
@@ -10311,32 +10330,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Czy pani współmałżonek pracuje?",
     "original_reference_text": "Does your spouse work?",
     "display_question": "Q: Czy pani współmałżonek pracuje?",
-    "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: Does your spouse work?",
-    "reference_answer": "A: MY spouse WORKS FOR StoneX.",
+    "reference_answer": "A: MY SPOUSE WORKS FOR StoneX Inc.",
     "source_question": "Q: Czy pani współmałżonek pracuje?",
-    "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0099-entry-0050-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0099-entry-0050-question.mp3"
+    "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0099-entry-0050-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0099-entry-0050-question.mp3"
   },
   {
     "ordinal": 100,
     "entry_index": 50,
     "kind": "answer",
-    "display_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-    "translation_text": "MY spouse WORKS FOR StoneX.",
-    "spoken_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-    "text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-    "original_text": "MÓJ współmałżonek PRACUJE W FIRMIE Hitachi Energy.",
-    "original_reference_text": "MY spouse WORKS FOR Hitachi Energy.",
+    "display_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
+    "translation_text": "MY SPOUSE WORKS FOR StoneX Inc.",
+    "spoken_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE Stone Eks Ink",
+    "text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE Stone Eks Ink",
+    "original_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
+    "original_reference_text": "MY SPOUSE WORKS FOR StoneX Inc.",
     "display_question": "Q: Czy pani współmałżonek pracuje?",
-    "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: Does your spouse work?",
-    "reference_answer": "A: MY spouse WORKS FOR StoneX.",
+    "reference_answer": "A: MY SPOUSE WORKS FOR StoneX Inc.",
     "source_question": "Q: Czy pani współmałżonek pracuje?",
-    "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0100-entry-0050-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0100-entry-0050-answer.mp3"
+    "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0100-entry-0050-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0100-entry-0050-answer.mp3"
   },
   {
     "ordinal": 101,
@@ -10354,8 +10373,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My family in Poland is not large, my family is my husband and my daughter.",
     "source_question": "Q: Jaką Pani ma rodzinę?",
     "source_answer": "A: Moja rodzina w Polsce nie jest duża. Moja rodzina to mój mąż i mój syn.",
-    "output_file": "output-demo-pack/audio/0101-entry-0051-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0101-entry-0051-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0101-entry-0051-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0101-entry-0051-question.mp3"
   },
   {
     "ordinal": 102,
@@ -10373,8 +10392,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My family in Poland is not large, my family is my husband and my daughter.",
     "source_question": "Q: Jaką Pani ma rodzinę?",
     "source_answer": "A: Moja rodzina w Polsce nie jest duża. Moja rodzina to mój mąż i mój syn.",
-    "output_file": "output-demo-pack/audio/0102-entry-0051-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0102-entry-0051-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0102-entry-0051-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0102-entry-0051-answer.mp3"
   },
   {
     "ordinal": 103,
@@ -10387,32 +10406,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Czy pani mąż pracuje?",
     "original_reference_text": "Does your husband work?",
     "display_question": "Q: Czy pani mąż pracuje?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: Does your husband work?",
-    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
     "source_question": "Q: Czy pani mąż pracuje?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0103-entry-0052-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0103-entry-0052-question.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0103-entry-0052-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0103-entry-0052-question.mp3"
   },
   {
     "ordinal": 104,
     "entry_index": 52,
     "kind": "answer",
-    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "translation_text": "MY HUSBAND WORKS FOR StoneX.",
-    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.",
-    "original_reference_text": "MY HUSBAND WORKS FOR Hitachi Energy.",
+    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "translation_text": "MY HUSBAND WORKS FOR StoneX Inc.",
+    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+    "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+    "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc.",
     "display_question": "Q: Czy pani mąż pracuje?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: Does your husband work?",
-    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
     "source_question": "Q: Czy pani mąż pracuje?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0104-entry-0052-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0104-entry-0052-answer.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0104-entry-0052-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0104-entry-0052-answer.mp3"
   },
   {
     "ordinal": 105,
@@ -10430,8 +10449,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY DAUGHTER SPEAKS POLISH.",
     "source_question": "Q: Czy pani dziecko mówi po polsku?",
     "source_answer": "A: TAK, MÓJ SYN MÓWI PO POLSKU.",
-    "output_file": "output-demo-pack/audio/0105-entry-0053-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0105-entry-0053-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0105-entry-0053-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0105-entry-0053-question.mp3"
   },
   {
     "ordinal": 106,
@@ -10449,8 +10468,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY DAUGHTER SPEAKS POLISH.",
     "source_question": "Q: Czy pani dziecko mówi po polsku?",
     "source_answer": "A: TAK, MÓJ SYN MÓWI PO POLSKU.",
-    "output_file": "output-demo-pack/audio/0106-entry-0053-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0106-entry-0053-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0106-entry-0053-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0106-entry-0053-answer.mp3"
   },
   {
     "ordinal": 107,
@@ -10468,8 +10487,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: He has been working in the current company for 7 years.",
     "source_question": "Q: Ile lat pracuje pani w obecnej firmie?",
     "source_answer": "A: W obecnej firmie pracuje 7 lat.",
-    "output_file": "output-demo-pack/audio/0107-entry-0054-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0107-entry-0054-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0107-entry-0054-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0107-entry-0054-question.mp3"
   },
   {
     "ordinal": 108,
@@ -10487,8 +10506,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: He has been working in the current company for 7 years.",
     "source_question": "Q: Ile lat pracuje pani w obecnej firmie?",
     "source_answer": "A: W obecnej firmie pracuje 7 lat.",
-    "output_file": "output-demo-pack/audio/0108-entry-0054-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0108-entry-0054-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0108-entry-0054-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0108-entry-0054-answer.mp3"
   },
   {
     "ordinal": 109,
@@ -10501,32 +10520,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Czy pani partner pracuje?",
     "original_reference_text": "Does your partner work?",
     "display_question": "Q: Czy pani partner pracuje?",
-    "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: Does your partner work?",
-    "reference_answer": "A: MY partner WORKS FOR StoneX.",
+    "reference_answer": "A: MY PARTNER WORKS FOR StoneX Inc.",
     "source_question": "Q: Czy pani partner pracuje?",
-    "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0109-entry-0055-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0109-entry-0055-question.mp3"
+    "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0109-entry-0055-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0109-entry-0055-question.mp3"
   },
   {
     "ordinal": 110,
     "entry_index": 55,
     "kind": "answer",
-    "display_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-    "translation_text": "MY partner WORKS FOR StoneX.",
-    "spoken_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-    "text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-    "original_text": "MÓJ partner PRACUJE W FIRMIE Hitachi Energy.",
-    "original_reference_text": "MY partner WORKS FOR Hitachi Energy.",
+    "display_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
+    "translation_text": "MY PARTNER WORKS FOR StoneX Inc.",
+    "spoken_text": "MÓJ PARTNER PRACUJE W FIRMIE Stone Eks Ink",
+    "text": "MÓJ PARTNER PRACUJE W FIRMIE Stone Eks Ink",
+    "original_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
+    "original_reference_text": "MY PARTNER WORKS FOR StoneX Inc.",
     "display_question": "Q: Czy pani partner pracuje?",
-    "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: Does your partner work?",
-    "reference_answer": "A: MY partner WORKS FOR StoneX.",
+    "reference_answer": "A: MY PARTNER WORKS FOR StoneX Inc.",
     "source_question": "Q: Czy pani partner pracuje?",
-    "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0110-entry-0055-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0110-entry-0055-answer.mp3"
+    "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0110-entry-0055-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0110-entry-0055-answer.mp3"
   },
   {
     "ordinal": 111,
@@ -10539,32 +10558,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Jakie kwalifikacje zawodowe posiada pani mąż?",
     "original_reference_text": "What professional qualifications does your husband have?",
     "display_question": "Q: Jakie kwalifikacje zawodowe posiada pani mąż?",
-    "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+    "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
     "reference_question": "Q: What professional qualifications does your husband have?",
-    "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+    "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
     "source_question": "Q: Jakie kwalifikacje zawodowe posiada pani mąż?",
-    "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "output_file": "output-demo-pack/audio/0111-entry-0056-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0111-entry-0056-question.mp3"
+    "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "output_file": "output-demo-pack-fresh/audio/0111-entry-0056-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0111-entry-0056-question.mp3"
   },
   {
     "ordinal": 112,
     "entry_index": 56,
     "kind": "answer",
-    "display_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "translation_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
-    "spoken_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "original_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "original_reference_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+    "display_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "translation_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
+    "spoken_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "original_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "original_reference_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
     "display_question": "Q: Jakie kwalifikacje zawodowe posiada pani mąż?",
-    "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+    "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
     "reference_question": "Q: What professional qualifications does your husband have?",
-    "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+    "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
     "source_question": "Q: Jakie kwalifikacje zawodowe posiada pani mąż?",
-    "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "output_file": "output-demo-pack/audio/0112-entry-0056-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0112-entry-0056-answer.mp3"
+    "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "output_file": "output-demo-pack-fresh/audio/0112-entry-0056-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0112-entry-0056-answer.mp3"
   },
   {
     "ordinal": 113,
@@ -10577,32 +10596,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Kiedy ostatnio pani była w Indiach?",
     "original_reference_text": "When was the last time you were in India?",
     "display_question": "Q: Kiedy ostatnio pani była w Indiach?",
-    "display_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r",
+    "display_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
     "reference_question": "Q: When was the last time you were in India?",
-    "reference_answer": "A: I was last in India on January 28, 2024",
+    "reference_answer": "A: I was last in India on March 20, 2026.",
     "source_question": "Q: Kiedy ostatnio pani była w Indiach?",
-    "source_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r",
-    "output_file": "output-demo-pack/audio/0113-entry-0057-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0113-entry-0057-question.mp3"
+    "source_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
+    "output_file": "output-demo-pack-fresh/audio/0113-entry-0057-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0113-entry-0057-question.mp3"
   },
   {
     "ordinal": 114,
     "entry_index": 57,
     "kind": "answer",
-    "display_text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r",
-    "translation_text": "I was last in India on January 28, 2024",
-    "spoken_text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r",
-    "text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r",
-    "original_text": "Byłam Ostatnio w Indiach 28 stycznia 2024 r",
-    "original_reference_text": "I was last in India on January 28, 2024",
+    "display_text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+    "translation_text": "I was last in India on March 20, 2026.",
+    "spoken_text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+    "text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+    "original_text": "Byłam ostatnio w Indiach 20 marca 2026 r.",
+    "original_reference_text": "I was last in India on March 20, 2026.",
     "display_question": "Q: Kiedy ostatnio pani była w Indiach?",
-    "display_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r",
+    "display_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
     "reference_question": "Q: When was the last time you were in India?",
-    "reference_answer": "A: I was last in India on January 28, 2024",
+    "reference_answer": "A: I was last in India on March 20, 2026.",
     "source_question": "Q: Kiedy ostatnio pani była w Indiach?",
-    "source_answer": "A: Byłam Ostatnio w Indiach 28 stycznia 2024 r",
-    "output_file": "output-demo-pack/audio/0114-entry-0057-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0114-entry-0057-answer.mp3"
+    "source_answer": "A: Byłam ostatnio w Indiach 20 marca 2026 r.",
+    "output_file": "output-demo-pack-fresh/audio/0114-entry-0057-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0114-entry-0057-answer.mp3"
   },
   {
     "ordinal": 115,
@@ -10615,32 +10634,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Czy pani współmałżonek pracuje?",
     "original_reference_text": "Does your spouse work?",
     "display_question": "Q: Czy pani współmałżonek pracuje?",
-    "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: Does your spouse work?",
-    "reference_answer": "A: MY spouse WORKS FOR StoneX.",
+    "reference_answer": "A: MY SPOUSE WORKS FOR StoneX Inc.",
     "source_question": "Q: Czy pani współmałżonek pracuje?",
-    "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0115-entry-0058-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0115-entry-0058-question.mp3"
+    "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0115-entry-0058-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0115-entry-0058-question.mp3"
   },
   {
     "ordinal": 116,
     "entry_index": 58,
     "kind": "answer",
-    "display_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-    "translation_text": "MY spouse WORKS FOR StoneX.",
-    "spoken_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-    "text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-    "original_text": "MÓJ współmałżonek PRACUJE W FIRMIE Hitachi Energy.",
-    "original_reference_text": "MY spouse WORKS FOR Hitachi Energy.",
+    "display_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
+    "translation_text": "MY SPOUSE WORKS FOR StoneX Inc.",
+    "spoken_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE Stone Eks Ink",
+    "text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE Stone Eks Ink",
+    "original_text": "MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
+    "original_reference_text": "MY SPOUSE WORKS FOR StoneX Inc.",
     "display_question": "Q: Czy pani współmałżonek pracuje?",
-    "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: Does your spouse work?",
-    "reference_answer": "A: MY spouse WORKS FOR StoneX.",
+    "reference_answer": "A: MY SPOUSE WORKS FOR StoneX Inc.",
     "source_question": "Q: Czy pani współmałżonek pracuje?",
-    "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0116-entry-0058-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0116-entry-0058-answer.mp3"
+    "source_answer": "A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0116-entry-0058-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0116-entry-0058-answer.mp3"
   },
   {
     "ordinal": 117,
@@ -10658,8 +10677,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE A DAUGHTER.",
     "source_question": "Q: Czy ma pani dzieci?",
     "source_answer": "A: TAK, MAM SYNA.",
-    "output_file": "output-demo-pack/audio/0117-entry-0059-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0117-entry-0059-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0117-entry-0059-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0117-entry-0059-question.mp3"
   },
   {
     "ordinal": 118,
@@ -10677,8 +10696,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE A DAUGHTER.",
     "source_question": "Q: Czy ma pani dzieci?",
     "source_answer": "A: TAK, MAM SYNA.",
-    "output_file": "output-demo-pack/audio/0118-entry-0059-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0118-entry-0059-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0118-entry-0059-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0118-entry-0059-answer.mp3"
   },
   {
     "ordinal": 119,
@@ -10696,8 +10715,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: MY DAUGHTER IS AT SCHOOL FOR ABOUT 6 HOURS.",
     "source_question": "Q: Jak długo pani dziecko jest w przedszkolu/szkole/żłobku?",
     "source_answer": "A: MÓJ SYN JEST W SZKOLE OKOŁO 6 GODZIN.",
-    "output_file": "output-demo-pack/audio/0119-entry-0060-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0119-entry-0060-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0119-entry-0060-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0119-entry-0060-question.mp3"
   },
   {
     "ordinal": 120,
@@ -10715,8 +10734,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: MY DAUGHTER IS AT SCHOOL FOR ABOUT 6 HOURS.",
     "source_question": "Q: Jak długo pani dziecko jest w przedszkolu/szkole/żłobku?",
     "source_answer": "A: MÓJ SYN JEST W SZKOLE OKOŁO 6 GODZIN.",
-    "output_file": "output-demo-pack/audio/0120-entry-0060-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0120-entry-0060-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0120-entry-0060-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0120-entry-0060-answer.mp3"
   },
   {
     "ordinal": 121,
@@ -10729,32 +10748,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "W jakiej firmie pracuje twój mąż?",
     "original_reference_text": "What company does your husband work for?",
     "display_question": "Q: W jakiej firmie pracuje twój mąż?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: What company does your husband work for?",
-    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
     "source_question": "Q: W jakiej firmie pracuje twój mąż?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0121-entry-0061-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0121-entry-0061-question.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0121-entry-0061-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0121-entry-0061-question.mp3"
   },
   {
     "ordinal": 122,
     "entry_index": 61,
     "kind": "answer",
-    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "translation_text": "MY HUSBAND WORKS FOR StoneX.",
-    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.",
-    "original_reference_text": "MY HUSBAND WORKS FOR Hitachi Energy.",
+    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "translation_text": "MY HUSBAND WORKS FOR StoneX Inc.",
+    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+    "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+    "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc.",
     "display_question": "Q: W jakiej firmie pracuje twój mąż?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: What company does your husband work for?",
-    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
     "source_question": "Q: W jakiej firmie pracuje twój mąż?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0122-entry-0061-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0122-entry-0061-answer.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0122-entry-0061-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0122-entry-0061-answer.mp3"
   },
   {
     "ordinal": 123,
@@ -10772,8 +10791,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY HUSBAND WORKS PROFESSIONALLY.",
     "source_question": "Q: Czy pani mąż pracuje zawodowo?",
     "source_answer": "A: TAK, MÓJ MĄŻ PRACUJE ZAWODOWO.",
-    "output_file": "output-demo-pack/audio/0123-entry-0062-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0123-entry-0062-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0123-entry-0062-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0123-entry-0062-question.mp3"
   },
   {
     "ordinal": 124,
@@ -10791,8 +10810,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY HUSBAND WORKS PROFESSIONALLY.",
     "source_question": "Q: Czy pani mąż pracuje zawodowo?",
     "source_answer": "A: TAK, MÓJ MĄŻ PRACUJE ZAWODOWO.",
-    "output_file": "output-demo-pack/audio/0124-entry-0062-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0124-entry-0062-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0124-entry-0062-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0124-entry-0062-answer.mp3"
   },
   {
     "ordinal": 125,
@@ -10810,8 +10829,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM FROM INDIA.",
     "source_question": "Q: Skąd pani pochodzi?",
     "source_answer": "A: POCHODZĘ Z INDII.",
-    "output_file": "output-demo-pack/audio/0125-entry-0063-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0125-entry-0063-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0125-entry-0063-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0125-entry-0063-question.mp3"
   },
   {
     "ordinal": 126,
@@ -10829,8 +10848,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM FROM INDIA.",
     "source_question": "Q: Skąd pani pochodzi?",
     "source_answer": "A: POCHODZĘ Z INDII.",
-    "output_file": "output-demo-pack/audio/0126-entry-0063-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0126-entry-0063-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0126-entry-0063-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0126-entry-0063-answer.mp3"
   },
   {
     "ordinal": 127,
@@ -10848,8 +10867,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY DAUGHTER IS DATING POLISH CHILDREN.",
     "source_question": "Q: Czy pani dziecko spotyka się z polskimi dziećmi?",
     "source_answer": "A: TAK, MÓJ SYN SPOTYKA SIĘ Z POLSKIMI DZIEĆMI.",
-    "output_file": "output-demo-pack/audio/0127-entry-0064-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0127-entry-0064-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0127-entry-0064-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0127-entry-0064-question.mp3"
   },
   {
     "ordinal": 128,
@@ -10867,8 +10886,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY DAUGHTER IS DATING POLISH CHILDREN.",
     "source_question": "Q: Czy pani dziecko spotyka się z polskimi dziećmi?",
     "source_answer": "A: TAK, MÓJ SYN SPOTYKA SIĘ Z POLSKIMI DZIEĆMI.",
-    "output_file": "output-demo-pack/audio/0128-entry-0064-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0128-entry-0064-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0128-entry-0064-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0128-entry-0064-answer.mp3"
   },
   {
     "ordinal": 129,
@@ -10881,32 +10900,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "W jakiej firmie pracuje pani mąż?",
     "original_reference_text": "What company does your husband work for?",
     "display_question": "Q: W jakiej firmie pracuje pani mąż?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: What company does your husband work for?",
-    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
     "source_question": "Q: W jakiej firmie pracuje pani mąż?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0129-entry-0065-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0129-entry-0065-question.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0129-entry-0065-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0129-entry-0065-question.mp3"
   },
   {
     "ordinal": 130,
     "entry_index": 65,
     "kind": "answer",
-    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "translation_text": "MY HUSBAND WORKS FOR StoneX.",
-    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.",
-    "original_reference_text": "MY HUSBAND WORKS FOR Hitachi Energy.",
+    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "translation_text": "MY HUSBAND WORKS FOR StoneX Inc.",
+    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+    "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+    "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc.",
     "display_question": "Q: W jakiej firmie pracuje pani mąż?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: What company does your husband work for?",
-    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
     "source_question": "Q: W jakiej firmie pracuje pani mąż?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0130-entry-0065-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0130-entry-0065-answer.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0130-entry-0065-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0130-entry-0065-answer.mp3"
   },
   {
     "ordinal": 131,
@@ -10924,8 +10943,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I CAME TO POLAND 8 YEARS AGO.",
     "source_question": "Q: Jak dawno temu pani przyjechała do Polski?",
     "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
-    "output_file": "output-demo-pack/audio/0131-entry-0066-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0131-entry-0066-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0131-entry-0066-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0131-entry-0066-question.mp3"
   },
   {
     "ordinal": 132,
@@ -10943,8 +10962,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I CAME TO POLAND 8 YEARS AGO.",
     "source_question": "Q: Jak dawno temu pani przyjechała do Polski?",
     "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
-    "output_file": "output-demo-pack/audio/0132-entry-0066-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0132-entry-0066-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0132-entry-0066-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0132-entry-0066-answer.mp3"
   },
   {
     "ordinal": 133,
@@ -10957,32 +10976,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "W jakiej firmie pracował twój mąż?",
     "original_reference_text": "What company did your husband work for?",
     "display_question": "Q: W jakiej firmie pracował twój mąż?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: What company did your husband work for?",
-    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
     "source_question": "Q: W jakiej firmie pracował twój mąż?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0133-entry-0067-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0133-entry-0067-question.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0133-entry-0067-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0133-entry-0067-question.mp3"
   },
   {
     "ordinal": 134,
     "entry_index": 67,
     "kind": "answer",
-    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "translation_text": "MY HUSBAND WORKS FOR StoneX.",
-    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.",
-    "original_reference_text": "MY HUSBAND WORKS FOR Hitachi Energy.",
+    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "translation_text": "MY HUSBAND WORKS FOR StoneX Inc.",
+    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+    "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+    "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc.",
     "display_question": "Q: W jakiej firmie pracował twój mąż?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: What company did your husband work for?",
-    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
     "source_question": "Q: W jakiej firmie pracował twój mąż?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0134-entry-0067-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0134-entry-0067-answer.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0134-entry-0067-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0134-entry-0067-answer.mp3"
   },
   {
     "ordinal": 135,
@@ -11000,8 +11019,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY DAUGHTER PLAYS WITH POLISH CHILDREN.",
     "source_question": "Q: Czy pani dziecko bawi się z polskimi dziećmi?",
     "source_answer": "A: TAK, MÓJ SYN BAWI SIĘ Z POLSKIMI DZIEĆMI.",
-    "output_file": "output-demo-pack/audio/0135-entry-0068-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0135-entry-0068-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0135-entry-0068-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0135-entry-0068-question.mp3"
   },
   {
     "ordinal": 136,
@@ -11019,8 +11038,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY DAUGHTER PLAYS WITH POLISH CHILDREN.",
     "source_question": "Q: Czy pani dziecko bawi się z polskimi dziećmi?",
     "source_answer": "A: TAK, MÓJ SYN BAWI SIĘ Z POLSKIMI DZIEĆMI.",
-    "output_file": "output-demo-pack/audio/0136-entry-0068-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0136-entry-0068-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0136-entry-0068-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0136-entry-0068-answer.mp3"
   },
   {
     "ordinal": 137,
@@ -11038,8 +11057,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY HUSBAND IS A HIGHLY QUALIFIED WORKER. HE IS A COMPUTER SCIENCE ENGINEER.",
     "source_question": "Q: Czy pani mąż jest wysoko wykwalifikowanym pracownikiem?",
     "source_answer": "A: TAK MÓJ MĄŻ JEST WYSOKO WYKWALIFIKOWANYM PRACOWNIKIEM. ON JEST Enginierem INFORMATYKI.",
-    "output_file": "output-demo-pack/audio/0137-entry-0069-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0137-entry-0069-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0137-entry-0069-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0137-entry-0069-question.mp3"
   },
   {
     "ordinal": 138,
@@ -11057,8 +11076,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY HUSBAND IS A HIGHLY QUALIFIED WORKER. HE IS A COMPUTER SCIENCE ENGINEER.",
     "source_question": "Q: Czy pani mąż jest wysoko wykwalifikowanym pracownikiem?",
     "source_answer": "A: TAK MÓJ MĄŻ JEST WYSOKO WYKWALIFIKOWANYM PRACOWNIKIEM. ON JEST Enginierem INFORMATYKI.",
-    "output_file": "output-demo-pack/audio/0138-entry-0069-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0138-entry-0069-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0138-entry-0069-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0138-entry-0069-answer.mp3"
   },
   {
     "ordinal": 139,
@@ -11076,8 +11095,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Previously, I lived in India, in Bharthana. Before I came to Poland, I only lived in India. I basically lived in Bharthana - that's my hometown - but then I worked and lived in Delhi. After my husband got a job in Poland, I came to Poland, and I have been living in Poland since then.",
     "source_question": "Q: Gdzie pani mieszkała wcześniej?",
     "source_answer": "A: Wcześniej mieszkałam w Indiach, w Bharthana. Zanim przyjechałam do Polski, mieszkałam tylko w Indiach. Generalnie mieszkałam w Bharthana — to jest moje rodzinne miasto — ale potem pracowałam i mieszkałam w Delhi. Po tym jak mój mąż dostał pracę w Polsce, przyjechałam do Polski, i od tego czasu mieszkam w Polsce.",
-    "output_file": "output-demo-pack/audio/0139-entry-0070-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0139-entry-0070-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0139-entry-0070-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0139-entry-0070-question.mp3"
   },
   {
     "ordinal": 140,
@@ -11095,8 +11114,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Previously, I lived in India, in Bharthana. Before I came to Poland, I only lived in India. I basically lived in Bharthana - that's my hometown - but then I worked and lived in Delhi. After my husband got a job in Poland, I came to Poland, and I have been living in Poland since then.",
     "source_question": "Q: Gdzie pani mieszkała wcześniej?",
     "source_answer": "A: Wcześniej mieszkałam w Indiach, w Bharthana. Zanim przyjechałam do Polski, mieszkałam tylko w Indiach. Generalnie mieszkałam w Bharthana — to jest moje rodzinne miasto — ale potem pracowałam i mieszkałam w Delhi. Po tym jak mój mąż dostał pracę w Polsce, przyjechałam do Polski, i od tego czasu mieszkam w Polsce.",
-    "output_file": "output-demo-pack/audio/0140-entry-0070-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0140-entry-0070-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0140-entry-0070-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0140-entry-0070-answer.mp3"
   },
   {
     "ordinal": 141,
@@ -11109,32 +11128,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Jakie kwalifikacje posiada pani mąż?",
     "original_reference_text": "What qualifications does your husband have?",
     "display_question": "Q: Jakie kwalifikacje posiada pani mąż?",
-    "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+    "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
     "reference_question": "Q: What qualifications does your husband have?",
-    "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+    "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
     "source_question": "Q: Jakie kwalifikacje posiada pani mąż?",
-    "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "output_file": "output-demo-pack/audio/0141-entry-0071-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0141-entry-0071-question.mp3"
+    "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "output_file": "output-demo-pack-fresh/audio/0141-entry-0071-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0141-entry-0071-question.mp3"
   },
   {
     "ordinal": 142,
     "entry_index": 71,
     "kind": "answer",
-    "display_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "translation_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
-    "spoken_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "original_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "original_reference_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+    "display_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "translation_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
+    "spoken_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "original_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "original_reference_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
     "display_question": "Q: Jakie kwalifikacje posiada pani mąż?",
-    "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+    "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
     "reference_question": "Q: What qualifications does your husband have?",
-    "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+    "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
     "source_question": "Q: Jakie kwalifikacje posiada pani mąż?",
-    "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "output_file": "output-demo-pack/audio/0142-entry-0071-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0142-entry-0071-answer.mp3"
+    "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "output_file": "output-demo-pack-fresh/audio/0142-entry-0071-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0142-entry-0071-answer.mp3"
   },
   {
     "ordinal": 143,
@@ -11152,8 +11171,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: MY DAUGHTER IS 10 YEARS OLD.",
     "source_question": "Q: Ile lat ma pani syn?",
     "source_answer": "A: MÓJ SYN MA 10 LAT.",
-    "output_file": "output-demo-pack/audio/0143-entry-0072-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0143-entry-0072-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0143-entry-0072-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0143-entry-0072-question.mp3"
   },
   {
     "ordinal": 144,
@@ -11171,8 +11190,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: MY DAUGHTER IS 10 YEARS OLD.",
     "source_question": "Q: Ile lat ma pani syn?",
     "source_answer": "A: MÓJ SYN MA 10 LAT.",
-    "output_file": "output-demo-pack/audio/0144-entry-0072-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0144-entry-0072-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0144-entry-0072-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0144-entry-0072-answer.mp3"
   },
   {
     "ordinal": 145,
@@ -11190,8 +11209,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY CHILD GOES TO SCHOOL.",
     "source_question": "Q: Czy pani dziecko chodzi do szkoły, przedszkola albo żłobka?",
     "source_answer": "A: TAK, MOJE DZIECKO CHODZI DO SZKOŁY.",
-    "output_file": "output-demo-pack/audio/0145-entry-0073-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0145-entry-0073-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0145-entry-0073-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0145-entry-0073-question.mp3"
   },
   {
     "ordinal": 146,
@@ -11209,8 +11228,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY CHILD GOES TO SCHOOL.",
     "source_question": "Q: Czy pani dziecko chodzi do szkoły, przedszkola albo żłobka?",
     "source_answer": "A: TAK, MOJE DZIECKO CHODZI DO SZKOŁY.",
-    "output_file": "output-demo-pack/audio/0146-entry-0073-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0146-entry-0073-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0146-entry-0073-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0146-entry-0073-answer.mp3"
   },
   {
     "ordinal": 147,
@@ -11223,32 +11242,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Kim jest pani mąż z wykształcenia?",
     "original_reference_text": "Who is your husband by profession?",
     "display_question": "Q: Kim jest pani mąż z wykształcenia?",
-    "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+    "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
     "reference_question": "Q: Who is your husband by profession?",
-    "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+    "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
     "source_question": "Q: Kim jest pani mąż z wykształcenia?",
-    "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "output_file": "output-demo-pack/audio/0147-entry-0074-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0147-entry-0074-question.mp3"
+    "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "output_file": "output-demo-pack-fresh/audio/0147-entry-0074-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0147-entry-0074-question.mp3"
   },
   {
     "ordinal": 148,
     "entry_index": 74,
     "kind": "answer",
-    "display_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "translation_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
-    "spoken_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "original_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "original_reference_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+    "display_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "translation_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
+    "spoken_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "original_text": "MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "original_reference_text": "MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
     "display_question": "Q: Kim jest pani mąż z wykształcenia?",
-    "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
+    "display_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
     "reference_question": "Q: Who is your husband by profession?",
-    "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.",
+    "reference_answer": "A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.",
     "source_question": "Q: Kim jest pani mąż z wykształcenia?",
-    "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.",
-    "output_file": "output-demo-pack/audio/0148-entry-0074-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0148-entry-0074-answer.mp3"
+    "source_answer": "A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.",
+    "output_file": "output-demo-pack-fresh/audio/0148-entry-0074-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0148-entry-0074-answer.mp3"
   },
   {
     "ordinal": 149,
@@ -11266,8 +11285,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE LIVED IN POLAND FOR 8 YEARS.",
     "source_question": "Q: Jak długo pani mieszka w Polsce?",
     "source_answer": "A: MIESZKAM W POLSCE 8 LAT.",
-    "output_file": "output-demo-pack/audio/0149-entry-0075-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0149-entry-0075-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0149-entry-0075-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0149-entry-0075-question.mp3"
   },
   {
     "ordinal": 150,
@@ -11285,8 +11304,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE LIVED IN POLAND FOR 8 YEARS.",
     "source_question": "Q: Jak długo pani mieszka w Polsce?",
     "source_answer": "A: MIESZKAM W POLSCE 8 LAT.",
-    "output_file": "output-demo-pack/audio/0150-entry-0075-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0150-entry-0075-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0150-entry-0075-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0150-entry-0075-answer.mp3"
   },
   {
     "ordinal": 151,
@@ -11299,32 +11318,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Jak ma na imię pani mąż?",
     "original_reference_text": "What is your husband's name?",
     "display_question": "Q: Jak ma na imię pani mąż?",
-    "display_answer": "A: MÓJ MĄŻ MA NA IMIĘ Shilpa.",
+    "display_answer": "A: MÓJ MĄŻ MA NA IMIĘ Pankaj.",
     "reference_question": "Q: What is your husband's name?",
-    "reference_answer": "A: MY HUSBAND'S NAME IS Shilpa.",
+    "reference_answer": "A: MY HUSBAND'S NAME IS Pankaj.",
     "source_question": "Q: Jak ma na imię pani mąż?",
-    "source_answer": "A: MÓJ MĄŻ MA NA IMIĘ Shilpa.",
-    "output_file": "output-demo-pack/audio/0151-entry-0076-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0151-entry-0076-question.mp3"
+    "source_answer": "A: MÓJ MĄŻ MA NA IMIĘ Pankaj.",
+    "output_file": "output-demo-pack-fresh/audio/0151-entry-0076-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0151-entry-0076-question.mp3"
   },
   {
     "ordinal": 152,
     "entry_index": 76,
     "kind": "answer",
-    "display_text": "MÓJ MĄŻ MA NA IMIĘ Shilpa.",
-    "translation_text": "MY HUSBAND'S NAME IS Shilpa.",
-    "spoken_text": "MÓJ MĄŻ MA NA IMIĘ Shilpa.",
-    "text": "MÓJ MĄŻ MA NA IMIĘ Shilpa.",
-    "original_text": "MÓJ MĄŻ MA NA IMIĘ Rajesh.",
-    "original_reference_text": "MY HUSBAND'S NAME IS Rajesh.",
+    "display_text": "MÓJ MĄŻ MA NA IMIĘ Pankaj.",
+    "translation_text": "MY HUSBAND'S NAME IS Pankaj.",
+    "spoken_text": "MÓJ MĄŻ MA NA IMIĘ Pankadż.",
+    "text": "MÓJ MĄŻ MA NA IMIĘ Pankadż.",
+    "original_text": "MÓJ MĄŻ MA NA IMIĘ Pankaj.",
+    "original_reference_text": "MY HUSBAND'S NAME IS Pankaj.",
     "display_question": "Q: Jak ma na imię pani mąż?",
-    "display_answer": "A: MÓJ MĄŻ MA NA IMIĘ Shilpa.",
+    "display_answer": "A: MÓJ MĄŻ MA NA IMIĘ Pankaj.",
     "reference_question": "Q: What is your husband's name?",
-    "reference_answer": "A: MY HUSBAND'S NAME IS Shilpa.",
+    "reference_answer": "A: MY HUSBAND'S NAME IS Pankaj.",
     "source_question": "Q: Jak ma na imię pani mąż?",
-    "source_answer": "A: MÓJ MĄŻ MA NA IMIĘ Shilpa.",
-    "output_file": "output-demo-pack/audio/0152-entry-0076-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0152-entry-0076-answer.mp3"
+    "source_answer": "A: MÓJ MĄŻ MA NA IMIĘ Pankaj.",
+    "output_file": "output-demo-pack-fresh/audio/0152-entry-0076-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0152-entry-0076-answer.mp3"
   },
   {
     "ordinal": 153,
@@ -11337,32 +11356,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Czy pani mąż pracuje w firmie, czy ma własną działalność gospodarczą?",
     "original_reference_text": "Does your husband work in a company or does he run his own business?",
     "display_question": "Q: Czy pani mąż pracuje w firmie, czy ma własną działalność gospodarczą?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.",
     "reference_question": "Q: Does your husband work in a company or does he run his own business?",
-    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX. HE DOESN'T HAVE OWN BUSINESS.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc. HE DOESN'T HAVE HIS OWN BUSINESS.",
     "source_question": "Q: Czy pani mąż pracuje w firmie, czy ma własną działalność gospodarczą?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
-    "output_file": "output-demo-pack/audio/0153-entry-0077-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0153-entry-0077-question.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.",
+    "output_file": "output-demo-pack-fresh/audio/0153-entry-0077-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0153-entry-0077-question.mp3"
   },
   {
     "ordinal": 154,
     "entry_index": 77,
     "kind": "answer",
-    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
-    "translation_text": "MY HUSBAND WORKS FOR StoneX. HE DOESN'T HAVE OWN BUSINESS.",
-    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
-    "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
-    "original_text": "MÓJ MĄZ PRACUJE W FIRMIE Hitachi Energy. ON NIE MA WŁASNEJ FIRMY.",
-    "original_reference_text": "MY HUSBAND WORKS FOR Hitachi Energy. HE DOESN'T HAVE OWN BUSINESS.",
+    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.",
+    "translation_text": "MY HUSBAND WORKS FOR StoneX Inc. HE DOESN'T HAVE HIS OWN BUSINESS.",
+    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink ON NIE MA WŁASNEJ FIRMY.",
+    "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink ON NIE MA WŁASNEJ FIRMY.",
+    "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.",
+    "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc. HE DOESN'T HAVE HIS OWN BUSINESS.",
     "display_question": "Q: Czy pani mąż pracuje w firmie, czy ma własną działalność gospodarczą?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.",
     "reference_question": "Q: Does your husband work in a company or does he run his own business?",
-    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX. HE DOESN'T HAVE OWN BUSINESS.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc. HE DOESN'T HAVE HIS OWN BUSINESS.",
     "source_question": "Q: Czy pani mąż pracuje w firmie, czy ma własną działalność gospodarczą?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX. ON NIE MA WŁASNEJ FIRMY.",
-    "output_file": "output-demo-pack/audio/0154-entry-0077-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0154-entry-0077-answer.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.",
+    "output_file": "output-demo-pack-fresh/audio/0154-entry-0077-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0154-entry-0077-answer.mp3"
   },
   {
     "ordinal": 155,
@@ -11380,8 +11399,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM FROM INDIA.",
     "source_question": "Q: Z jakiego kraju pani pochodzi?",
     "source_answer": "A: POCHODZĘ Z INDII.",
-    "output_file": "output-demo-pack/audio/0155-entry-0078-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0155-entry-0078-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0155-entry-0078-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0155-entry-0078-question.mp3"
   },
   {
     "ordinal": 156,
@@ -11399,46 +11418,46 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM FROM INDIA.",
     "source_question": "Q: Z jakiego kraju pani pochodzi?",
     "source_answer": "A: POCHODZĘ Z INDII.",
-    "output_file": "output-demo-pack/audio/0156-entry-0078-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0156-entry-0078-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0156-entry-0078-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0156-entry-0078-answer.mp3"
   },
   {
     "ordinal": 157,
     "entry_index": 79,
     "kind": "question",
-    "display_text": "Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-    "translation_text": "Does your daughter go to public or private school?",
-    "spoken_text": "Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-    "text": "Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-    "original_text": "Czy pani córka chodzi do szkoły publicznej czy prywatnej?",
-    "original_reference_text": "Does your daughter go to public or private school?",
-    "display_question": "Q: Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-    "display_answer": "A: Mój syn chodzi do szkoły publicznej.",
-    "reference_question": "Q: Does your daughter go to public or private school?",
-    "reference_answer": "A: My daughter goes to public school.",
-    "source_question": "Q: Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-    "source_answer": "A: Mój syn chodzi do szkoły publicznej.",
-    "output_file": "output-demo-pack/audio/0157-entry-0079-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0157-entry-0079-question.mp3"
+    "display_text": "Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+    "translation_text": "Does your son go to public or bilingual school?",
+    "spoken_text": "Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+    "text": "Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+    "original_text": "Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+    "original_reference_text": "Does your son go to public or bilingual school?",
+    "display_question": "Q: Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+    "display_answer": "A: Mój syn chodzi do szkoły dwujęzycznej.",
+    "reference_question": "Q: Does your son go to public or bilingual school?",
+    "reference_answer": "A: My son goes to bilingual school.",
+    "source_question": "Q: Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+    "source_answer": "A: Mój syn chodzi do szkoły dwujęzycznej.",
+    "output_file": "output-demo-pack-fresh/audio/0157-entry-0079-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0157-entry-0079-question.mp3"
   },
   {
     "ordinal": 158,
     "entry_index": 79,
     "kind": "answer",
-    "display_text": "Mój syn chodzi do szkoły publicznej.",
-    "translation_text": "My daughter goes to public school.",
-    "spoken_text": "Mój syn chodzi do szkoły publicznej.",
-    "text": "Mój syn chodzi do szkoły publicznej.",
-    "original_text": "Moja córka chodzi do SZKOŁA PUBLICZNA.",
-    "original_reference_text": "My daughter goes to public school.",
-    "display_question": "Q: Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-    "display_answer": "A: Mój syn chodzi do szkoły publicznej.",
-    "reference_question": "Q: Does your daughter go to public or private school?",
-    "reference_answer": "A: My daughter goes to public school.",
-    "source_question": "Q: Czy pani syn chodzi do szkoły publicznej czy prywatnej?",
-    "source_answer": "A: Mój syn chodzi do szkoły publicznej.",
-    "output_file": "output-demo-pack/audio/0158-entry-0079-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0158-entry-0079-answer.mp3"
+    "display_text": "Mój syn chodzi do szkoły dwujęzycznej.",
+    "translation_text": "My son goes to bilingual school.",
+    "spoken_text": "Mój syn chodzi do szkoły dwujęzycznej.",
+    "text": "Mój syn chodzi do szkoły dwujęzycznej.",
+    "original_text": "Mój syn chodzi do szkoły dwujęzycznej.",
+    "original_reference_text": "My son goes to bilingual school.",
+    "display_question": "Q: Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+    "display_answer": "A: Mój syn chodzi do szkoły dwujęzycznej.",
+    "reference_question": "Q: Does your son go to public or bilingual school?",
+    "reference_answer": "A: My son goes to bilingual school.",
+    "source_question": "Q: Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?",
+    "source_answer": "A: Mój syn chodzi do szkoły dwujęzycznej.",
+    "output_file": "output-demo-pack-fresh/audio/0158-entry-0079-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0158-entry-0079-answer.mp3"
   },
   {
     "ordinal": 159,
@@ -11456,8 +11475,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.",
     "source_question": "Q: Od kiedy jest pani w Polsce?",
     "source_answer": "A: JESTEM W POLSCE OD LISTOPADA 2018 ROKU.",
-    "output_file": "output-demo-pack/audio/0159-entry-0080-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0159-entry-0080-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0159-entry-0080-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0159-entry-0080-question.mp3"
   },
   {
     "ordinal": 160,
@@ -11475,8 +11494,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.",
     "source_question": "Q: Od kiedy jest pani w Polsce?",
     "source_answer": "A: JESTEM W POLSCE OD LISTOPADA 2018 ROKU.",
-    "output_file": "output-demo-pack/audio/0160-entry-0080-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0160-entry-0080-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0160-entry-0080-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0160-entry-0080-answer.mp3"
   },
   {
     "ordinal": 161,
@@ -11494,8 +11513,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY CHILD GOES TO A POLISH-SPEAKING SCHOOL.",
     "source_question": "Q: Czy pani dziecko uczęszcza do polskojęzycznej szkoły lub przedszkola?",
     "source_answer": "A: TAK, MOJE DZIECKO CHODZI DO POLSKOJĘZYCZNEJ SZKOŁY.",
-    "output_file": "output-demo-pack/audio/0161-entry-0081-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0161-entry-0081-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0161-entry-0081-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0161-entry-0081-question.mp3"
   },
   {
     "ordinal": 162,
@@ -11513,8 +11532,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY CHILD GOES TO A POLISH-SPEAKING SCHOOL.",
     "source_question": "Q: Czy pani dziecko uczęszcza do polskojęzycznej szkoły lub przedszkola?",
     "source_answer": "A: TAK, MOJE DZIECKO CHODZI DO POLSKOJĘZYCZNEJ SZKOŁY.",
-    "output_file": "output-demo-pack/audio/0162-entry-0081-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0162-entry-0081-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0162-entry-0081-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0162-entry-0081-answer.mp3"
   },
   {
     "ordinal": 163,
@@ -11527,32 +11546,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Co robi pani mąż?",
     "original_reference_text": "What does your husband do?",
     "display_question": "Q: Co robi pani mąż?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: What does your husband do?",
-    "reference_answer": "A: MY HUSBAND DEALS WITH StoneX.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
     "source_question": "Q: Co robi pani mąż?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0163-entry-0082-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0163-entry-0082-question.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0163-entry-0082-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0163-entry-0082-question.mp3"
   },
   {
     "ordinal": 164,
     "entry_index": 82,
     "kind": "answer",
-    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "translation_text": "MY HUSBAND DEALS WITH StoneX.",
-    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "original_text": "MÓJ MĄŻ ZAJMUJE SIĘ Hitachi Energy.",
-    "original_reference_text": "MY HUSBAND DEALS WITH Hitachi Energy.",
+    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "translation_text": "MY HUSBAND WORKS FOR StoneX Inc.",
+    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+    "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+    "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc.",
     "display_question": "Q: Co robi pani mąż?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: What does your husband do?",
-    "reference_answer": "A: MY HUSBAND DEALS WITH StoneX.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
     "source_question": "Q: Co robi pani mąż?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0164-entry-0082-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0164-entry-0082-answer.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0164-entry-0082-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0164-entry-0082-answer.mp3"
   },
   {
     "ordinal": 165,
@@ -11570,8 +11589,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE LIVED IN POLAND EIGHT YEARS.",
     "source_question": "Q: Ile lat pani mieszka w Polsce?",
     "source_answer": "A: MIESZKAM W POLSCE OSIEM LAT.",
-    "output_file": "output-demo-pack/audio/0165-entry-0083-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0165-entry-0083-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0165-entry-0083-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0165-entry-0083-question.mp3"
   },
   {
     "ordinal": 166,
@@ -11589,8 +11608,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE LIVED IN POLAND EIGHT YEARS.",
     "source_question": "Q: Ile lat pani mieszka w Polsce?",
     "source_answer": "A: MIESZKAM W POLSCE OSIEM LAT.",
-    "output_file": "output-demo-pack/audio/0166-entry-0083-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0166-entry-0083-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0166-entry-0083-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0166-entry-0083-answer.mp3"
   },
   {
     "ordinal": 167,
@@ -11608,8 +11627,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY HUSBAND WORKS PROFESSIONALLY.",
     "source_question": "Q: Czy pani mąż pracuje?",
     "source_answer": "A: TAK, MÓJ MĄŻ PRACUJE ZAWODOWO.",
-    "output_file": "output-demo-pack/audio/0167-entry-0084-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0167-entry-0084-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0167-entry-0084-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0167-entry-0084-question.mp3"
   },
   {
     "ordinal": 168,
@@ -11627,8 +11646,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY HUSBAND WORKS PROFESSIONALLY.",
     "source_question": "Q: Czy pani mąż pracuje?",
     "source_answer": "A: TAK, MÓJ MĄŻ PRACUJE ZAWODOWO.",
-    "output_file": "output-demo-pack/audio/0168-entry-0084-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0168-entry-0084-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0168-entry-0084-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0168-entry-0084-answer.mp3"
   },
   {
     "ordinal": 169,
@@ -11646,8 +11665,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I lived in Bharthana.",
     "source_question": "Q: W jakim mieście pani mieszkała w Indiach?",
     "source_answer": "A: Mieszkałam w Bharthana.",
-    "output_file": "output-demo-pack/audio/0169-entry-0085-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0169-entry-0085-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0169-entry-0085-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0169-entry-0085-question.mp3"
   },
   {
     "ordinal": 170,
@@ -11665,8 +11684,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I lived in Bharthana.",
     "source_question": "Q: W jakim mieście pani mieszkała w Indiach?",
     "source_answer": "A: Mieszkałam w Bharthana.",
-    "output_file": "output-demo-pack/audio/0170-entry-0085-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0170-entry-0085-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0170-entry-0085-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0170-entry-0085-answer.mp3"
   },
   {
     "ordinal": 171,
@@ -11684,8 +11703,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY CHILD HAS SOME POLISH FRIENDS.",
     "source_question": "Q: Czy pani dziecko ma polskich kolegów lub koleżanki?",
     "source_answer": "A: TAK, MOJE DZIECKO MA KILKU POLSKICH KOLEGÓW/KILKA POLSKICH KOLEŻANEK.",
-    "output_file": "output-demo-pack/audio/0171-entry-0086-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0171-entry-0086-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0171-entry-0086-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0171-entry-0086-question.mp3"
   },
   {
     "ordinal": 172,
@@ -11703,8 +11722,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, MY CHILD HAS SOME POLISH FRIENDS.",
     "source_question": "Q: Czy pani dziecko ma polskich kolegów lub koleżanki?",
     "source_answer": "A: TAK, MOJE DZIECKO MA KILKU POLSKICH KOLEGÓW/KILKA POLSKICH KOLEŻANEK.",
-    "output_file": "output-demo-pack/audio/0172-entry-0086-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0172-entry-0086-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0172-entry-0086-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0172-entry-0086-answer.mp3"
   },
   {
     "ordinal": 173,
@@ -11722,8 +11741,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE BEEN IN POLAND FOR 8 YEARS.",
     "source_question": "Q: Jak długo pani jest w Polsce?",
     "source_answer": "A: JESTEM W POLSCE 8 LAT.",
-    "output_file": "output-demo-pack/audio/0173-entry-0087-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0173-entry-0087-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0173-entry-0087-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0173-entry-0087-question.mp3"
   },
   {
     "ordinal": 174,
@@ -11741,8 +11760,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE BEEN IN POLAND FOR 8 YEARS.",
     "source_question": "Q: Jak długo pani jest w Polsce?",
     "source_answer": "A: JESTEM W POLSCE 8 LAT.",
-    "output_file": "output-demo-pack/audio/0174-entry-0087-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0174-entry-0087-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0174-entry-0087-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0174-entry-0087-answer.mp3"
   },
   {
     "ordinal": 175,
@@ -11760,8 +11779,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM FROM INDIA.",
     "source_question": "Q: Skąd pani jest?",
     "source_answer": "A: JESTEM Z INDII.",
-    "output_file": "output-demo-pack/audio/0175-entry-0088-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0175-entry-0088-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0175-entry-0088-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0175-entry-0088-question.mp3"
   },
   {
     "ordinal": 176,
@@ -11779,8 +11798,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I AM FROM INDIA.",
     "source_question": "Q: Skąd pani jest?",
     "source_answer": "A: JESTEM Z INDII.",
-    "output_file": "output-demo-pack/audio/0176-entry-0088-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0176-entry-0088-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0176-entry-0088-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0176-entry-0088-answer.mp3"
   },
   {
     "ordinal": 177,
@@ -11798,8 +11817,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: MY DAUGHTER IS AT SCHOOL FOR ABOUT 6 HOURS.",
     "source_question": "Q: Jak długo pani dziecko zostaje w przedszkolu/szkole/żłobku?",
     "source_answer": "A: MÓJ SYN JEST W SZKOLE OKOŁO 6 GODZIN.",
-    "output_file": "output-demo-pack/audio/0177-entry-0089-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0177-entry-0089-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0177-entry-0089-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0177-entry-0089-question.mp3"
   },
   {
     "ordinal": 178,
@@ -11817,8 +11836,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: MY DAUGHTER IS AT SCHOOL FOR ABOUT 6 HOURS.",
     "source_question": "Q: Jak długo pani dziecko zostaje w przedszkolu/szkole/żłobku?",
     "source_answer": "A: MÓJ SYN JEST W SZKOLE OKOŁO 6 GODZIN.",
-    "output_file": "output-demo-pack/audio/0178-entry-0089-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0178-entry-0089-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0178-entry-0089-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0178-entry-0089-answer.mp3"
   },
   {
     "ordinal": 179,
@@ -11836,8 +11855,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: MY FAMILY IS NOT BIG HERE IN POLAND. MY FAMILY IS MY HUSBAND AND MY DAUGHTER.",
     "source_question": "Q: Jaka jest pani rodzina?",
     "source_answer": "A: MOJA RODZINA NIE JEST DUŻA TUTAJ W POLSCE. MOJA RODZINA TO MÓJ MĄŻ I MÓJ SYN.",
-    "output_file": "output-demo-pack/audio/0179-entry-0090-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0179-entry-0090-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0179-entry-0090-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0179-entry-0090-question.mp3"
   },
   {
     "ordinal": 180,
@@ -11855,8 +11874,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: MY FAMILY IS NOT BIG HERE IN POLAND. MY FAMILY IS MY HUSBAND AND MY DAUGHTER.",
     "source_question": "Q: Jaka jest pani rodzina?",
     "source_answer": "A: MOJA RODZINA NIE JEST DUŻA TUTAJ W POLSCE. MOJA RODZINA TO MÓJ MĄŻ I MÓJ SYN.",
-    "output_file": "output-demo-pack/audio/0180-entry-0090-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0180-entry-0090-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0180-entry-0090-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0180-entry-0090-answer.mp3"
   },
   {
     "ordinal": 181,
@@ -11874,8 +11893,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE BEEN IN POLAND FOR EIGHT YEARS.",
     "source_question": "Q: Od ilu lat jest pani w Polsce?",
     "source_answer": "A: JESTEM W POLSCE OD OSIEM LAT.",
-    "output_file": "output-demo-pack/audio/0181-entry-0091-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0181-entry-0091-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0181-entry-0091-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0181-entry-0091-question.mp3"
   },
   {
     "ordinal": 182,
@@ -11893,8 +11912,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE BEEN IN POLAND FOR EIGHT YEARS.",
     "source_question": "Q: Od ilu lat jest pani w Polsce?",
     "source_answer": "A: JESTEM W POLSCE OD OSIEM LAT.",
-    "output_file": "output-demo-pack/audio/0182-entry-0091-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0182-entry-0091-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0182-entry-0091-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0182-entry-0091-answer.mp3"
   },
   {
     "ordinal": 183,
@@ -11907,32 +11926,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Do jakiej szkoły chodzi pani dziecko?",
     "original_reference_text": "What school does your child go to?",
     "display_question": "Q: Do jakiej szkoły chodzi pani dziecko?",
-    "display_answer": "A: MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
+    "display_answer": "A: MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
     "reference_question": "Q: What school does your child go to?",
-    "reference_answer": "A: MY DAUGHTER goes to public school.",
+    "reference_answer": "A: MY SON GOES TO BILINGUAL SCHOOL.",
     "source_question": "Q: Do jakiej szkoły chodzi pani dziecko?",
-    "source_answer": "A: MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
-    "output_file": "output-demo-pack/audio/0183-entry-0092-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0183-entry-0092-question.mp3"
+    "source_answer": "A: MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
+    "output_file": "output-demo-pack-fresh/audio/0183-entry-0092-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0183-entry-0092-question.mp3"
   },
   {
     "ordinal": 184,
     "entry_index": 92,
     "kind": "answer",
-    "display_text": "MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
-    "translation_text": "MY DAUGHTER goes to public school.",
-    "spoken_text": "MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
-    "text": "MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
-    "original_text": "MOJA CÓRKA chodzi DO SZKOŁY PUBLICZNEJ.",
-    "original_reference_text": "MY DAUGHTER goes to public school.",
+    "display_text": "MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
+    "translation_text": "MY SON GOES TO BILINGUAL SCHOOL.",
+    "spoken_text": "MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
+    "text": "MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
+    "original_text": "MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
+    "original_reference_text": "MY SON GOES TO BILINGUAL SCHOOL.",
     "display_question": "Q: Do jakiej szkoły chodzi pani dziecko?",
-    "display_answer": "A: MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
+    "display_answer": "A: MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
     "reference_question": "Q: What school does your child go to?",
-    "reference_answer": "A: MY DAUGHTER goes to public school.",
+    "reference_answer": "A: MY SON GOES TO BILINGUAL SCHOOL.",
     "source_question": "Q: Do jakiej szkoły chodzi pani dziecko?",
-    "source_answer": "A: MÓJ SYN CHODZI DO SZKOŁY PUBLICZNEJ.",
-    "output_file": "output-demo-pack/audio/0184-entry-0092-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0184-entry-0092-answer.mp3"
+    "source_answer": "A: MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.",
+    "output_file": "output-demo-pack-fresh/audio/0184-entry-0092-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0184-entry-0092-answer.mp3"
   },
   {
     "ordinal": 185,
@@ -11950,8 +11969,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: THIS IS A PUBLIC SCHOOL.",
     "source_question": "Q: Czy to jest szkoła publiczna czy prywatna?",
     "source_answer": "A: TO JEST SZKOŁA PUBLICZNA.",
-    "output_file": "output-demo-pack/audio/0185-entry-0093-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0185-entry-0093-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0185-entry-0093-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0185-entry-0093-question.mp3"
   },
   {
     "ordinal": 186,
@@ -11969,8 +11988,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: THIS IS A PUBLIC SCHOOL.",
     "source_question": "Q: Czy to jest szkoła publiczna czy prywatna?",
     "source_answer": "A: TO JEST SZKOŁA PUBLICZNA.",
-    "output_file": "output-demo-pack/audio/0186-entry-0093-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0186-entry-0093-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0186-entry-0093-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0186-entry-0093-answer.mp3"
   },
   {
     "ordinal": 187,
@@ -11983,32 +12002,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Czym się zajmuje pani mąż?",
     "original_reference_text": "What does your husband do?",
     "display_question": "Q: Czym się zajmuje pani mąż?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: What does your husband do?",
-    "reference_answer": "A: MY HUSBAND DEALS WITH StoneX.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
     "source_question": "Q: Czym się zajmuje pani mąż?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0187-entry-0094-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0187-entry-0094-question.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0187-entry-0094-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0187-entry-0094-question.mp3"
   },
   {
     "ordinal": 188,
     "entry_index": 94,
     "kind": "answer",
-    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "translation_text": "MY HUSBAND DEALS WITH StoneX.",
-    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "original_text": "MÓJ MĄŻ ZAJMUJE SIĘ Hitachi Energy.",
-    "original_reference_text": "MY HUSBAND DEALS WITH Hitachi Energy.",
+    "display_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "translation_text": "MY HUSBAND WORKS FOR StoneX Inc.",
+    "spoken_text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+    "text": "MÓJ MĄŻ PRACUJE W FIRMIE Stone Eks Ink",
+    "original_text": "MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "original_reference_text": "MY HUSBAND WORKS FOR StoneX Inc.",
     "display_question": "Q: Czym się zajmuje pani mąż?",
-    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: What does your husband do?",
-    "reference_answer": "A: MY HUSBAND DEALS WITH StoneX.",
+    "reference_answer": "A: MY HUSBAND WORKS FOR StoneX Inc.",
     "source_question": "Q: Czym się zajmuje pani mąż?",
-    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0188-entry-0094-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0188-entry-0094-answer.mp3"
+    "source_answer": "A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0188-entry-0094-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0188-entry-0094-answer.mp3"
   },
   {
     "ordinal": 189,
@@ -12026,8 +12045,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I lived in Bharthana. This is my hometown. It is the eastern part of India.",
     "source_question": "Q: Gdzie pani mieszkała w Indiach?",
     "source_answer": "A: Mieszkałam w Bharthana. To moje rodzinne miasto.To wschodnia część Indii.",
-    "output_file": "output-demo-pack/audio/0189-entry-0095-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0189-entry-0095-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0189-entry-0095-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0189-entry-0095-question.mp3"
   },
   {
     "ordinal": 190,
@@ -12045,8 +12064,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I lived in Bharthana. This is my hometown. It is the eastern part of India.",
     "source_question": "Q: Gdzie pani mieszkała w Indiach?",
     "source_answer": "A: Mieszkałam w Bharthana. To moje rodzinne miasto.To wschodnia część Indii.",
-    "output_file": "output-demo-pack/audio/0190-entry-0095-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0190-entry-0095-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0190-entry-0095-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0190-entry-0095-answer.mp3"
   },
   {
     "ordinal": 191,
@@ -12064,8 +12083,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I CAME TO POLAND 8 YEARS AGO.",
     "source_question": "Q: Kiedy pani przyjechała do Polski?",
     "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
-    "output_file": "output-demo-pack/audio/0191-entry-0096-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0191-entry-0096-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0191-entry-0096-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0191-entry-0096-question.mp3"
   },
   {
     "ordinal": 192,
@@ -12083,8 +12102,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I CAME TO POLAND 8 YEARS AGO.",
     "source_question": "Q: Kiedy pani przyjechała do Polski?",
     "source_answer": "A: PRZYJECHAŁAM DO POLSKI 8 LAT TEMU.",
-    "output_file": "output-demo-pack/audio/0192-entry-0096-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0192-entry-0096-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0192-entry-0096-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0192-entry-0096-answer.mp3"
   },
   {
     "ordinal": 193,
@@ -12102,8 +12121,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE A FAMILY.",
     "source_question": "Q: Czy ma pani rodzinę?",
     "source_answer": "A: TAK, MAM RODZINĘ.",
-    "output_file": "output-demo-pack/audio/0193-entry-0097-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0193-entry-0097-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0193-entry-0097-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0193-entry-0097-question.mp3"
   },
   {
     "ordinal": 194,
@@ -12121,8 +12140,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE A FAMILY.",
     "source_question": "Q: Czy ma pani rodzinę?",
     "source_answer": "A: TAK, MAM RODZINĘ.",
-    "output_file": "output-demo-pack/audio/0194-entry-0097-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0194-entry-0097-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0194-entry-0097-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0194-entry-0097-answer.mp3"
   },
   {
     "ordinal": 195,
@@ -12140,8 +12159,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: MY DAUGHTER GOES TO SCHOOL.",
     "source_question": "Q: Do jakiego przedszkola lub żłobka chodzi pani dziecko?",
     "source_answer": "A: MÓJ SYN CHODZI DO SZKOŁY.",
-    "output_file": "output-demo-pack/audio/0195-entry-0098-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0195-entry-0098-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0195-entry-0098-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0195-entry-0098-question.mp3"
   },
   {
     "ordinal": 196,
@@ -12159,8 +12178,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: MY DAUGHTER GOES TO SCHOOL.",
     "source_question": "Q: Do jakiego przedszkola lub żłobka chodzi pani dziecko?",
     "source_answer": "A: MÓJ SYN CHODZI DO SZKOŁY.",
-    "output_file": "output-demo-pack/audio/0196-entry-0098-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0196-entry-0098-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0196-entry-0098-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0196-entry-0098-answer.mp3"
   },
   {
     "ordinal": 197,
@@ -12178,8 +12197,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My family in Poland is not large, my family is my husband and my daughter.",
     "source_question": "Q: Kto jest w Pani rodzinie?",
     "source_answer": "A: Moja rodzina w Polsce nie jest duża. Moja rodzina to mój mąż i mój syn.",
-    "output_file": "output-demo-pack/audio/0197-entry-0099-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0197-entry-0099-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0197-entry-0099-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0197-entry-0099-question.mp3"
   },
   {
     "ordinal": 198,
@@ -12197,8 +12216,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My family in Poland is not large, my family is my husband and my daughter.",
     "source_question": "Q: Kto jest w Pani rodzinie?",
     "source_answer": "A: Moja rodzina w Polsce nie jest duża. Moja rodzina to mój mąż i mój syn.",
-    "output_file": "output-demo-pack/audio/0198-entry-0099-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0198-entry-0099-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0198-entry-0099-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0198-entry-0099-answer.mp3"
   },
   {
     "ordinal": 199,
@@ -12211,32 +12230,32 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Czy pani partner pracuje?",
     "original_reference_text": "Does your partner work?",
     "display_question": "Q: Czy pani partner pracuje?",
-    "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: Does your partner work?",
-    "reference_answer": "A: MY partner WORKS FOR StoneX.",
+    "reference_answer": "A: MY PARTNER WORKS FOR StoneX Inc.",
     "source_question": "Q: Czy pani partner pracuje?",
-    "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0199-entry-0100-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0199-entry-0100-question.mp3"
+    "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0199-entry-0100-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0199-entry-0100-question.mp3"
   },
   {
     "ordinal": 200,
     "entry_index": 100,
     "kind": "answer",
-    "display_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-    "translation_text": "MY partner WORKS FOR StoneX.",
-    "spoken_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-    "text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-    "original_text": "MÓJ partner PRACUJE W FIRMIE Hitachi Energy.",
-    "original_reference_text": "MY partner WORKS FOR Hitachi Energy.",
+    "display_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
+    "translation_text": "MY PARTNER WORKS FOR StoneX Inc.",
+    "spoken_text": "MÓJ PARTNER PRACUJE W FIRMIE Stone Eks Ink",
+    "text": "MÓJ PARTNER PRACUJE W FIRMIE Stone Eks Ink",
+    "original_text": "MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
+    "original_reference_text": "MY PARTNER WORKS FOR StoneX Inc.",
     "display_question": "Q: Czy pani partner pracuje?",
-    "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
+    "display_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
     "reference_question": "Q: Does your partner work?",
-    "reference_answer": "A: MY partner WORKS FOR StoneX.",
+    "reference_answer": "A: MY PARTNER WORKS FOR StoneX Inc.",
     "source_question": "Q: Czy pani partner pracuje?",
-    "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX.",
-    "output_file": "output-demo-pack/audio/0200-entry-0100-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0200-entry-0100-answer.mp3"
+    "source_answer": "A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.",
+    "output_file": "output-demo-pack-fresh/audio/0200-entry-0100-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0200-entry-0100-answer.mp3"
   },
   {
     "ordinal": 201,
@@ -12254,8 +12273,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I am interested in sports, cinema, music and cooking.",
     "source_question": "Q: Jakie są pani zainteresowania?",
     "source_answer": "A: Interesuję się sportem, kinem, muzyką i gotowaniem.",
-    "output_file": "output-demo-pack/audio/0201-entry-0101-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0201-entry-0101-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0201-entry-0101-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0201-entry-0101-question.mp3"
   },
   {
     "ordinal": 202,
@@ -12273,8 +12292,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I am interested in sports, cinema, music and cooking.",
     "source_question": "Q: Jakie są pani zainteresowania?",
     "source_answer": "A: Interesuję się sportem, kinem, muzyką i gotowaniem.",
-    "output_file": "output-demo-pack/audio/0202-entry-0101-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0202-entry-0101-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0202-entry-0101-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0202-entry-0101-answer.mp3"
   },
   {
     "ordinal": 203,
@@ -12292,8 +12311,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I am HINDU.",
     "source_question": "Q: Kim pani jest?",
     "source_answer": "A: Jestem HINDUSką.",
-    "output_file": "output-demo-pack/audio/0203-entry-0102-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0203-entry-0102-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0203-entry-0102-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0203-entry-0102-question.mp3"
   },
   {
     "ordinal": 204,
@@ -12311,8 +12330,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I am HINDU.",
     "source_question": "Q: Kim pani jest?",
     "source_answer": "A: Jestem HINDUSką.",
-    "output_file": "output-demo-pack/audio/0204-entry-0102-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0204-entry-0102-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0204-entry-0102-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0204-entry-0102-answer.mp3"
   },
   {
     "ordinal": 205,
@@ -12330,8 +12349,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my daughter.",
     "source_question": "Q: Co pani lubi robić w wolnym czasie?",
     "source_answer": "A: W wolnym czasie lubię gotować, słuchać muzyki, spacerować, podróżować z rodziną i bawić się z moim synem.",
-    "output_file": "output-demo-pack/audio/0205-entry-0103-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0205-entry-0103-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0205-entry-0103-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0205-entry-0103-question.mp3"
   },
   {
     "ordinal": 206,
@@ -12349,8 +12368,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my daughter.",
     "source_question": "Q: Co pani lubi robić w wolnym czasie?",
     "source_answer": "A: W wolnym czasie lubię gotować, słuchać muzyki, spacerować, podróżować z rodziną i bawić się z moim synem.",
-    "output_file": "output-demo-pack/audio/0206-entry-0103-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0206-entry-0103-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0206-entry-0103-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0206-entry-0103-answer.mp3"
   },
   {
     "ordinal": 207,
@@ -12368,8 +12387,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I speak Hindi, English and Polish.",
     "source_question": "Q: W jakich językach pani mówi?",
     "source_answer": "A: Mówię w hindi, angielsku i polsku.",
-    "output_file": "output-demo-pack/audio/0207-entry-0104-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0207-entry-0104-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0207-entry-0104-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0207-entry-0104-question.mp3"
   },
   {
     "ordinal": 208,
@@ -12387,8 +12406,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I speak Hindi, English and Polish.",
     "source_question": "Q: W jakich językach pani mówi?",
     "source_answer": "A: Mówię w hindi, angielsku i polsku.",
-    "output_file": "output-demo-pack/audio/0208-entry-0104-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0208-entry-0104-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0208-entry-0104-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0208-entry-0104-answer.mp3"
   },
   {
     "ordinal": 209,
@@ -12406,8 +12425,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I am interested in sports, cinema, music and cooking.",
     "source_question": "Q: Czym się pani interesuje?",
     "source_answer": "A: Interesuję się sportem, kinem, muzyką i gotowaniem.",
-    "output_file": "output-demo-pack/audio/0209-entry-0105-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0209-entry-0105-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0209-entry-0105-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0209-entry-0105-question.mp3"
   },
   {
     "ordinal": 210,
@@ -12425,8 +12444,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I am interested in sports, cinema, music and cooking.",
     "source_question": "Q: Czym się pani interesuje?",
     "source_answer": "A: Interesuję się sportem, kinem, muzyką i gotowaniem.",
-    "output_file": "output-demo-pack/audio/0210-entry-0105-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0210-entry-0105-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0210-entry-0105-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0210-entry-0105-answer.mp3"
   },
   {
     "ordinal": 211,
@@ -12444,8 +12463,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I speak Hindi, English and Polish.",
     "source_question": "Q: Jakie pani zna języki?",
     "source_answer": "A: Znam język hindi, angielski i polski.",
-    "output_file": "output-demo-pack/audio/0211-entry-0106-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0211-entry-0106-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0211-entry-0106-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0211-entry-0106-question.mp3"
   },
   {
     "ordinal": 212,
@@ -12463,8 +12482,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I speak Hindi, English and Polish.",
     "source_question": "Q: Jakie pani zna języki?",
     "source_answer": "A: Znam język hindi, angielski i polski.",
-    "output_file": "output-demo-pack/audio/0212-entry-0106-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0212-entry-0106-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0212-entry-0106-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0212-entry-0106-answer.mp3"
   },
   {
     "ordinal": 213,
@@ -12482,8 +12501,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes. My hobbies are sports, cinema, music, gardening and cooking.",
     "source_question": "Q: Czy pani ma jakieś hobby?",
     "source_answer": "A: Tak. Moje hobby to sport, kino, muzyka, zajmuję się ogrodem, gotowanie.",
-    "output_file": "output-demo-pack/audio/0213-entry-0107-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0213-entry-0107-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0213-entry-0107-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0213-entry-0107-question.mp3"
   },
   {
     "ordinal": 214,
@@ -12501,8 +12520,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes. My hobbies are sports, cinema, music, gardening and cooking.",
     "source_question": "Q: Czy pani ma jakieś hobby?",
     "source_answer": "A: Tak. Moje hobby to sport, kino, muzyka, zajmuję się ogrodem, gotowanie.",
-    "output_file": "output-demo-pack/audio/0214-entry-0107-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0214-entry-0107-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0214-entry-0107-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0214-entry-0107-answer.mp3"
   },
   {
     "ordinal": 215,
@@ -12520,8 +12539,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I am HINDU.",
     "source_question": "Q: Jaka jest pani narodowość?",
     "source_answer": "A: Jestem HINDUSką.",
-    "output_file": "output-demo-pack/audio/0215-entry-0108-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0215-entry-0108-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0215-entry-0108-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0215-entry-0108-question.mp3"
   },
   {
     "ordinal": 216,
@@ -12539,8 +12558,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I am HINDU.",
     "source_question": "Q: Jaka jest pani narodowość?",
     "source_answer": "A: Jestem HINDUSką.",
-    "output_file": "output-demo-pack/audio/0216-entry-0108-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0216-entry-0108-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0216-entry-0108-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0216-entry-0108-answer.mp3"
   },
   {
     "ordinal": 217,
@@ -12558,8 +12577,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my daughter.",
     "source_question": "Q: Co pani lubi robić?",
     "source_answer": "A: W wolnym czasie lubię gotować, słuchać muzyki, spacerować, podróżować z rodziną i bawić się z moim synem.",
-    "output_file": "output-demo-pack/audio/0217-entry-0109-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0217-entry-0109-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0217-entry-0109-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0217-entry-0109-question.mp3"
   },
   {
     "ordinal": 218,
@@ -12577,8 +12596,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my daughter.",
     "source_question": "Q: Co pani lubi robić?",
     "source_answer": "A: W wolnym czasie lubię gotować, słuchać muzyki, spacerować, podróżować z rodziną i bawić się z moim synem.",
-    "output_file": "output-demo-pack/audio/0218-entry-0109-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0218-entry-0109-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0218-entry-0109-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0218-entry-0109-answer.mp3"
   },
   {
     "ordinal": 219,
@@ -12596,8 +12615,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: At work I write computer programs, test applications and write technical documents. I will also meet with clients regarding technical documentation.",
     "source_question": "Q: Jakie pani ma obowiązki na swoim stanowisku?",
     "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotkam się z klientami w sprawie dokumentacji technicznej.",
-    "output_file": "output-demo-pack/audio/0219-entry-0110-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0219-entry-0110-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0219-entry-0110-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0219-entry-0110-question.mp3"
   },
   {
     "ordinal": 220,
@@ -12615,8 +12634,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: At work I write computer programs, test applications and write technical documents. I will also meet with clients regarding technical documentation.",
     "source_question": "Q: Jakie pani ma obowiązki na swoim stanowisku?",
     "source_answer": "A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotkam się z klientami w sprawie dokumentacji technicznej.",
-    "output_file": "output-demo-pack/audio/0220-entry-0110-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0220-entry-0110-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0220-entry-0110-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0220-entry-0110-answer.mp3"
   },
   {
     "ordinal": 221,
@@ -12634,8 +12653,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Generally, I speak English at work because it is an international company. But I speak Polish with Polish colleagues and clients.",
     "source_question": "Q: W jakich językach pani porozumiewa się w pracy?",
     "source_answer": "A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.",
-    "output_file": "output-demo-pack/audio/0221-entry-0111-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0221-entry-0111-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0221-entry-0111-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0221-entry-0111-question.mp3"
   },
   {
     "ordinal": 222,
@@ -12653,8 +12672,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Generally, I speak English at work because it is an international company. But I speak Polish with Polish colleagues and clients.",
     "source_question": "Q: W jakich językach pani porozumiewa się w pracy?",
     "source_answer": "A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa. Ale z polskimi kolegami i klientami mówię po polsku.",
-    "output_file": "output-demo-pack/audio/0222-entry-0111-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0222-entry-0111-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0222-entry-0111-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0222-entry-0111-answer.mp3"
   },
   {
     "ordinal": 223,
@@ -12672,8 +12691,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I am HINDU.",
     "source_question": "Q: Kim pani jest z pochodzenia?",
     "source_answer": "A: Jestem HINDUSką.",
-    "output_file": "output-demo-pack/audio/0223-entry-0112-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0223-entry-0112-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0223-entry-0112-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0223-entry-0112-question.mp3"
   },
   {
     "ordinal": 224,
@@ -12691,8 +12710,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I am HINDU.",
     "source_question": "Q: Kim pani jest z pochodzenia?",
     "source_answer": "A: Jestem HINDUSką.",
-    "output_file": "output-demo-pack/audio/0224-entry-0112-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0224-entry-0112-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0224-entry-0112-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0224-entry-0112-answer.mp3"
   },
   {
     "ordinal": 225,
@@ -12710,8 +12729,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I work in the company office once a week, on Mondays.",
     "source_question": "Q: Jak często pani jeździ do siedziby firmy?",
     "source_answer": "A: W biurze w firmie pracuję raz w tygodniu,w poniedziałki.",
-    "output_file": "output-demo-pack/audio/0225-entry-0113-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0225-entry-0113-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0225-entry-0113-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0225-entry-0113-question.mp3"
   },
   {
     "ordinal": 226,
@@ -12729,8 +12748,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I work in the company office once a week, on Mondays.",
     "source_question": "Q: Jak często pani jeździ do siedziby firmy?",
     "source_answer": "A: W biurze w firmie pracuję raz w tygodniu,w poniedziałki.",
-    "output_file": "output-demo-pack/audio/0226-entry-0113-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0226-entry-0113-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0226-entry-0113-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0226-entry-0113-answer.mp3"
   },
   {
     "ordinal": 227,
@@ -12748,8 +12767,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: He has been working in the current company for 7 years.",
     "source_question": "Q: Ile lat pracuje pani w obecnej firmie?",
     "source_answer": "A: W obecnej firmie pracuje 7 lat.",
-    "output_file": "output-demo-pack/audio/0227-entry-0114-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0227-entry-0114-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0227-entry-0114-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0227-entry-0114-question.mp3"
   },
   {
     "ordinal": 228,
@@ -12767,8 +12786,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: He has been working in the current company for 7 years.",
     "source_question": "Q: Ile lat pracuje pani w obecnej firmie?",
     "source_answer": "A: W obecnej firmie pracuje 7 lat.",
-    "output_file": "output-demo-pack/audio/0228-entry-0114-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0228-entry-0114-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0228-entry-0114-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0228-entry-0114-answer.mp3"
   },
   {
     "ordinal": 229,
@@ -12786,8 +12805,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I work online from home. I work in the company office once a week, on Mondays.",
     "source_question": "Q: Czy pracuje pani online w domu czy w siedzibie firmy?",
     "source_answer": "A: Pracuję online w domu. W biurze w firmie pracuję raz w tygodniu, w poniedziałki.",
-    "output_file": "output-demo-pack/audio/0229-entry-0115-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0229-entry-0115-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0229-entry-0115-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0229-entry-0115-question.mp3"
   },
   {
     "ordinal": 230,
@@ -12805,8 +12824,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I work online from home. I work in the company office once a week, on Mondays.",
     "source_question": "Q: Czy pracuje pani online w domu czy w siedzibie firmy?",
     "source_answer": "A: Pracuję online w domu. W biurze w firmie pracuję raz w tygodniu, w poniedziałki.",
-    "output_file": "output-demo-pack/audio/0230-entry-0115-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0230-entry-0115-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0230-entry-0115-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0230-entry-0115-answer.mp3"
   },
   {
     "ordinal": 231,
@@ -12824,8 +12843,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: He goes to the company's headquarters once a week, on Mondays.",
     "source_question": "Q: Jak często pani jeździ do siedziby firmy?",
     "source_answer": "A: Jeździ do siedziby firmy raz w tygodniu,w poniedziałki.",
-    "output_file": "output-demo-pack/audio/0231-entry-0116-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0231-entry-0116-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0231-entry-0116-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0231-entry-0116-question.mp3"
   },
   {
     "ordinal": 232,
@@ -12843,8 +12862,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: He goes to the company's headquarters once a week, on Mondays.",
     "source_question": "Q: Jak często pani jeździ do siedziby firmy?",
     "source_answer": "A: Jeździ do siedziby firmy raz w tygodniu,w poniedziałki.",
-    "output_file": "output-demo-pack/audio/0232-entry-0116-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0232-entry-0116-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0232-entry-0116-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0232-entry-0116-answer.mp3"
   },
   {
     "ordinal": 233,
@@ -12862,8 +12881,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my daughter.",
     "source_question": "Q: Co lubisz robić?",
     "source_answer": "A: W wolnym czasie lubię gotować, słuchać muzyki, spacerować, podróżować z rodziną i bawić się z moim synem.",
-    "output_file": "output-demo-pack/audio/0233-entry-0117-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0233-entry-0117-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0233-entry-0117-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0233-entry-0117-question.mp3"
   },
   {
     "ordinal": 234,
@@ -12881,8 +12900,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In my free time I like to cook, listen to music, walk, travel with my family, and play with my daughter.",
     "source_question": "Q: Co lubisz robić?",
     "source_answer": "A: W wolnym czasie lubię gotować, słuchać muzyki, spacerować, podróżować z rodziną i bawić się z moim synem.",
-    "output_file": "output-demo-pack/audio/0234-entry-0117-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0234-entry-0117-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0234-entry-0117-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0234-entry-0117-answer.mp3"
   },
   {
     "ordinal": 235,
@@ -12900,8 +12919,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My Polish is communicative, I understand a lot. I think it is level A2.",
     "source_question": "Q: Jak pani ocenia swój poziom języka polskiego?",
     "source_answer": "A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.",
-    "output_file": "output-demo-pack/audio/0235-entry-0118-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0235-entry-0118-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0235-entry-0118-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0235-entry-0118-question.mp3"
   },
   {
     "ordinal": 236,
@@ -12919,8 +12938,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My Polish is communicative, I understand a lot. I think it is level A2.",
     "source_question": "Q: Jak pani ocenia swój poziom języka polskiego?",
     "source_answer": "A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.",
-    "output_file": "output-demo-pack/audio/0236-entry-0118-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0236-entry-0118-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0236-entry-0118-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0236-entry-0118-answer.mp3"
   },
   {
     "ordinal": 237,
@@ -12938,8 +12957,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, sometimes I watch Polish TV for News and Children's Fairy Tales.",
     "source_question": "Q: Czy ogląda pani polską telewizję?",
     "source_answer": "A: Tak, czasami oglądam polską telewizję dla Wiadomości i Bajki dla dzieci.",
-    "output_file": "output-demo-pack/audio/0237-entry-0119-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0237-entry-0119-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0237-entry-0119-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0237-entry-0119-question.mp3"
   },
   {
     "ordinal": 238,
@@ -12957,8 +12976,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, sometimes I watch Polish TV for News and Children's Fairy Tales.",
     "source_question": "Q: Czy ogląda pani polską telewizję?",
     "source_answer": "A: Tak, czasami oglądam polską telewizję dla Wiadomości i Bajki dla dzieci.",
-    "output_file": "output-demo-pack/audio/0238-entry-0119-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0238-entry-0119-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0238-entry-0119-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0238-entry-0119-answer.mp3"
   },
   {
     "ordinal": 239,
@@ -12976,8 +12995,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I try to practice in Polish with my daughter, because she speaks Polish very well, and I also watch cartoons with my daughter. I try to speak Polish at the pharmacy, in the shop at my daughter's school and I also have private lessons twice a week with a teacher. I listen to the news on the radio every day.",
     "source_question": "Q: W jaki sposób ćwiczy pani język polski?",
     "source_answer": "A: Staram się ćwiczyć po polsku z moim synem, ponieważ on mówi po polsku bardzo dobrze. Rozmawiam też po polsku w szkole mojego syna oraz mam prywatne lekcje dwa razy w tygodniu z nauczycielką. Codziennie słucham wiadomości w radiu.",
-    "output_file": "output-demo-pack/audio/0239-entry-0120-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0239-entry-0120-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0239-entry-0120-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0239-entry-0120-question.mp3"
   },
   {
     "ordinal": 240,
@@ -12995,8 +13014,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I try to practice in Polish with my daughter, because she speaks Polish very well, and I also watch cartoons with my daughter. I try to speak Polish at the pharmacy, in the shop at my daughter's school and I also have private lessons twice a week with a teacher. I listen to the news on the radio every day.",
     "source_question": "Q: W jaki sposób ćwiczy pani język polski?",
     "source_answer": "A: Staram się ćwiczyć po polsku z moim synem, ponieważ on mówi po polsku bardzo dobrze. Rozmawiam też po polsku w szkole mojego syna oraz mam prywatne lekcje dwa razy w tygodniu z nauczycielką. Codziennie słucham wiadomości w radiu.",
-    "output_file": "output-demo-pack/audio/0240-entry-0120-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0240-entry-0120-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0240-entry-0120-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0240-entry-0120-answer.mp3"
   },
   {
     "ordinal": 241,
@@ -13014,8 +13033,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I WILL ANSWER IN POLISH.",
     "source_question": "Q: Czy będzie pani odpowiadać po polsku?",
     "source_answer": "A: TAK, BĘDĘ ODPOWIADAC PO POLSKU.",
-    "output_file": "output-demo-pack/audio/0241-entry-0121-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0241-entry-0121-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0241-entry-0121-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0241-entry-0121-question.mp3"
   },
   {
     "ordinal": 242,
@@ -13033,8 +13052,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I WILL ANSWER IN POLISH.",
     "source_question": "Q: Czy będzie pani odpowiadać po polsku?",
     "source_answer": "A: TAK, BĘDĘ ODPOWIADAC PO POLSKU.",
-    "output_file": "output-demo-pack/audio/0242-entry-0121-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0242-entry-0121-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0242-entry-0121-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0242-entry-0121-answer.mp3"
   },
   {
     "ordinal": 243,
@@ -13052,8 +13071,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I speak Polish every day at home with my daughter. I speak Polish at my daughter's school. I speak Polish in the pharmacy, in the store, at the market, at the post office and in the office.",
     "source_question": "Q: Gdzie na co dzień pani mówi po polsku?",
     "source_answer": "A: Na co dzień mówię po polsku w domu z moim synem. Mówię po polsku w szkole mojego syna. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.",
-    "output_file": "output-demo-pack/audio/0243-entry-0122-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0243-entry-0122-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0243-entry-0122-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0243-entry-0122-question.mp3"
   },
   {
     "ordinal": 244,
@@ -13071,8 +13090,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I speak Polish every day at home with my daughter. I speak Polish at my daughter's school. I speak Polish in the pharmacy, in the store, at the market, at the post office and in the office.",
     "source_question": "Q: Gdzie na co dzień pani mówi po polsku?",
     "source_answer": "A: Na co dzień mówię po polsku w domu z moim synem. Mówię po polsku w szkole mojego syna. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.",
-    "output_file": "output-demo-pack/audio/0244-entry-0122-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0244-entry-0122-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0244-entry-0122-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0244-entry-0122-answer.mp3"
   },
   {
     "ordinal": 245,
@@ -13090,8 +13109,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: OF COURSE, I UNDERSTAND.",
     "source_question": "Q: Czy pani rozumie język polski?",
     "source_answer": "A: OCZYWIŚCIE, ROZUMIEM.",
-    "output_file": "output-demo-pack/audio/0245-entry-0123-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0245-entry-0123-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0245-entry-0123-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0245-entry-0123-question.mp3"
   },
   {
     "ordinal": 246,
@@ -13109,8 +13128,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: OF COURSE, I UNDERSTAND.",
     "source_question": "Q: Czy pani rozumie język polski?",
     "source_answer": "A: OCZYWIŚCIE, ROZUMIEM.",
-    "output_file": "output-demo-pack/audio/0246-entry-0123-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0246-entry-0123-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0246-entry-0123-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0246-entry-0123-answer.mp3"
   },
   {
     "ordinal": 247,
@@ -13128,8 +13147,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: This is how I speak Polish in various places in Krakow, for example at my daughter's school, in a shop, at the market, at the station, at the post office, in the office, on the bus, in a taxi.",
     "source_question": "Q: Czy mówisz po polsku, żeby komunikować się z miejscowymi mieszkańcami?",
     "source_answer": "A: Tak, mówię po polsku w różnych miejscach w Krakowie, na przykład w szkole mojego syna, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie i w taksówce.",
-    "output_file": "output-demo-pack/audio/0247-entry-0124-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0247-entry-0124-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0247-entry-0124-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0247-entry-0124-question.mp3"
   },
   {
     "ordinal": 248,
@@ -13147,8 +13166,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: This is how I speak Polish in various places in Krakow, for example at my daughter's school, in a shop, at the market, at the station, at the post office, in the office, on the bus, in a taxi.",
     "source_question": "Q: Czy mówisz po polsku, żeby komunikować się z miejscowymi mieszkańcami?",
     "source_answer": "A: Tak, mówię po polsku w różnych miejscach w Krakowie, na przykład w szkole mojego syna, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie i w taksówce.",
-    "output_file": "output-demo-pack/audio/0248-entry-0124-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0248-entry-0124-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0248-entry-0124-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0248-entry-0124-answer.mp3"
   },
   {
     "ordinal": 249,
@@ -13166,8 +13185,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I ASSESS WELL OF MY SKILLS. I UNDERSTAND A LOT, I STILL MAKE A LOT OF ERRORS, BUT I TRY TO SPEAK POLISH.",
     "source_question": "Q: Jak pani ocenia swoje umiejętności z języka polskiego?",
     "source_answer": "A: DOBRZE OCENIAM SWOJE UMIEJĘTNOŚCI. DUŻO ROZUMIEM, ROBIĘ JESZCZE DUŻO BŁĘDÓW ALE STARAM SIĘ MÓWIĆ PO POLSKU.",
-    "output_file": "output-demo-pack/audio/0249-entry-0125-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0249-entry-0125-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0249-entry-0125-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0249-entry-0125-question.mp3"
   },
   {
     "ordinal": 250,
@@ -13185,8 +13204,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I ASSESS WELL OF MY SKILLS. I UNDERSTAND A LOT, I STILL MAKE A LOT OF ERRORS, BUT I TRY TO SPEAK POLISH.",
     "source_question": "Q: Jak pani ocenia swoje umiejętności z języka polskiego?",
     "source_answer": "A: DOBRZE OCENIAM SWOJE UMIEJĘTNOŚCI. DUŻO ROZUMIEM, ROBIĘ JESZCZE DUŻO BŁĘDÓW ALE STARAM SIĘ MÓWIĆ PO POLSKU.",
-    "output_file": "output-demo-pack/audio/0250-entry-0125-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0250-entry-0125-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0250-entry-0125-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0250-entry-0125-answer.mp3"
   },
   {
     "ordinal": 251,
@@ -13204,8 +13223,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, generally I have no problems with everyday communication in Polish. Sometimes I don't understand everything when it's too fast.",
     "source_question": "Q: Czy ma pani problem z codzienną komunikacją w języku polskim? Na przykład w aptece albo w sklepie?",
     "source_answer": "A: Nie, generalnie nie mam problemów z codzienną komunikacją po polsku. Czasami nie rozumiem wszystkiego, gdy jest za szybko.",
-    "output_file": "output-demo-pack/audio/0251-entry-0126-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0251-entry-0126-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0251-entry-0126-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0251-entry-0126-question.mp3"
   },
   {
     "ordinal": 252,
@@ -13223,8 +13242,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, generally I have no problems with everyday communication in Polish. Sometimes I don't understand everything when it's too fast.",
     "source_question": "Q: Czy ma pani problem z codzienną komunikacją w języku polskim? Na przykład w aptece albo w sklepie?",
     "source_answer": "A: Nie, generalnie nie mam problemów z codzienną komunikacją po polsku. Czasami nie rozumiem wszystkiego, gdy jest za szybko.",
-    "output_file": "output-demo-pack/audio/0252-entry-0126-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0252-entry-0126-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0252-entry-0126-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0252-entry-0126-answer.mp3"
   },
   {
     "ordinal": 253,
@@ -13242,8 +13261,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, I sometimes watch TVN24 and CANAL+. Sometimes I listen to the radio.",
     "source_question": "Q: Czy śledzi pani jakiś polski kanał informacyjny?",
     "source_answer": "A: Tak, czasami oglądam TVN24 i CANAL+. Czasami słucham radia.",
-    "output_file": "output-demo-pack/audio/0253-entry-0127-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0253-entry-0127-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0253-entry-0127-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0253-entry-0127-question.mp3"
   },
   {
     "ordinal": 254,
@@ -13261,8 +13280,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, I sometimes watch TVN24 and CANAL+. Sometimes I listen to the radio.",
     "source_question": "Q: Czy śledzi pani jakiś polski kanał informacyjny?",
     "source_answer": "A: Tak, czasami oglądam TVN24 i CANAL+. Czasami słucham radia.",
-    "output_file": "output-demo-pack/audio/0254-entry-0127-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0254-entry-0127-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0254-entry-0127-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0254-entry-0127-answer.mp3"
   },
   {
     "ordinal": 255,
@@ -13280,8 +13299,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: This is how I speak Polish at work with Polish colleagues and clients.",
     "source_question": "Q: Czy pani rozmawia po polsku w pracy?",
     "source_answer": "A: Tak rozmawiam po polsku w pracy z polskimi kolegami i klientami.",
-    "output_file": "output-demo-pack/audio/0255-entry-0128-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0255-entry-0128-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0255-entry-0128-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0255-entry-0128-question.mp3"
   },
   {
     "ordinal": 256,
@@ -13299,8 +13318,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: This is how I speak Polish at work with Polish colleagues and clients.",
     "source_question": "Q: Czy pani rozmawia po polsku w pracy?",
     "source_answer": "A: Tak rozmawiam po polsku w pracy z polskimi kolegami i klientami.",
-    "output_file": "output-demo-pack/audio/0256-entry-0128-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0256-entry-0128-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0256-entry-0128-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0256-entry-0128-answer.mp3"
   },
   {
     "ordinal": 257,
@@ -13318,8 +13337,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I try to practice in Polish with my daughter, because she speaks Polish very well, and I also watch cartoons with my daughter. I try to speak Polish at the pharmacy, in the shop at my daughter's school and I also have private lessons twice a week with a teacher. I listen to the news on the radio every day.",
     "source_question": "Q: W jaki sposób uczy się pani języka polskiego?",
     "source_answer": "A: Staram się ćwiczyć po polsku z moim synem, ponieważ on mówi po polsku bardzo dobrze. Rozmawiam też po polsku w szkole mojego syna oraz mam prywatne lekcje dwa razy w tygodniu z nauczycielką. Codziennie słucham wiadomości w radiu.",
-    "output_file": "output-demo-pack/audio/0257-entry-0129-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0257-entry-0129-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0257-entry-0129-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0257-entry-0129-question.mp3"
   },
   {
     "ordinal": 258,
@@ -13337,8 +13356,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I try to practice in Polish with my daughter, because she speaks Polish very well, and I also watch cartoons with my daughter. I try to speak Polish at the pharmacy, in the shop at my daughter's school and I also have private lessons twice a week with a teacher. I listen to the news on the radio every day.",
     "source_question": "Q: W jaki sposób uczy się pani języka polskiego?",
     "source_answer": "A: Staram się ćwiczyć po polsku z moim synem, ponieważ on mówi po polsku bardzo dobrze. Rozmawiam też po polsku w szkole mojego syna oraz mam prywatne lekcje dwa razy w tygodniu z nauczycielką. Codziennie słucham wiadomości w radiu.",
-    "output_file": "output-demo-pack/audio/0258-entry-0129-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0258-entry-0129-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0258-entry-0129-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0258-entry-0129-answer.mp3"
   },
   {
     "ordinal": 259,
@@ -13356,8 +13375,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My Polish is communicative, I understand a lot. I think it is level A2.",
     "source_question": "Q: Jak ocenia Pani swój poziom znajomości języka polskiego?",
     "source_answer": "A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.",
-    "output_file": "output-demo-pack/audio/0259-entry-0130-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0259-entry-0130-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0259-entry-0130-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0259-entry-0130-question.mp3"
   },
   {
     "ordinal": 260,
@@ -13375,8 +13394,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My Polish is communicative, I understand a lot. I think it is level A2.",
     "source_question": "Q: Jak ocenia Pani swój poziom znajomości języka polskiego?",
     "source_answer": "A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.",
-    "output_file": "output-demo-pack/audio/0260-entry-0130-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0260-entry-0130-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0260-entry-0130-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0260-entry-0130-answer.mp3"
   },
   {
     "ordinal": 261,
@@ -13394,8 +13413,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I do not have a Polish language certificate.",
     "source_question": "Q: Czy posiada pani jakiś certyfikat potwierdzający swoją znajomość języka polskiego?",
     "source_answer": "A: Nie, nie mam certyfikatu z języka polskiego.",
-    "output_file": "output-demo-pack/audio/0261-entry-0131-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0261-entry-0131-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0261-entry-0131-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0261-entry-0131-question.mp3"
   },
   {
     "ordinal": 262,
@@ -13413,8 +13432,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I do not have a Polish language certificate.",
     "source_question": "Q: Czy posiada pani jakiś certyfikat potwierdzający swoją znajomość języka polskiego?",
     "source_answer": "A: Nie, nie mam certyfikatu z języka polskiego.",
-    "output_file": "output-demo-pack/audio/0262-entry-0131-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0262-entry-0131-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0262-entry-0131-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0262-entry-0131-answer.mp3"
   },
   {
     "ordinal": 263,
@@ -13432,8 +13451,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I speak Polish every day at home with my daughter. I speak Polish at my daughter's school. I speak Polish in the pharmacy, in the store, at the market, at the post office and in the office.",
     "source_question": "Q: Gdzie na co dzień pani używa języka polskiego?",
     "source_answer": "A: Na co dzień mówię po polsku w domu z moim synem. Mówię po polsku w szkole mojego syna. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.",
-    "output_file": "output-demo-pack/audio/0263-entry-0132-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0263-entry-0132-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0263-entry-0132-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0263-entry-0132-question.mp3"
   },
   {
     "ordinal": 264,
@@ -13451,8 +13470,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I speak Polish every day at home with my daughter. I speak Polish at my daughter's school. I speak Polish in the pharmacy, in the store, at the market, at the post office and in the office.",
     "source_question": "Q: Gdzie na co dzień pani używa języka polskiego?",
     "source_answer": "A: Na co dzień mówię po polsku w domu z moim synem. Mówię po polsku w szkole mojego syna. Mówię po polsku w aptece, w sklepie, na targu, na poczcie i w urzędzie.",
-    "output_file": "output-demo-pack/audio/0264-entry-0132-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0264-entry-0132-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0264-entry-0132-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0264-entry-0132-answer.mp3"
   },
   {
     "ordinal": 265,
@@ -13470,8 +13489,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: This is how I speak Polish in various places in Krakow, for example at my daughter's school, in a shop, at the market, at the station, at the post office, in the office, on the bus, in a taxi.",
     "source_question": "Q: Czy mówi pani po polsku, żeby komunikować się z Polakami?",
     "source_answer": "A: Tak, mówię po polsku w różnych miejscach w Krakowie, na przykład w szkole mojego syna, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie i w taksówce.",
-    "output_file": "output-demo-pack/audio/0265-entry-0133-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0265-entry-0133-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0265-entry-0133-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0265-entry-0133-question.mp3"
   },
   {
     "ordinal": 266,
@@ -13489,8 +13508,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: This is how I speak Polish in various places in Krakow, for example at my daughter's school, in a shop, at the market, at the station, at the post office, in the office, on the bus, in a taxi.",
     "source_question": "Q: Czy mówi pani po polsku, żeby komunikować się z Polakami?",
     "source_answer": "A: Tak, mówię po polsku w różnych miejscach w Krakowie, na przykład w szkole mojego syna, w sklepie, na targu, na dworcu, na poczcie, w urzędzie, w autobusie i w taksówce.",
-    "output_file": "output-demo-pack/audio/0266-entry-0133-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0266-entry-0133-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0266-entry-0133-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0266-entry-0133-answer.mp3"
   },
   {
     "ordinal": 267,
@@ -13508,8 +13527,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My Polish is communicative, I understand a lot. I think it is level A2.",
     "source_question": "Q: Jak pani ocenia swój język polski?",
     "source_answer": "A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.",
-    "output_file": "output-demo-pack/audio/0267-entry-0134-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0267-entry-0134-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0267-entry-0134-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0267-entry-0134-question.mp3"
   },
   {
     "ordinal": 268,
@@ -13527,8 +13546,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My Polish is communicative, I understand a lot. I think it is level A2.",
     "source_question": "Q: Jak pani ocenia swój język polski?",
     "source_answer": "A: Mój język polski jest komunikatywny, dużo rozumiem. Myślę, że jest to poziom A2.",
-    "output_file": "output-demo-pack/audio/0268-entry-0134-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0268-entry-0134-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0268-entry-0134-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0268-entry-0134-answer.mp3"
   },
   {
     "ordinal": 269,
@@ -13546,8 +13565,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE SOME FRIENDS.",
     "source_question": "Q: Czy ma pani jakiś znajomych?",
     "source_answer": "A: TAK, MAM KILKU ZNAJOMYCH.",
-    "output_file": "output-demo-pack/audio/0269-entry-0135-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0269-entry-0135-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0269-entry-0135-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0269-entry-0135-question.mp3"
   },
   {
     "ordinal": 270,
@@ -13565,8 +13584,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE SOME FRIENDS.",
     "source_question": "Q: Czy ma pani jakiś znajomych?",
     "source_answer": "A: TAK, MAM KILKU ZNAJOMYCH.",
-    "output_file": "output-demo-pack/audio/0270-entry-0135-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0270-entry-0135-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0270-entry-0135-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0270-entry-0135-answer.mp3"
   },
   {
     "ordinal": 271,
@@ -13584,8 +13603,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Go shopping in the SERENADA center because it is close to my apartment. Sometimes I do grocery shopping at Auchan, Biedronka and Lidl.",
     "source_question": "Q: Gdzie pani chodzi na zakupy?",
     "source_answer": "A: Chodzić na zakupy w centrum SERENADA, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.",
-    "output_file": "output-demo-pack/audio/0271-entry-0136-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0271-entry-0136-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0271-entry-0136-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0271-entry-0136-question.mp3"
   },
   {
     "ordinal": 272,
@@ -13603,8 +13622,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Go shopping in the SERENADA center because it is close to my apartment. Sometimes I do grocery shopping at Auchan, Biedronka and Lidl.",
     "source_question": "Q: Gdzie pani chodzi na zakupy?",
     "source_answer": "A: Chodzić na zakupy w centrum SERENADA, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.",
-    "output_file": "output-demo-pack/audio/0272-entry-0136-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0272-entry-0136-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0272-entry-0136-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0272-entry-0136-answer.mp3"
   },
   {
     "ordinal": 273,
@@ -13622,8 +13641,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My neighbors live in the same building as me. My neighbor Bartek lives in the apartment opposite me. We talk often. He is 40 years old and a history teacher. He is very nice. He has a beautiful wife and daughter. They like Indian food. Sometimes we eat dinner together and watch movies and our children play together.",
     "source_question": "Q: Proszę, opowiedzieć coś o swoich sąsiadach?",
     "source_answer": "A: Moi sąsiedzi mieszkają w tym samym bloku co ja. Mój sąsiad Bartek mieszka w mieszkaniu naprzeciwko mnie. Często rozmawiamy. On ma 40 lat i jest nauczycielem historii. On jest bardzo sympatyczny. Ma piękną żonę i córkę. Lubią indyjskie jedzenie. Czasami jemy razem kolację i oglądamy filmy a nasze dzieci bawią się razem.",
-    "output_file": "output-demo-pack/audio/0273-entry-0137-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0273-entry-0137-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0273-entry-0137-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0273-entry-0137-question.mp3"
   },
   {
     "ordinal": 274,
@@ -13641,8 +13660,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My neighbors live in the same building as me. My neighbor Bartek lives in the apartment opposite me. We talk often. He is 40 years old and a history teacher. He is very nice. He has a beautiful wife and daughter. They like Indian food. Sometimes we eat dinner together and watch movies and our children play together.",
     "source_question": "Q: Proszę, opowiedzieć coś o swoich sąsiadach?",
     "source_answer": "A: Moi sąsiedzi mieszkają w tym samym bloku co ja. Mój sąsiad Bartek mieszka w mieszkaniu naprzeciwko mnie. Często rozmawiamy. On ma 40 lat i jest nauczycielem historii. On jest bardzo sympatyczny. Ma piękną żonę i córkę. Lubią indyjskie jedzenie. Czasami jemy razem kolację i oglądamy filmy a nasze dzieci bawią się razem.",
-    "output_file": "output-demo-pack/audio/0274-entry-0137-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0274-entry-0137-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0274-entry-0137-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0274-entry-0137-answer.mp3"
   },
   {
     "ordinal": 275,
@@ -13660,8 +13679,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My neighbors are very nice, nice and helpful.",
     "source_question": "Q: Jacy są pani sąsiedzi?",
     "source_answer": "A: Moi sasiedzi sa bardzo sympatyczni,mili i pomocni.",
-    "output_file": "output-demo-pack/audio/0275-entry-0138-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0275-entry-0138-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0275-entry-0138-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0275-entry-0138-question.mp3"
   },
   {
     "ordinal": 276,
@@ -13679,8 +13698,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My neighbors are very nice, nice and helpful.",
     "source_question": "Q: Jacy są pani sąsiedzi?",
     "source_answer": "A: Moi sasiedzi sa bardzo sympatyczni,mili i pomocni.",
-    "output_file": "output-demo-pack/audio/0276-entry-0138-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0276-entry-0138-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0276-entry-0138-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0276-entry-0138-answer.mp3"
   },
   {
     "ordinal": 277,
@@ -13698,8 +13717,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I buy groceries at Auchan, Biedronka and Lidl.",
     "source_question": "Q: Gdzie pani kupuje artykuły spożywcze?",
     "source_answer": "A: Artykuły spożywcze kupuję w Auchan, Biedronce i Lidlu.",
-    "output_file": "output-demo-pack/audio/0277-entry-0139-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0277-entry-0139-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0277-entry-0139-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0277-entry-0139-question.mp3"
   },
   {
     "ordinal": 278,
@@ -13717,8 +13736,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I buy groceries at Auchan, Biedronka and Lidl.",
     "source_question": "Q: Gdzie pani kupuje artykuły spożywcze?",
     "source_answer": "A: Artykuły spożywcze kupuję w Auchan, Biedronce i Lidlu.",
-    "output_file": "output-demo-pack/audio/0278-entry-0139-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0278-entry-0139-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0278-entry-0139-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0278-entry-0139-answer.mp3"
   },
   {
     "ordinal": 279,
@@ -13736,8 +13755,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE SOME POLISH FRIENDS. THEY ARE MAINLY WORK COLLEAGUES.",
     "source_question": "Q: Ilu ma pani polskich przyjaciół?",
     "source_answer": "A: MAM KILKU POLSKICH PRZYJACIÓŁ. TO SĄ GŁÓWNIE KOLEDZY Z PRACY.",
-    "output_file": "output-demo-pack/audio/0279-entry-0140-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0279-entry-0140-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0279-entry-0140-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0279-entry-0140-question.mp3"
   },
   {
     "ordinal": 280,
@@ -13755,8 +13774,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE SOME POLISH FRIENDS. THEY ARE MAINLY WORK COLLEAGUES.",
     "source_question": "Q: Ilu ma pani polskich przyjaciół?",
     "source_answer": "A: MAM KILKU POLSKICH PRZYJACIÓŁ. TO SĄ GŁÓWNIE KOLEDZY Z PRACY.",
-    "output_file": "output-demo-pack/audio/0280-entry-0140-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0280-entry-0140-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0280-entry-0140-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0280-entry-0140-answer.mp3"
   },
   {
     "ordinal": 281,
@@ -13774,8 +13793,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My daughter goes to school alone.",
     "source_question": "Q: Kto zawozi pani syna do szkoły?",
     "source_answer": "A: Mój syn chodzi do szkoły sam.",
-    "output_file": "output-demo-pack/audio/0281-entry-0141-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0281-entry-0141-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0281-entry-0141-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0281-entry-0141-question.mp3"
   },
   {
     "ordinal": 282,
@@ -13793,8 +13812,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My daughter goes to school alone.",
     "source_question": "Q: Kto zawozi pani syna do szkoły?",
     "source_answer": "A: Mój syn chodzi do szkoły sam.",
-    "output_file": "output-demo-pack/audio/0282-entry-0141-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0282-entry-0141-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0282-entry-0141-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0282-entry-0141-answer.mp3"
   },
   {
     "ordinal": 283,
@@ -13812,8 +13831,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My friends live in the same building as me. My friend Bartek lives in the apartment opposite me. We talk often. He is 40 years old and a history teacher. He is very nice. He has a beautiful wife and daughter. They like Indian food. Sometimes we eat dinner together, watch movies, and our children play together.",
     "source_question": "Q: Proszę, opowiedzieć coś o swoich znajomych?",
     "source_answer": "A: Moi znajomi mieszkają w tym samym bloku co ja. Mój znajomy bartek mieszka w mieszkaniu naprzeciwko mnie. Często rozmawiamy. On ma 40 lat i jest nauczycielem historii. On jest bardzo sympatyczny. Ma piękną żonę i córkę. Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.",
-    "output_file": "output-demo-pack/audio/0283-entry-0142-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0283-entry-0142-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0283-entry-0142-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0283-entry-0142-question.mp3"
   },
   {
     "ordinal": 284,
@@ -13831,8 +13850,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My friends live in the same building as me. My friend Bartek lives in the apartment opposite me. We talk often. He is 40 years old and a history teacher. He is very nice. He has a beautiful wife and daughter. They like Indian food. Sometimes we eat dinner together, watch movies, and our children play together.",
     "source_question": "Q: Proszę, opowiedzieć coś o swoich znajomych?",
     "source_answer": "A: Moi znajomi mieszkają w tym samym bloku co ja. Mój znajomy bartek mieszka w mieszkaniu naprzeciwko mnie. Często rozmawiamy. On ma 40 lat i jest nauczycielem historii. On jest bardzo sympatyczny. Ma piękną żonę i córkę. Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.",
-    "output_file": "output-demo-pack/audio/0284-entry-0142-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0284-entry-0142-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0284-entry-0142-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0284-entry-0142-answer.mp3"
   },
   {
     "ordinal": 285,
@@ -13850,8 +13869,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE SOME FRIENDS.",
     "source_question": "Q: Czy ma pani jakiś przyjaciół?",
     "source_answer": "A: TAK, MAM KILKU PRZYJACIÓŁ.",
-    "output_file": "output-demo-pack/audio/0285-entry-0143-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0285-entry-0143-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0285-entry-0143-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0285-entry-0143-question.mp3"
   },
   {
     "ordinal": 286,
@@ -13869,8 +13888,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE SOME FRIENDS.",
     "source_question": "Q: Czy ma pani jakiś przyjaciół?",
     "source_answer": "A: TAK, MAM KILKU PRZYJACIÓŁ.",
-    "output_file": "output-demo-pack/audio/0286-entry-0143-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0286-entry-0143-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0286-entry-0143-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0286-entry-0143-answer.mp3"
   },
   {
     "ordinal": 287,
@@ -13888,8 +13907,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE SOME POLISH FRIENDS. THEY ARE MAINLY WORK COLLEAGUES.",
     "source_question": "Q: Jak dużo masz polskich przyjaciół?",
     "source_answer": "A: MAM KILKU POLSKICH PRZYJACIÓŁ. TO SĄ GŁÓWNIE KOLEDZY Z PRACY.",
-    "output_file": "output-demo-pack/audio/0287-entry-0144-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0287-entry-0144-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0287-entry-0144-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0287-entry-0144-question.mp3"
   },
   {
     "ordinal": 288,
@@ -13907,8 +13926,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I HAVE SOME POLISH FRIENDS. THEY ARE MAINLY WORK COLLEAGUES.",
     "source_question": "Q: Jak dużo masz polskich przyjaciół?",
     "source_answer": "A: MAM KILKU POLSKICH PRZYJACIÓŁ. TO SĄ GŁÓWNIE KOLEDZY Z PRACY.",
-    "output_file": "output-demo-pack/audio/0288-entry-0144-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0288-entry-0144-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0288-entry-0144-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0288-entry-0144-answer.mp3"
   },
   {
     "ordinal": 289,
@@ -13926,8 +13945,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I have very good relations with my neighbors. I have never had a conflict with my neighbors. They are nice and helpful. Our children play together.",
     "source_question": "Q: Jaka jest pani relacja z sąsiadami?",
     "source_answer": "A: Mam bardzo dobre relacje z sąsiadami. Nigdy nie miałam konfliktu z sąsiadami. Są mili i pomocni. Nasze dzieci bawią się razem.",
-    "output_file": "output-demo-pack/audio/0289-entry-0145-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0289-entry-0145-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0289-entry-0145-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0289-entry-0145-question.mp3"
   },
   {
     "ordinal": 290,
@@ -13945,8 +13964,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I have very good relations with my neighbors. I have never had a conflict with my neighbors. They are nice and helpful. Our children play together.",
     "source_question": "Q: Jaka jest pani relacja z sąsiadami?",
     "source_answer": "A: Mam bardzo dobre relacje z sąsiadami. Nigdy nie miałam konfliktu z sąsiadami. Są mili i pomocni. Nasze dzieci bawią się razem.",
-    "output_file": "output-demo-pack/audio/0290-entry-0145-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0290-entry-0145-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0290-entry-0145-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0290-entry-0145-answer.mp3"
   },
   {
     "ordinal": 291,
@@ -13964,8 +13983,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE SOME NEIGHBORS.",
     "source_question": "Q: Czy ma pani jakiś sąsiadów?",
     "source_answer": "A: TAK, MAM KILKU SĄSIADÓW.",
-    "output_file": "output-demo-pack/audio/0291-entry-0146-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0291-entry-0146-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0291-entry-0146-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0291-entry-0146-question.mp3"
   },
   {
     "ordinal": 292,
@@ -13983,8 +14002,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: YES, I HAVE SOME NEIGHBORS.",
     "source_question": "Q: Czy ma pani jakiś sąsiadów?",
     "source_answer": "A: TAK, MAM KILKU SĄSIADÓW.",
-    "output_file": "output-demo-pack/audio/0292-entry-0146-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0292-entry-0146-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0292-entry-0146-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0292-entry-0146-answer.mp3"
   },
   {
     "ordinal": 293,
@@ -14002,8 +14021,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My friends live in the same building as me. My friend Bartek lives in the apartment opposite me. We talk often. He is 40 years old and a history teacher. He is very nice. He has a beautiful wife and daughter. They like Indian food. Sometimes we eat dinner together, watch movies, and our children play together.",
     "source_question": "Q: Proszę, opowiedzieć coś o swoich przyjaciołach?",
     "source_answer": "A: Moi przyjaciele mieszkają w tym samym bloku co ja. Mój przyjaciel bartek mieszka w mieszkaniu naprzeciwko mnie. Często rozmawiamy. On ma 40 lat i jest nauczycielem historii. On jest bardzo sympatyczny. Ma piękną żonę i córkę. Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.",
-    "output_file": "output-demo-pack/audio/0293-entry-0147-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0293-entry-0147-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0293-entry-0147-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0293-entry-0147-question.mp3"
   },
   {
     "ordinal": 294,
@@ -14021,8 +14040,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: My friends live in the same building as me. My friend Bartek lives in the apartment opposite me. We talk often. He is 40 years old and a history teacher. He is very nice. He has a beautiful wife and daughter. They like Indian food. Sometimes we eat dinner together, watch movies, and our children play together.",
     "source_question": "Q: Proszę, opowiedzieć coś o swoich przyjaciołach?",
     "source_answer": "A: Moi przyjaciele mieszkają w tym samym bloku co ja. Mój przyjaciel bartek mieszka w mieszkaniu naprzeciwko mnie. Często rozmawiamy. On ma 40 lat i jest nauczycielem historii. On jest bardzo sympatyczny. Ma piękną żonę i córkę. Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.",
-    "output_file": "output-demo-pack/audio/0294-entry-0147-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0294-entry-0147-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0294-entry-0147-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0294-entry-0147-answer.mp3"
   },
   {
     "ordinal": 295,
@@ -14040,8 +14059,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I generally shop at SERENADA mall because it's close to my apartment. Sometimes I do grocery shopping at Auchan, Biedronka and Lidl.",
     "source_question": "Q: Gdzie pani robi zakupy w Krakowie?",
     "source_answer": "A: Generalnie robię zakupy w centrum SERENADA, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.",
-    "output_file": "output-demo-pack/audio/0295-entry-0148-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0295-entry-0148-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0295-entry-0148-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0295-entry-0148-question.mp3"
   },
   {
     "ordinal": 296,
@@ -14059,8 +14078,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I generally shop at SERENADA mall because it's close to my apartment. Sometimes I do grocery shopping at Auchan, Biedronka and Lidl.",
     "source_question": "Q: Gdzie pani robi zakupy w Krakowie?",
     "source_answer": "A: Generalnie robię zakupy w centrum SERENADA, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.",
-    "output_file": "output-demo-pack/audio/0296-entry-0148-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0296-entry-0148-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0296-entry-0148-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0296-entry-0148-answer.mp3"
   },
   {
     "ordinal": 297,
@@ -14078,8 +14097,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I usually speak English because I want to understand everything well. Sometimes I speak Polish.",
     "source_question": "Q: Jak się komunikujesz w szpitalu albo w innej placówce medycznej?",
     "source_answer": "A: Zwykle mówię po angielsku, ponieważ żeby wszystko dobrze zrozumieć. Czasami mówię po polsku.",
-    "output_file": "output-demo-pack/audio/0297-entry-0149-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0297-entry-0149-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0297-entry-0149-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0297-entry-0149-question.mp3"
   },
   {
     "ordinal": 298,
@@ -14097,8 +14116,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I usually speak English because I want to understand everything well. Sometimes I speak Polish.",
     "source_question": "Q: Jak się komunikujesz w szpitalu albo w innej placówce medycznej?",
     "source_answer": "A: Zwykle mówię po angielsku, ponieważ żeby wszystko dobrze zrozumieć. Czasami mówię po polsku.",
-    "output_file": "output-demo-pack/audio/0298-entry-0149-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0298-entry-0149-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0298-entry-0149-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0298-entry-0149-answer.mp3"
   },
   {
     "ordinal": 299,
@@ -14116,8 +14135,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, I have health insurance with Luxmed through my work at the National Health Fund.",
     "source_question": "Q: Czy posiadasz ubezpieczenie zdrowotne? Jakie?",
     "source_answer": "A: Tak, mam ubezpieczenie zdrowotne w Luxmed przez moją pracę w Narodowym Funduszu Zdrowia.",
-    "output_file": "output-demo-pack/audio/0299-entry-0150-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0299-entry-0150-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0299-entry-0150-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0299-entry-0150-question.mp3"
   },
   {
     "ordinal": 300,
@@ -14135,8 +14154,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, I have health insurance with Luxmed through my work at the National Health Fund.",
     "source_question": "Q: Czy posiadasz ubezpieczenie zdrowotne? Jakie?",
     "source_answer": "A: Tak, mam ubezpieczenie zdrowotne w Luxmed przez moją pracę w Narodowym Funduszu Zdrowia.",
-    "output_file": "output-demo-pack/audio/0300-entry-0150-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0300-entry-0150-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0300-entry-0150-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0300-entry-0150-answer.mp3"
   },
   {
     "ordinal": 301,
@@ -14154,8 +14173,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I pay taxes only in Poland.",
     "source_question": "Q: Czy płacisz podatki w swoim rodzinnym kraju?",
     "source_answer": "A: Nie, Płacę podatki tylko w polsce.",
-    "output_file": "output-demo-pack/audio/0301-entry-0151-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0301-entry-0151-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0301-entry-0151-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0301-entry-0151-question.mp3"
   },
   {
     "ordinal": 302,
@@ -14173,8 +14192,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I pay taxes only in Poland.",
     "source_question": "Q: Czy płacisz podatki w swoim rodzinnym kraju?",
     "source_answer": "A: Nie, Płacę podatki tylko w polsce.",
-    "output_file": "output-demo-pack/audio/0302-entry-0151-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0302-entry-0151-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0302-entry-0151-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0302-entry-0151-answer.mp3"
   },
   {
     "ordinal": 303,
@@ -14192,8 +14211,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: When we are sick, we go to the family doctor and he decides what I should do next.",
     "source_question": "Q: Gdzie pani idzie, kiedy ktoś z pani rodziny jest chory?",
     "source_answer": "A: Kiedy jesteśmy chorzy, idziemy do lekarza rodzinnego i on decyduje, co powinnam zrobić dalej.",
-    "output_file": "output-demo-pack/audio/0303-entry-0152-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0303-entry-0152-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0303-entry-0152-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0303-entry-0152-question.mp3"
   },
   {
     "ordinal": 304,
@@ -14211,8 +14230,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: When we are sick, we go to the family doctor and he decides what I should do next.",
     "source_question": "Q: Gdzie pani idzie, kiedy ktoś z pani rodziny jest chory?",
     "source_answer": "A: Kiedy jesteśmy chorzy, idziemy do lekarza rodzinnego i on decyduje, co powinnam zrobić dalej.",
-    "output_file": "output-demo-pack/audio/0304-entry-0152-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0304-entry-0152-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0304-entry-0152-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0304-entry-0152-answer.mp3"
   },
   {
     "ordinal": 305,
@@ -14230,8 +14249,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I have my own apartment, I pay real estate tax. I work in Poland and pay Income Tax (PIT). I submit a PIT declaration once a year.",
     "source_question": "Q: Jakie podatki płacisz w Polsce?",
     "source_answer": "A: Mam własne mieszkanie, płacę podatek od nieruchomości. Pracuje w Polsce i płacę podatek Dochodowy PIT. Raz w roku składam deklarację PIT.",
-    "output_file": "output-demo-pack/audio/0305-entry-0153-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0305-entry-0153-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0305-entry-0153-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0305-entry-0153-question.mp3"
   },
   {
     "ordinal": 306,
@@ -14249,8 +14268,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I have my own apartment, I pay real estate tax. I work in Poland and pay Income Tax (PIT). I submit a PIT declaration once a year.",
     "source_question": "Q: Jakie podatki płacisz w Polsce?",
     "source_answer": "A: Mam własne mieszkanie, płacę podatek od nieruchomości. Pracuje w Polsce i płacę podatek Dochodowy PIT. Raz w roku składam deklarację PIT.",
-    "output_file": "output-demo-pack/audio/0306-entry-0153-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0306-entry-0153-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0306-entry-0153-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0306-entry-0153-answer.mp3"
   },
   {
     "ordinal": 307,
@@ -14268,8 +14287,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: It depends. When we are sick, we go to the family doctor and he decides what I should do next.",
     "source_question": "Q: Do której placówki medycznej wolisz chodzić?",
     "source_answer": "A: To zależy. Kiedy jesteśmy chorzy, idziemy do lekarza rodzinnego i on decyduje, co powinnam zrobić dalej.",
-    "output_file": "output-demo-pack/audio/0307-entry-0154-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0307-entry-0154-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0307-entry-0154-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0307-entry-0154-question.mp3"
   },
   {
     "ordinal": 308,
@@ -14287,8 +14306,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: It depends. When we are sick, we go to the family doctor and he decides what I should do next.",
     "source_question": "Q: Do której placówki medycznej wolisz chodzić?",
     "source_answer": "A: To zależy. Kiedy jesteśmy chorzy, idziemy do lekarza rodzinnego i on decyduje, co powinnam zrobić dalej.",
-    "output_file": "output-demo-pack/audio/0308-entry-0154-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0308-entry-0154-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0308-entry-0154-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0308-entry-0154-answer.mp3"
   },
   {
     "ordinal": 309,
@@ -14306,8 +14325,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I pay taxes only in Poland.",
     "source_question": "Q: Czy płacisz podatki w Polsce I w Indiach?",
     "source_answer": "A: Płacę podatki tylko w polsce.",
-    "output_file": "output-demo-pack/audio/0309-entry-0155-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0309-entry-0155-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0309-entry-0155-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0309-entry-0155-question.mp3"
   },
   {
     "ordinal": 310,
@@ -14325,8 +14344,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I pay taxes only in Poland.",
     "source_question": "Q: Czy płacisz podatki w Polsce I w Indiach?",
     "source_answer": "A: Płacę podatki tylko w polsce.",
-    "output_file": "output-demo-pack/audio/0310-entry-0155-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0310-entry-0155-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0310-entry-0155-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0310-entry-0155-answer.mp3"
   },
   {
     "ordinal": 311,
@@ -14344,8 +14363,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been to prison.",
     "source_question": "Q: Czy byłeś kiedyś w więzieniu?",
     "source_answer": "A: Nie, nigdy nie byłam w więzieniu.",
-    "output_file": "output-demo-pack/audio/0311-entry-0156-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0311-entry-0156-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0311-entry-0156-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0311-entry-0156-question.mp3"
   },
   {
     "ordinal": 312,
@@ -14363,8 +14382,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been to prison.",
     "source_question": "Q: Czy byłeś kiedyś w więzieniu?",
     "source_answer": "A: Nie, nigdy nie byłam w więzieniu.",
-    "output_file": "output-demo-pack/audio/0312-entry-0156-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0312-entry-0156-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0312-entry-0156-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0312-entry-0156-answer.mp3"
   },
   {
     "ordinal": 313,
@@ -14382,8 +14401,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I have my own apartment, I pay real estate tax. I work in Poland and pay Income Tax (PIT). I submit a PIT declaration once a year.",
     "source_question": "Q: Jak płacisz podatki w Polsce?",
     "source_answer": "A: Mam własne mieszkanie, płacę podatek od nieruchomości. Pracuje w Polsce i płacę podatek Dochodowy PIT. Raz w roku składam deklarację PIT.",
-    "output_file": "output-demo-pack/audio/0313-entry-0157-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0313-entry-0157-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0313-entry-0157-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0313-entry-0157-question.mp3"
   },
   {
     "ordinal": 314,
@@ -14401,8 +14420,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I have my own apartment, I pay real estate tax. I work in Poland and pay Income Tax (PIT). I submit a PIT declaration once a year.",
     "source_question": "Q: Jak płacisz podatki w Polsce?",
     "source_answer": "A: Mam własne mieszkanie, płacę podatek od nieruchomości. Pracuje w Polsce i płacę podatek Dochodowy PIT. Raz w roku składam deklarację PIT.",
-    "output_file": "output-demo-pack/audio/0314-entry-0157-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0314-entry-0157-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0314-entry-0157-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0314-entry-0157-answer.mp3"
   },
   {
     "ordinal": 315,
@@ -14420,8 +14439,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been to prison.",
     "source_question": "Q: Czy kiedykolwiek byłaś w więzieniu?",
     "source_answer": "A: Nie, nigdy nie byłam w więzieniu.",
-    "output_file": "output-demo-pack/audio/0315-entry-0158-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0315-entry-0158-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0315-entry-0158-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0315-entry-0158-question.mp3"
   },
   {
     "ordinal": 316,
@@ -14439,8 +14458,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been to prison.",
     "source_question": "Q: Czy kiedykolwiek byłaś w więzieniu?",
     "source_answer": "A: Nie, nigdy nie byłam w więzieniu.",
-    "output_file": "output-demo-pack/audio/0316-entry-0158-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0316-entry-0158-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0316-entry-0158-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0316-entry-0158-answer.mp3"
   },
   {
     "ordinal": 317,
@@ -14458,8 +14477,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I buy medicines at the pharmacy.",
     "source_question": "Q: Gdzie kupujesz lekarstwa?",
     "source_answer": "A: Lekarstwa kupuję w aptece.",
-    "output_file": "output-demo-pack/audio/0317-entry-0159-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0317-entry-0159-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0317-entry-0159-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0317-entry-0159-question.mp3"
   },
   {
     "ordinal": 318,
@@ -14477,8 +14496,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I buy medicines at the pharmacy.",
     "source_question": "Q: Gdzie kupujesz lekarstwa?",
     "source_answer": "A: Lekarstwa kupuję w aptece.",
-    "output_file": "output-demo-pack/audio/0318-entry-0159-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0318-entry-0159-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0318-entry-0159-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0318-entry-0159-answer.mp3"
   },
   {
     "ordinal": 319,
@@ -14496,8 +14515,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I have my own apartment, I pay real estate tax. I work in Poland and pay Income Tax (PIT). I submit a PIT declaration once a year.",
     "source_question": "Q: W jaki sposób płacisz podatki w Polsce?",
     "source_answer": "A: Mam własne mieszkanie, płacę podatek od nieruchomości. Pracuje w Polsce i płacę podatek Dochodowy PIT. Raz w roku składam deklarację PIT.",
-    "output_file": "output-demo-pack/audio/0319-entry-0160-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0319-entry-0160-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0319-entry-0160-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0319-entry-0160-question.mp3"
   },
   {
     "ordinal": 320,
@@ -14515,8 +14534,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I have my own apartment, I pay real estate tax. I work in Poland and pay Income Tax (PIT). I submit a PIT declaration once a year.",
     "source_question": "Q: W jaki sposób płacisz podatki w Polsce?",
     "source_answer": "A: Mam własne mieszkanie, płacę podatek od nieruchomości. Pracuje w Polsce i płacę podatek Dochodowy PIT. Raz w roku składam deklarację PIT.",
-    "output_file": "output-demo-pack/audio/0320-entry-0160-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0320-entry-0160-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0320-entry-0160-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0320-entry-0160-answer.mp3"
   },
   {
     "ordinal": 321,
@@ -14534,8 +14553,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been convicted.",
     "source_question": "Q: Czy był Pani kiedyś skazany?",
     "source_answer": "A: Nie, nigdy nie byłam skazana.",
-    "output_file": "output-demo-pack/audio/0321-entry-0161-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0321-entry-0161-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0321-entry-0161-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0321-entry-0161-question.mp3"
   },
   {
     "ordinal": 322,
@@ -14553,8 +14572,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been convicted.",
     "source_question": "Q: Czy był Pani kiedyś skazany?",
     "source_answer": "A: Nie, nigdy nie byłam skazana.",
-    "output_file": "output-demo-pack/audio/0322-entry-0161-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0322-entry-0161-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0322-entry-0161-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0322-entry-0161-answer.mp3"
   },
   {
     "ordinal": 323,
@@ -14572,8 +14591,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I pay taxes only in Poland.",
     "source_question": "Q: Czy płacisz podatki w Polsce?",
     "source_answer": "A: Płacę podatki tylko w polsce.",
-    "output_file": "output-demo-pack/audio/0323-entry-0162-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0323-entry-0162-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0323-entry-0162-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0323-entry-0162-question.mp3"
   },
   {
     "ordinal": 324,
@@ -14591,8 +14610,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I pay taxes only in Poland.",
     "source_question": "Q: Czy płacisz podatki w Polsce?",
     "source_answer": "A: Płacę podatki tylko w polsce.",
-    "output_file": "output-demo-pack/audio/0324-entry-0162-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0324-entry-0162-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0324-entry-0162-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0324-entry-0162-answer.mp3"
   },
   {
     "ordinal": 325,
@@ -14610,8 +14629,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been to prison.",
     "source_question": "Q: Czy był Pani kiedyś w więzieniu?",
     "source_answer": "A: Nie, nigdy nie byłam w więzieniu.",
-    "output_file": "output-demo-pack/audio/0325-entry-0163-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0325-entry-0163-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0325-entry-0163-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0325-entry-0163-question.mp3"
   },
   {
     "ordinal": 326,
@@ -14629,8 +14648,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been to prison.",
     "source_question": "Q: Czy był Pani kiedyś w więzieniu?",
     "source_answer": "A: Nie, nigdy nie byłam w więzieniu.",
-    "output_file": "output-demo-pack/audio/0326-entry-0163-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0326-entry-0163-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0326-entry-0163-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0326-entry-0163-answer.mp3"
   },
   {
     "ordinal": 327,
@@ -14648,8 +14667,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been convicted.",
     "source_question": "Q: Czy byłaś kiedyś skazana?",
     "source_answer": "A: Nie, nigdy nie byłam skazana.",
-    "output_file": "output-demo-pack/audio/0327-entry-0164-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0327-entry-0164-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0327-entry-0164-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0327-entry-0164-question.mp3"
   },
   {
     "ordinal": 328,
@@ -14667,8 +14686,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been convicted.",
     "source_question": "Q: Czy byłaś kiedyś skazana?",
     "source_answer": "A: Nie, nigdy nie byłam skazana.",
-    "output_file": "output-demo-pack/audio/0328-entry-0164-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0328-entry-0164-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0328-entry-0164-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0328-entry-0164-answer.mp3"
   },
   {
     "ordinal": 329,
@@ -14686,8 +14705,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I never went to prison.",
     "source_question": "Q: Czy kiedykolwiek trafiłaś do więzienia?",
     "source_answer": "A: Nie, nigdy nie trafiłam do więzienia.",
-    "output_file": "output-demo-pack/audio/0329-entry-0165-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0329-entry-0165-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0329-entry-0165-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0329-entry-0165-question.mp3"
   },
   {
     "ordinal": 330,
@@ -14705,8 +14724,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I never went to prison.",
     "source_question": "Q: Czy kiedykolwiek trafiłaś do więzienia?",
     "source_answer": "A: Nie, nigdy nie trafiłam do więzienia.",
-    "output_file": "output-demo-pack/audio/0330-entry-0165-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0330-entry-0165-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0330-entry-0165-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0330-entry-0165-answer.mp3"
   },
   {
     "ordinal": 331,
@@ -14724,8 +14743,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never had legal problems in Poland, or India.",
     "source_question": "Q: Czy miałaś jakieś problemy prawne w Polsce?",
     "source_answer": "A: Nie, nigdy nie miałam problemów prawnych w Polsce, w ani Indii.",
-    "output_file": "output-demo-pack/audio/0331-entry-0166-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0331-entry-0166-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0331-entry-0166-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0331-entry-0166-question.mp3"
   },
   {
     "ordinal": 332,
@@ -14743,8 +14762,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never had legal problems in Poland, or India.",
     "source_question": "Q: Czy miałaś jakieś problemy prawne w Polsce?",
     "source_answer": "A: Nie, nigdy nie miałam problemów prawnych w Polsce, w ani Indii.",
-    "output_file": "output-demo-pack/audio/0332-entry-0166-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0332-entry-0166-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0332-entry-0166-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0332-entry-0166-answer.mp3"
   },
   {
     "ordinal": 333,
@@ -14762,8 +14781,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been convicted.",
     "source_question": "Q: Czy zostałaś kiedyś skazana?",
     "source_answer": "A: Nie, nigdy nie zostałam skazana.",
-    "output_file": "output-demo-pack/audio/0333-entry-0167-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0333-entry-0167-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0333-entry-0167-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0333-entry-0167-question.mp3"
   },
   {
     "ordinal": 334,
@@ -14781,8 +14800,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been convicted.",
     "source_question": "Q: Czy zostałaś kiedyś skazana?",
     "source_answer": "A: Nie, nigdy nie zostałam skazana.",
-    "output_file": "output-demo-pack/audio/0334-entry-0167-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0334-entry-0167-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0334-entry-0167-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0334-entry-0167-answer.mp3"
   },
   {
     "ordinal": 335,
@@ -14800,8 +14819,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been convicted.",
     "source_question": "Q: Czy kiedykolwiek zostałaś skazany?",
     "source_answer": "A: Nie, nigdy nie zostałam skazana.",
-    "output_file": "output-demo-pack/audio/0335-entry-0168-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0335-entry-0168-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0335-entry-0168-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0335-entry-0168-question.mp3"
   },
   {
     "ordinal": 336,
@@ -14819,8 +14838,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I have never been convicted.",
     "source_question": "Q: Czy kiedykolwiek zostałaś skazany?",
     "source_answer": "A: Nie, nigdy nie zostałam skazana.",
-    "output_file": "output-demo-pack/audio/0336-entry-0168-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0336-entry-0168-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0336-entry-0168-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0336-entry-0168-answer.mp3"
   },
   {
     "ordinal": 337,
@@ -14838,8 +14857,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I did not study at a university in Poland. But I attended a floristry course at the Żak Police School.",
     "source_question": "Q: Czy Pani Studiowałaś w Polsce?",
     "source_answer": "A: Nie, nie studiowałam na uniwersytecie w Polsce. Ale uczęszczałam na kurs florystki do szkoła Policealna Żak.",
-    "output_file": "output-demo-pack/audio/0337-entry-0169-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0337-entry-0169-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0337-entry-0169-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0337-entry-0169-question.mp3"
   },
   {
     "ordinal": 338,
@@ -14857,8 +14876,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I did not study at a university in Poland. But I attended a floristry course at the Żak Police School.",
     "source_question": "Q: Czy Pani Studiowałaś w Polsce?",
     "source_answer": "A: Nie, nie studiowałam na uniwersytecie w Polsce. Ale uczęszczałam na kurs florystki do szkoła Policealna Żak.",
-    "output_file": "output-demo-pack/audio/0338-entry-0169-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0338-entry-0169-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0338-entry-0169-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0338-entry-0169-answer.mp3"
   },
   {
     "ordinal": 339,
@@ -14876,8 +14895,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, I attended a floristry course at the Żak Secondary School.",
     "source_question": "Q: Czy Pani uczęszczała do jakiejś szkoły w polsce?",
     "source_answer": "A: Tak,uczęszczałam na kurs florystki do szkoła Policealna Żak.",
-    "output_file": "output-demo-pack/audio/0339-entry-0170-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0339-entry-0170-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0339-entry-0170-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0339-entry-0170-question.mp3"
   },
   {
     "ordinal": 340,
@@ -14895,8 +14914,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, I attended a floristry course at the Żak Secondary School.",
     "source_question": "Q: Czy Pani uczęszczała do jakiejś szkoły w polsce?",
     "source_answer": "A: Tak,uczęszczałam na kurs florystki do szkoła Policealna Żak.",
-    "output_file": "output-demo-pack/audio/0340-entry-0170-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0340-entry-0170-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0340-entry-0170-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0340-entry-0170-answer.mp3"
   },
   {
     "ordinal": 341,
@@ -14914,8 +14933,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I did not learn Polish at the Żak school. But all lessons were in Polish.",
     "source_question": "Q: Czy Pani uczyłaś się tam języka polskiego? na jakim poziomie?",
     "source_answer": "A: Nie, nie uczyłam się języka polskiego w szkole Żak. Ale wszystkie lekcje były po polsku.",
-    "output_file": "output-demo-pack/audio/0341-entry-0171-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0341-entry-0171-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0341-entry-0171-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0341-entry-0171-question.mp3"
   },
   {
     "ordinal": 342,
@@ -14933,8 +14952,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I did not learn Polish at the Żak school. But all lessons were in Polish.",
     "source_question": "Q: Czy Pani uczyłaś się tam języka polskiego? na jakim poziomie?",
     "source_answer": "A: Nie, nie uczyłam się języka polskiego w szkole Żak. Ale wszystkie lekcje były po polsku.",
-    "output_file": "output-demo-pack/audio/0342-entry-0171-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0342-entry-0171-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0342-entry-0171-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0342-entry-0171-answer.mp3"
   },
   {
     "ordinal": 343,
@@ -14952,8 +14971,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I think there are several reasons:",
     "source_question": "Q: Dlaczego wybrałaś kierunek florystyka w policealnej szkole żak? Z jakiego powodu zaczęła pani naukę w szkole policealnej?",
     "source_answer": "A: Myślę, że jest kilka powodów:",
-    "output_file": "output-demo-pack/audio/0343-entry-0172-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0343-entry-0172-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0343-entry-0172-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0343-entry-0172-question.mp3"
   },
   {
     "ordinal": 344,
@@ -14971,8 +14990,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I think there are several reasons:",
     "source_question": "Q: Dlaczego wybrałaś kierunek florystyka w policealnej szkole żak? Z jakiego powodu zaczęła pani naukę w szkole policealnej?",
     "source_answer": "A: Myślę, że jest kilka powodów:",
-    "output_file": "output-demo-pack/audio/0344-entry-0172-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0344-entry-0172-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0344-entry-0172-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0344-entry-0172-answer.mp3"
   },
   {
     "ordinal": 345,
@@ -14990,8 +15009,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The classes were very interesting. We learned theory and practiced a lot. During practical classes, we had to make flower arrangements, i.e. bouquets, where we acquired comprehensive floristic knowledge. The classes were only in Polish.",
     "source_question": "Q: Jakie były lekcje?",
     "source_answer": "A: Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
-    "output_file": "output-demo-pack/audio/0345-entry-0173-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0345-entry-0173-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0345-entry-0173-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0345-entry-0173-question.mp3"
   },
   {
     "ordinal": 346,
@@ -15009,8 +15028,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The classes were very interesting. We learned theory and practiced a lot. During practical classes, we had to make flower arrangements, i.e. bouquets, where we acquired comprehensive floristic knowledge. The classes were only in Polish.",
     "source_question": "Q: Jakie były lekcje?",
     "source_answer": "A: Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
-    "output_file": "output-demo-pack/audio/0346-entry-0173-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0346-entry-0173-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0346-entry-0173-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0346-entry-0173-answer.mp3"
   },
   {
     "ordinal": 347,
@@ -15028,8 +15047,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I didn't pay for school. the course was free.",
     "source_question": "Q: Czy pani płaciła za szkołę?",
     "source_answer": "A: Nie, nie płaciłam za szkołę. kurs był bezpłatny.",
-    "output_file": "output-demo-pack/audio/0347-entry-0174-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0347-entry-0174-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0347-entry-0174-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0347-entry-0174-question.mp3"
   },
   {
     "ordinal": 348,
@@ -15047,8 +15066,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I didn't pay for school. the course was free.",
     "source_question": "Q: Czy pani płaciła za szkołę?",
     "source_answer": "A: Nie, nie płaciłam za szkołę. kurs był bezpłatny.",
-    "output_file": "output-demo-pack/audio/0348-entry-0174-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0348-entry-0174-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0348-entry-0174-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0348-entry-0174-answer.mp3"
   },
   {
     "ordinal": 349,
@@ -15066,8 +15085,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, I took a floristry course at the Żak Secondary School.",
     "source_question": "Q: Czy pani chodziła do jakiejś szkoły w polsce?",
     "source_answer": "A: Tak,chodziłam na kurs florystki do szkoła Policealna Żak.",
-    "output_file": "output-demo-pack/audio/0349-entry-0175-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0349-entry-0175-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0349-entry-0175-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0349-entry-0175-question.mp3"
   },
   {
     "ordinal": 350,
@@ -15085,8 +15104,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, I took a floristry course at the Żak Secondary School.",
     "source_question": "Q: Czy pani chodziła do jakiejś szkoły w polsce?",
     "source_answer": "A: Tak,chodziłam na kurs florystki do szkoła Policealna Żak.",
-    "output_file": "output-demo-pack/audio/0350-entry-0175-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0350-entry-0175-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0350-entry-0175-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0350-entry-0175-answer.mp3"
   },
   {
     "ordinal": 351,
@@ -15104,8 +15123,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I think there are several reasons:",
     "source_question": "Q: Z jakiego powodu zaczęła pani naukę w szkole policealnej?",
     "source_answer": "A: Myślę, że jest kilka powodów:",
-    "output_file": "output-demo-pack/audio/0351-entry-0176-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0351-entry-0176-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0351-entry-0176-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0351-entry-0176-question.mp3"
   },
   {
     "ordinal": 352,
@@ -15123,8 +15142,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I think there are several reasons:",
     "source_question": "Q: Z jakiego powodu zaczęła pani naukę w szkole policealnej?",
     "source_answer": "A: Myślę, że jest kilka powodów:",
-    "output_file": "output-demo-pack/audio/0352-entry-0176-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0352-entry-0176-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0352-entry-0176-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0352-entry-0176-answer.mp3"
   },
   {
     "ordinal": 353,
@@ -15142,8 +15161,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I didn't pay for the exam. The exams were free.",
     "source_question": "Q: Czy pani płaciła za egzamin?",
     "source_answer": "A: Nie, nie płaciłam za egzamin. Egzaminy był bezpłatny.",
-    "output_file": "output-demo-pack/audio/0353-entry-0177-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0353-entry-0177-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0353-entry-0177-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0353-entry-0177-question.mp3"
   },
   {
     "ordinal": 354,
@@ -15161,8 +15180,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: No, I didn't pay for the exam. The exams were free.",
     "source_question": "Q: Czy pani płaciła za egzamin?",
     "source_answer": "A: Nie, nie płaciłam za egzamin. Egzaminy był bezpłatny.",
-    "output_file": "output-demo-pack/audio/0354-entry-0177-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0354-entry-0177-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0354-entry-0177-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0354-entry-0177-answer.mp3"
   },
   {
     "ordinal": 355,
@@ -15180,8 +15199,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The classes were very interesting. We learned theory and practiced a lot. During practical classes, we had to make flower arrangements, i.e. bouquets, where we acquired comprehensive floristic knowledge. The classes were only in Polish.",
     "source_question": "Q: Jak wyglądały zajęcia?",
     "source_answer": "A: Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
-    "output_file": "output-demo-pack/audio/0355-entry-0178-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0355-entry-0178-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0355-entry-0178-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0355-entry-0178-question.mp3"
   },
   {
     "ordinal": 356,
@@ -15199,8 +15218,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The classes were very interesting. We learned theory and practiced a lot. During practical classes, we had to make flower arrangements, i.e. bouquets, where we acquired comprehensive floristic knowledge. The classes were only in Polish.",
     "source_question": "Q: Jak wyglądały zajęcia?",
     "source_answer": "A: Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
-    "output_file": "output-demo-pack/audio/0356-entry-0178-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0356-entry-0178-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0356-entry-0178-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0356-entry-0178-answer.mp3"
   },
   {
     "ordinal": 357,
@@ -15218,8 +15237,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The classes were conducted only in Polish.",
     "source_question": "Q: W jakim języku były prowadzone zajęcia?",
     "source_answer": "A: Zajęcia były prowadzone tylko po polsku.",
-    "output_file": "output-demo-pack/audio/0357-entry-0179-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0357-entry-0179-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0357-entry-0179-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0357-entry-0179-question.mp3"
   },
   {
     "ordinal": 358,
@@ -15237,8 +15256,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The classes were conducted only in Polish.",
     "source_question": "Q: W jakim języku były prowadzone zajęcia?",
     "source_answer": "A: Zajęcia były prowadzone tylko po polsku.",
-    "output_file": "output-demo-pack/audio/0358-entry-0179-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0358-entry-0179-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0358-entry-0179-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0358-entry-0179-answer.mp3"
   },
   {
     "ordinal": 359,
@@ -15256,8 +15275,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: There were people on the course from: Iran, Iraq, Ukraine, India, Spain and Turkey.",
     "source_question": "Q: Jakiej narodowości były inne osoby uczestniczące w kursie?",
     "source_answer": "A: Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.",
-    "output_file": "output-demo-pack/audio/0359-entry-0180-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0359-entry-0180-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0359-entry-0180-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0359-entry-0180-question.mp3"
   },
   {
     "ordinal": 360,
@@ -15275,8 +15294,8 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: There were people on the course from: Iran, Iraq, Ukraine, India, Spain and Turkey.",
     "source_question": "Q: Jakiej narodowości były inne osoby uczestniczące w kursie?",
     "source_answer": "A: Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.",
-    "output_file": "output-demo-pack/audio/0360-entry-0180-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0360-entry-0180-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0360-entry-0180-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0360-entry-0180-answer.mp3"
   },
   {
     "ordinal": 361,
@@ -15289,16 +15308,35 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "Czy nauczyciel prowadził zajęcia po polsku?",
     "original_reference_text": "Did the teacher conduct classes in Polish?",
     "display_question": "Q: Czy nauczyciel prowadził zajęcia po polsku?",
-    "display_answer": "",
+    "display_answer": "A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
     "reference_question": "Q: Did the teacher conduct classes in Polish?",
-    "reference_answer": "",
+    "reference_answer": "A: Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.",
     "source_question": "Q: Czy nauczyciel prowadził zajęcia po polsku?",
-    "source_answer": "",
-    "output_file": "output-demo-pack/audio/0361-entry-0181-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0361-entry-0181-question.mp3"
+    "source_answer": "A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+    "output_file": "output-demo-pack-fresh/audio/0361-entry-0181-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0361-entry-0181-question.mp3"
   },
   {
     "ordinal": 362,
+    "entry_index": 181,
+    "kind": "answer",
+    "display_text": "Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+    "translation_text": "Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.",
+    "spoken_text": "Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+    "text": "Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+    "original_text": "Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+    "original_reference_text": "Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.",
+    "display_question": "Q: Czy nauczyciel prowadził zajęcia po polsku?",
+    "display_answer": "A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+    "reference_question": "Q: Did the teacher conduct classes in Polish?",
+    "reference_answer": "A: Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.",
+    "source_question": "Q: Czy nauczyciel prowadził zajęcia po polsku?",
+    "source_answer": "A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
+    "output_file": "output-demo-pack-fresh/audio/0362-entry-0181-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0362-entry-0181-answer.mp3"
+  },
+  {
+    "ordinal": 363,
     "entry_index": 182,
     "kind": "question",
     "display_text": "W jakie dni odbywały się zajęcia?",
@@ -15313,11 +15351,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Classes only on weekends, Saturday and Sunday, every other weekend.",
     "source_question": "Q: W jakie dni odbywały się zajęcia?",
     "source_answer": "A: Zajęcia tylko w weekendy, w sobotę i niedzielę, co drugi weekend.",
-    "output_file": "output-demo-pack/audio/0362-entry-0182-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0362-entry-0182-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0363-entry-0182-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0363-entry-0182-question.mp3"
   },
   {
-    "ordinal": 363,
+    "ordinal": 364,
     "entry_index": 182,
     "kind": "answer",
     "display_text": "Zajęcia tylko w weekendy, w sobotę i niedzielę, co drugi weekend.",
@@ -15332,11 +15370,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Classes only on weekends, Saturday and Sunday, every other weekend.",
     "source_question": "Q: W jakie dni odbywały się zajęcia?",
     "source_answer": "A: Zajęcia tylko w weekendy, w sobotę i niedzielę, co drugi weekend.",
-    "output_file": "output-demo-pack/audio/0363-entry-0182-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0363-entry-0182-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0364-entry-0182-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0364-entry-0182-answer.mp3"
   },
   {
-    "ordinal": 364,
+    "ordinal": 365,
     "entry_index": 183,
     "kind": "question",
     "display_text": "Ile godzin dziennie było zajęć?",
@@ -15351,11 +15389,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Classes eight hours a day.",
     "source_question": "Q: Ile godzin dziennie było zajęć?",
     "source_answer": "A: Zajęcia osiem godzin dziennie.",
-    "output_file": "output-demo-pack/audio/0364-entry-0183-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0364-entry-0183-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0365-entry-0183-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0365-entry-0183-question.mp3"
   },
   {
-    "ordinal": 365,
+    "ordinal": 366,
     "entry_index": 183,
     "kind": "answer",
     "display_text": "Zajęcia osiem godzin dziennie.",
@@ -15370,11 +15408,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Classes eight hours a day.",
     "source_question": "Q: Ile godzin dziennie było zajęć?",
     "source_answer": "A: Zajęcia osiem godzin dziennie.",
-    "output_file": "output-demo-pack/audio/0365-entry-0183-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0365-entry-0183-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0366-entry-0183-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0366-entry-0183-answer.mp3"
   },
   {
-    "ordinal": 366,
+    "ordinal": 367,
     "entry_index": 184,
     "kind": "question",
     "display_text": "Czy nauczyciel podczas lekcji zawsze mówił po polsku?",
@@ -15389,11 +15427,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.",
     "source_question": "Q: Czy nauczyciel podczas lekcji zawsze mówił po polsku?",
     "source_answer": "A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
-    "output_file": "output-demo-pack/audio/0366-entry-0184-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0366-entry-0184-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0367-entry-0184-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0367-entry-0184-question.mp3"
   },
   {
-    "ordinal": 367,
+    "ordinal": 368,
     "entry_index": 184,
     "kind": "answer",
     "display_text": "Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
@@ -15408,11 +15446,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.",
     "source_question": "Q: Czy nauczyciel podczas lekcji zawsze mówił po polsku?",
     "source_answer": "A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.",
-    "output_file": "output-demo-pack/audio/0367-entry-0184-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0367-entry-0184-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0368-entry-0184-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0368-entry-0184-answer.mp3"
   },
   {
-    "ordinal": 368,
+    "ordinal": 369,
     "entry_index": 185,
     "kind": "question",
     "display_text": "Ile było osób w grupie?",
@@ -15427,11 +15465,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Officially, there were one hundred and twenty people in my group, but only twenty to thirty people attended classes.",
     "source_question": "Q: Ile było osób w grupie?",
     "source_answer": "A: Oficjalnie w mojej grupie było sto dwadzieścia osób, ale tylko od dwudziestu do trzydziestu osób chodziło na zajęcia.",
-    "output_file": "output-demo-pack/audio/0368-entry-0185-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0368-entry-0185-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0369-entry-0185-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0369-entry-0185-question.mp3"
   },
   {
-    "ordinal": 369,
+    "ordinal": 370,
     "entry_index": 185,
     "kind": "answer",
     "display_text": "Oficjalnie w mojej grupie było sto dwadzieścia osób, ale tylko od dwudziestu do trzydziestu osób chodziło na zajęcia.",
@@ -15446,11 +15484,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Officially, there were one hundred and twenty people in my group, but only twenty to thirty people attended classes.",
     "source_question": "Q: Ile było osób w grupie?",
     "source_answer": "A: Oficjalnie w mojej grupie było sto dwadzieścia osób, ale tylko od dwudziestu do trzydziestu osób chodziło na zajęcia.",
-    "output_file": "output-demo-pack/audio/0369-entry-0185-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0369-entry-0185-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0370-entry-0185-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0370-entry-0185-answer.mp3"
   },
   {
-    "ordinal": 370,
+    "ordinal": 371,
     "entry_index": 186,
     "kind": "question",
     "display_text": "Ilu z nich mówiło po polsku?",
@@ -15465,11 +15503,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Everyone spoke Polish.",
     "source_question": "Q: Ilu z nich mówiło po polsku?",
     "source_answer": "A: Każdy mówił po polsku.",
-    "output_file": "output-demo-pack/audio/0370-entry-0186-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0370-entry-0186-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0371-entry-0186-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0371-entry-0186-question.mp3"
   },
   {
-    "ordinal": 371,
+    "ordinal": 372,
     "entry_index": 186,
     "kind": "answer",
     "display_text": "Każdy mówił po polsku.",
@@ -15484,11 +15522,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Everyone spoke Polish.",
     "source_question": "Q: Ilu z nich mówiło po polsku?",
     "source_answer": "A: Każdy mówił po polsku.",
-    "output_file": "output-demo-pack/audio/0371-entry-0186-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0371-entry-0186-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0372-entry-0186-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0372-entry-0186-answer.mp3"
   },
   {
-    "ordinal": 372,
+    "ordinal": 373,
     "entry_index": 187,
     "kind": "question",
     "display_text": "Na jakie okazje robiła pani bukiety?",
@@ -15503,11 +15541,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I made bouquets for birthdays, weddings, and funerals (funeral bouquets).",
     "source_question": "Q: Na jakie okazje robiła pani bukiety?",
     "source_answer": "A: Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).",
-    "output_file": "output-demo-pack/audio/0372-entry-0187-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0372-entry-0187-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0373-entry-0187-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0373-entry-0187-question.mp3"
   },
   {
-    "ordinal": 373,
+    "ordinal": 374,
     "entry_index": 187,
     "kind": "answer",
     "display_text": "Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).",
@@ -15522,11 +15560,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I made bouquets for birthdays, weddings, and funerals (funeral bouquets).",
     "source_question": "Q: Na jakie okazje robiła pani bukiety?",
     "source_answer": "A: Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).",
-    "output_file": "output-demo-pack/audio/0373-entry-0187-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0373-entry-0187-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0374-entry-0187-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0374-entry-0187-answer.mp3"
   },
   {
-    "ordinal": 374,
+    "ordinal": 375,
     "entry_index": 188,
     "kind": "question",
     "display_text": "Ile osób z grupy dostało dyplom?",
@@ -15541,11 +15579,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I don't know exactly, but I think everyone who took classes and passed the semester exams got a diploma.",
     "source_question": "Q: Ile osób z grupy dostało dyplom?",
     "source_answer": "A: Nie wiem dokładnie, ale myślę, że każdy, kto chodził na zajęcia i zdał egzaminy semestralne, dostał dyplom.",
-    "output_file": "output-demo-pack/audio/0374-entry-0188-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0374-entry-0188-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0375-entry-0188-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0375-entry-0188-question.mp3"
   },
   {
-    "ordinal": 375,
+    "ordinal": 376,
     "entry_index": 188,
     "kind": "answer",
     "display_text": "Nie wiem dokładnie, ale myślę, że każdy, kto chodził na zajęcia i zdał egzaminy semestralne, dostał dyplom.",
@@ -15560,11 +15598,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I don't know exactly, but I think everyone who took classes and passed the semester exams got a diploma.",
     "source_question": "Q: Ile osób z grupy dostało dyplom?",
     "source_answer": "A: Nie wiem dokładnie, ale myślę, że każdy, kto chodził na zajęcia i zdał egzaminy semestralne, dostał dyplom.",
-    "output_file": "output-demo-pack/audio/0375-entry-0188-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0375-entry-0188-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0376-entry-0188-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0376-entry-0188-answer.mp3"
   },
   {
-    "ordinal": 376,
+    "ordinal": 377,
     "entry_index": 189,
     "kind": "question",
     "display_text": "Ile osób w grupie było zaawansowanych w języku polskim?",
@@ -15579,11 +15617,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Everyone spoke Polish. The course was attended by approximately seventy percent Poles and thirty percent foreigners.",
     "source_question": "Q: Ile osób w grupie było zaawansowanych w języku polskim?",
     "source_answer": "A: Każdy mówił po polsku. Na kursie było około siedemdziesiąt procent polaków i trzydzieści procent obcokrajowców.",
-    "output_file": "output-demo-pack/audio/0376-entry-0189-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0376-entry-0189-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0377-entry-0189-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0377-entry-0189-question.mp3"
   },
   {
-    "ordinal": 377,
+    "ordinal": 378,
     "entry_index": 189,
     "kind": "answer",
     "display_text": "Każdy mówił po polsku. Na kursie było około siedemdziesiąt procent polaków i trzydzieści procent obcokrajowców.",
@@ -15598,11 +15636,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Everyone spoke Polish. The course was attended by approximately seventy percent Poles and thirty percent foreigners.",
     "source_question": "Q: Ile osób w grupie było zaawansowanych w języku polskim?",
     "source_answer": "A: Każdy mówił po polsku. Na kursie było około siedemdziesiąt procent polaków i trzydzieści procent obcokrajowców.",
-    "output_file": "output-demo-pack/audio/0377-entry-0189-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0377-entry-0189-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0378-entry-0189-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0378-entry-0189-answer.mp3"
   },
   {
-    "ordinal": 378,
+    "ordinal": 379,
     "entry_index": 190,
     "kind": "question",
     "display_text": "Jak były prowadzone zajecia?",
@@ -15617,11 +15655,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The classes were very interesting. We learned theory and practiced a lot. During practical classes, we had to make flower arrangements, i.e. bouquets, where we acquired comprehensive floristic knowledge. The classes were only in Polish.",
     "source_question": "Q: Jak były prowadzone zajecia?",
     "source_answer": "A: Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
-    "output_file": "output-demo-pack/audio/0378-entry-0190-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0378-entry-0190-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0379-entry-0190-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0379-entry-0190-question.mp3"
   },
   {
-    "ordinal": 379,
+    "ordinal": 380,
     "entry_index": 190,
     "kind": "answer",
     "display_text": "Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
@@ -15636,11 +15674,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The classes were very interesting. We learned theory and practiced a lot. During practical classes, we had to make flower arrangements, i.e. bouquets, where we acquired comprehensive floristic knowledge. The classes were only in Polish.",
     "source_question": "Q: Jak były prowadzone zajecia?",
     "source_answer": "A: Zajęcia były bardzo interesujące. Uczyliśmy się teorii i dużo ćwiczyliśmy w praktyce. Na zajęciach praktycznych musieliśmy wykonać kompozycje kwiatowe, czyli bukiety, gdzie zdobyliśmy kompleksową wiedzę florystyczną. Zajęcia były tylko po polsku.",
-    "output_file": "output-demo-pack/audio/0379-entry-0190-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0379-entry-0190-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0380-entry-0190-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0380-entry-0190-answer.mp3"
   },
   {
-    "ordinal": 380,
+    "ordinal": 381,
     "entry_index": 191,
     "kind": "question",
     "display_text": "W jakich godzinach odbywały się zajęcia?",
@@ -15655,11 +15693,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The classes lasted eight hours.",
     "source_question": "Q: W jakich godzinach odbywały się zajęcia?",
     "source_answer": "A: Zajęcia odbywały się przez osiem godzin.",
-    "output_file": "output-demo-pack/audio/0380-entry-0191-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0380-entry-0191-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0381-entry-0191-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0381-entry-0191-question.mp3"
   },
   {
-    "ordinal": 381,
+    "ordinal": 382,
     "entry_index": 191,
     "kind": "answer",
     "display_text": "Zajęcia odbywały się przez osiem godzin.",
@@ -15674,11 +15712,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The classes lasted eight hours.",
     "source_question": "Q: W jakich godzinach odbywały się zajęcia?",
     "source_answer": "A: Zajęcia odbywały się przez osiem godzin.",
-    "output_file": "output-demo-pack/audio/0381-entry-0191-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0381-entry-0191-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0382-entry-0191-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0382-entry-0191-answer.mp3"
   },
   {
-    "ordinal": 382,
+    "ordinal": 383,
     "entry_index": 192,
     "kind": "question",
     "display_text": "W jakie dni i godziny odbywały się zajęcia?",
@@ -15693,11 +15731,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Classes were held only on weekends, on Saturdays and Sundays, every other weekend, for 8 hours.",
     "source_question": "Q: W jakie dni i godziny odbywały się zajęcia?",
     "source_answer": "A: Zajęcia odbywały się tylko w weekendy, w soboty i niedziele, co drugi weekend, przez 8 godzin.",
-    "output_file": "output-demo-pack/audio/0382-entry-0192-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0382-entry-0192-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0383-entry-0192-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0383-entry-0192-question.mp3"
   },
   {
-    "ordinal": 383,
+    "ordinal": 384,
     "entry_index": 192,
     "kind": "answer",
     "display_text": "Zajęcia odbywały się tylko w weekendy, w soboty i niedziele, co drugi weekend, przez 8 godzin.",
@@ -15712,11 +15750,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Classes were held only on weekends, on Saturdays and Sundays, every other weekend, for 8 hours.",
     "source_question": "Q: W jakie dni i godziny odbywały się zajęcia?",
     "source_answer": "A: Zajęcia odbywały się tylko w weekendy, w soboty i niedziele, co drugi weekend, przez 8 godzin.",
-    "output_file": "output-demo-pack/audio/0383-entry-0192-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0383-entry-0192-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0384-entry-0192-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0384-entry-0192-answer.mp3"
   },
   {
-    "ordinal": 384,
+    "ordinal": 385,
     "entry_index": 193,
     "kind": "question",
     "display_text": "Jak się nazywała szkoła?",
@@ -15731,11 +15769,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The school was called Policealna Żak.",
     "source_question": "Q: Jak się nazywała szkoła?",
     "source_answer": "A: Szkoła nazywała się Policealna Żak.",
-    "output_file": "output-demo-pack/audio/0384-entry-0193-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0384-entry-0193-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0385-entry-0193-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0385-entry-0193-question.mp3"
   },
   {
-    "ordinal": 385,
+    "ordinal": 386,
     "entry_index": 193,
     "kind": "answer",
     "display_text": "Szkoła nazywała się Policealna Żak.",
@@ -15750,11 +15788,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The school was called Policealna Żak.",
     "source_question": "Q: Jak się nazywała szkoła?",
     "source_answer": "A: Szkoła nazywała się Policealna Żak.",
-    "output_file": "output-demo-pack/audio/0385-entry-0193-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0385-entry-0193-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0386-entry-0193-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0386-entry-0193-answer.mp3"
   },
   {
-    "ordinal": 386,
+    "ordinal": 387,
     "entry_index": 194,
     "kind": "question",
     "display_text": "Jakiej narodowości były osoby na kursie?",
@@ -15769,11 +15807,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: There were people on the course from: Iran, Iraq, Ukraine, India, Spain and Turkey.",
     "source_question": "Q: Jakiej narodowości były osoby na kursie?",
     "source_answer": "A: Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.",
-    "output_file": "output-demo-pack/audio/0386-entry-0194-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0386-entry-0194-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0387-entry-0194-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0387-entry-0194-question.mp3"
   },
   {
-    "ordinal": 387,
+    "ordinal": 388,
     "entry_index": 194,
     "kind": "answer",
     "display_text": "Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.",
@@ -15788,11 +15826,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: There were people on the course from: Iran, Iraq, Ukraine, India, Spain and Turkey.",
     "source_question": "Q: Jakiej narodowości były osoby na kursie?",
     "source_answer": "A: Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.",
-    "output_file": "output-demo-pack/audio/0387-entry-0194-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0387-entry-0194-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0388-entry-0194-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0388-entry-0194-answer.mp3"
   },
   {
-    "ordinal": 388,
+    "ordinal": 389,
     "entry_index": 195,
     "kind": "question",
     "display_text": "Jakie bukiety pani robiła na kursie?",
@@ -15807,11 +15845,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I made bouquets for birthdays, weddings, and funerals (funeral bouquets).",
     "source_question": "Q: Jakie bukiety pani robiła na kursie?",
     "source_answer": "A: Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).",
-    "output_file": "output-demo-pack/audio/0388-entry-0195-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0388-entry-0195-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0389-entry-0195-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0389-entry-0195-question.mp3"
   },
   {
-    "ordinal": 389,
+    "ordinal": 390,
     "entry_index": 195,
     "kind": "answer",
     "display_text": "Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).",
@@ -15826,11 +15864,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I made bouquets for birthdays, weddings, and funerals (funeral bouquets).",
     "source_question": "Q: Jakie bukiety pani robiła na kursie?",
     "source_answer": "A: Robiłam bukiety na urodziny, na ślub, na pogrzeb ( funeralny bukiet).",
-    "output_file": "output-demo-pack/audio/0389-entry-0195-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0389-entry-0195-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0390-entry-0195-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0390-entry-0195-answer.mp3"
   },
   {
-    "ordinal": 390,
+    "ordinal": 391,
     "entry_index": 196,
     "kind": "question",
     "display_text": "Czy używała pani internetu na zajęciach z florystyki?",
@@ -15845,11 +15883,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, I used the Internet for a few words.",
     "source_question": "Q: Czy używała pani internetu na zajęciach z florystyki?",
     "source_answer": "A: Tak, używałam internetu do kilku słów.",
-    "output_file": "output-demo-pack/audio/0390-entry-0196-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0390-entry-0196-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0391-entry-0196-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0391-entry-0196-question.mp3"
   },
   {
-    "ordinal": 391,
+    "ordinal": 392,
     "entry_index": 196,
     "kind": "answer",
     "display_text": "Tak, używałam internetu do kilku słów.",
@@ -15864,11 +15902,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, I used the Internet for a few words.",
     "source_question": "Q: Czy używała pani internetu na zajęciach z florystyki?",
     "source_answer": "A: Tak, używałam internetu do kilku słów.",
-    "output_file": "output-demo-pack/audio/0391-entry-0196-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0391-entry-0196-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0392-entry-0196-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0392-entry-0196-answer.mp3"
   },
   {
-    "ordinal": 392,
+    "ordinal": 393,
     "entry_index": 197,
     "kind": "question",
     "display_text": "Jak długo trwał kurs?",
@@ -15883,11 +15921,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The course lasted one year, two semesters.",
     "source_question": "Q: Jak długo trwał kurs?",
     "source_answer": "A: Kurs trwał jeden rok, dwa semestry.",
-    "output_file": "output-demo-pack/audio/0392-entry-0197-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0392-entry-0197-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0393-entry-0197-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0393-entry-0197-question.mp3"
   },
   {
-    "ordinal": 393,
+    "ordinal": 394,
     "entry_index": 197,
     "kind": "answer",
     "display_text": "Kurs trwał jeden rok, dwa semestry.",
@@ -15902,11 +15940,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The course lasted one year, two semesters.",
     "source_question": "Q: Jak długo trwał kurs?",
     "source_answer": "A: Kurs trwał jeden rok, dwa semestry.",
-    "output_file": "output-demo-pack/audio/0393-entry-0197-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0393-entry-0197-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0394-entry-0197-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0394-entry-0197-answer.mp3"
   },
   {
-    "ordinal": 394,
+    "ordinal": 395,
     "entry_index": 198,
     "kind": "question",
     "display_text": "Jakie pani miała Przedmioty?",
@@ -15921,11 +15959,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I had items such as: 1. English language 2. basics of floristry 3. cultural foundations of floristry 4. making wedding compositions 5. making funeral compositions 6. Non-plant materials science 7. Plant materials science",
     "source_question": "Q: Jakie pani miała Przedmioty?",
     "source_answer": "A: Miałam takie przedmioty jak: 1. język angielski 2. podstawy florystyki 3. kulturowe podstawy florystyki 4. wykonywanie kompozycji ślubnych 5. wykonywanie kompozycji funeralnych 6. Materiałoznawstwo nierośliny 7. Materiałoznawstwo rośliny",
-    "output_file": "output-demo-pack/audio/0394-entry-0198-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0394-entry-0198-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0395-entry-0198-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0395-entry-0198-question.mp3"
   },
   {
-    "ordinal": 395,
+    "ordinal": 396,
     "entry_index": 198,
     "kind": "answer",
     "display_text": "Miałam takie przedmioty jak: 1. język angielski 2. podstawy florystyki 3. kulturowe podstawy florystyki 4. wykonywanie kompozycji ślubnych 5. wykonywanie kompozycji funeralnych 6. Materiałoznawstwo nierośliny 7. Materiałoznawstwo rośliny",
@@ -15940,11 +15978,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I had items such as: 1. English language 2. basics of floristry 3. cultural foundations of floristry 4. making wedding compositions 5. making funeral compositions 6. Non-plant materials science 7. Plant materials science",
     "source_question": "Q: Jakie pani miała Przedmioty?",
     "source_answer": "A: Miałam takie przedmioty jak: 1. język angielski 2. podstawy florystyki 3. kulturowe podstawy florystyki 4. wykonywanie kompozycji ślubnych 5. wykonywanie kompozycji funeralnych 6. Materiałoznawstwo nierośliny 7. Materiałoznawstwo rośliny",
-    "output_file": "output-demo-pack/audio/0395-entry-0198-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0395-entry-0198-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0396-entry-0198-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0396-entry-0198-answer.mp3"
   },
   {
-    "ordinal": 396,
+    "ordinal": 397,
     "entry_index": 199,
     "kind": "question",
     "display_text": "Czego się pani nauczyła na przedmiocie Kulturowe podstawy florystyki?",
@@ -15959,11 +15997,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned the history and symbolism of plants in Poland.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie Kulturowe podstawy florystyki?",
     "source_answer": "A: Na tym przedmiocie uczyłam się historii i symboliki roślin w Polsce.",
-    "output_file": "output-demo-pack/audio/0396-entry-0199-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0396-entry-0199-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0397-entry-0199-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0397-entry-0199-question.mp3"
   },
   {
-    "ordinal": 397,
+    "ordinal": 398,
     "entry_index": 199,
     "kind": "answer",
     "display_text": "Na tym przedmiocie uczyłam się historii i symboliki roślin w Polsce.",
@@ -15978,11 +16016,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned the history and symbolism of plants in Poland.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie Kulturowe podstawy florystyki?",
     "source_answer": "A: Na tym przedmiocie uczyłam się historii i symboliki roślin w Polsce.",
-    "output_file": "output-demo-pack/audio/0397-entry-0199-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0397-entry-0199-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0398-entry-0199-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0398-entry-0199-answer.mp3"
   },
   {
-    "ordinal": 398,
+    "ordinal": 399,
     "entry_index": 200,
     "kind": "question",
     "display_text": "Czego się pani nauczyła na przedmiocie podstawy florystyki / kompozycje florystyczne?",
@@ -15997,11 +16035,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned the theory of colors, proportions and styles.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie podstawy florystyki / kompozycje florystyczne?",
     "source_answer": "A: Na tym przedmiocie uczyłam się teorii kolorów, proporcji, stylów.",
-    "output_file": "output-demo-pack/audio/0398-entry-0200-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0398-entry-0200-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0399-entry-0200-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0399-entry-0200-question.mp3"
   },
   {
-    "ordinal": 399,
+    "ordinal": 400,
     "entry_index": 200,
     "kind": "answer",
     "display_text": "Na tym przedmiocie uczyłam się teorii kolorów, proporcji, stylów.",
@@ -16016,11 +16054,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned the theory of colors, proportions and styles.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie podstawy florystyki / kompozycje florystyczne?",
     "source_answer": "A: Na tym przedmiocie uczyłam się teorii kolorów, proporcji, stylów.",
-    "output_file": "output-demo-pack/audio/0399-entry-0200-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0399-entry-0200-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0400-entry-0200-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0400-entry-0200-answer.mp3"
   },
   {
-    "ordinal": 400,
+    "ordinal": 401,
     "entry_index": 201,
     "kind": "question",
     "display_text": "Czego się pani nauczyła na przedmiocie PROJEKTOWANIE I SPRZEDAŻ USŁUG FLORYSTYCZNYCH?",
@@ -16035,11 +16073,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I learned marketing and customer service in this subject.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie PROJEKTOWANIE I SPRZEDAŻ USŁUG FLORYSTYCZNYCH?",
     "source_answer": "A: Na tym przedmiocie uczyłam się marketingu i obsługi klienta.",
-    "output_file": "output-demo-pack/audio/0400-entry-0201-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0400-entry-0201-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0401-entry-0201-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0401-entry-0201-question.mp3"
   },
   {
-    "ordinal": 401,
+    "ordinal": 402,
     "entry_index": 201,
     "kind": "answer",
     "display_text": "Na tym przedmiocie uczyłam się marketingu i obsługi klienta.",
@@ -16054,11 +16092,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I learned marketing and customer service in this subject.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie PROJEKTOWANIE I SPRZEDAŻ USŁUG FLORYSTYCZNYCH?",
     "source_answer": "A: Na tym przedmiocie uczyłam się marketingu i obsługi klienta.",
-    "output_file": "output-demo-pack/audio/0401-entry-0201-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0401-entry-0201-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0402-entry-0201-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0402-entry-0201-answer.mp3"
   },
   {
-    "ordinal": 402,
+    "ordinal": 403,
     "entry_index": 202,
     "kind": "question",
     "display_text": "Czego się pani nauczyła na przedmiocie ŚRODKI WYRAZU TWÓRCZEGO?",
@@ -16073,11 +16111,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned the rules of color composition and making floral decorations.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie ŚRODKI WYRAZU TWÓRCZEGO?",
     "source_answer": "A: Na tym przedmiocie uczyłam się reguł kompozycji kolorów oraz robienia dekoracji florystycznych.",
-    "output_file": "output-demo-pack/audio/0402-entry-0202-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0402-entry-0202-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0403-entry-0202-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0403-entry-0202-question.mp3"
   },
   {
-    "ordinal": 403,
+    "ordinal": 404,
     "entry_index": 202,
     "kind": "answer",
     "display_text": "Na tym przedmiocie uczyłam się reguł kompozycji kolorów oraz robienia dekoracji florystycznych.",
@@ -16092,11 +16130,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned the rules of color composition and making floral decorations.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie ŚRODKI WYRAZU TWÓRCZEGO?",
     "source_answer": "A: Na tym przedmiocie uczyłam się reguł kompozycji kolorów oraz robienia dekoracji florystycznych.",
-    "output_file": "output-demo-pack/audio/0403-entry-0202-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0403-entry-0202-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0404-entry-0202-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0404-entry-0202-answer.mp3"
   },
   {
-    "ordinal": 404,
+    "ordinal": 405,
     "entry_index": 203,
     "kind": "question",
     "display_text": "Czego się pani nauczyła na przedmiocie WYKONYWANIE DEKORACJI WNĘTRZ I ARANŻACJI Obsadzanych?",
@@ -16111,11 +16149,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned how to decorate interiors and arrange plants.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE DEKORACJI WNĘTRZ I ARANŻACJI Obsadzanych?",
     "source_answer": "A: Na tym przedmiocie uczyłam się dekorować wnętrza i komponować rośliny.",
-    "output_file": "output-demo-pack/audio/0404-entry-0203-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0404-entry-0203-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0405-entry-0203-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0405-entry-0203-question.mp3"
   },
   {
-    "ordinal": 405,
+    "ordinal": 406,
     "entry_index": 203,
     "kind": "answer",
     "display_text": "Na tym przedmiocie uczyłam się dekorować wnętrza i komponować rośliny.",
@@ -16130,11 +16168,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned how to decorate interiors and arrange plants.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE DEKORACJI WNĘTRZ I ARANŻACJI Obsadzanych?",
     "source_answer": "A: Na tym przedmiocie uczyłam się dekorować wnętrza i komponować rośliny.",
-    "output_file": "output-demo-pack/audio/0405-entry-0203-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0405-entry-0203-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0406-entry-0203-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0406-entry-0203-answer.mp3"
   },
   {
-    "ordinal": 406,
+    "ordinal": 407,
     "entry_index": 204,
     "kind": "question",
     "display_text": "Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI FUNERALNYCH?",
@@ -16149,11 +16187,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned how to make funeral compositions, for example wreaths and condolence bouquets.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI FUNERALNYCH?",
     "source_answer": "A: Na tym przedmiocie uczyłam się robić kompozycje pogrzebowe na przykład wieńce i bukiety kondolencyjne.",
-    "output_file": "output-demo-pack/audio/0406-entry-0204-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0406-entry-0204-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0407-entry-0204-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0407-entry-0204-question.mp3"
   },
   {
-    "ordinal": 407,
+    "ordinal": 408,
     "entry_index": 204,
     "kind": "answer",
     "display_text": "Na tym przedmiocie uczyłam się robić kompozycje pogrzebowe na przykład wieńce i bukiety kondolencyjne.",
@@ -16168,11 +16206,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned how to make funeral compositions, for example wreaths and condolence bouquets.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI FUNERALNYCH?",
     "source_answer": "A: Na tym przedmiocie uczyłam się robić kompozycje pogrzebowe na przykład wieńce i bukiety kondolencyjne.",
-    "output_file": "output-demo-pack/audio/0407-entry-0204-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0407-entry-0204-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0408-entry-0204-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0408-entry-0204-answer.mp3"
   },
   {
-    "ordinal": 408,
+    "ordinal": 409,
     "entry_index": 205,
     "kind": "question",
     "display_text": "Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI ŚLUBNYCH?",
@@ -16187,11 +16225,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned how to make wedding compositions, church, premises and car decorations.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI ŚLUBNYCH?",
     "source_answer": "A: Na tym przedmiocie uczyłam się robić kompozycji ślubnych, dekoracji kościoła, lokalu i samochodu.",
-    "output_file": "output-demo-pack/audio/0408-entry-0205-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0408-entry-0205-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0409-entry-0205-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0409-entry-0205-question.mp3"
   },
   {
-    "ordinal": 409,
+    "ordinal": 410,
     "entry_index": 205,
     "kind": "answer",
     "display_text": "Na tym przedmiocie uczyłam się robić kompozycji ślubnych, dekoracji kościoła, lokalu i samochodu.",
@@ -16206,11 +16244,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned how to make wedding compositions, church, premises and car decorations.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI ŚLUBNYCH?",
     "source_answer": "A: Na tym przedmiocie uczyłam się robić kompozycji ślubnych, dekoracji kościoła, lokalu i samochodu.",
-    "output_file": "output-demo-pack/audio/0409-entry-0205-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0409-entry-0205-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0410-entry-0205-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0410-entry-0205-answer.mp3"
   },
   {
-    "ordinal": 410,
+    "ordinal": 411,
     "entry_index": 206,
     "kind": "question",
     "display_text": "Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI OKOLICZNOŚCIOWYCH ?",
@@ -16225,11 +16263,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned how to make flower arrangements for various occasions, such as birthdays and holidays.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI OKOLICZNOŚCIOWYCH ?",
     "source_answer": "A: Na tym przedmiocie uczyłam się robić kompozycje kwiatowe na różne okazje na przykład urodziny, święta.",
-    "output_file": "output-demo-pack/audio/0410-entry-0206-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0410-entry-0206-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0411-entry-0206-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0411-entry-0206-question.mp3"
   },
   {
-    "ordinal": 411,
+    "ordinal": 412,
     "entry_index": 206,
     "kind": "answer",
     "display_text": "Na tym przedmiocie uczyłam się robić kompozycje kwiatowe na różne okazje na przykład urodziny, święta.",
@@ -16244,11 +16282,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned how to make flower arrangements for various occasions, such as birthdays and holidays.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie WYKONYWANIE KOMPOZYCJI OKOLICZNOŚCIOWYCH ?",
     "source_answer": "A: Na tym przedmiocie uczyłam się robić kompozycje kwiatowe na różne okazje na przykład urodziny, święta.",
-    "output_file": "output-demo-pack/audio/0411-entry-0206-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0411-entry-0206-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0412-entry-0206-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0412-entry-0206-answer.mp3"
   },
   {
-    "ordinal": 412,
+    "ordinal": 413,
     "entry_index": 207,
     "kind": "question",
     "display_text": "Czego się pani nauczyła na przedmiocie JĘZYK ANGIELSKI?",
@@ -16263,11 +16301,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned professional floristic vocabulary.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie JĘZYK ANGIELSKI?",
     "source_answer": "A: Na tym przedmiocie uczyłam się profesjonalnego słownictwa florystycznego.",
-    "output_file": "output-demo-pack/audio/0412-entry-0207-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0412-entry-0207-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0413-entry-0207-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0413-entry-0207-question.mp3"
   },
   {
-    "ordinal": 413,
+    "ordinal": 414,
     "entry_index": 207,
     "kind": "answer",
     "display_text": "Na tym przedmiocie uczyłam się profesjonalnego słownictwa florystycznego.",
@@ -16282,11 +16320,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject I learned professional floristic vocabulary.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie JĘZYK ANGIELSKI?",
     "source_answer": "A: Na tym przedmiocie uczyłam się profesjonalnego słownictwa florystycznego.",
-    "output_file": "output-demo-pack/audio/0413-entry-0207-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0413-entry-0207-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0414-entry-0207-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0414-entry-0207-answer.mp3"
   },
   {
-    "ordinal": 414,
+    "ordinal": 415,
     "entry_index": 208,
     "kind": "question",
     "display_text": "Czego się pani nauczyła na przedmiocie Materiałoznawstwo Nieroślinny?",
@@ -16301,11 +16339,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject, I learned various floristic tools, such as floral scissors, floral foil, secateurs, wire, tape and hot glue.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie Materiałoznawstwo Nieroślinny?",
     "source_answer": "A: Na tym przedmiocie uczyłam się różnych narzędzi florystycznych, takich jak nożyczki florystyczne, Folia florystyczna, Sekator, drut, taśma i Klej na gorąco.",
-    "output_file": "output-demo-pack/audio/0414-entry-0208-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0414-entry-0208-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0415-entry-0208-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0415-entry-0208-question.mp3"
   },
   {
-    "ordinal": 415,
+    "ordinal": 416,
     "entry_index": 208,
     "kind": "answer",
     "display_text": "Na tym przedmiocie uczyłam się różnych narzędzi florystycznych, takich jak nożyczki florystyczne, Folia florystyczna, Sekator, drut, taśma i Klej na gorąco.",
@@ -16320,11 +16358,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this subject, I learned various floristic tools, such as floral scissors, floral foil, secateurs, wire, tape and hot glue.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie Materiałoznawstwo Nieroślinny?",
     "source_answer": "A: Na tym przedmiocie uczyłam się różnych narzędzi florystycznych, takich jak nożyczki florystyczne, Folia florystyczna, Sekator, drut, taśma i Klej na gorąco.",
-    "output_file": "output-demo-pack/audio/0415-entry-0208-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0415-entry-0208-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0416-entry-0208-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0416-entry-0208-answer.mp3"
   },
   {
-    "ordinal": 416,
+    "ordinal": 417,
     "entry_index": 209,
     "kind": "question",
     "display_text": "Czego się pani nauczyła na przedmiocie Materiałoznawstwo roślinny?",
@@ -16339,11 +16377,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this course I learned about plants and how to care for them.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie Materiałoznawstwo roślinny?",
     "source_answer": "A: Na tym prezdmiocie uczyłam się o roślinach i jak o nie dbać.",
-    "output_file": "output-demo-pack/audio/0416-entry-0209-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0416-entry-0209-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0417-entry-0209-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0417-entry-0209-question.mp3"
   },
   {
-    "ordinal": 417,
+    "ordinal": 418,
     "entry_index": 209,
     "kind": "answer",
     "display_text": "Na tym prezdmiocie uczyłam się o roślinach i jak o nie dbać.",
@@ -16358,11 +16396,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this course I learned about plants and how to care for them.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie Materiałoznawstwo roślinny?",
     "source_answer": "A: Na tym prezdmiocie uczyłam się o roślinach i jak o nie dbać.",
-    "output_file": "output-demo-pack/audio/0417-entry-0209-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0417-entry-0209-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0418-entry-0209-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0418-entry-0209-answer.mp3"
   },
   {
-    "ordinal": 418,
+    "ordinal": 419,
     "entry_index": 210,
     "kind": "question",
     "display_text": "Czego się pani nauczyła na przedmiocie Praktyka zawodowa?",
@@ -16377,11 +16415,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this course, I learned how to make bouquets, flower arrangements and serve customers.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie Praktyka zawodowa?",
     "source_answer": "A: Na tym prezdmiocie uczyłam się robić bukiety, kompozycje kwiatowe i obsługiwać klientów.",
-    "output_file": "output-demo-pack/audio/0418-entry-0210-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0418-entry-0210-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0419-entry-0210-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0419-entry-0210-question.mp3"
   },
   {
-    "ordinal": 419,
+    "ordinal": 420,
     "entry_index": 210,
     "kind": "answer",
     "display_text": "Na tym prezdmiocie uczyłam się robić bukiety, kompozycje kwiatowe i obsługiwać klientów.",
@@ -16396,11 +16434,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: In this course, I learned how to make bouquets, flower arrangements and serve customers.",
     "source_question": "Q: Czego się pani nauczyła na przedmiocie Praktyka zawodowa?",
     "source_answer": "A: Na tym prezdmiocie uczyłam się robić bukiety, kompozycje kwiatowe i obsługiwać klientów.",
-    "output_file": "output-demo-pack/audio/0419-entry-0210-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0419-entry-0210-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0420-entry-0210-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0420-entry-0210-answer.mp3"
   },
   {
-    "ordinal": 420,
+    "ordinal": 421,
     "entry_index": 211,
     "kind": "question",
     "display_text": "Z KTÓREGO PRZEDMIOTU BYŁY EGZAMINY?",
@@ -16415,11 +16453,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: There were exams in all subjects. There were theoretical and practical exams. The theoretical exam was a test and during the practical exam I made bouquets for various occasions.",
     "source_question": "Q: Z KTÓREGO PRZEDMIOTU BYŁY EGZAMINY?",
     "source_answer": "A: Egzaminy były ze wszystkich przedmiotów. Były egzaminy teoretyczne i praktyczne. Egzamin teoretyczny to był test a na egzaminie praktycznym robiłam bukiety na różne okazje.",
-    "output_file": "output-demo-pack/audio/0420-entry-0211-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0420-entry-0211-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0421-entry-0211-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0421-entry-0211-question.mp3"
   },
   {
-    "ordinal": 421,
+    "ordinal": 422,
     "entry_index": 211,
     "kind": "answer",
     "display_text": "Egzaminy były ze wszystkich przedmiotów. Były egzaminy teoretyczne i praktyczne. Egzamin teoretyczny to był test a na egzaminie praktycznym robiłam bukiety na różne okazje.",
@@ -16434,11 +16472,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: There were exams in all subjects. There were theoretical and practical exams. The theoretical exam was a test and during the practical exam I made bouquets for various occasions.",
     "source_question": "Q: Z KTÓREGO PRZEDMIOTU BYŁY EGZAMINY?",
     "source_answer": "A: Egzaminy były ze wszystkich przedmiotów. Były egzaminy teoretyczne i praktyczne. Egzamin teoretyczny to był test a na egzaminie praktycznym robiłam bukiety na różne okazje.",
-    "output_file": "output-demo-pack/audio/0421-entry-0211-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0421-entry-0211-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0422-entry-0211-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0422-entry-0211-answer.mp3"
   },
   {
-    "ordinal": 422,
+    "ordinal": 423,
     "entry_index": 212,
     "kind": "question",
     "display_text": "PROSZĘ POWIEDZIEĆ KIEDY I DO CZEGO UŻYWA SIĘ TYCH NARZĘDZI?",
@@ -16453,11 +16491,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Floral scissors - used for cutting flowers and branches Pruning shears - used to cut thick branches Hot glue - used to JOIN elements Tape – used to CONNECT elements. Floral foil - used for packing bouquets Wire - used to attach flowers and decorations. Ribbons - used for decoration Floral sponge is used for flower arrangements.",
     "source_question": "Q: PROSZĘ POWIEDZIEĆ KIEDY I DO CZEGO UŻYWA SIĘ TYCH NARZĘDZI?",
     "source_answer": "A: Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi Sekator - używa się do cięcia grubych gałęzi Klej na gorąco - używa się do POŁACZENIA elementów Taśma – używa się do POŁACZENIA elementów. Folia florystyczna - używa się do pakowania bukietów Drut - używa się do mocowania kwiatów i dekoracji. Wstążki - używa się do dekoracji Gąbka florystyczna używa się do kompozycji kwiatowych.",
-    "output_file": "output-demo-pack/audio/0422-entry-0212-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0422-entry-0212-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0423-entry-0212-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0423-entry-0212-question.mp3"
   },
   {
-    "ordinal": 423,
+    "ordinal": 424,
     "entry_index": 212,
     "kind": "answer",
     "display_text": "Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi Sekator - używa się do cięcia grubych gałęzi Klej na gorąco - używa się do POŁACZENIA elementów Taśma – używa się do POŁACZENIA elementów. Folia florystyczna - używa się do pakowania bukietów Drut - używa się do mocowania kwiatów i dekoracji. Wstążki - używa się do dekoracji Gąbka florystyczna używa się do kompozycji kwiatowych.",
@@ -16472,11 +16510,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Floral scissors - used for cutting flowers and branches Pruning shears - used to cut thick branches Hot glue - used to JOIN elements Tape – used to CONNECT elements. Floral foil - used for packing bouquets Wire - used to attach flowers and decorations. Ribbons - used for decoration Floral sponge is used for flower arrangements.",
     "source_question": "Q: PROSZĘ POWIEDZIEĆ KIEDY I DO CZEGO UŻYWA SIĘ TYCH NARZĘDZI?",
     "source_answer": "A: Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi Sekator - używa się do cięcia grubych gałęzi Klej na gorąco - używa się do POŁACZENIA elementów Taśma – używa się do POŁACZENIA elementów. Folia florystyczna - używa się do pakowania bukietów Drut - używa się do mocowania kwiatów i dekoracji. Wstążki - używa się do dekoracji Gąbka florystyczna używa się do kompozycji kwiatowych.",
-    "output_file": "output-demo-pack/audio/0423-entry-0212-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0423-entry-0212-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0424-entry-0212-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0424-entry-0212-answer.mp3"
   },
   {
-    "ordinal": 424,
+    "ordinal": 425,
     "entry_index": 213,
     "kind": "question",
     "display_text": "JAK PANI PRACOWAŁA W KLASIE? TO BYŁA PRACA INDYWIDUALNA CZY W GRUPIE?",
@@ -16491,11 +16529,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: It depends. Sometimes I worked individually, and sometimes I made bouquets in a group.",
     "source_question": "Q: JAK PANI PRACOWAŁA W KLASIE? TO BYŁA PRACA INDYWIDUALNA CZY W GRUPIE?",
     "source_answer": "A: To zależy. Czasami pracowałam indywidualnie, a czasami w grupie robiłam bukiety.",
-    "output_file": "output-demo-pack/audio/0424-entry-0213-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0424-entry-0213-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0425-entry-0213-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0425-entry-0213-question.mp3"
   },
   {
-    "ordinal": 425,
+    "ordinal": 426,
     "entry_index": 213,
     "kind": "answer",
     "display_text": "To zależy. Czasami pracowałam indywidualnie, a czasami w grupie robiłam bukiety.",
@@ -16510,11 +16548,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: It depends. Sometimes I worked individually, and sometimes I made bouquets in a group.",
     "source_question": "Q: JAK PANI PRACOWAŁA W KLASIE? TO BYŁA PRACA INDYWIDUALNA CZY W GRUPIE?",
     "source_answer": "A: To zależy. Czasami pracowałam indywidualnie, a czasami w grupie robiłam bukiety.",
-    "output_file": "output-demo-pack/audio/0425-entry-0213-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0425-entry-0213-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0426-entry-0213-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0426-entry-0213-answer.mp3"
   },
   {
-    "ordinal": 426,
+    "ordinal": 427,
     "entry_index": 214,
     "kind": "question",
     "display_text": "CZY UCZNIOWIE PODCZAS LEKCJI UŻYWALI TŁUMACZA NA PRZYKŁAD GOOGLE TRANSLATE?. CZY PANI UŻYWAŁA ?",
@@ -16529,11 +16567,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, sometimes I used the Internet to translate a few words. Sometimes I asked the teacher or classmates to repeat it, or I used a translator, such as Google Translate.",
     "source_question": "Q: CZY UCZNIOWIE PODCZAS LEKCJI UŻYWALI TŁUMACZA NA PRZYKŁAD GOOGLE TRANSLATE?. CZY PANI UŻYWAŁA ?",
     "source_answer": "A: Tak, czasami używałam internetu do tłumaczenia kilku słów. Czasami prosiłam nauczyciela albo koleżanki, żeby powtórzyli, albo używałam tłumacza, na przykład Google Translate.",
-    "output_file": "output-demo-pack/audio/0426-entry-0214-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0426-entry-0214-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0427-entry-0214-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0427-entry-0214-question.mp3"
   },
   {
-    "ordinal": 427,
+    "ordinal": 428,
     "entry_index": 214,
     "kind": "answer",
     "display_text": "Tak, czasami używałam internetu do tłumaczenia kilku słów. Czasami prosiłam nauczyciela albo koleżanki, żeby powtórzyli, albo używałam tłumacza, na przykład Google Translate.",
@@ -16548,11 +16586,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Yes, sometimes I used the Internet to translate a few words. Sometimes I asked the teacher or classmates to repeat it, or I used a translator, such as Google Translate.",
     "source_question": "Q: CZY UCZNIOWIE PODCZAS LEKCJI UŻYWALI TŁUMACZA NA PRZYKŁAD GOOGLE TRANSLATE?. CZY PANI UŻYWAŁA ?",
     "source_answer": "A: Tak, czasami używałam internetu do tłumaczenia kilku słów. Czasami prosiłam nauczyciela albo koleżanki, żeby powtórzyli, albo używałam tłumacza, na przykład Google Translate.",
-    "output_file": "output-demo-pack/audio/0427-entry-0214-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0427-entry-0214-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0428-entry-0214-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0428-entry-0214-answer.mp3"
   },
   {
-    "ordinal": 428,
+    "ordinal": 429,
     "entry_index": 215,
     "kind": "question",
     "display_text": "JAKIE DOKUMENTY PANI POTRZEBOWAŁA ŻEBY ZAPISAĆ SIĘ DO SZKOŁY?",
@@ -16567,11 +16605,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I needed a certificate from a university in India and a passport.",
     "source_question": "Q: JAKIE DOKUMENTY PANI POTRZEBOWAŁA ŻEBY ZAPISAĆ SIĘ DO SZKOŁY?",
     "source_answer": "A: Potrzebowałam certyfikat z uniwersytetu w Indiach i Paszport.",
-    "output_file": "output-demo-pack/audio/0428-entry-0215-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0428-entry-0215-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0429-entry-0215-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0429-entry-0215-question.mp3"
   },
   {
-    "ordinal": 429,
+    "ordinal": 430,
     "entry_index": 215,
     "kind": "answer",
     "display_text": "Potrzebowałam certyfikat z uniwersytetu w Indiach i Paszport.",
@@ -16586,11 +16624,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I needed a certificate from a university in India and a passport.",
     "source_question": "Q: JAKIE DOKUMENTY PANI POTRZEBOWAŁA ŻEBY ZAPISAĆ SIĘ DO SZKOŁY?",
     "source_answer": "A: Potrzebowałam certyfikat z uniwersytetu w Indiach i Paszport.",
-    "output_file": "output-demo-pack/audio/0429-entry-0215-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0429-entry-0215-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0430-entry-0215-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0430-entry-0215-answer.mp3"
   },
   {
-    "ordinal": 430,
+    "ordinal": 431,
     "entry_index": 216,
     "kind": "question",
     "display_text": "JAK WYGLĄDAŁ PROCES REKRUTACJI I W JAKIM JĘZYKU BYŁ PROWADZONY?",
@@ -16605,11 +16643,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: First, I applied online and created a form for the course, then I signed up at the school office and needed a certificate from a university in India and a passport. Recruitment was in Polish. The online form was in Polish and the school secretary also spoke Polish.",
     "source_question": "Q: JAK WYGLĄDAŁ PROCES REKRUTACJI I W JAKIM JĘZYKU BYŁ PROWADZONY?",
     "source_answer": "A: Najpierw aplikowałam online i zrobiłam formularz na kurs, potem zapisałam się w biurze szkoły i potrzebowałam certyfikat z uniwersytetu w Indiach i paszport. Rekrutacja była po polsku. Formularz online był po polsku i sekretarka w szkole mówiła też po polsku.",
-    "output_file": "output-demo-pack/audio/0430-entry-0216-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0430-entry-0216-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0431-entry-0216-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0431-entry-0216-question.mp3"
   },
   {
-    "ordinal": 431,
+    "ordinal": 432,
     "entry_index": 216,
     "kind": "answer",
     "display_text": "Najpierw aplikowałam online i zrobiłam formularz na kurs, potem zapisałam się w biurze szkoły i potrzebowałam certyfikat z uniwersytetu w Indiach i paszport. Rekrutacja była po polsku. Formularz online był po polsku i sekretarka w szkole mówiła też po polsku.",
@@ -16624,11 +16662,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: First, I applied online and created a form for the course, then I signed up at the school office and needed a certificate from a university in India and a passport. Recruitment was in Polish. The online form was in Polish and the school secretary also spoke Polish.",
     "source_question": "Q: JAK WYGLĄDAŁ PROCES REKRUTACJI I W JAKIM JĘZYKU BYŁ PROWADZONY?",
     "source_answer": "A: Najpierw aplikowałam online i zrobiłam formularz na kurs, potem zapisałam się w biurze szkoły i potrzebowałam certyfikat z uniwersytetu w Indiach i paszport. Rekrutacja była po polsku. Formularz online był po polsku i sekretarka w szkole mówiła też po polsku.",
-    "output_file": "output-demo-pack/audio/0431-entry-0216-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0431-entry-0216-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0432-entry-0216-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0432-entry-0216-answer.mp3"
   },
   {
-    "ordinal": 432,
+    "ordinal": 433,
     "entry_index": 217,
     "kind": "question",
     "display_text": "JAK WYGLĄDAŁ EGZAMINY? W JAKIM JĘZYKU BYŁ PROWADZONY?",
@@ -16643,11 +16681,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The exams were theoretical and practical. They were in Polish.",
     "source_question": "Q: JAK WYGLĄDAŁ EGZAMINY? W JAKIM JĘZYKU BYŁ PROWADZONY?",
     "source_answer": "A: Egzaminy były teoretyczne i praktyczne. Były po polsku.",
-    "output_file": "output-demo-pack/audio/0432-entry-0217-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0432-entry-0217-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0433-entry-0217-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0433-entry-0217-question.mp3"
   },
   {
-    "ordinal": 433,
+    "ordinal": 434,
     "entry_index": 217,
     "kind": "answer",
     "display_text": "Egzaminy były teoretyczne i praktyczne. Były po polsku.",
@@ -16662,11 +16700,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: The exams were theoretical and practical. They were in Polish.",
     "source_question": "Q: JAK WYGLĄDAŁ EGZAMINY? W JAKIM JĘZYKU BYŁ PROWADZONY?",
     "source_answer": "A: Egzaminy były teoretyczne i praktyczne. Były po polsku.",
-    "output_file": "output-demo-pack/audio/0433-entry-0217-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0433-entry-0217-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0434-entry-0217-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0434-entry-0217-answer.mp3"
   },
   {
-    "ordinal": 434,
+    "ordinal": 435,
     "entry_index": 218,
     "kind": "question",
     "display_text": "PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA W FIRMIE IT, TO DLACZEGO ZROBIŁA PANI KURS FLORYSTYCZNY?",
@@ -16681,11 +16719,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I work as an IT tester and that is my profession, but floristry is my hobby. I like flowers, I like making bouquets for my loved ones. I also signed up for a floristry course to practice and speak Polish because the teachers only spoke Polish during classes.",
     "source_question": "Q: PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA W FIRMIE IT, TO DLACZEGO ZROBIŁA PANI KURS FLORYSTYCZNY?",
     "source_answer": "A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. Lubię kwiaty, lubię robić bukiety dla moich bliskich. Zapisałam się na kurs florystyczny też żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.",
-    "output_file": "output-demo-pack/audio/0434-entry-0218-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0434-entry-0218-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0435-entry-0218-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0435-entry-0218-question.mp3"
   },
   {
-    "ordinal": 435,
+    "ordinal": 436,
     "entry_index": 218,
     "kind": "answer",
     "display_text": "Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. Lubię kwiaty, lubię robić bukiety dla moich bliskich. Zapisałam się na kurs florystyczny też żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.",
@@ -16700,11 +16738,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I work as an IT tester and that is my profession, but floristry is my hobby. I like flowers, I like making bouquets for my loved ones. I also signed up for a floristry course to practice and speak Polish because the teachers only spoke Polish during classes.",
     "source_question": "Q: PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA W FIRMIE IT, TO DLACZEGO ZROBIŁA PANI KURS FLORYSTYCZNY?",
     "source_answer": "A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. Lubię kwiaty, lubię robić bukiety dla moich bliskich. Zapisałam się na kurs florystyczny też żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.",
-    "output_file": "output-demo-pack/audio/0435-entry-0218-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0435-entry-0218-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0436-entry-0218-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0436-entry-0218-answer.mp3"
   },
   {
-    "ordinal": 436,
+    "ordinal": 437,
     "entry_index": 219,
     "kind": "question",
     "display_text": "PROSZĘ WYMIENIĆ PO POLSKU NARZĘDZIA FLORYSTYCZNE?",
@@ -16719,11 +16757,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Floral scissors - used for cutting flowers and branches Pruning shears - used to cut thick branches Hot glue - used to JOIN elements Tape – used to CONNECT elements. Floral foil - used for packing bouquets Wire - used to attach flowers and decorations. Ribbons - used for decoration",
     "source_question": "Q: PROSZĘ WYMIENIĆ PO POLSKU NARZĘDZIA FLORYSTYCZNE?",
     "source_answer": "A: Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi Sekator - używa się do cięcia grubych gałęzi Klej na gorąco - używa się do POŁACZENIA elementów Taśma – używa się do POŁACZENIA elementów. Folia florystyczna - używa się do pakowania bukietów Drut - używa się do mocowania kwiatów i dekoracji. Wstążki - używa się do dekoracji",
-    "output_file": "output-demo-pack/audio/0436-entry-0219-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0436-entry-0219-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0437-entry-0219-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0437-entry-0219-question.mp3"
   },
   {
-    "ordinal": 437,
+    "ordinal": 438,
     "entry_index": 219,
     "kind": "answer",
     "display_text": "Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi Sekator - używa się do cięcia grubych gałęzi Klej na gorąco - używa się do POŁACZENIA elementów Taśma – używa się do POŁACZENIA elementów. Folia florystyczna - używa się do pakowania bukietów Drut - używa się do mocowania kwiatów i dekoracji. Wstążki - używa się do dekoracji",
@@ -16738,11 +16776,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: Floral scissors - used for cutting flowers and branches Pruning shears - used to cut thick branches Hot glue - used to JOIN elements Tape – used to CONNECT elements. Floral foil - used for packing bouquets Wire - used to attach flowers and decorations. Ribbons - used for decoration",
     "source_question": "Q: PROSZĘ WYMIENIĆ PO POLSKU NARZĘDZIA FLORYSTYCZNE?",
     "source_answer": "A: Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi Sekator - używa się do cięcia grubych gałęzi Klej na gorąco - używa się do POŁACZENIA elementów Taśma – używa się do POŁACZENIA elementów. Folia florystyczna - używa się do pakowania bukietów Drut - używa się do mocowania kwiatów i dekoracji. Wstążki - używa się do dekoracji",
-    "output_file": "output-demo-pack/audio/0437-entry-0219-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0437-entry-0219-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0438-entry-0219-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0438-entry-0219-answer.mp3"
   },
   {
-    "ordinal": 438,
+    "ordinal": 439,
     "entry_index": 220,
     "kind": "question",
     "display_text": "DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
@@ -16752,35 +16790,35 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
     "original_reference_text": "WHY ARE YOU APPLYING FOR A PERMANENT RESIDENCE CARD AND A LONG-TERM RESIDENT CARD OF THE EUROPEAN UNION?",
     "display_question": "Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
-    "display_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+    "display_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
     "reference_question": "Q: WHY ARE YOU APPLYING FOR A PERMANENT RESIDENCE CARD AND A LONG-TERM RESIDENT CARD OF THE EUROPEAN UNION?",
-    "reference_answer": "A: I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
+    "reference_answer": "A: I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
     "source_question": "Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
-    "source_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-    "output_file": "output-demo-pack/audio/0438-entry-0220-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0438-entry-0220-question.mp3"
-  },
-  {
-    "ordinal": 439,
-    "entry_index": 220,
-    "kind": "answer",
-    "display_text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-    "translation_text": "I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
-    "spoken_text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-    "text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-    "original_text": "Planuję na stałe zostać w Polsce z rodziną. moja córka chodzi do polskiej, publicznej szkoły, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-    "original_reference_text": "I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
-    "display_question": "Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
-    "display_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-    "reference_question": "Q: WHY ARE YOU APPLYING FOR A PERMANENT RESIDENCE CARD AND A LONG-TERM RESIDENT CARD OF THE EUROPEAN UNION?",
-    "reference_answer": "A: I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
-    "source_question": "Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
-    "source_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
-    "output_file": "output-demo-pack/audio/0439-entry-0220-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0439-entry-0220-answer.mp3"
+    "source_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+    "output_file": "output-demo-pack-fresh/audio/0439-entry-0220-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0439-entry-0220-question.mp3"
   },
   {
     "ordinal": 440,
+    "entry_index": 220,
+    "kind": "answer",
+    "display_text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+    "translation_text": "I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
+    "spoken_text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+    "text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+    "original_text": "Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+    "original_reference_text": "I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
+    "display_question": "Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
+    "display_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+    "reference_question": "Q: WHY ARE YOU APPLYING FOR A PERMANENT RESIDENCE CARD AND A LONG-TERM RESIDENT CARD OF THE EUROPEAN UNION?",
+    "reference_answer": "A: I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years. I like Polish culture and Poles, I feel good and safe here.",
+    "source_question": "Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?",
+    "source_answer": "A: Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie.",
+    "output_file": "output-demo-pack-fresh/audio/0440-entry-0220-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0440-entry-0220-answer.mp3"
+  },
+  {
+    "ordinal": 441,
     "entry_index": 221,
     "kind": "question",
     "display_text": "UKOŃCZYŁA PANI SZKOŁĘ FLORYSTYKI, TO DLACZEGO PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA?",
@@ -16795,11 +16833,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I work as an IT tester and that is my profession, but floristry is my hobby. I like flowers, I like making bouquets for my loved ones. I also signed up for a floristry course to practice and speak Polish because the teachers only spoke Polish during classes.",
     "source_question": "Q: UKOŃCZYŁA PANI SZKOŁĘ FLORYSTYKI, TO DLACZEGO PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA?",
     "source_answer": "A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. Lubię kwiaty, lubię robić bukiety dla moich bliskich. Zapisałam się na kurs florystyczny też żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.",
-    "output_file": "output-demo-pack/audio/0440-entry-0221-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0440-entry-0221-question.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0441-entry-0221-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0441-entry-0221-question.mp3"
   },
   {
-    "ordinal": 441,
+    "ordinal": 442,
     "entry_index": 221,
     "kind": "answer",
     "display_text": "Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. Lubię kwiaty, lubię robić bukiety dla moich bliskich. Zapisałam się na kurs florystyczny też żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.",
@@ -16814,11 +16852,11 @@ window.__POLISH_MANIFEST__ = [
     "reference_answer": "A: I work as an IT tester and that is my profession, but floristry is my hobby. I like flowers, I like making bouquets for my loved ones. I also signed up for a floristry course to practice and speak Polish because the teachers only spoke Polish during classes.",
     "source_question": "Q: UKOŃCZYŁA PANI SZKOŁĘ FLORYSTYKI, TO DLACZEGO PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA?",
     "source_answer": "A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. Lubię kwiaty, lubię robić bukiety dla moich bliskich. Zapisałam się na kurs florystyczny też żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.",
-    "output_file": "output-demo-pack/audio/0441-entry-0221-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0441-entry-0221-answer.mp3"
+    "output_file": "output-demo-pack-fresh/audio/0442-entry-0221-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0442-entry-0221-answer.mp3"
   },
   {
-    "ordinal": 442,
+    "ordinal": 443,
     "entry_index": 222,
     "kind": "question",
     "display_text": "CZY CHCE PANI JESZCZE COŚ DODAĆ?",
@@ -16828,31 +16866,31 @@ window.__POLISH_MANIFEST__ = [
     "original_text": "CZY CHCE PANI JESZCZE COŚ DODAĆ?",
     "original_reference_text": "DO YOU WANT TO ADD ANYTHING ELSE?",
     "display_question": "Q: CZY CHCE PANI JESZCZE COŚ DODAĆ?",
-    "display_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+    "display_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
     "reference_question": "Q: DO YOU WANT TO ADD ANYTHING ELSE?",
-    "reference_answer": "A: Thank you for your time. I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
+    "reference_answer": "A: Thank you for your time. I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
     "source_question": "Q: CZY CHCE PANI JESZCZE COŚ DODAĆ?",
-    "source_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
-    "output_file": "output-demo-pack/audio/0442-entry-0222-question.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0442-entry-0222-question.mp3"
+    "source_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+    "output_file": "output-demo-pack-fresh/audio/0443-entry-0222-question.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0443-entry-0222-question.mp3"
   },
   {
-    "ordinal": 443,
+    "ordinal": 444,
     "entry_index": 222,
     "kind": "answer",
-    "display_text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
-    "translation_text": "Thank you for your time. I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
-    "spoken_text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
-    "text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
-    "original_text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. moja córka chodzi do polskiej, publicznej szkoły, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
-    "original_reference_text": "Thank you for your time. I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
+    "display_text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+    "translation_text": "Thank you for your time. I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
+    "spoken_text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+    "text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+    "original_text": "Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+    "original_reference_text": "Thank you for your time. I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
     "display_question": "Q: CZY CHCE PANI JESZCZE COŚ DODAĆ?",
-    "display_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+    "display_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
     "reference_question": "Q: DO YOU WANT TO ADD ANYTHING ELSE?",
-    "reference_answer": "A: Thank you for your time. I plan to stay in Poland permanently with my family. my daughter goes to a Polish public school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
+    "reference_answer": "A: Thank you for your time. I plan to stay in Poland permanently with my family. my son goes to a bilingual school, My husband and I work in Poland, we have our own apartment in Krakow. I like Polish culture and Poles, I feel good and safe here. I am asking for a long-term European Union resident's residence card to be issued to me.",
     "source_question": "Q: CZY CHCE PANI JESZCZE COŚ DODAĆ?",
-    "source_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do polskiej szkoły publicznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
-    "output_file": "output-demo-pack/audio/0443-entry-0222-answer.mp3",
-    "output_file_from_repo_root": "output-demo-pack/audio/0443-entry-0222-answer.mp3"
+    "source_answer": "A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną. mój syn chodzi do szkoły dwujęzycznej, ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.",
+    "output_file": "output-demo-pack-fresh/audio/0444-entry-0222-answer.mp3",
+    "output_file_from_repo_root": "output-demo-pack-fresh/audio/0444-entry-0222-answer.mp3"
   }
 ];
