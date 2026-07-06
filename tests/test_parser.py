@@ -36,19 +36,19 @@ def test_prepare_spoken_strips_labels_by_default() -> None:
 
 
 def test_apply_replacements_updates_names_for_pronunciation() -> None:
-    text = "Mój mąż ma na imię Rajesh i pracuje w Hitachi Energy."
-    replacements = [("Rajesh", "Rajesz"), ("Hitachi Energy", "Hitaczi Energy")]
+    text = "Mój mąż ma na imię Pankaj i pracuje w StoneX Inc."
+    replacements = [("Pankaj", "Pankadż"), ("StoneX Inc.", "Stone Eks Ink")]
 
-    assert apply_replacements(text, replacements) == "Mój mąż ma na imię Rajesz i pracuje w Hitaczi Energy."
+    assert apply_replacements(text, replacements) == "Mój mąż ma na imię Pankadż i pracuje w Stone Eks Ink"
 
 
 def test_load_replacements_sorts_longest_match_first(tmp_path) -> None:
     replacements_file = tmp_path / "replacements.json"
     replacements_file.write_text(
-        '{"Rajesh": "Shilpa", "Mój mąż ma na imię Rajesh.": "Mój mąż ma na imię Shilpa."}',
+        '{"Pankaj": "Pankadż", "Mój mąż ma na imię Pankaj.": "Mój mąż ma na imię Pankadż."}',
         encoding="utf-8",
     )
 
     replacements = load_replacements(str(replacements_file))
 
-    assert replacements[0][0] == "Mój mąż ma na imię Rajesh."
+    assert replacements[0][0] == "Mój mąż ma na imię Pankaj."

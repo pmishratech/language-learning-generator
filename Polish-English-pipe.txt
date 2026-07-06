@@ -1,8 +1,8 @@
 Q: Jakie są pani kwalifikacje zawodowe?|Q: What are your professional qualifications?
-A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.|A: I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.
+A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.|A: I am a qualified computer engineer. I have a master's degree in computer science from a university in India.
 |
 Q: Kiedy ostatnio pani była w Indiach?|Q: When was the last time you were in India?
-A: Byłam Ostatnio w Indiach 28 stycznia 2024 r.|A: I was last in India on January 28, 2024.
+A: Byłam ostatnio w Indiach 20 marca 2026 r.|A: I was last in India on March 20, 2026.
 |
 Q: Czy posiada pani własną nieruchomość?|Q: Do you own your own property?
 A: TAK MAM/POSIADAM WŁASNĄ NIERUCHOMOŚĆ. To jest trzypokojowe mieszkanie.|A: YES, I HAVE OWN PROPERTY. This is a three-room apartment.
@@ -23,7 +23,7 @@ A: Wcześniej mieszkałam w Indiach, w Bharthana.|A: Previously, I lived in Indi
    Po tym jak mój mąż dostał pracę w Polsce, przyjechałam do Polski, i od tego czasu mieszkam w Polsce.|After my husband got a job in Poland, I came to Poland, and I have been living in Poland since then.
 |
 Q: Jak nazywa się firma, która zaoferowała pani pracę w Polsce?|Q: What is the name of the company that offered you a job in Poland?
-A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.|A: The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.
+A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.|A: The company that offered me a job in Poland is UBS Bank.
 |
 Q: Skąd pani jest?|Q: Where are you from?
 A: JESTEM Z INDII.|A: I AM FROM INDIA.
@@ -86,10 +86,10 @@ Q: Czym się pani zajmuje w pracy?|Q: What do you do at work?
 A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.|A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.
 |
 Q: Jakie pani ma kwalifikacje?|Q: What are your qualifications?
-A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki na uniwersytecie w Indiach.|A: I am a qualified computer engineer. I have a bachelor's degree in computer science from a university in India.
+A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.|A: I am a qualified computer engineer. I have a master's degree in computer science from a university in India.
 |
 Q: Jak nazywa się firma, która dała pani ofertę pracy w Polsce?|Q: What is the name of the company that offered you a job in Poland?
-A: Firma, która dała mi ofertę pracę w Polsce to Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.|A: The company that offered me a job in Poland is Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.
+A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.|A: The company that offered me a job in Poland is UBS Bank.
 |
 Q: Kim pani jest z zawodu?|Q: What is your profession?
 A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.|A: I AM A COMPUTER ENGINEER BY PROFESSION.
@@ -134,30 +134,30 @@ Q: Jakie pani ma obowiązki na swoim stanowisku?|Q: What are your responsibiliti
 A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.|A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.
 |
 Q: Czy Pani mieszka sama?|Q: Do you live alone?
-A: Nie, Nie mieszkam sama. Mieszkam z Rodziną, mój mąż i corka. Mój mąż ma na imię Rajesh a moja córka ma na imię Esabel .|A: No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Rajesh and my daughter's name is Esabel.
+A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i córką. Mój mąż ma na imię Pankaj, a moja córka ma na imię Esabel.|A: No, I don't live alone. I live with my family, my husband and daughter. My husband's name is Pankaj and my daughter's name is Esabel.
 |
 Q: Jakie są twoje kwalifikacje?|Q: What are your qualifications?
-A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.|A: I am a qualified computer engineer. I have a bachelor's degree in computer science.
+A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.|A: I am a qualified computer engineer. I have a master's degree in computer science.
 |
 Q: Jak się nazywa firma?|Q: What is the name of the company?
-A: Moja firma nazywa się Anachron Techonology,aktualnie tę firmę kupiła amerykańska firma Billtrust. Ale w Polsce dalej firma nazywa się Anachron Technology.|A: My company is called Anachron Techonology, currently this company was bought by the American company Billtrust. But in Poland the company is still called Anachron Technology.
+A: Moja firma to UBS Bank.|A: My company is UBS Bank.
 |
 Q: Kiedy Pani przyjechał do Polski?|Q: When did you come to Poland?
 A: Przyjechałam do Polski 8 lat temu, w 11 listopadzie 2018 roku. Przyjechałam do Polski z mężem i córką.|A: I came to Poland 8 years ago, on November 11, 2018. I came to Poland with my husband and daughter.
 |
 Q: Jakie masz kwalifikacje?|Q: What are your qualifications?
-A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł licencjata z informatyki.|A: I am a qualified computer engineer. I have a bachelor's degree in computer science.
+A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.|A: I am a qualified computer engineer. I have a master's degree in computer science.
 |
 |
 |
 Q: Czy pani współmałżonek pracuje?|Q: Does your spouse work?
-A: MÓJ współmałżonek PRACUJE W FIRMIE Hitachi Energy.|A: MY spouse WORKS FOR Hitachi Energy.
+A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.|A: MY SPOUSE WORKS FOR StoneX Inc.
 |
 Q: Jaką Pani ma rodzinę?|Q: What kind of family do you have?
 A: Moja rodzina w Polsce nie jest duża, moja rodzina to jest mój mąż i moja córka.|A: My family in Poland is not large, my family is my husband and my daughter.
 |
 Q: Czy pani mąż pracuje?|Q: Does your husband work?
-A: MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.|A: MY HUSBAND WORKS FOR Hitachi Energy.
+A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.|A: MY HUSBAND WORKS FOR StoneX Inc.
 |
 Q: Czy pani dziecko mówi po polsku?|Q: Does your child speak Polish?
 A: TAK, MOJA CÓRKA MÓWI PO POLSKU.|A: YES, MY DAUGHTER SPEAKS POLISH.
@@ -166,16 +166,16 @@ Q: Ile lat pracuje pani w obecnej firmie?|Q: How many years have you been workin
 A: W obecnej firmie pracuje 7 lat.|A: He has been working in the current company for 7 years.
 |
 Q: Czy pani partner pracuje?|Q: Does your partner work?
-A: MÓJ partner PRACUJE W FIRMIE Hitachi Energy.|A: MY partner WORKS FOR Hitachi Energy.
+A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.|A: MY PARTNER WORKS FOR StoneX Inc.
 |
 Q: Jakie kwalifikacje zawodowe posiada pani mąż?|Q: What professional qualifications does your husband have?
-A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.|A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.
+A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.|A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.
 |
 Q: Kiedy ostatnio pani była w Indiach?|Q: When was the last time you were in India?
-A: Byłam Ostatnio w Indiach 28 stycznia 2024 r|A: I was last in India on January 28, 2024
+A: Byłam ostatnio w Indiach 20 marca 2026 r.|A: I was last in India on March 20, 2026.
 |
 Q: Czy pani współmałżonek pracuje?|Q: Does your spouse work?
-A: MÓJ współmałżonek PRACUJE W FIRMIE Hitachi Energy.|A: MY spouse WORKS FOR Hitachi Energy.
+A: MÓJ WSPÓŁMAŁŻONEK PRACUJE W FIRMIE StoneX Inc.|A: MY SPOUSE WORKS FOR StoneX Inc.
 |
 Q: Czy ma pani dzieci?|Q: Do you have children?
 A: TAK, MAM CÓRKĘ.|A: YES, I HAVE A DAUGHTER.
@@ -184,7 +184,7 @@ Q: Jak długo pani dziecko jest w przedszkolu/szkole/żłobku?|Q: How long has y
 A: MOJA CÓRKA JEST W SZKOLE OKOŁO 6 GODZIN.|A: MY DAUGHTER IS AT SCHOOL FOR ABOUT 6 HOURS.
 |
 Q: W jakiej firmie pracuje twój mąż?|Q: What company does your husband work for?
-A: MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.|A: MY HUSBAND WORKS FOR Hitachi Energy.
+A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.|A: MY HUSBAND WORKS FOR StoneX Inc.
 |
 Q: Czy pani mąż pracuje zawodowo?|Q: Does your husband work professionally?
 A: TAK, MÓJ MĄŻ PRACUJE ZAWODOWO.|A: YES, MY HUSBAND WORKS PROFESSIONALLY.
@@ -196,13 +196,13 @@ Q: Czy pani dziecko spotyka się z polskimi dziećmi?|Q: Does your child meet Po
 A: TAK, MOJA CÓRKA SPOTYKA SIĘ Z POLSKIMI DZIEĆMI.|A: YES, MY DAUGHTER IS DATING POLISH CHILDREN.
 |
 Q: W jakiej firmie pracuje pani mąż?|Q: What company does your husband work for?
-A: MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.|A: MY HUSBAND WORKS FOR Hitachi Energy.
+A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.|A: MY HUSBAND WORKS FOR StoneX Inc.
 |
 Q: Jak dawno temu pani przyjechała do Polski?|Q: How long ago did you come to Poland?
 A: PRZYJECHAŁAM DO POLSKI  8 LAT TEMU.|A: I CAME TO POLAND 8 YEARS AGO.
 |
 Q: W jakiej firmie pracował twój mąż?|Q: What company did your husband work for?
-A: MÓJ MĄŻ PRACUJE W FIRMIE Hitachi Energy.|A: MY HUSBAND WORKS FOR Hitachi Energy.
+A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.|A: MY HUSBAND WORKS FOR StoneX Inc.
 |
 Q: Czy pani dziecko bawi się z polskimi dziećmi?|Q: Does your child play with Polish children?
 A: TAK, MOJA CÓRKA BAWI SIĘ Z POLSKIMI DZIEĆMI.|A: YES, MY DAUGHTER PLAYS WITH POLISH CHILDREN.
@@ -217,7 +217,7 @@ A: Wcześniej mieszkałam w Indiach, w Bharthana.|A: Previously, I lived in Indi
    Po tym jak mój mąż dostał pracę w Polsce, przyjechałam do Polski, i od tego czasu mieszkam w Polsce.|After my husband got a job in Poland, I came to Poland, and I have been living in Poland since then.
 |
 Q: Jakie kwalifikacje posiada pani mąż?|Q: What qualifications does your husband have?
-A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.|A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.
+A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.|A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.
 |
 Q: Ile lat ma pani córka?|Q: How old is your daughter?
 A: MOJA CÓRKA MA 10 LAT.|A: MY DAUGHTER IS 10 YEARS OLD.
@@ -226,22 +226,22 @@ Q: Czy pani dziecko chodzi do szkoły, przedszkola albo żłobka?|Q: Does your c
 A: TAK, MOJE DZIECKO CHODZI DO SZKOŁY.|A: YES, MY CHILD GOES TO SCHOOL.
 |
 Q: Kim jest pani mąż z wykształcenia?|Q: Who is your husband by profession?
-A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł licencjata z informatyki na uniwersytecie w Indiach.|A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a bachelor's degree in computer science from a university in India.
+A: MÓJ MĄŻ JEST inżynierem INFORMATYKI. ON MA tytuł magistra z informatyki na uniwersytecie w Indiach.|A: MY HUSBAND IS A COMPUTER SCIENCE ENGINEER. HE HAS a master's degree in computer science from a university in India.
 |
 Q: Jak długo pani mieszka w Polsce?|Q: How long have you lived in Poland?
 A: MIESZKAM  W POLSCE 8 LAT.|A: I HAVE LIVED IN POLAND FOR 8 YEARS.
 |
 Q: Jak ma na imię pani mąż?|Q: What is your husband's name?
-A: MÓJ MĄŻ MA NA IMIĘ Rajesh.|A: MY HUSBAND'S NAME IS Rajesh.
+A: MÓJ MĄŻ MA NA IMIĘ Pankaj.|A: MY HUSBAND'S NAME IS Pankaj.
 |
 Q: Czy pani mąż pracuje w firmie, czy ma własną działalność gospodarczą?|Q: Does your husband work in a company or does he run his own business?
-A: MÓJ MĄZ PRACUJE W FIRMIE Hitachi Energy. ON NIE MA WŁASNEJ FIRMY.|A: MY HUSBAND WORKS FOR Hitachi Energy. HE DOESN'T HAVE OWN BUSINESS.
+A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc. ON NIE MA WŁASNEJ FIRMY.|A: MY HUSBAND WORKS FOR StoneX Inc. HE DOESN'T HAVE HIS OWN BUSINESS.
 |
 Q: Z jakiego kraju pani pochodzi?|Q: What country are you from?
 A: POCHODZĘ Z INDII.|A: I AM FROM INDIA.
 |
-Q: Czy pani córka chodzi do szkoły publicznej czy prywatnej?|Q: Does your daughter go to public or private school?
-A: Moja córka chodzi do SZKOŁA PUBLICZNA.|A: My daughter goes to public school.
+Q: Czy pani syn chodzi do szkoły publicznej czy dwujęzycznej?|Q: Does your son go to public or bilingual school?
+A: Mój syn chodzi do szkoły dwujęzycznej.|A: My son goes to bilingual school.
 |
 Q: Od kiedy jest pani w Polsce?|Q: How long have you been in Poland?
 A: JESTEM W POLSCE OD LISTOPADA 2018 ROKU.|A: I HAVE BEEN IN POLAND SINCE NOVEMBER 2018.
@@ -250,7 +250,7 @@ Q: Czy pani dziecko uczęszcza do polskojęzycznej szkoły lub przedszkola?|Q: D
 A: TAK, MOJE DZIECKO CHODZI DO POLSKOJĘZYCZNEJ SZKOŁY.|A: YES, MY CHILD GOES TO A POLISH-SPEAKING SCHOOL.
 |
 Q: Co robi pani mąż?|Q: What does your husband do?
-A: MÓJ MĄŻ ZAJMUJE SIĘ Hitachi Energy. |A: MY HUSBAND DEALS WITH Hitachi Energy.
+A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.|A: MY HUSBAND WORKS FOR StoneX Inc.
 |
 Q: Ile lat pani mieszka w Polsce?|Q: How many years have you lived in Poland?
 A: MIESZKAM W POLSCE OSIEM LAT.|A: I HAVE LIVED IN POLAND EIGHT YEARS.
@@ -280,13 +280,13 @@ Q: Od ilu lat jest pani w Polsce?|Q: How many years have you been in Poland?
 A: JESTEM W POLSCE OD OSIEM LAT.|A: I HAVE BEEN IN POLAND FOR EIGHT YEARS.
 |
 Q: Do jakiej szkoły chodzi pani dziecko?|Q: What school does your child go to?
-A: MOJA CÓRKA chodzi DO SZKOŁY PUBLICZNEJ.|A: MY DAUGHTER goes to public school.
+A: MÓJ SYN CHODZI DO SZKOŁY DWUJĘZYCZNEJ.|A: MY SON GOES TO BILINGUAL SCHOOL.
 |
 Q: Czy to jest szkoła publiczna czy prywatna?|Q: Is this a public or private school?
 A: TO JEST SZKOŁA PUBLICZNA.|A: THIS IS A PUBLIC SCHOOL.
 |
 Q: Czym się zajmuje pani mąż?|Q: What does your husband do?
-A: MÓJ MĄŻ ZAJMUJE SIĘ Hitachi Energy.|A: MY HUSBAND DEALS WITH Hitachi Energy.
+A: MÓJ MĄŻ PRACUJE W FIRMIE StoneX Inc.|A: MY HUSBAND WORKS FOR StoneX Inc.
 |
 Q: Gdzie pani mieszkała w Indiach?|Q: Where did you live in India?
 A: Mieszkałam w Bharthana. To moje rodzinne miasto.To wschodnia część Indii.|A: I lived in Bharthana. This is my hometown. It is the eastern part of India.
@@ -304,7 +304,7 @@ Q: Kto jest w Pani rodzinie?|Q: Who is in your family?
 A: Moja rodzina w Polsce nie jest duża, moja rodzina to jest mój mąż i moja córka.|A: My family in Poland is not large, my family is my husband and my daughter.
 |
 Q: Czy pani partner pracuje?|Q: Does your partner work?
-A: MÓJ partner PRACUJE W FIRMIE Hitachi Energy.|A: MY partner WORKS FOR Hitachi Energy.
+A: MÓJ PARTNER PRACUJE W FIRMIE StoneX Inc.|A: MY PARTNER WORKS FOR StoneX Inc.
 |
 Q: Jakie są pani zainteresowania?|Q: What are your interests?
 A: Interesuję się sportem, kinem, muzyką i gotowaniem.|A: I am interested in sports, cinema, music and cooking.
@@ -593,7 +593,7 @@ Q: Jakiej narodowości były inne osoby uczestniczące w kursie?|Q: What nationa
 A: Na kursie były osoby z : Iranu, Iraku, Ukrainy, Indii, Hiszpanii, Turcji.|A: There were people on the course from: Iran, Iraq, Ukraine, India, Spain and Turkey.
 |
 Q: Czy nauczyciel prowadził zajęcia po polsku?|Q: Did the teacher conduct classes in Polish?
-Á: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.|Á: Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.
+A: Tak, nauczyciel prowadził zajęcia tylko po polsku. Tylko w pierwszym semestrze na przedmiocie język angielski nauczyciel mówił po angielsku.|A: Yes, the teacher conducted classes only in Polish. Only in the first semester, in the English subject, the teacher spoke English.
 |
 Q: W jakie dni odbywały się zajęcia?|Q: On what days were classes held?
 A: Zajęcia tylko w weekendy, w sobotę i niedzielę, co drugi weekend.|A: Classes only on weekends, Saturday and Sunday, every other weekend.
@@ -745,7 +745,7 @@ A: Nożyczki florystyczne- używa się do cięcia kwiatów, gałęzi|A: Floral s
 |
 Q: DLACZEGO PANI UBIEGA SIĘ O KARTĘ STAŁEGO POBYTU I KARTĘ DŁUGOTERMINOWEGO REZYDENTA UNII EUROPEJSKIEJ?|Q: WHY ARE YOU APPLYING FOR A PERMANENT RESIDENCE CARD AND A LONG-TERM RESIDENT CARD OF THE EUROPEAN UNION?
 A: Planuję na stałe zostać w Polsce z rodziną. |A: I plan to stay in Poland permanently with my family.
-   moja córka chodzi do polskiej, publicznej szkoły, |my daughter goes to a Polish public school,
+   mój syn chodzi do szkoły dwujęzycznej, |my son goes to a bilingual school,
    ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. Mieszkam w Krakowie od 8 lat.|My husband and I work in Poland, we have our own apartment in Krakow. I have been living in Krakow for 8 years.
    Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. |I like Polish culture and Poles, I feel good and safe here.
 |
@@ -759,7 +759,7 @@ A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to 
 |
 Q: CZY CHCE PANI JESZCZE COŚ DODAĆ?|Q: DO YOU WANT TO ADD ANYTHING ELSE?
 A: Dziękuję panu za czas. Planuję na stałe zostać w Polsce z rodziną.|A: Thank you for your time. I plan to stay in Poland permanently with my family.
-   moja córka chodzi do polskiej, publicznej szkoły, |my daughter goes to a Polish public school,
+   mój syn chodzi do szkoły dwujęzycznej, |my son goes to a bilingual school,
    ja i mój mąż pracujemy w Polsce, mamy w Krakowie własne mieszkanie. |My husband and I work in Poland, we have our own apartment in Krakow.
    Lubię polską kulturę i Polaków, czuję się tutaj dobrze i bezpiecznie. |I like Polish culture and Poles, I feel good and safe here.
    Proszę o wydanie mi karty pobytu długoterminowego rezydenta Unii Europejskiej.|I am asking for a long-term European Union resident's residence card to be issued to me.
