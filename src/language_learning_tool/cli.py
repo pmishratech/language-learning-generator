@@ -4,11 +4,19 @@ import argparse
 from datetime import datetime, timezone
 import json
 from pathlib import Path
+import shutil
 from typing import Any, Iterable
 
 from language_learning_tool.dashboard import write_dashboard_html, write_manifest_bundle, write_manifest_data_js
 from language_learning_tool.parser import AlignedEntry, Entry, align_entries, load_entries
+from language_learning_tool.site import write_site_catalog, write_site_catalog_data_js, write_site_index
 from language_learning_tool.tts import TTSConfig, run_synthesis
+
+
+DEFAULT_DASHBOARD_FILE_NAME = "dashboard.html"
+DEFAULT_MANIFEST_FILE_NAME = "manifest.json"
+DEFAULT_SITE_OUTPUT_DIR = "site-output"
+DEFAULT_SITE_DECK_LABEL = "Language deck"
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -74,7 +82,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     generate.add_argument(
         "--dashboard-file-name",
-        default="dashboard.html",
+        default=DEFAULT_DASHBOARD_FILE_NAME,
         help="Name of the dashboard HTML file written inside the output directory",
     )
     generate.add_argument(
@@ -87,6 +95,13 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Skip writing the dashboard HTML file",
     )
+
+    generate_site = subparsers.add_parser(
+        "generate-site",
+        help="Generate a language selection home page plus one dashboard per configured deck",
+    )
+    generate_site.add_argument("site_config", help="Path to a JSON file describing the decks to generate")
+    generate_site.add_argument("--output-dir", default=None, help="Override the site output directory from the JSON config")
     return parser
 
 
@@ -162,6 +177,14 @@ def resolve_profile_file(args: argparse.Namespace) -> str | None:
     return args.profile_file or args.replacements_file
 
 
+def slugify(value: str) -> str:
+    normalized = "".join(character.lower() if character.isalnum() else "-" for character in value.strip())
+    cleaned = "-".join(part for part in normalized.split("-") if part)
+    if not cleaned:
+        raise ValueError("Deck slug cannot be empty.")
+    return cleaned
+
+
 def build_manifest_bundle(args: argparse.Namespace) -> tuple[dict[str, Any], list[tuple[str, Path]]]:
     input_path = Path(args.input_file)
     study_column = resolve_study_column(args)
@@ -233,6 +256,7 @@ def build_manifest_bundle(args: argparse.Namespace) -> tuple[dict[str, Any], lis
             "pronunciation_file": args.pronunciation_file,
             "entry_count": len({item['entry_index'] for item in items}),
             "item_count": len(items),
+            "deck_slug": getattr(args, "deck_slug", None),
         },
         "items": items,
     }
@@ -271,12 +295,140 @@ def generate_audio(args: argparse.Namespace) -> int:
     return 0
 
 
+def load_site_config(path: str) -> dict[str, Any]:
+    payload = json.loads(Path(path).read_text(encoding="utf-8"))
+    if not isinstance(payload, dict):
+        raise ValueError("Site config must contain a top-level JSON object.")
+    return payload
+
+
+def validate_site_decks(raw_decks: Any) -> list[dict[str, Any]]:
+    if not isinstance(raw_decks, list) or not raw_decks:
+        raise ValueError("Site config must contain a non-empty 'decks' array.")
+
+    validated: list[dict[str, Any]] = []
+    for raw_deck in raw_decks:
+        if not isinstance(raw_deck, dict):
+            raise ValueError("Each site deck entry must be a JSON object.")
+        validated.append(raw_deck)
+    return validated
+
+
+def resolve_expected_deck_slugs(decks: list[dict[str, Any]]) -> set[str]:
+    return {
+        slugify(str(deck.get("slug") or deck.get("label") or DEFAULT_SITE_DECK_LABEL))
+        for deck in decks
+    }
+
+
+def remove_stale_site_decks(output_dir: Path, expected_slugs: set[str]) -> None:
+    for child in output_dir.iterdir():
+        if not child.is_dir() or child.name in expected_slugs or child.name == "audio":
+            continue
+
+        manifest_path = child / DEFAULT_MANIFEST_FILE_NAME
+        dashboard_path = child / DEFAULT_DASHBOARD_FILE_NAME
+        if manifest_path.exists() or dashboard_path.exists():
+            shutil.rmtree(child)
+
+
+def build_site_deck_args(deck: dict[str, Any], output_dir: Path) -> argparse.Namespace:
+    label = str(deck.get("label") or deck.get("study_language_name") or deck.get("slug") or DEFAULT_SITE_DECK_LABEL)
+    slug = slugify(str(deck.get("slug") or label))
+    return argparse.Namespace(
+        command="generate",
+        input_file=str(deck["input_file"]),
+        study_column=int(deck.get("study_column", 0)),
+        column=None,
+        reference_column=int(deck.get("reference_column", 1)),
+        mode=str(deck.get("mode", "both")),
+        voice=str(deck.get("voice", "en-US-AriaNeural")),
+        rate=str(deck.get("rate", "+0%")),
+        pitch=str(deck.get("pitch", "+0Hz")),
+        volume=str(deck.get("volume", "+0%")),
+        output_dir=str(output_dir / slug),
+        limit=int(deck["limit"]) if deck.get("limit") is not None else None,
+        profile_file=deck.get("profile_file"),
+        pronunciation_file=deck.get("pronunciation_file"),
+        replacements_file=None,
+        keep_labels=bool(deck.get("keep_labels", False)),
+        study_language_name=str(deck.get("study_language_name", label)),
+        reference_language_name=str(deck.get("reference_language_name", "English")),
+        dashboard_title=str(deck.get("dashboard_title", f"{label} practice")),
+        dashboard_subtitle=str(
+            deck.get(
+                "dashboard_subtitle",
+                f"Practice common {deck.get('study_language_name', label)} questions and answers with translations and audio.",
+            )
+        ),
+        dashboard_file_name=str(deck.get("dashboard_file_name", DEFAULT_DASHBOARD_FILE_NAME)),
+        manifest_data_file_name=str(deck.get("manifest_data_file_name", "manifest-data.js")),
+        skip_dashboard=False,
+        deck_slug=slug,
+    )
+
+
+def generate_site(args: argparse.Namespace) -> int:
+    config = load_site_config(args.site_config)
+    site_meta = config.get("site", {}) if isinstance(config.get("site"), dict) else {}
+    decks = validate_site_decks(config.get("decks") or config.get("languages"))
+
+    output_dir = Path(args.output_dir or site_meta.get("output_dir") or DEFAULT_SITE_OUTPUT_DIR)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    remove_stale_site_decks(output_dir, resolve_expected_deck_slugs(decks))
+
+    catalog_decks: list[dict[str, Any]] = []
+    for raw_deck in decks:
+        deck_args = build_site_deck_args(raw_deck, output_dir)
+        exit_code = generate_audio(deck_args)
+        if exit_code != 0:
+            return exit_code
+
+        manifest = json.loads((Path(deck_args.output_dir) / DEFAULT_MANIFEST_FILE_NAME).read_text(encoding="utf-8"))
+        meta = manifest.get("meta", {})
+        catalog_decks.append(
+            {
+                "slug": meta.get("deck_slug") or slugify(str(raw_deck.get("slug") or raw_deck.get("label") or "deck")),
+                "label": str(raw_deck.get("label") or meta.get("study_language_name") or DEFAULT_SITE_DECK_LABEL),
+                "study_language_name": meta.get("study_language_name", "Study language"),
+                "reference_language_name": meta.get("reference_language_name", "Reference language"),
+                "subtitle": meta.get("dashboard_subtitle", "Study with translations and audio."),
+                "voice": meta.get("voice", deck_args.voice),
+                "entry_count": meta.get("entry_count", 0),
+                "item_count": meta.get("item_count", 0),
+                "relative_path": f"{meta.get('deck_slug') or deck_args.deck_slug}/{deck_args.dashboard_file_name}",
+            }
+        )
+
+    catalog = {
+        "meta": {
+            "title": str(site_meta.get("title", "Language Practice Library")),
+            "subtitle": str(
+                site_meta.get(
+                    "subtitle",
+                    "Choose a language deck and open its common questions, answers, translations, and audio.",
+                )
+            ),
+        },
+        "decks": catalog_decks,
+    }
+
+    write_site_index(output_dir / "index.html")
+    write_site_catalog(output_dir / "catalog.json", catalog)
+    write_site_catalog_data_js(output_dir / "catalog-data.js", catalog)
+    print(f"Generated site home page at {output_dir / 'index.html'}")
+    return 0
+
+
 def main(argv: Iterable[str] | None = None) -> int:
     parser = build_parser()
     args = parser.parse_args(list(argv) if argv is not None else None)
 
     if args.command == "generate":
         return generate_audio(args)
+    if args.command == "generate-site":
+        return generate_site(args)
 
     parser.error("Unsupported command")
     return 2

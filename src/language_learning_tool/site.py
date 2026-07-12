@@ -1,0 +1,122 @@
+from __future__ import annotations
+
+import json
+from pathlib import Path
+from typing import Any
+
+
+def build_site_index_html(catalog_file_name: str = "catalog-data.js") -> str:
+    return f"""<!DOCTYPE html>
+<html lang=\"en\">
+  <head>
+    <meta charset=\"UTF-8\" />
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />
+    <title>Language Practice Library</title>
+    <style>
+      :root {{
+        color-scheme: dark;
+        --bg: #07111f;
+        --panel: rgba(10, 18, 33, 0.82);
+        --text: #ecf3ff;
+        --muted: #9fb0d1;
+        --accent: #7c9cff;
+        --accent-2: #5eead4;
+        --border: rgba(255,255,255,0.1);
+        --shadow: 0 22px 60px rgba(0,0,0,0.28);
+      }}
+      * {{ box-sizing: border-box; }}
+      body {{
+        margin: 0;
+        min-height: 100vh;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif;
+        background:
+          radial-gradient(circle at top left, rgba(124, 156, 255, 0.28), transparent 24%),
+          radial-gradient(circle at top right, rgba(94, 234, 212, 0.18), transparent 20%),
+          radial-gradient(circle at 50% 0%, rgba(192, 132, 252, 0.12), transparent 22%),
+          var(--bg);
+        color: var(--text);
+      }}
+      main {{ width: min(1200px, calc(100% - 32px)); margin: 0 auto; padding: 32px 0 48px; }}
+      .hero, .card {{ background: var(--panel); border: 1px solid var(--border); border-radius: 24px; box-shadow: var(--shadow); backdrop-filter: blur(18px); }}
+      .hero {{ padding: 32px; margin-bottom: 20px; }}
+      h1 {{ margin: 0 0 10px; font-size: clamp(2rem, 4vw, 3.4rem); }}
+      .lead {{ margin: 0; max-width: 75ch; line-height: 1.65; color: var(--muted); }}
+      .summary {{ display: flex; flex-wrap: wrap; gap: 12px; margin: 20px 0 28px; }}
+      .pill {{ display: inline-flex; align-items: center; padding: 10px 16px; border-radius: 999px; background: rgba(124,156,255,0.14); border: 1px solid rgba(124,156,255,0.28); font-weight: 700; }}
+      .grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 18px; }}
+      .card {{ padding: 22px; display: grid; gap: 14px; }}
+      .card h2 {{ margin: 0; font-size: 1.35rem; }}
+      .meta {{ color: var(--muted); line-height: 1.5; }}
+      .stats {{ display: grid; gap: 8px; color: var(--muted); font-size: 0.95rem; }}
+      .cta {{ display: inline-flex; justify-content: center; align-items: center; min-height: 44px; padding: 12px 16px; border-radius: 14px; text-decoration: none; color: white; font-weight: 700; background: linear-gradient(135deg, var(--accent), #9f7aea); }}
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class=\"hero\">
+        <h1 id=\"siteTitle\">Language Practice Library</h1>
+        <p id=\"siteSubtitle\" class=\"lead\">Choose a language deck and open its common questions, answers, translations, and audio.</p>
+      </section>
+
+      <section class=\"summary\">
+        <span class=\"pill\" id=\"deckCount\">0 decks</span>
+        <span class=\"pill\" id=\"entryCount\">0 entries</span>
+        <span class=\"pill\" id=\"itemCount\">0 audio items</span>
+      </section>
+
+      <section id=\"cardGrid\" class=\"grid\"></section>
+    </main>
+
+    <script src=\"./{catalog_file_name}\"></script>
+    <script>
+      const siteData = window.__LANGUAGE_LEARNING_SITE__ || {{ meta: {{}}, decks: [] }};
+      const titleEl = document.getElementById('siteTitle');
+      const subtitleEl = document.getElementById('siteSubtitle');
+      const deckCountEl = document.getElementById('deckCount');
+      const entryCountEl = document.getElementById('entryCount');
+      const itemCountEl = document.getElementById('itemCount');
+      const cardGridEl = document.getElementById('cardGrid');
+
+      const decks = Array.isArray(siteData.decks) ? siteData.decks : [];
+      const meta = siteData.meta || {{}};
+      titleEl.textContent = meta.title || 'Language Practice Library';
+      subtitleEl.textContent = meta.subtitle || 'Choose a language deck and open its common questions, answers, translations, and audio.';
+      document.title = titleEl.textContent;
+      deckCountEl.textContent = `${{decks.length}} deck${{decks.length === 1 ? '' : 's'}}`;
+      entryCountEl.textContent = `${{decks.reduce((sum, deck) => sum + Number(deck.entry_count || 0), 0)}} entries`;
+      itemCountEl.textContent = `${{decks.reduce((sum, deck) => sum + Number(deck.item_count || 0), 0)}} audio items`;
+
+      for (const deck of decks) {{
+        const card = document.createElement('article');
+        card.className = 'card';
+        card.innerHTML = `
+          <div>
+            <h2>${{deck.label}}</h2>
+            <div class=\"meta\">${{deck.study_language_name}} ↔ ${{deck.reference_language_name}}</div>
+          </div>
+          <div class=\"meta\">${{deck.subtitle}}</div>
+          <div class=\"stats\">
+            <span>Voice: ${{deck.voice}}</span>
+            <span>${{deck.entry_count}} entries · ${{deck.item_count}} audio items</span>
+          </div>
+          <a class=\"cta\" href=\"${{deck.relative_path}}\">Open deck</a>
+        `;
+        cardGridEl.appendChild(card);
+      }}
+    </script>
+  </body>
+</html>
+"""
+
+
+def write_site_index(path: str | Path, catalog_file_name: str = "catalog-data.js") -> None:
+    Path(path).write_text(build_site_index_html(catalog_file_name=catalog_file_name), encoding="utf-8")
+
+
+def write_site_catalog(path: str | Path, catalog: dict[str, Any]) -> None:
+    Path(path).write_text(json.dumps(catalog, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def write_site_catalog_data_js(path: str | Path, catalog: dict[str, Any]) -> None:
+    payload = "window.__LANGUAGE_LEARNING_SITE__ = " + json.dumps(catalog, ensure_ascii=False, indent=2) + ";\n"
+    Path(path).write_text(payload, encoding="utf-8")

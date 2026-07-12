@@ -1,0 +1,45 @@
+{
+  "site": {
+    "title": "Common Language Practice",
+    "subtitle": "Choose Hindi, German, or Polish audio while keeping English visible on screen for easy practice.",
+    "output_dir": "output-common-language-site"
+  },
+  "decks": [
+    {
+      "slug": "hindi-english-audio",
+      "label": "Hindi audio with English text",
+      "input_file": "content/common-english-hindi.json",
+      "study_column": 1,
+      "reference_column": 0,
+      "voice": "hi-IN-SwaraNeural",
+      "study_language_name": "Hindi",
+      "reference_language_name": "English",
+      "dashboard_title": "Hindi ↔ English common practice",
+      "dashboard_subtitle": "See both Hindi and English together, and play only the Hindi audio."
+    },
+    {
+      "slug": "german-english-audio",
+      "label": "German audio with English text",
+      "input_file": "content/common-english-german.json",
+      "study_column": 1,
+      "reference_column": 0,
+      "voice": "de-DE-KatjaNeural",
+      "study_language_name": "German",
+      "reference_language_name": "English",
+      "dashboard_title": "German ↔ English common practice",
+      "dashboard_subtitle": "See both German and English together, and play only the German audio."
+    },
+    {
+      "slug": "polish-english-audio",
+      "label": "Polish audio with English text",
+      "input_file": "Polish-English-pipe.txt",
+      "study_column": 0,
+      "reference_column": 1,
+      "voice": "pl-PL-ZofiaNeural",
+      "study_language_name": "Polish",
+      "reference_language_name": "English",
+      "dashboard_title": "Polish ↔ English common practice",
+      "dashboard_subtitle": "Keep the existing Polish deck available with English visible and Polish audio only."
+    }
+  ]
+}

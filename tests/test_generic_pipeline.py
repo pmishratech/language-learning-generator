@@ -1,8 +1,8 @@
 import json
 from argparse import Namespace
 
-from language_learning_tool.cli import generate_audio
-from language_learning_tool.parser import align_entries
+from language_learning_tool.cli import generate_audio, generate_site
+from language_learning_tool.parser import align_entries, load_entries
 
 
 SAMPLE = """Q: Jak się masz?|Q: How are you?
@@ -78,3 +78,136 @@ def test_generate_audio_writes_bundle_and_dashboard(tmp_path, monkeypatch) -> No
     assert bundle["items"][0]["output_file"] == "audio/0001-entry-0001-question.mp3"
     assert (out_dir / "manifest-data.js").exists()
     assert (out_dir / "dashboard.html").exists()
+
+
+def test_load_entries_reads_json_deck_by_language_index(tmp_path) -> None:
+    deck = {
+        "meta": {
+            "language_order": ["en", "hi"],
+            "languages": {"en": "English", "hi": "Hindi"},
+        },
+        "entries": [
+            {
+                "id": "greeting",
+                "q": {"en": "What is your name?", "hi": "आपका नाम क्या है?"},
+                "a": {"en": "My name is {{full_name}}.", "hi": "मेरा नाम {{full_name}} है।"},
+            }
+        ],
+    }
+    deck_file = tmp_path / "deck.json"
+    deck_file.write_text(json.dumps(deck, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    english_entries = load_entries(deck_file, column=0)
+    hindi_entries = load_entries(deck_file, column=1)
+
+    assert english_entries[0].question == "What is your name?"
+    assert hindi_entries[0].answer == "मेरा नाम {{full_name}} है।"
+
+
+def test_generate_site_writes_index_and_catalog(tmp_path, monkeypatch) -> None:
+    sample_file = tmp_path / "sample.txt"
+    sample_file.write_text(SAMPLE, encoding="utf-8")
+    site_config = tmp_path / "site.json"
+    site_config.write_text(
+        json.dumps(
+            {
+                "site": {
+                    "title": "Common language practice",
+                    "subtitle": "Choose the language deck you want.",
+                    "output_dir": str(tmp_path / "site-output"),
+                },
+                "decks": [
+                    {
+                        "slug": "polish-english",
+                        "label": "Polish → English",
+                        "input_file": str(sample_file),
+                        "study_column": 0,
+                        "reference_column": 1,
+                        "voice": "pl-PL-ZofiaNeural",
+                        "study_language_name": "Polish",
+                        "reference_language_name": "English",
+                    },
+                    {
+                        "slug": "english-polish",
+                        "label": "English → Polish",
+                        "input_file": str(sample_file),
+                        "study_column": 1,
+                        "reference_column": 0,
+                        "voice": "en-US-AriaNeural",
+                        "study_language_name": "English",
+                        "reference_language_name": "Polish",
+                    },
+                ],
+            },
+            ensure_ascii=False,
+            indent=2,
+        ),
+        encoding="utf-8",
+    )
+
+    captured_jobs = []
+
+    def fake_run_synthesis(items, config) -> None:
+        captured_jobs.extend(list(items))
+
+    monkeypatch.setattr("language_learning_tool.cli.run_synthesis", fake_run_synthesis)
+
+    args = Namespace(command="generate-site", site_config=str(site_config), output_dir=None)
+    exit_code = generate_site(args)
+
+    site_output = tmp_path / "site-output"
+    catalog = json.loads((site_output / "catalog.json").read_text(encoding="utf-8"))
+    assert exit_code == 0
+    assert len(catalog["decks"]) == 2
+    assert (site_output / "index.html").exists()
+    assert (site_output / "catalog-data.js").exists()
+    assert (site_output / "polish-english" / "dashboard.html").exists()
+    assert (site_output / "english-polish" / "dashboard.html").exists()
+    assert captured_jobs
+
+
+def test_generate_site_removes_stale_deck_directories(tmp_path, monkeypatch) -> None:
+    sample_file = tmp_path / "sample.txt"
+    sample_file.write_text(SAMPLE, encoding="utf-8")
+    site_output = tmp_path / "site-output"
+    stale_dir = site_output / "english-audio"
+    stale_dir.mkdir(parents=True, exist_ok=True)
+    (stale_dir / "dashboard.html").write_text("old dashboard", encoding="utf-8")
+
+    site_config = tmp_path / "site.json"
+    site_config.write_text(
+        json.dumps(
+            {
+                "site": {
+                    "output_dir": str(site_output),
+                },
+                "decks": [
+                    {
+                        "slug": "hindi-audio",
+                        "label": "Hindi audio",
+                        "input_file": str(sample_file),
+                        "study_column": 0,
+                        "reference_column": 1,
+                        "voice": "hi-IN-SwaraNeural",
+                        "study_language_name": "Hindi",
+                        "reference_language_name": "English",
+                    }
+                ],
+            },
+            ensure_ascii=False,
+            indent=2,
+        ),
+        encoding="utf-8",
+    )
+
+    def fake_run_synthesis(items, config) -> None:
+        _ = list(items)
+        _ = config
+
+    monkeypatch.setattr("language_learning_tool.cli.run_synthesis", fake_run_synthesis)
+
+    exit_code = generate_site(Namespace(command="generate-site", site_config=str(site_config), output_dir=None))
+
+    assert exit_code == 0
+    assert not stale_dir.exists()
+    assert (site_output / "hindi-audio" / "dashboard.html").exists()

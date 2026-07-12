@@ -5,6 +5,7 @@ A free CLI tool that reads pipe-delimited study material and generates multiling
 ## What it does
 
 - Parses files where each line contains multiple language columns separated by `|`
+- Parses JSON lesson decks with reusable bilingual question/answer entries
 - Treats one column as the study language and another as the reference/translation language
 - Supports profile/content replacements separately from pronunciation-only overrides
 - Generates one MP3 per spoken item
@@ -105,6 +106,12 @@ Keep using the legacy command if you want:
 polish-tool generate Polish-English-pipe.txt --study-language-name Polish --reference-language-name English --output-dir output-demo-pack
 ```
 
+Generate a full multi-language site with a language chooser home page:
+
+```bash
+language-dashboard generate-site content/common-language-site.json
+```
+
 ## Input format expected
 
 The parser supports files like this:
@@ -125,6 +132,26 @@ Q: Gdzie mieszkasz?|Q: Where do you live?
 A: Mieszkam w Krakowie.|A: I live in Krakow.
 ```
 
+It also supports JSON decks like the new starter files in `content/`:
+
+```json
+{
+  "meta": {
+    "language_order": ["en", "hi"],
+    "languages": {"en": "English", "hi": "Hindi"}
+  },
+  "entries": [
+    {
+      "id": "001",
+      "q": {"en": "What is your full name?", "hi": "आपका पूरा नाम क्या है?"},
+      "a": {"en": "My full name is {{full_name}}.", "hi": "मेरा पूरा नाम {{full_name}} है।"}
+    }
+  ]
+}
+```
+
+Use `--study-column 0 --reference-column 1` for the first language in `language_order`, or swap them to reverse the spoken/translation side.
+
 ## Output
 
 Inside `output/` you will get:
@@ -133,6 +160,13 @@ Inside `output/` you will get:
 - `manifest.json` — schema v2 bundle with metadata + items
 - `manifest-data.js` — embedded bundle for local HTML loading
 - `dashboard.html` — searchable dashboard + flashcards
+
+When using `generate-site`, you will also get:
+
+- `index.html` — home page for choosing a deck/language
+- `catalog.json` — site metadata and available decks
+- `catalog-data.js` — embedded site catalog for the home page
+- one dashboard folder per deck
 
 ## Manifest schema
 
@@ -148,6 +182,25 @@ The generated `manifest.json` now contains:
   - `output_file`
 
 This makes the output reusable for future dashboards, apps, or study workflows.
+
+## Starter content added
+
+The repo now includes reusable starter decks with placeholders for names, addresses, dates, and similar personal details:
+
+- `content/common-english-hindi.json` — 100 English/Hindi Q&A pairs, which gives roughly 200 common study utterances
+- `content/common-english-german.json` — 100 English/German Q&A pairs, also roughly 200 common study utterances
+- `content/common-language-site.json` — ready-to-run site config with:
+  - Hindi audio + English text visible on screen
+  - German audio + English text visible on screen
+  - existing Polish audio + English text visible on screen
+
+The generated dashboards will automatically show a deck switcher when they are opened as part of a generated site.
+
+If you already know English, the intended setup is:
+
+- English stays visible on screen as the reference text
+- Hindi, German, or Polish is the only spoken audio
+- users click the target-language audio directly from the dashboard
 
 ## Notes
 

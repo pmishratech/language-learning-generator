@@ -307,6 +307,10 @@ def render_dashboard_html() -> str:
       <section class=\"hero\">
         <h1 id=\"pageTitle\">Everyday Conversation Practice</h1>
         <p class=\"lead\" id=\"pageSubtitle\">Build confidence with common questions, useful answers, translations, flashcards, and audio.</p>
+        <div id=\"deckSwitcherWrap\" class=\"hidden\" style=\"margin-top: 16px;\">
+          <label for=\"deckSwitcher\" style=\"display:block; margin-bottom:8px; color:var(--muted); font-size:0.92rem;\">Switch language deck</label>
+          <select id=\"deckSwitcher\" aria-label=\"Switch language deck\" style=\"min-width: min(420px, 100%);\"></select>
+        </div>
       </section>
 
       <section id=\"practicePanel\" class=\"toolbar collapsed\">
@@ -420,6 +424,8 @@ def render_dashboard_html() -> str:
       const playAllPauseValueEl = document.getElementById('playAllPauseValue');
       const pageTitleEl = document.getElementById('pageTitle');
       const pageSubtitleEl = document.getElementById('pageSubtitle');
+      const deckSwitcherWrapEl = document.getElementById('deckSwitcherWrap');
+      const deckSwitcherEl = document.getElementById('deckSwitcher');
       const languageBadgeEl = document.getElementById('languageBadge');
       const browseModeBtn = document.getElementById('browseModeBtn');
       const flashcardModeBtn = document.getElementById('flashcardModeBtn');
@@ -456,6 +462,7 @@ def render_dashboard_html() -> str:
       let playAllIndex = 0;
       let playAllTimeout = null;
       let playAllScrollFrame = null;
+      let siteCatalog = null;
       const playAllAudio = new Audio();
 
       function detectInitialTheme() {{
@@ -847,6 +854,64 @@ def render_dashboard_html() -> str:
         document.title = title;
       }}
 
+      function populateDeckSwitcher() {{
+        const decks = Array.isArray(siteCatalog && siteCatalog.decks) ? siteCatalog.decks : [];
+        const currentSlug = bundle.meta && bundle.meta.deck_slug ? bundle.meta.deck_slug : '';
+        if (!decks.length || !currentSlug) {{
+          deckSwitcherWrapEl.classList.add('hidden');
+          return;
+        }}
+
+        deckSwitcherEl.innerHTML = '';
+        for (const deck of decks) {{
+          const option = document.createElement('option');
+          option.value = deck.relative_path || '';
+          option.textContent = `${{deck.label}} — ${{deck.study_language_name}} audio`;
+          if (deck.slug === currentSlug) {{
+            option.selected = true;
+          }}
+          deckSwitcherEl.appendChild(option);
+        }}
+
+        deckSwitcherWrapEl.classList.remove('hidden');
+      }}
+
+      async function maybeLoadSiteCatalog() {{
+        if (window.__LANGUAGE_LEARNING_SITE__) {{
+          siteCatalog = window.__LANGUAGE_LEARNING_SITE__;
+          populateDeckSwitcher();
+          return;
+        }}
+
+        try {{
+          await new Promise((resolve, reject) => {{
+            const script = document.createElement('script');
+            script.src = '../catalog-data.js';
+            script.onload = resolve;
+            script.onerror = reject;
+            document.head.appendChild(script);
+          }});
+          if (window.__LANGUAGE_LEARNING_SITE__) {{
+            siteCatalog = window.__LANGUAGE_LEARNING_SITE__;
+            populateDeckSwitcher();
+            return;
+          }}
+        }} catch (error) {{
+          siteCatalog = null;
+        }}
+
+        try {{
+          const response = await fetch('../catalog.json');
+          if (!response.ok) {{
+            return;
+          }}
+          siteCatalog = await response.json();
+          populateDeckSwitcher();
+        }} catch (error) {{
+          siteCatalog = null;
+        }}
+      }}
+
       function getFilteredItems() {{
         const searchTerm = normalize(searchInput.value.trim());
         const filterKind = kindFilter.value;
@@ -990,6 +1055,7 @@ def render_dashboard_html() -> str:
         bundle = coerceBundle(payload);
         groupedEntries = groupManifest(bundle.items);
         applyMeta(bundle.meta || {{}});
+        populateDeckSwitcher();
         setStatus(
           'Manifest loaded. You can browse, filter, and study in flashcard mode.',
           `${{groupedEntries.length}} entries · ${{bundle.items.length}} audio items`
@@ -1139,6 +1205,11 @@ def render_dashboard_html() -> str:
         flashcardIndex = (flashcardIndex + 1) % filteredItems.length;
         renderFlashcard();
       }});
+      deckSwitcherEl.addEventListener('change', () => {{
+        if (deckSwitcherEl.value) {{
+          window.location.href = deckSwitcherEl.value;
+        }}
+      }});
 
       applyTheme(detectInitialTheme());
       autoScrollSpeed = detectInitialScrollSpeed();
@@ -1149,6 +1220,7 @@ def render_dashboard_html() -> str:
       stopPlayAll();
       stopAutoScroll();
       applyToolbarCollapsed(detectInitialPanelState());
+      maybeLoadSiteCatalog();
       autoLoadManifest();
     </script>
   </body>

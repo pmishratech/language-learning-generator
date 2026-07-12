@@ -1,0 +1,41 @@
+window.__LANGUAGE_LEARNING_SITE__ = {
+  "meta": {
+    "title": "Common Language Practice",
+    "subtitle": "Choose Hindi, German, or Polish audio while keeping English visible on screen for easy practice."
+  },
+  "decks": [
+    {
+      "slug": "hindi-english-audio",
+      "label": "Hindi audio with English text",
+      "study_language_name": "Hindi",
+      "reference_language_name": "English",
+      "subtitle": "See both Hindi and English together, and play only the Hindi audio.",
+      "voice": "hi-IN-SwaraNeural",
+      "entry_count": 100,
+      "item_count": 200,
+      "relative_path": "hindi-english-audio/dashboard.html"
+    },
+    {
+      "slug": "german-english-audio",
+      "label": "German audio with English text",
+      "study_language_name": "German",
+      "reference_language_name": "English",
+      "subtitle": "See both German and English together, and play only the German audio.",
+      "voice": "de-DE-KatjaNeural",
+      "entry_count": 100,
+      "item_count": 200,
+      "relative_path": "german-english-audio/dashboard.html"
+    },
+    {
+      "slug": "polish-english-audio",
+      "label": "Polish audio with English text",
+      "study_language_name": "Polish",
+      "reference_language_name": "English",
+      "subtitle": "Keep the existing Polish deck available with English visible and Polish audio only.",
+      "voice": "pl-PL-ZofiaNeural",
+      "entry_count": 221,
+      "item_count": 442,
+      "relative_path": "polish-english-audio/dashboard.html"
+    }
+  ]
+};
