@@ -1,5 +1,5 @@
 Q: Jakie są pani kwalifikacje zawodowe?|Q: What are your professional qualifications?
-A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.|A: I am a qualified computer engineer. I have a master's degree in computer science from a university in India.
+A: Jestem wykwalifikowanym inżynierem oprogramowania. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.|A: I am a qualified software engineer. I have a master's degree in computer science from a university in India.
 |
 Q: Kiedy ostatnio pani była w Indiach?|Q: When was the last time you were in India?
 A: Byłam ostatnio w Indiach 20 marca 2026 r.|A: I was last in India on March 20, 2026.
@@ -12,9 +12,6 @@ A: Generalnie, w pracy mówię po angielsku, ponieważ to firma międzynarodowa.
 |
 Q: Jak długo pani mieszka w Polsce?|Q: How long have you lived in Poland?
 A: MIESZKAM  W POLSCE 8 LAT./ JESTEM W POLSCE OD SIERPNIA 2018 ROKU.|A: I HAVE LIVED IN POLAND FOR 8 YEARS/ I HAVE BEEN IN POLAND SINCE AUGUST 2018.
-|
-Q: Dlaczego pani rozmawiała po angielsku w biurze emigracyjnym?|Q: Why did you speak English at the emigration office?
-A: Bo: wszystko rozumiałam co pani w biurze mówiła po polsku ale wolałam mówić po angielsku żeby być pewną, że zrozumiałam wszystko dobrze. |A: Because: I understood everything that the lady in the office said in Polish, but I preferred to speak English to be sure that I understood everything correctly.
 |
 Q: Gdzie pani mieszkała wcześniej?|Q: Where did you live before?
 A: Wcześniej mieszkałam w Indiach, w Bharthana.|A: Previously, I lived in India, in Bharthana.
@@ -32,7 +29,7 @@ Q: Czym pani dojeżdża do pracy?|Q: What do you use to commute to work?
 A: Do pracy jeżdżę tramwajem albo autobusem albo samochodem. Czasami latem chodzę pieszo.|A: I go to work by tram, bus or car. Sometimes in the summer I walk.
 |
 Q: Na jakim stanowisku pani pracuje?|Q: What position do you work in?
-A: Pracuję na stanowisku starszego inżyniera do spraw automatyzacji testów.|A: I work as a senior test automation engineer.
+A: Pracuję na stanowisku inżyniera oprogramowania.|A: I work as a software engineer.
 |
 Q: Jak długo pani mieszka w Krakowie?|Q: How long have you lived in Krakow?
 A: MIESZKAM  W Krakowie 8 LAT.|A: I HAVE LIVED IN Krakow for 8 YEARS.
@@ -41,7 +38,7 @@ Q: Czy ma pani własną nieruchomość?|Q: Do you have your own property?
 A: TAK MAM/POSIADAM WŁASNĄ NIERUCHOMOŚĆ. To jest trzypokojowe mieszkanie.|A: YES, I HAVE OWN PROPERTY. This is a three-room apartment.
 |
 Q: Jaki zawód pani wykonuje?|Q: What is your profession?
-A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.|A: I AM A COMPUTER ENGINEER BY PROFESSION.
+A: JESTEM Z ZAWODU INŻYNIEREM OPROGRAMOWANIA.|A: I AM A SOFTWARE ENGINEER BY PROFESSION.
 |
 Q: Od ilu lat jest pani w Polsce?|Q: How many years have you been in Poland?
 A: JESTEM W POLSCE OD OSIEM LAT.|A: I HAVE BEEN IN POLAND FOR EIGHT YEARS.
@@ -53,7 +50,7 @@ Q: Gdzie pani mieszka?|Q: Where do you live?
 A: Mieszkam w Krakowie na Os. Piastów 56C, Mieskanie Numer 160,Kod Poztowy 31-625,Polska.|A: I live in Krakow, Os. Piastów 56C, Apartment No. 160, Poztowy Code 31-625, Poland.
 |
 Q: Jakie stanowisko pani zajmuje?|Q: What is your position?
-A: Pracuję na stanowisku starszego inżyniera do spraw automatyzacji testów.|A: I work as a senior test automation engineer.
+A: Pracuję na stanowisku inżyniera oprogramowania.|A: I work as a software engineer.
 |
 Q: W jakim mieście pani mieszkała w Indiach?|Q: What city did you live in in India?
 A: Mieszkałam w Bharthana.|A: I lived in Bharthana.
@@ -86,13 +83,13 @@ Q: Czym się pani zajmuje w pracy?|Q: What do you do at work?
 A: W pracy pisze programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Też Spotykam się z klientami w sprawie dokumentacji technicznej.|A: At work I write computer programs, test applications and write technical documents. I also meet with clients regarding technical documentation.
 |
 Q: Jakie pani ma kwalifikacje?|Q: What are your qualifications?
-A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.|A: I am a qualified computer engineer. I have a master's degree in computer science from a university in India.
+A: Jestem wykwalifikowanym inżynierem oprogramowania. Mam tytuł magistra z informatyki na uniwersytecie w Indiach.|A: I am a qualified software engineer. I have a master's degree in computer science from a university in India.
 |
 Q: Jak nazywa się firma, która dała pani ofertę pracy w Polsce?|Q: What is the name of the company that offered you a job in Poland?
 A: Firma, która zaoferowała mi pracę w Polsce, to UBS Bank.|A: The company that offered me a job in Poland is UBS Bank.
 |
 Q: Kim pani jest z zawodu?|Q: What is your profession?
-A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.|A: I AM A COMPUTER ENGINEER BY PROFESSION.
+A: JESTEM Z ZAWODU INŻYNIEREM OPROGRAMOWANIA.|A: I AM A SOFTWARE ENGINEER BY PROFESSION.
 |
 Q: Kiedy pani przyjechała do Polski?|Q: When did you come to Poland?
 A: PRZYJECHAŁAM DO POLSKI  8 LAT TEMU.|A: I CAME TO POLAND 8 YEARS AGO.
@@ -116,7 +113,7 @@ Q: Jak długo pani jest w Polsce?|Q: How long have you been in Poland?
 A: JESTEM W POLSCE 8 LAT.|A: I HAVE BEEN IN POLAND FOR 8 YEARS.
 |
 Q: Jaki jest pani zawód?|Q: What is your profession?
-A: JESTEM Z ZAWODU INŻYNIEREM komputerowym.|A: I AM A COMPUTER ENGINEER BY PROFESSION.
+A: JESTEM Z ZAWODU INŻYNIEREM OPROGRAMOWANIA.|A: I AM A SOFTWARE ENGINEER BY PROFESSION.
 |
 Q: Czym pani jeździ do pracy?|Q: What do you drive to work?
 A: Do pracy jeżdżę tramwajem albo autobusem albo samochodem. Czasami latem chodzę pieszo.|A: I go to work by tram, bus or car. Sometimes in the summer I walk.
@@ -137,7 +134,7 @@ Q: Czy Pani mieszka sama?|Q: Do you live alone?
 A: Nie, nie mieszkam sama. Mieszkam z rodziną, z mężem i synem. Mój mąż ma na imię Pankaj, a mój syn ma na imię Aarush.|A: No, I don't live alone. I live with my family, my husband and son. My husband's name is Pankaj and my son's name is Aarush.
 |
 Q: Jakie są twoje kwalifikacje?|Q: What are your qualifications?
-A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.|A: I am a qualified computer engineer. I have a master's degree in computer science.
+A: Jestem wykwalifikowanym inżynierem oprogramowania. Mam tytuł magistra z informatyki.|A: I am a qualified software engineer. I have a master's degree in computer science.
 |
 Q: Jak się nazywa firma?|Q: What is the name of the company?
 A: Moja firma to UBS Bank.|A: My company is UBS Bank.
@@ -146,7 +143,7 @@ Q: Kiedy Pani przyjechał do Polski?|Q: When did you come to Poland?
 A: Przyjechałam do Polski 8 lat temu, 11 sierpnia 2018 roku. Przyjechałam do Polski z mężem i synem.|A: I came to Poland 8 years ago, on August 11, 2018. I came to Poland with my husband and son.
 |
 Q: Jakie masz kwalifikacje?|Q: What are your qualifications?
-A: Jestem wykwalifikowanym inżynierem komputerowym. Mam tytuł magistra z informatyki.|A: I am a qualified computer engineer. I have a master's degree in computer science.
+A: Jestem wykwalifikowanym inżynierem oprogramowania. Mam tytuł magistra z informatyki.|A: I am a qualified software engineer. I have a master's degree in computer science.
 |
 |
 |
@@ -421,14 +418,13 @@ Q: Czy ma pani jakiś znajomych?|Q: Do you have any friends?
 A: TAK, MAM KILKU ZNAJOMYCH.|A: YES, I HAVE SOME FRIENDS.
 |
 Q: Gdzie pani chodzi na zakupy?|Q: Where do you go shopping?
-A: Chodzić na zakupy w centrum SERENADA, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.|A: Go shopping in the SERENADA center because it is close to my apartment. Sometimes I do grocery shopping at Auchan, Biedronka and Lidl.
+A: Chodzę na zakupy do Bonarka City Center, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.|A: I go shopping at Bonarka City Center because it is close to my apartment. Sometimes I do grocery shopping at Auchan, Biedronka and Lidl.
 |
 Q: Proszę, opowiedzieć coś o swoich sąsiadach?|Q: Please tell us something about your neighbors?
 A: Moi sąsiedzi mieszkają w tym samym bloku co ja.|A: My neighbors live in the same building as me.
-   Mój sąsiad Bartek mieszka w mieszkaniu naprzeciwko mnie.|My neighbor Bartek lives in the apartment opposite me.
-   Często rozmawiamy. On ma 40 lat i jest nauczycielem historii.|We talk often. He is 40 years old and a history teacher.
+   Często rozmawiamy. Bartek ma 40 lat i jest nauczycielem historii.|We talk often. Bartek is 40 years old and a history teacher.
    On jest bardzo sympatyczny. Ma piękną żonę i córkę.|He is very nice. He has a beautiful wife and daughter.
-   Lubią indyjskie jedzenie. Czasami jemy razem kolację i oglądamy filmy a nasze dzieci bawią się razem.|They like Indian food. Sometimes we eat dinner together and watch movies and our children play together.
+   Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.|They like Indian food. Sometimes we eat dinner together, watch movies, and our children play together.
 |
 Q: Jacy są pani sąsiedzi?|Q: Who are your neighbors like?
 A: Moi sasiedzi sa bardzo sympatyczni,mili i pomocni.|A: My neighbors are very nice, nice and helpful.
@@ -444,8 +440,7 @@ A: Mój syn chodzi do szkoły sam.|A: My son goes to school alone.
 |
 Q: Proszę, opowiedzieć coś o swoich znajomych?|Q: Please tell me something about your friends?
 A: Moi znajomi mieszkają w tym samym bloku co ja.|A: My friends live in the same building as me.
-   Mój znajomy bartek mieszka w mieszkaniu naprzeciwko mnie.|My friend Bartek lives in the apartment opposite me.
-   Często rozmawiamy. On ma 40 lat i jest nauczycielem historii.|We talk often. He is 40 years old and a history teacher.
+   Często rozmawiamy. Bartek ma 40 lat i jest nauczycielem historii.|We talk often. Bartek is 40 years old and a history teacher.
    On jest bardzo sympatyczny. Ma piękną żonę i córkę.|He is very nice. He has a beautiful wife and daughter.
    Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.|They like Indian food. Sometimes we eat dinner together, watch movies, and our children play together.
 |
@@ -465,13 +460,12 @@ A: TAK, MAM KILKU SĄSIADÓW.|A: YES, I HAVE SOME NEIGHBORS.
 |
 Q: Proszę, opowiedzieć coś o swoich przyjaciołach?|Q: Please tell me something about your friends?
 A: Moi przyjaciele mieszkają w tym samym bloku co ja.|A: My friends live in the same building as me.
-   Mój przyjaciel bartek mieszka w mieszkaniu naprzeciwko mnie.|My friend Bartek lives in the apartment opposite me.
-   Często rozmawiamy. On ma 40 lat i jest nauczycielem historii.|We talk often. He is 40 years old and a history teacher.
+   Często rozmawiamy. Bartek ma 40 lat i jest nauczycielem historii.|We talk often. Bartek is 40 years old and a history teacher.
    On jest bardzo sympatyczny. Ma piękną żonę i córkę.|He is very nice. He has a beautiful wife and daughter.
    Lubią indyjskie jedzenie. Czasami jemy razem kolację, oglądamy filmy, a nasze dzieci bawią się razem.|They like Indian food. Sometimes we eat dinner together, watch movies, and our children play together.
 |
 Q: Gdzie pani robi zakupy w Krakowie?|Q: Where do you shop in Krakow?
-A: Generalnie robię zakupy w centrum SERENADA, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.|A: I generally shop at SERENADA mall because it's close to my apartment. Sometimes I do grocery shopping at Auchan, Biedronka and Lidl.
+A: Generalnie robię zakupy w Bonarka City Center, ponieważ jest blisko mojego mieszkania. Czasami robię zakupy spożywcze w Auchan, Biedronce i Lidlu.|A: I generally shop at Bonarka City Center because it's close to my apartment. Sometimes I do grocery shopping at Auchan, Biedronka and Lidl.
 |
 |
 |
@@ -729,7 +723,7 @@ Q: JAK WYGLĄDAŁ EGZAMINY? W JAKIM JĘZYKU BYŁ PROWADZONY?|Q: WHAT WAS THE EXA
 A: Egzaminy były teoretyczne i praktyczne. Były po polsku. |A: The exams were theoretical and practical. They were in Polish.
 |
 Q: PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA W FIRMIE IT, TO DLACZEGO ZROBIŁA PANI KURS FLORYSTYCZNY?|Q: YOU WORK AS A SOFTWARE ENGINEER IN AN IT COMPANY, SO WHY DID YOU TAKE A FLORISTIC COURSE?
-A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. |A: I work as an IT tester and that is my profession, but floristry is my hobby.
+A: Pracuję jako inżynier oprogramowania i to jest mój zawód, ale florystyka to jest moje hobby. |A: I work as a software engineer and that is my profession, but floristry is my hobby.
    Lubię kwiaty, lubię robić bukiety dla moich bliskich. |I like flowers, I like making bouquets for my loved ones.
    Zapisałam się na kurs florystyczny też  żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach. |I also signed up for a floristry course to practice and speak Polish because the teachers only spoke Polish during classes.
 |
@@ -752,7 +746,7 @@ A: Planuję na stałe zostać w Polsce z rodziną. |A: I plan to stay in Poland 
 |
 |
 Q: UKOŃCZYŁA PANI SZKOŁĘ FLORYSTYKI, TO DLACZEGO PRACUJE PANI JAKO INŻYNIER OPROGRAMOWANIA? |Q: YOU GRADUATED FLORISM SCHOOL, SO WHY DO YOU WORK AS A SOFTWARE ENGINEER?
-A: Pracuję jako testerka informatyczna i to jest mój zawód ale florystyka to jest moje hobby. |A: I work as an IT tester and that is my profession, but floristry is my hobby.
+A: Pracuję jako inżynier oprogramowania i to jest mój zawód, ale florystyka to jest moje hobby. |A: I work as a software engineer and that is my profession, but floristry is my hobby.
    Lubię kwiaty, lubię robić bukiety dla moich bliskich. |I like flowers, I like making bouquets for my loved ones.
    Zapisałam się na kurs florystyczny też  żeby ćwiczyć i mówić po polsku ponieważ nauczyciele mówili tylko po polsku na zajęciach.|I also signed up for a floristry course to practice and speak Polish because the teachers only spoke Polish during classes.
 |
