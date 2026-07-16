@@ -1,0 +1,50 @@
+Q: Jakie jest otoczenie pani mieszkania? Co jest w okolicy, gdzie pani mieszka?|Q: What is the area around your apartment like? What is nearby where you live?
+A: Mieszkam w Krakowie w okolicy Bonarki. Jest dużo zieleni i park. To miejsce jest bardzo ładne. Blisko mojego mieszkania jest centrum handlowe Bonarka City Center. Blisko mam też Lidl, Biedronkę, aptekę, szkołę i przedszkole. Jest dobra komunikacja autobusowa i tramwajowa.|A: I live in Kraków in the Bonarka area. There is a lot of greenery and a park. It is a very nice place. Near my apartment there is Bonarka City Center. I also have Lidl, Biedronka, a pharmacy, a school, and a kindergarten nearby. There is good bus and tram transport.
+|
+Q: Co wiesz o Polsce?|Q: What do you know about Poland?
+A: Pełna nazwa Polski to Rzeczpospolita Polska. Symbole narodowe Polski to: godło — orzeł biały, flaga — biało-czerwona, hymn polski. W Polsce jest demokracja. Najważniejszy w Polsce jest prezydent. Polacy mówią po polsku. Stolicą Polski jest Warszawa. Miasta w Polsce to: Warszawa, Kraków, Wrocław, Lublin. Najwyższe góry w Polsce to Tatry. Polskie morze to Bałtyk. Polska ma sąsiadów: Niemcy, Czechy, Ukraina, Białoruś, Litwa, Rosja.|A: The full name of Poland is the Republic of Poland. Poland’s national symbols are: the coat of arms — the white eagle, the flag — white and red, and the Polish anthem. Poland is a democracy. The president is the most important state authority in Poland. Polish people speak Polish. The capital of Poland is Warsaw. Cities in Poland include Warsaw, Kraków, Wrocław, and Lublin. The highest mountains in Poland are the Tatra Mountains. Poland’s sea is the Baltic Sea. Poland’s neighbors are Germany, the Czech Republic, Ukraine, Belarus, Lithuania, and Russia.
+|
+Q: Jakie znasz polskie święta narodowe?|Q: Which Polish national holidays do you know?
+A: Dzień Niepodległości — 11 listopada. Dzień Konstytucji 3 Maja.|A: Independence Day — November 11. Constitution Day — May 3.
+|
+Q: Jakie znasz polskie święta religijne?|Q: Which Polish religious holidays do you know?
+A: Wielkanoc, Boże Narodzenie, Dzień Wszystkich Świętych — 1 listopada.|A: Easter, Christmas, All Saints’ Day — November 1.
+|
+Q: Co to jest Wigilia i kiedy ją obchodzimy w Polsce?|Q: What is Christmas Eve dinner and when do we celebrate it in Poland?
+A: To jest specjalna kolacja, którą obchodzimy 24 grudnia.|A: It is a special dinner that we celebrate on December 24.
+|
+Q: Jakie znasz 3 tradycje Bożego Narodzenia?|Q: Which three Christmas traditions do you know?
+A: Dekorujemy choinkę, dajemy prezenty i dzielimy się opłatkiem.|A: We decorate the Christmas tree, give presents, and share the Christmas wafer.
+|
+Q: Kiedy obchodzimy w Polsce Wielkanoc?|Q: When do we celebrate Easter in Poland?
+A: W marcu albo w kwietniu.|A: In March or in April.
+|
+Q: Jajko to symbol jakiego polskiego święta religijnego? Co robimy?|Q: The egg is a symbol of which Polish religious holiday? What do we do?
+A: To symbol Wielkanocy. Polacy wtedy malują jajka.|A: It is a symbol of Easter. Polish people paint eggs then.
+|
+Q: Kiedy Polacy odwiedzają cmentarze? Czy wiesz, jakie to święto?|Q: When do Polish people visit cemeteries? Do you know which holiday it is?
+A: W Dzień Wszystkich Świętych, 1 listopada.|A: On All Saints’ Day, November 1.
+|
+Q: Co to są imieniny?|Q: What is a name day?
+A: To dzień twojego imienia.|A: It is the day of your given name.
+|
+Q: Czy wiesz, jaką piosenkę śpiewają Polacy na urodziny?|Q: Do you know which song Polish people sing for birthdays?
+A: Sto lat, sto lat.|A: “Sto lat, sto lat.”
+|
+Q: Jakie jest twoje ulubione polskie święto lub tradycja? Dlaczego?|Q: What is your favorite Polish holiday or tradition? Why?
+A: Moją ulubioną polską tradycją jest Wigilia, ponieważ cała rodzina spotyka się razem.|A: My favorite Polish tradition is Christmas Eve dinner, because the whole family meets together.
+|
+Q: Czy lubi Pani Zakopane?|Q: Do you like Zakopane?
+A: Tak, bardzo lubię Zakopane.|A: Yes, I like Zakopane very much.
+|
+Q: Jak często jeździ Pani do Zakopanego?|Q: How often do you go to Zakopane?
+A: Jeździmy do Zakopanego dwa albo trzy razy w roku.|A: We go to Zakopane two or three times a year.
+|
+Q: Co Pani myśli o Krakowie i Małopolsce?|Q: What do you think about Kraków and Małopolska?
+A: Kraków jest bardzo zielony, a Małopolska też jest bardzo zielona i piękna.|A: Kraków is very green, and Małopolska is also very green and beautiful.
+|
+Q: Jakie góry w Małopolsce Pani lubi?|Q: Which mountains in Małopolska do you like?
+A: Lubię góry w Małopolsce, szczególnie Tatry i okolice Zakopanego.|A: I like the mountains in Małopolska, especially the Tatra Mountains and the area around Zakopane.
+|
+Q: Dlaczego lubi Pani Kraków albo Polskę?|Q: Why do you like Kraków or Poland?
+A: Kraków jest bardzo piękny także zimą. Śnieg jest bardzo piękny.|A: Kraków is very beautiful in winter as well. The snow is very beautiful.

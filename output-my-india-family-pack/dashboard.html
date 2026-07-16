@@ -74,25 +74,6 @@
         overflow: hidden;
       }
 
-      .lesson-tabs {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        margin: 0 0 16px;
-      }
-
-      .lesson-tab {
-        background: rgba(255, 255, 255, 0.08);
-        border: 1px solid var(--border);
-        color: var(--text);
-        box-shadow: none;
-      }
-
-      .lesson-tab.active {
-        background: linear-gradient(135deg, var(--accent), var(--accent-3));
-        border-color: transparent;
-      }
-
       .hero::after {
         content: "";
         position: absolute;
@@ -280,14 +261,6 @@
         <p class="lead" id="pageSubtitle">Build confidence with common questions, useful answers, translations, flashcards, and audio.</p>
       </section>
 
-      <section class="lesson-tabs" aria-label="Lesson pack tabs">
-        <button id="lessonTabEveryday" class="lesson-tab active" type="button">Everyday Pack</button>
-        <button id="lessonTabUrzad" class="lesson-tab" type="button">Urząd Interview Pack</button>
-        <button id="lessonTabCulture" class="lesson-tab" type="button">Poland Culture Pack</button>
-        <button id="lessonTabBasic" class="lesson-tab" type="button">Basic Help Phrases</button>
-        <button id="lessonTabIndiaFamily" class="lesson-tab" type="button">My India Family</button>
-      </section>
-
       <section id="practicePanel" class="toolbar collapsed">
         <div id="toolbarBody" class="toolbar-body">
           <div class="toolbar-row">
@@ -376,72 +349,9 @@
 
     <script src="./manifest-data.js"></script>
     <script>
-      window.__BUNDLE_EVERYDAY__ = window.__LANGUAGE_LEARNING_BUNDLE__ || null;
-      window.__LEGACY_EVERYDAY__ = window.__POLISH_MANIFEST__ || [];
-    </script>
-    <script src="../output-urzad-pack/manifest-data.js"></script>
-    <script>
-      window.__BUNDLE_URZAD__ = window.__LANGUAGE_LEARNING_BUNDLE__ || null;
-      window.__LEGACY_URZAD__ = window.__POLISH_MANIFEST__ || [];
-    </script>
-    <script src="../output-urzad-culture-pack/manifest-data.js"></script>
-    <script>
-      window.__BUNDLE_CULTURE__ = window.__LANGUAGE_LEARNING_BUNDLE__ || null;
-      window.__LEGACY_CULTURE__ = window.__POLISH_MANIFEST__ || [];
-    </script>
-    <script src="../output-urzad-basic-pack/manifest-data.js"></script>
-    <script>
-      window.__BUNDLE_BASIC__ = window.__LANGUAGE_LEARNING_BUNDLE__ || null;
-      window.__LEGACY_BASIC__ = window.__POLISH_MANIFEST__ || [];
-    </script>
-    <script src="../output-my-india-family-pack/manifest-data.js"></script>
-    <script>
-      window.__BUNDLE_INDIA_FAMILY__ = window.__LANGUAGE_LEARNING_BUNDLE__ || null;
-      window.__LEGACY_INDIA_FAMILY__ = window.__POLISH_MANIFEST__ || [];
-    </script>
-    <script>
-      const datasets = {
-        everyday: {
-          key: 'everyday',
-          label: 'Everyday Pack',
-          manifestUrl: './manifest.json',
-          outputPrefix: './',
-          embeddedBundle: window.__BUNDLE_EVERYDAY__ || null,
-          embeddedLegacyItems: window.__LEGACY_EVERYDAY__ || [],
-        },
-        urzad: {
-          key: 'urzad',
-          label: 'Urząd Interview Pack',
-          manifestUrl: '../output-urzad-pack/manifest.json',
-          outputPrefix: '../output-urzad-pack/',
-          embeddedBundle: window.__BUNDLE_URZAD__ || null,
-          embeddedLegacyItems: window.__LEGACY_URZAD__ || [],
-        },
-        culture: {
-          key: 'culture',
-          label: 'Poland Culture Pack',
-          manifestUrl: '../output-urzad-culture-pack/manifest.json',
-          outputPrefix: '../output-urzad-culture-pack/',
-          embeddedBundle: window.__BUNDLE_CULTURE__ || null,
-          embeddedLegacyItems: window.__LEGACY_CULTURE__ || [],
-        },
-        basic: {
-          key: 'basic',
-          label: 'Basic Help Phrases',
-          manifestUrl: '../output-urzad-basic-pack/manifest.json',
-          outputPrefix: '../output-urzad-basic-pack/',
-          embeddedBundle: window.__BUNDLE_BASIC__ || null,
-          embeddedLegacyItems: window.__LEGACY_BASIC__ || [],
-        },
-        indiaFamily: {
-          key: 'indiaFamily',
-          label: 'My India Family',
-          manifestUrl: '../output-my-india-family-pack/manifest.json',
-          outputPrefix: '../output-my-india-family-pack/',
-          embeddedBundle: window.__BUNDLE_INDIA_FAMILY__ || null,
-          embeddedLegacyItems: window.__LEGACY_INDIA_FAMILY__ || [],
-        },
-      };
+      const manifestUrl = './manifest.json';
+      const embeddedBundle = window.__LANGUAGE_LEARNING_BUNDLE__ || null;
+      const embeddedLegacyItems = window.__POLISH_MANIFEST__ || [];
       const resultsEl = document.getElementById('browseView');
       const flashcardViewEl = document.getElementById('flashcardView');
       const emptyStateEl = document.getElementById('emptyState');
@@ -477,11 +387,6 @@
       const flashcardAudioEl = document.getElementById('flashcardAudio');
       const studyHeadingEl = document.getElementById('studyHeading');
       const referenceHeadingEl = document.getElementById('referenceHeading');
-      const lessonTabEverydayEl = document.getElementById('lessonTabEveryday');
-      const lessonTabUrzadEl = document.getElementById('lessonTabUrzad');
-      const lessonTabCultureEl = document.getElementById('lessonTabCulture');
-      const lessonTabBasicEl = document.getElementById('lessonTabBasic');
-      const lessonTabIndiaFamilyEl = document.getElementById('lessonTabIndiaFamily');
 
       const THEME_STORAGE_KEY = 'language-learning-theme';
       const PANEL_STORAGE_KEY = 'language-learning-toolbar-collapsed';
@@ -503,7 +408,6 @@
       let playAllIndex = 0;
       let playAllTimeout = null;
       let playAllScrollFrame = null;
-      let activeDatasetKey = 'everyday';
       const playAllAudio = new Audio();
 
       function detectInitialTheme() {
@@ -1046,81 +950,28 @@
         render();
       }
 
-      function applyOutputPrefix(payload, outputPrefix) {
-        if (!outputPrefix || outputPrefix === './') {
-          return payload;
-        }
-
-        const withPrefix = (audioPath) => {
-          if (!audioPath) {
-            return audioPath;
-          }
-          if (/^(?:https?:)?\/\//.test(audioPath) || audioPath.startsWith('/') || audioPath.startsWith('../')) {
-            return audioPath;
-          }
-          return `${outputPrefix}${audioPath}`;
-        };
-
-        if (Array.isArray(payload)) {
-          return payload.map((item) => ({
-            ...item,
-            output_file: withPrefix(item.output_file || ''),
-          }));
-        }
-
-        if (payload && Array.isArray(payload.items)) {
-          return {
-            ...payload,
-            items: payload.items.map((item) => ({
-              ...item,
-              output_file: withPrefix(item.output_file || ''),
-            })),
-          };
-        }
-
-        return payload;
-      }
-
-      function setActiveLessonTab(datasetKey) {
-        activeDatasetKey = datasetKey;
-        lessonTabEverydayEl.classList.toggle('active', datasetKey === 'everyday');
-        lessonTabUrzadEl.classList.toggle('active', datasetKey === 'urzad');
-        lessonTabCultureEl.classList.toggle('active', datasetKey === 'culture');
-        lessonTabBasicEl.classList.toggle('active', datasetKey === 'basic');
-        lessonTabIndiaFamilyEl.classList.toggle('active', datasetKey === 'indiaFamily');
-      }
-
-      async function loadDataset(datasetKey) {
-        const dataset = datasets[datasetKey];
-        if (!dataset) {
-          return;
-        }
-
-        setActiveLessonTab(datasetKey);
-
-        const loadPayload = (payload) => loadManifest(applyOutputPrefix(payload, dataset.outputPrefix));
-
-        if (dataset.embeddedBundle || dataset.embeddedLegacyItems.length) {
-          loadPayload(dataset.embeddedBundle || dataset.embeddedLegacyItems);
+      async function autoLoadManifest() {
+        if (embeddedBundle || embeddedLegacyItems.length) {
+          loadManifest(embeddedBundle || embeddedLegacyItems);
           setStatus(
-            dataset.embeddedBundle
-              ? `Loaded ${dataset.label} directly from embedded manifest data.`
-              : `Loaded ${dataset.label} from legacy embedded manifest data.`,
+            embeddedBundle
+              ? 'Loaded local manifest bundle directly from manifest-data.js.'
+              : 'Loaded legacy manifest data directly from manifest-data.js.',
             `${groupedEntries.length} entries · ${bundle.items.length} audio items`
           );
           return;
         }
 
         try {
-          const response = await fetch(dataset.manifestUrl);
+          const response = await fetch(manifestUrl);
           if (!response.ok) {
             throw new Error(`HTTP ${response.status}`);
           }
           const payload = await response.json();
-          loadPayload(payload);
+          loadManifest(payload);
         } catch (error) {
           setStatus(
-            `Loading ${dataset.label} failed. Open this folder through a local web server or verify manifest files.`,
+            'Automatic loading was blocked or failed. Open this folder through a small local web server or verify that manifest-data.js is present beside this page.',
             'Manifest not auto-loaded'
           );
         }
@@ -1240,21 +1091,6 @@
         flashcardIndex = (flashcardIndex + 1) % filteredItems.length;
         renderFlashcard();
       });
-      lessonTabEverydayEl.addEventListener('click', () => {
-        loadDataset('everyday');
-      });
-      lessonTabUrzadEl.addEventListener('click', () => {
-        loadDataset('urzad');
-      });
-      lessonTabCultureEl.addEventListener('click', () => {
-        loadDataset('culture');
-      });
-      lessonTabBasicEl.addEventListener('click', () => {
-        loadDataset('basic');
-      });
-      lessonTabIndiaFamilyEl.addEventListener('click', () => {
-        loadDataset('indiaFamily');
-      });
 
       applyTheme(detectInitialTheme());
       autoScrollSpeed = detectInitialScrollSpeed();
@@ -1265,7 +1101,7 @@
       stopPlayAll();
       stopAutoScroll();
       applyToolbarCollapsed(detectInitialPanelState());
-      loadDataset('everyday');
+      autoLoadManifest();
     </script>
   </body>
 </html>

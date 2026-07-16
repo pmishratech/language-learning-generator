@@ -1,0 +1,14 @@
+Q: Co Pani powie, jeśli czegoś Pani nie pamięta?|Q: What will you say if you do not remember something?
+A: Nie pamiętam.|A: I do not remember.
+|
+Q: Co Pani powie, kiedy chce Pani zaznaczyć, że to jest Pani opinia?|Q: What will you say when you want to show that it is your opinion?
+A: Myślę, że...|A: I think that...
+|
+Q: Co Pani powie, jeśli chce Pani, żeby urzędnik powtórzył pytanie?|Q: What will you say if you want the officer to repeat the question?
+A: Czy może Pan/Pani powtórzyć pytanie?|A: Can you please repeat the question?
+|
+Q: Co Pani powie, jeśli czegoś Pani nie rozumie?|Q: What will you say if you do not understand something?
+A: Nie rozumiem.|A: I do not understand.
+|
+Q: Co Pani powie, jeśli urzędnik mówi za cicho?|Q: What will you say if the officer is speaking too quietly?
+A: Czy może Pan/Pani mówić trochę głośniej?|A: Can you please speak a bit louder?
