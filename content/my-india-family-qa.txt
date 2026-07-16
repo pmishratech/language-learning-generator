@@ -1,0 +1,11 @@
+Q: Jaka jest data urodzenia Pani męża?|Q: What is your husband's birth date?
+A: Mój mąż urodził się 15 sierpnia 1985 roku.|A: My husband was born on 15 August 1985.
+|
+Q: Jaka jest data urodzenia Pani syna?|Q: What is your son's birth date?
+A: Mój syn urodził się 2 lutego 2016 roku.|A: My son was born on 02 February 2016.
+|
+Q: Gdzie mieszkają Pani rodzice?|Q: Where do your parents live?
+A: Moi rodzice mieszkają w Indiach. Są już bardzo starsi.|A: My parents live in India. They are very old.
+|
+Q: Ile ma Pani rodzeństwa?|Q: How many siblings do you have?
+A: Mam trzy siostry i dwóch braci, to duża rodzina.|A: I have 3 sisters and 2 brothers, a big family.

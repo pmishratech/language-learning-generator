@@ -1,0 +1,140 @@
+Q: Pouczenie* – Ostrzeżenie.|Q: Instruction* – Warning.
+A: Tak, rozumiem pouczenie.|A: Yes, I understand the instruction.
+|
+Q: Zobowiązuje się Pana/Panią do rozpowszechniania odpowiedzialności za oprogramowanie z prawdą.|Q: You are obliged to communicate responsibility for the statement truthfully.
+A: Tak, rozumiem i będę mówić zgodnie z prawdą.|A: Yes, I understand and I will speak truthfully.
+|
+Q: Zgodnie z art. 233 § 1 Kodeksu karnego, składanie fałszywych zeznań lub zatajenie prawdy podlega odpowiedzialności karnej, zagrożonej karą pozbawienia wolności do lat 8. Czy Pani to rozumie?|Q: According to Article 233 § 1 of the Criminal Code, giving false testimony or concealing the truth is subject to criminal liability, punishable by up to 8 years of imprisonment. Do you understand this?
+A: Tak, rozumiem.|A: Yes, I understand.
+|
+Q: Urząd poucza, że ma Pani prawo odmówić składania zeznań, jeśli odpowiedź mogłaby narazić Panią lub osobę najbliższą na odpowiedzialność karną. Czy to jest jasne?|Q: The Office informs you that you have the right to refuse to testify if your answer could expose you or a close person to criminal liability. Is this clear?
+A: Tak, to jest dla mnie jasne.|A: Yes, this is clear to me.
+|
+Q: Proszę powiedzieć, co Pani z tego zrozumiała.|Q: Please say what you understood from this.
+A: Muszę mówić prawdę i mogę odmówić odpowiedzi.|A: I must tell the truth and I can refuse to answer.
+|
+Q: Czy Pani to rozumie?|Q: Do you understand this?
+A: Tak, rozumiem.|A: Yes, I understand.
+|
+Q: Jak trafiła Pani dziś do biura Urzędu?|Q: How did you get to the Office today?
+A: Przyjechałam do biura tramwajem.|A: I came to the office by tram.
+|
+Q: Czy rozumie Pani język polski?|Q: Do you understand Polish?
+A: Tak, rozumiem język polski.|A: Yes, I understand Polish.
+|
+Q: Czy będzie Pani odpowiadać po polsku?|Q: Will you answer in Polish?
+A: Tak, będę odpowiadać po polsku.|A: Yes, I will answer in Polish.
+|
+Q: Proszę opowiedzieć, jak to się stało, że przyjechała Pani do Polski.|Q: Please explain how it happened that you came to Poland.
+A: Przyjechałam do Polski około 8 lat temu z mężem i córką. Mój mąż dostał pracę w Polsce i od tego czasu mieszkamy w Polsce.|A: I came to Poland about 8 years ago with my husband and daughter. My husband got a job in Poland, and we have lived in Poland since then.
+|
+Q: Jak długo mieszka Pani w Polsce?|Q: How long have you lived in Poland?
+A: Mieszkam w Polsce około 8 lat. Przyjechałam do Polski 11 listopada 2018 roku.|A: I have lived in Poland for about 8 years. I came to Poland on 11 November 2018.
+|
+Q: Jakie ma Pani obowiązki w pracy?|Q: What are your duties at work?
+A: W pracy piszę programy komputerowe, testuję aplikacje i piszę dokumenty techniczne. Spotykam się też z klientami w sprawie dokumentacji technicznej.|A: At work, I write computer programs, test applications, and prepare technical documents. I also meet clients regarding technical documentation.
+|
+Q: Czy pracuje Pani zdalnie, czy w biurze?|Q: Do you work remotely or in the office?
+A: Pracuję online w domu, ale raz w tygodniu pracuję w biurze, w poniedziałki.|A: I work online from home, but once a week I work in the office, on Mondays.
+|
+Q: Czy teraz Pani pracuje?|Q: Are you currently employed?
+A: Tak, teraz pracuję w Anachron Technology. Tę firmę kupiła amerykańska firma Billtrust, ale w Polsce nazwa nadal to Anachron Technology.|A: Yes, I currently work at Anachron Technology. The company was acquired by the American company Billtrust, but in Poland the name is still Anachron Technology.
+|
+Q: Gdzie Pani pracuje?|Q: Where do you work?
+A: Pracuję w Anachron Technology, obecnie należącej do Billtrust.|A: I work at Anachron Technology, currently owned by Billtrust.
+|
+Q: W jakich godzinach odbywały się zajęcia?|Q: At what hours were the classes held?
+A: Zajęcia odbywały się od ósmej do szesnastej.|A: Classes were held from 8:00 to 16:00.
+|
+Q: Z jakiego powodu zaczęła Pani naukę w szkole policealnej?|Q: Why did you start studying at a post-secondary school?
+A: Było kilka powodów. Po pierwsze, moja rodzina i ja lubimy kwiaty, więc uczyłam się robić bukiety. Po drugie, chciałam ćwiczyć język polski. Po trzecie, certyfikat mógł pomóc przy karcie pobytu długoterminowego.|A: There were several reasons. First, my family and I like flowers, so I learned to make bouquets. Second, I wanted to practice Polish. Third, the certificate could help with obtaining a long-term residence card.
+|
+Q: Czy używała Pani internetu na zajęciach z florystyki?|Q: Did you use the internet during floristry classes?
+A: Tak, czasami używałam internetu do tłumaczenia kilku słów.|A: Yes, sometimes I used the internet to translate a few words.
+|
+Q: Jak nazywała się szkoła?|Q: What was the name of the school?
+A: Moja szkoła nazywa się Szkoła Policealna ŻAK.|A: My school is called Post-Secondary School ŻAK.
+|
+Q: Na jakim etapie zapisu postanowiła Pani wybrać kurs florysty?|Q: At what stage of enrollment did you decide to choose the floristry course?
+A: Najpierw wybrałam kurs florystyczny w szkole ŻAK, potem aplikowałam online. Uczyłam się od września 2024 do czerwca 2025 roku.|A: First, I chose the floristry course at ŻAK school, then I applied online. I studied from September 2024 to June 2025.
+|
+Q: Czego nauczyła się Pani na przedmiocie „Kulturowe podstawy florystyki”?|Q: What did you learn in the subject “Cultural foundations of floristry”?
+A: Uczyłam się historii i symboliki roślin w Polsce.|A: I learned the history and symbolism of plants in Poland.
+|
+Q: Czego nauczyła się Pani na przedmiocie „Podstawy florystyki / kompozycje florystyczne”?|Q: What did you learn in the subject “Basics of floristry / floral compositions”?
+A: Uczyłam się teorii kolorów, proporcji i stylów.|A: I learned color theory, proportions, and styles.
+|
+Q: Czego nauczyła się Pani na przedmiocie „Projektowanie i sprzedaż usług florystycznych”?|Q: What did you learn in the subject “Design and sale of floristry services”?
+A: Uczyłam się marketingu i obsługi klienta.|A: I learned marketing and customer service.
+|
+Q: Czego nauczyła się Pani na przedmiocie „Środki wyrazu twórczego”?|Q: What did you learn in the subject “Means of creative expression”?
+A: Uczyłam się zasad kompozycji kolorów i wykonywania dekoracji florystycznych.|A: I learned the principles of color composition and making floral decorations.
+|
+Q: Czego nauczyła się Pani na przedmiocie „Wykonywanie dekoracji wnętrz i aranżacji obsadzanych”?|Q: What did you learn in the subject “Interior decoration and planted arrangements”?
+A: Uczyłam się dekorować wnętrza i komponować rośliny.|A: I learned how to decorate interiors and compose plant arrangements.
+|
+Q: Czego nauczyła się Pani na przedmiocie „Wykonywanie kompozycji funeralnych”?|Q: What did you learn in the subject “Funeral floral compositions”?
+A: Uczyłam się robić kompozycje pogrzebowe, na przykład wieńce i bukiety kondolencyjne.|A: I learned to make funeral arrangements, for example wreaths and condolence bouquets.
+|
+Q: Czego nauczyła się Pani na przedmiocie „Wykonywanie kompozycji ślubnych”?|Q: What did you learn in the subject “Wedding floral compositions”?
+A: Uczyłam się robić kompozycje ślubne oraz dekoracje kościoła, sali i samochodu.|A: I learned to make wedding arrangements and decorate the church, venue, and car.
+|
+Q: Czego nauczyła się Pani na przedmiocie „Wykonywanie kompozycji okolicznościowych”?|Q: What did you learn in the subject “Occasional floral compositions”?
+A: Uczyłam się robić kompozycje kwiatowe na różne okazje, na przykład urodziny i święta.|A: I learned to make floral arrangements for various occasions, such as birthdays and holidays.
+|
+Q: Czego nauczyła się Pani na przedmiocie „Język angielski”?|Q: What did you learn in the subject “English language”?
+A: Uczyłam się profesjonalnego słownictwa florystycznego.|A: I learned professional floristry vocabulary.
+|
+Q: Czego nauczyła się Pani na przedmiocie „Materiałoznawstwo nieroślinne”?|Q: What did you learn in the subject “Non-plant materials science”?
+A: Uczyłam się o narzędziach florystycznych, takich jak nożyczki, gąbka florystyczna, drut, taśma i klej.|A: I learned about floristry tools such as scissors, floral foam, wire, tape, and glue.
+|
+Q: Czego nauczyła się Pani na przedmiocie „Materiałoznawstwo roślinne”?|Q: What did you learn in the subject “Plant materials science”?
+A: Uczyłam się o roślinach i o tym, jak o nie dbać.|A: I learned about plants and how to care for them.
+|
+Q: Czego nauczyła się Pani na przedmiocie „Praktyka zawodowa”?|Q: What did you learn during “Professional practice”?
+A: Uczyłam się wykonywać bukiety, kompozycje kwiatowe i obsługiwać klienta.|A: I learned to make bouquets, floral arrangements, and serve customers.
+|
+Q: Pod jakim adresem odbywały się zajęcia praktyczne?|Q: At what address were the practical classes held?
+A: Zajęcia praktyczne odbywały się przy ulicy Rzeźniczej 4 w Krakowie.|A: Practical classes were held at 4 Rzeźnicza Street in Kraków.
+|
+Q: W jakie dni i godziny odbywały się zajęcia?|Q: On which days and at what times were classes held?
+A: Zajęcia odbywały się w weekendy, w soboty i niedziele, co drugi weekend, po osiem godzin.|A: Classes took place on weekends, on Saturdays and Sundays, every other weekend, for eight hours.
+|
+Q: W jakim języku były prowadzone zajęcia?|Q: In what language were the classes conducted?
+A: Zajęcia były prowadzone tylko po polsku. Tylko w pierwszym semestrze, na przedmiocie język angielski, nauczyciel mówił po angielsku.|A: Classes were conducted only in Polish. Only in the first semester, in the English class, the teacher spoke English.
+|
+Q: Czy rozumiała Pani polecenia nauczyciela?|Q: Did you understand the teacher’s instructions?
+A: Tak, dobrze rozumiałam polecenia nauczyciela.|A: Yes, I understood the teacher’s instructions well.
+|
+Q: Jakiej narodowości były inne osoby uczestniczące w kursie?|Q: What nationalities were the other participants in the course?
+A: Na kursie były osoby z Polski, Iranu, Iraku, Ukrainy, Indii, Hiszpanii i Turcji.|A: There were people from Poland, Iran, Iraq, Ukraine, India, Spain, and Turkey in the course.
+|
+Q: Ile osób uczęszczało na zajęcia?|Q: How many people attended classes?
+A: Oficjalnie w mojej grupie było sto dwadzieścia osób, ale regularnie chodziło około dwudziestu do trzydziestu osób.|A: Officially there were 120 people in my group, but around 20 to 30 attended regularly.
+|
+Q: Skąd dowiedziała się Pani o tej szkole?|Q: How did you learn about this school?
+A: Dowiedziałam się o szkole w internecie, na Facebooku.|A: I learned about the school on the internet, on Facebook.
+|
+Q: Jak wykorzystuje Pani umiejętności zdobyte na kursie w życiu lub pracy?|Q: How do you use the skills gained from the course in your life or work?
+A: W marcu zrobiłam bukiet na urodziny męża i był bardzo szczęśliwy. W pracy te umiejętności pomagają mi być dokładną i lepiej organizować pracę.|A: In March I made a bouquet for my husband’s birthday and he was very happy. At work, these skills help me be precise and organize my work better.
+|
+Q: Jak ocenia Pani swoje umiejętności języka polskiego?|Q: How do you assess your Polish language skills?
+A: Dobrze oceniam swoje umiejętności. Dużo rozumiem.|A: I assess my skills as good. I understand a lot.
+|
+Q: Jak długo trwał kurs?|Q: How long did the course last?
+A: Kurs trwał jeden rok, dwa semestry.|A: The course lasted one year, two semesters.
+|
+Q: Czy uczyła się Pani polskiego przed kursem?|Q: Did you study Polish before the course?
+A: Tak, uczyłam się polskiego samodzielnie przed kursem.|A: Yes, I studied Polish on my own before the course.
+|
+Q: Jakie miała Pani przedmioty?|Q: What subjects did you have?
+A: Miałam między innymi: język angielski, podstawy florystyki, kulturowe podstawy florystyki, wykonywanie kompozycji ślubnych i funeralnych.|A: I had, among others: English language, basics of floristry, cultural foundations of floristry, wedding compositions, and funeral compositions.
+|
+Q: Czy Pani to rozumie?|Q: Do you understand this?
+A: Tak, rozumiem. Muszę mówić prawdę i mogę odmówić odpowiedzi.|A: Yes, I understand. I must tell the truth and I can refuse to answer.
+|
+Q: Proszę powtórzyć pytanie.|Q: Please repeat the question.
+A: Proszę powtórzyć pytanie.|A: Please repeat the question.
+|
+Q: Chwilę proszę.|Q: One moment, please.
+A: Chwilę proszę.|A: One moment, please.
