@@ -12,7 +12,7 @@ A free CLI tool that reads pipe-delimited study material and generates multiling
 - Generates a modern dashboard with search, filters, inline audio, and flashcard mode
 - Still keeps the old `polish-tool` command working for backward compatibility
 
-## Why this approach
+## Why this approach is good
 
 This project uses `edge-tts` because it is the best practical free option for:
 
