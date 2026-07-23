@@ -88,61 +88,6 @@
       h1 { margin: 0 0 8px; font-size: clamp(1.8rem, 4vw, 3rem); line-height: 1.05; }
       .lead { margin: 0; color: var(--muted); max-width: 80ch; font-size: 1rem; line-height: 1.65; }
 
-      .lesson-switcher {
-        margin-bottom: 20px;
-        padding: 18px 20px;
-        border-radius: 24px;
-        background: var(--panel);
-        border: 1px solid var(--border);
-        box-shadow: var(--shadow);
-        backdrop-filter: blur(18px);
-      }
-      .lesson-switcher-head {
-        display: flex;
-        justify-content: space-between;
-        gap: 12px;
-        align-items: center;
-        margin-bottom: 12px;
-      }
-      .lesson-switcher-title {
-        margin: 0;
-        font-size: 0.95rem;
-        text-transform: uppercase;
-        letter-spacing: 0.08em;
-        color: var(--muted);
-      }
-      .lesson-switcher-note {
-        color: var(--muted);
-        font-size: 0.92rem;
-        line-height: 1.5;
-      }
-      .lesson-tabs {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-      }
-      .lesson-tab {
-        display: inline-flex;
-        align-items: center;
-        gap: 8px;
-        border: 1px solid var(--border);
-        background: var(--panel-soft);
-        color: var(--text);
-        box-shadow: none;
-      }
-      .lesson-tab.active {
-        background: linear-gradient(135deg, rgba(124, 156, 255, 0.26), rgba(159, 122, 234, 0.22));
-        border-color: rgba(124, 156, 255, 0.38);
-        outline: none;
-        transform: translateY(-1px);
-      }
-      .lesson-tab small {
-        display: block;
-        font-size: 0.78rem;
-        color: var(--muted);
-        font-weight: 600;
-      }
-
       .toolbar { padding: 18px; display: grid; gap: 14px; margin-bottom: 0; position: fixed; right: 20px; bottom: 92px; width: min(460px, calc(100vw - 32px)); max-height: calc(100vh - 122px); overflow: hidden; z-index: 30; transition: opacity 180ms ease, transform 180ms ease, visibility 180ms ease; }
       .toolbar.collapsed { opacity: 0; visibility: hidden; pointer-events: none; transform: translateY(16px) scale(0.98); }
       .toolbar-body { display: grid; gap: 14px; overflow: auto; max-height: inherit; padding-right: 4px; }
@@ -316,39 +261,6 @@
         <p class="lead" id="pageSubtitle">Build confidence with common questions, useful answers, translations, flashcards, and audio.</p>
       </section>
 
-      <section class="lesson-switcher" aria-label="Lesson pack tabs">
-        <div class="lesson-switcher-head">
-          <h2 class="lesson-switcher-title">Lesson packs</h2>
-          <div class="lesson-switcher-note" id="lessonPackStatus">Loading available packs…</div>
-        </div>
-        <div class="lesson-tabs" role="tablist" aria-label="Switch between generated packs">
-          <button id="lessonTabDemo" class="lesson-tab active" type="button" role="tab" aria-selected="true" title="Open the demo pack">
-            <span>Demo pack</span>
-            <small>Default sample</small>
-          </button>
-          <button id="lessonTabMonika" class="lesson-tab" type="button" role="tab" aria-selected="false" title="Open the Monika pack">
-            <span>Monika tab</span>
-            <small>Address & work</small>
-          </button>
-          <button id="lessonTabFamily" class="lesson-tab" type="button" role="tab" aria-selected="false" title="Open the My India Family pack">
-            <span>My India Family</span>
-            <small>Family practice</small>
-          </button>
-          <button id="lessonTabBasic" class="lesson-tab" type="button" role="tab" aria-selected="false" title="Open the Urzad basic pack">
-            <span>Urzad Basic</span>
-            <small>Basic answers</small>
-          </button>
-          <button id="lessonTabCulture" class="lesson-tab" type="button" role="tab" aria-selected="false" title="Open the Urzad culture pack">
-            <span>Urzad Culture</span>
-            <small>Culture Q&A</small>
-          </button>
-          <button id="lessonTabUrzad" class="lesson-tab" type="button" role="tab" aria-selected="false" title="Open the full Urzad pack">
-            <span>Urzad Pack</span>
-            <small>Interview practice</small>
-          </button>
-        </div>
-      </section>
-
       <section id="practicePanel" class="toolbar collapsed">
         <div id="toolbarBody" class="toolbar-body">
           <div class="toolbar-row">
@@ -460,7 +372,6 @@
       const playAllPauseValueEl = document.getElementById('playAllPauseValue');
       const pageTitleEl = document.getElementById('pageTitle');
       const pageSubtitleEl = document.getElementById('pageSubtitle');
-      const lessonPackStatusEl = document.getElementById('lessonPackStatus');
       const languageBadgeEl = document.getElementById('languageBadge');
       const browseModeBtn = document.getElementById('browseModeBtn');
       const flashcardModeBtn = document.getElementById('flashcardModeBtn');
@@ -476,73 +387,11 @@
       const flashcardAudioEl = document.getElementById('flashcardAudio');
       const studyHeadingEl = document.getElementById('studyHeading');
       const referenceHeadingEl = document.getElementById('referenceHeading');
-      const lessonTabDemoEl = document.getElementById('lessonTabDemo');
-      const lessonTabMonikaEl = document.getElementById('lessonTabMonika');
-      const lessonTabFamilyEl = document.getElementById('lessonTabFamily');
-      const lessonTabBasicEl = document.getElementById('lessonTabBasic');
-      const lessonTabCultureEl = document.getElementById('lessonTabCulture');
-      const lessonTabUrzadEl = document.getElementById('lessonTabUrzad');
 
       const THEME_STORAGE_KEY = 'language-learning-theme';
       const PANEL_STORAGE_KEY = 'language-learning-toolbar-collapsed';
       const SCROLL_SPEED_STORAGE_KEY = 'language-learning-scroll-speed';
       const PLAY_ALL_PAUSE_STORAGE_KEY = 'language-learning-play-all-pause';
-
-      const lessonPacks = [
-        {
-          key: 'demo',
-          label: 'Demo pack',
-          note: 'Default sample',
-          manifestDataUrl: null,
-          embedded: embeddedBundle || embeddedLegacyItems,
-          tabEl: lessonTabDemoEl,
-        },
-        {
-          key: 'monika',
-          label: 'Monika tab',
-          note: 'Address & work',
-          manifestDataUrl: '../output-monika-pack/manifest-data.js',
-          embedded: null,
-          tabEl: lessonTabMonikaEl,
-        },
-        {
-          key: 'family',
-          label: 'My India Family',
-          note: 'Family practice',
-          manifestDataUrl: '../output-my-india-family-pack/manifest-data.js',
-          embedded: null,
-          tabEl: lessonTabFamilyEl,
-        },
-        {
-          key: 'basic',
-          label: 'Urzad Basic',
-          note: 'Basic answers',
-          manifestDataUrl: '../output-urzad-basic-pack/manifest-data.js',
-          embedded: null,
-          tabEl: lessonTabBasicEl,
-        },
-        {
-          key: 'culture',
-          label: 'Urzad Culture',
-          note: 'Culture Q&A',
-          manifestDataUrl: '../output-urzad-culture-pack/manifest-data.js',
-          embedded: null,
-          tabEl: lessonTabCultureEl,
-        },
-        {
-          key: 'urzad',
-          label: 'Urzad Pack',
-          note: 'Interview practice',
-          manifestDataUrl: '../output-urzad-pack/manifest-data.js',
-          embedded: null,
-          tabEl: lessonTabUrzadEl,
-        },
-      ];
-
-      const lessonPackMap = new Map(lessonPacks.map((pack) => [pack.key, pack]));
-      const lessonPackCache = new Map();
-      let activeLessonPackKey = 'demo';
-      let activePackRequestToken = 0;
 
       let bundle = { meta: {}, items: [] };
       let groupedEntries = [];
@@ -638,19 +487,6 @@
       function updatePlayAllPauseUi() {
         playAllPauseInputEl.value = String(playAllPauseMs);
         playAllPauseValueEl.textContent = `${(playAllPauseMs / 1000).toFixed(playAllPauseMs % 1000 === 0 ? 0 : 1)} s`;
-      }
-
-      function updateLessonTabs(activeKey) {
-        activeLessonPackKey = activeKey;
-        for (const pack of lessonPacks) {
-          const isActive = pack.key === activeKey;
-          pack.tabEl.classList.toggle('active', isActive);
-          pack.tabEl.setAttribute('aria-selected', String(isActive));
-        }
-        const activePack = lessonPackMap.get(activeKey);
-        lessonPackStatusEl.textContent = activePack
-          ? `Selected ${activePack.label} · ${activePack.note}`
-          : 'Loading available packs…';
       }
 
       function getItemKey(item) {
@@ -1101,98 +937,43 @@
         render();
       }
 
-      function loadManifest(payload, pack = null) {
+      function loadManifest(payload) {
         stopPlayAll();
         bundle = coerceBundle(payload);
         groupedEntries = groupManifest(bundle.items);
         applyMeta(bundle.meta || {});
-        const packLabel = pack?.label || bundle.meta.dashboard_title || 'Manifest';
         setStatus(
-          `Loaded ${packLabel}. You can browse, filter, and study in flashcard mode.`,
+          'Manifest loaded. You can browse, filter, and study in flashcard mode.',
           `${groupedEntries.length} entries · ${bundle.items.length} audio items`
         );
         flashcardIndex = 0;
         render();
       }
 
-      function loadScript(src) {
-        return new Promise((resolve, reject) => {
-          const script = document.createElement('script');
-          script.src = src;
-          script.async = true;
-          script.onload = () => {
-            script.remove();
-            resolve();
-          };
-          script.onerror = () => {
-            script.remove();
-            reject(new Error(`Failed to load ${src}`));
-          };
-          document.head.appendChild(script);
-        });
-      }
-
-      async function loadLessonPack(packKey) {
-        const pack = lessonPackMap.get(packKey);
-        if (!pack) {
+      async function autoLoadManifest() {
+        if (embeddedBundle || embeddedLegacyItems.length) {
+          loadManifest(embeddedBundle || embeddedLegacyItems);
+          setStatus(
+            embeddedBundle
+              ? 'Loaded local manifest bundle directly from manifest-data.js.'
+              : 'Loaded legacy manifest data directly from manifest-data.js.',
+            `${groupedEntries.length} entries · ${bundle.items.length} audio items`
+          );
           return;
         }
 
-        const requestToken = ++activePackRequestToken;
-        updateLessonTabs(packKey);
-        setStatus(`Loading ${pack.label}…`, 'Preparing lesson pack');
-
         try {
-          let payload;
-          if (lessonPackCache.has(packKey)) {
-            payload = lessonPackCache.get(packKey);
-          } else if (pack.embedded) {
-            payload = pack.embedded;
-            lessonPackCache.set(packKey, payload);
-          } else if (pack.manifestDataUrl) {
-            const previousBundle = window.__LANGUAGE_LEARNING_BUNDLE__;
-            const previousLegacy = window.__POLISH_MANIFEST__;
-            await loadScript(pack.manifestDataUrl);
-            payload = window.__LANGUAGE_LEARNING_BUNDLE__ || window.__POLISH_MANIFEST__ || [];
-            window.__LANGUAGE_LEARNING_BUNDLE__ = previousBundle;
-            window.__POLISH_MANIFEST__ = previousLegacy;
-            lessonPackCache.set(packKey, payload);
-          } else {
-            const response = await fetch(pack.manifestUrl || './manifest.json');
-            if (!response.ok) {
-              throw new Error(`HTTP ${response.status}`);
-            }
-            payload = await response.json();
-            lessonPackCache.set(packKey, payload);
+          const response = await fetch(manifestUrl);
+          if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
           }
-
-          if (requestToken !== activePackRequestToken) {
-            return;
-          }
-
-          if (currentView !== 'browse') {
-            switchView('browse');
-          }
-          loadManifest(payload, pack);
-          updateLessonTabs(packKey);
+          const payload = await response.json();
+          loadManifest(payload);
         } catch (error) {
-          if (requestToken !== activePackRequestToken) {
-            return;
-          }
           setStatus(
-            `Could not load ${pack.label}. Check that the generated pack exists at the expected path.`,
-            'Pack load failed'
+            'Automatic loading was blocked or failed. Open this folder through a small local web server or verify that manifest-data.js is present beside this page.',
+            'Manifest not auto-loaded'
           );
-        }
-      }
-
-      async function autoLoadManifest() {
-        await loadLessonPack('demo');
-      }
-
-      function bindLessonTabs() {
-        for (const pack of lessonPacks) {
-          pack.tabEl.addEventListener('click', () => loadLessonPack(pack.key));
         }
       }
 
@@ -1320,8 +1101,6 @@
       stopPlayAll();
       stopAutoScroll();
       applyToolbarCollapsed(detectInitialPanelState());
-      bindLessonTabs();
-      updateLessonTabs('demo');
       autoLoadManifest();
     </script>
   </body>
