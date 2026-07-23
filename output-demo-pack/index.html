@@ -493,6 +493,8 @@
           key: 'demo',
           label: 'Demo pack',
           note: 'Default sample',
+          outputDirName: 'output-demo-pack',
+          audioBase: './',
           manifestDataUrl: null,
           embedded: embeddedBundle || embeddedLegacyItems,
           tabEl: lessonTabDemoEl,
@@ -501,6 +503,8 @@
           key: 'monika',
           label: 'Monika tab',
           note: 'Address & work',
+          outputDirName: 'output-monika-pack',
+          audioBase: '../output-monika-pack/',
           manifestDataUrl: '../output-monika-pack/manifest-data.js',
           embedded: null,
           tabEl: lessonTabMonikaEl,
@@ -509,6 +513,8 @@
           key: 'family',
           label: 'My India Family',
           note: 'Family practice',
+          outputDirName: 'output-my-india-family-pack',
+          audioBase: '../output-my-india-family-pack/',
           manifestDataUrl: '../output-my-india-family-pack/manifest-data.js',
           embedded: null,
           tabEl: lessonTabFamilyEl,
@@ -517,6 +523,8 @@
           key: 'basic',
           label: 'Urzad Basic',
           note: 'Basic answers',
+          outputDirName: 'output-urzad-basic-pack',
+          audioBase: '../output-urzad-basic-pack/',
           manifestDataUrl: '../output-urzad-basic-pack/manifest-data.js',
           embedded: null,
           tabEl: lessonTabBasicEl,
@@ -525,6 +533,8 @@
           key: 'culture',
           label: 'Urzad Culture',
           note: 'Culture Q&A',
+          outputDirName: 'output-urzad-culture-pack',
+          audioBase: '../output-urzad-culture-pack/',
           manifestDataUrl: '../output-urzad-culture-pack/manifest-data.js',
           embedded: null,
           tabEl: lessonTabCultureEl,
@@ -533,6 +543,8 @@
           key: 'urzad',
           label: 'Urzad Pack',
           note: 'Interview practice',
+          outputDirName: 'output-urzad-pack',
+          audioBase: '../output-urzad-pack/',
           manifestDataUrl: '../output-urzad-pack/manifest-data.js',
           embedded: null,
           tabEl: lessonTabUrzadEl,
@@ -542,6 +554,7 @@
       const lessonPackMap = new Map(lessonPacks.map((pack) => [pack.key, pack]));
       const lessonPackCache = new Map();
       let activeLessonPackKey = 'demo';
+      let currentLoadedPack = lessonPackMap.get('demo') || null;
       let activePackRequestToken = 0;
 
       let bundle = { meta: {}, items: [] };
@@ -654,7 +667,33 @@
       }
 
       function getItemKey(item) {
-        return [item.entry_index ?? '', item.kind ?? '', item.ordinal ?? '', item.output_file ?? ''].join('|');
+        return [
+          item.entry_index ?? '',
+          item.kind ?? '',
+          item.ordinal ?? '',
+          item.raw_output_file || item.raw_output_file_from_repo_root || item.output_file || '',
+        ].join('|');
+      }
+
+      function getResolvedItemAudio(item, pack = currentLoadedPack) {
+        const resolvedPath = resolveAudioFilePath(
+          {
+            output_file: item.raw_output_file || item.output_file || '',
+            output_file_from_repo_root: item.raw_output_file_from_repo_root || item.output_file_from_repo_root || '',
+          },
+          pack
+        );
+
+        if (!resolvedPath) {
+          return '';
+        }
+
+        const packKey = pack?.key || activeLessonPackKey || 'demo';
+        const ordinal = item.ordinal ?? '';
+        const cacheBustValue = encodeURIComponent(`${packKey}-${ordinal}`);
+        return resolvedPath.includes('?')
+          ? `${resolvedPath}&cb=${cacheBustValue}`
+          : `${resolvedPath}?cb=${cacheBustValue}`;
       }
 
       function clearPlayingHighlights() {
@@ -846,7 +885,7 @@
         }
 
         syncScrollToPlaybackItem(item);
-        playAllAudio.src = item.output_file;
+        playAllAudio.src = getResolvedItemAudio(item);
         try {
           await playAllAudio.play();
         } catch (error) {
@@ -892,23 +931,61 @@
           .toLowerCase();
       }
 
-      function normalizeItem(item) {
+      function resolveAudioFilePath(item, pack = null) {
+        const repoRootPath = item.output_file_from_repo_root || '';
+        if (repoRootPath && repoRootPath.startsWith('output-')) {
+          return `../${repoRootPath}`;
+        }
+
+        const candidate = item.output_file || '';
+        if (!candidate) {
+          return '';
+        }
+
+        if (/^(https?:|data:|blob:|file:|\/)/i.test(candidate)) {
+          return candidate;
+        }
+
+        const activePack = pack || lessonPackMap.get(activeLessonPackKey);
+        if (!activePack) {
+          return candidate;
+        }
+
+        const fileName = candidate.split('/').filter(Boolean).pop() || '';
+        if (fileName) {
+          return `../${activePack.outputDirName}/audio/${fileName}`;
+        }
+
+        if (candidate.startsWith('audio/')) {
+          return `${activePack.audioBase}${candidate}`;
+        }
+
+        if (candidate.startsWith(`${activePack.outputDirName}/`)) {
+          return `../${candidate}`;
+        }
+
+        return `${activePack.audioBase}${candidate}`;
+      }
+
+      function normalizeItem(item, pack = null) {
         return {
           ...item,
           display_text: item.display_text || item.study_text || item.text || '',
           translation_text: item.translation_text || item.reference_text || '',
           spoken_text: item.spoken_text || item.text || '',
-          output_file: item.output_file || '',
+          raw_output_file: item.output_file || '',
+          raw_output_file_from_repo_root: item.output_file_from_repo_root || '',
+          output_file: resolveAudioFilePath(item, pack),
           kind: item.kind || 'question',
           entry_index: item.entry_index || 0,
         };
       }
 
-      function coerceBundle(payload) {
+      function coerceBundle(payload, pack = null) {
         if (payload && Array.isArray(payload.items)) {
           return {
             meta: payload.meta || {},
-            items: payload.items.map(normalizeItem),
+            items: payload.items.map((item) => normalizeItem(item, pack)),
           };
         }
 
@@ -920,7 +997,7 @@
               study_language_name: 'Study language',
               reference_language_name: 'Reference language',
             },
-            items: payload.map(normalizeItem),
+            items: payload.map((item) => normalizeItem(item, pack)),
           };
         }
 
@@ -1045,7 +1122,7 @@
             audio.className = 'inline-audio';
             audio.controls = true;
             audio.preload = 'none';
-            audio.src = line.output_file;
+            audio.src = getResolvedItemAudio(line);
 
             actions.appendChild(audio);
             row.append(label, study, reference, actions);
@@ -1078,7 +1155,7 @@
         flashcardKindEl.textContent = item.kind === 'question' ? `Question · Entry ${item.entry_index}` : `Answer · Entry ${item.entry_index}`;
         flashcardStudyEl.textContent = item.display_text || '—';
         flashcardReferenceEl.textContent = item.translation_text || 'No reference text available';
-        flashcardAudioEl.src = item.output_file;
+        flashcardAudioEl.src = getResolvedItemAudio(item);
         flashcardAudioEl.load();
       }
 
@@ -1103,7 +1180,8 @@
 
       function loadManifest(payload, pack = null) {
         stopPlayAll();
-        bundle = coerceBundle(payload);
+        currentLoadedPack = pack || lessonPackMap.get('demo') || null;
+        bundle = coerceBundle(payload, pack);
         groupedEntries = groupManifest(bundle.items);
         applyMeta(bundle.meta || {});
         const packLabel = pack?.label || bundle.meta.dashboard_title || 'Manifest';
