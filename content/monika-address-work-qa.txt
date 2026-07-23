@@ -1,0 +1,62 @@
+Q: Z kim pan/pani mieszka teraz?|Q: Who do you live with now?
+A: Mieszkam z moją rodziną, to jest mój mąż i moja córka.|A: I live with my family, that is my husband and my daughter.
+|
+Q: Na jakim stanowisku pan/pani pracuje w firmie?|Q: What position do you work in at your company?
+A: Pracuję na stanowisku zastępcy dyrektora.|A: I work as a deputy director.
+|
+Q: Gdzie pani pracuje, w domu online czy w biurze?|Q: Where do you work, from home online or in the office?
+A: Dwa dni w tygodniu pracuję w domu i trzy dni w tygodniu pracuję w biurze.|A: I work from home two days a week and in the office three days a week.
+|
+Q: Pod jakim adresem mieszkasz?|Q: What address do you live at?
+A: Aktualnie mieszkam w Krakowie na osiedlu Piastów 56C/120.|A: I currently live in Krakow at osiedle Piastów 56C/120.
+|
+Q: Gdzie mieszkasz?|Q: Where do you live?
+A: Mieszkam w Krakowie na osiedlu Piastów 56C/120.|A: I live in Krakow at osiedle Piastów 56C/120.
+|
+Q: Jaki jest twój obecny adres?|Q: What is your current address?
+A: Mój obecny adres to: osiedle Piastów 56C/120.|A: My current address is: osiedle Piastów 56C/120.
+|
+Q: Czy mieszkasz w wynajętym mieszkaniu?|Q: Are you staying in a rental property?
+A: Nie, nie wynajmuję. To jest moje własne mieszkanie.|A: No, I do not rent. This is my own apartment.
+|
+Q: Czy wynajmujesz mieszkanie?|Q: Do you rent an apartment?
+A: Tak, wynajmuję mieszkanie.|A: Yes, I rent an apartment.
+|
+Q: Czy posiadasz własną nieruchomość?|Q: Do you own a property?
+A: Tak, mam własną nieruchomość.|A: Yes, I own a property.
+|
+Q: Czy mieszkasz sam/sama?|Q: Do you live alone?
+A: Nie, nie mieszkam sam/sama. Mieszkam z moją rodziną.|A: No, I do not live alone. I live with my family.
+|
+Q: Dlaczego uczysz się języka polskiego?|Q: Why are you learning Polish?
+A: Uczę się języka polskiego, bo pracuję w Polsce.|A: I am learning Polish because I work in Poland.
+|
+Q: Dlaczego mieszkasz w Polsce?|Q: Why do you live in Poland?
+A: Mieszkam w Polsce, bo mam tutaj pracę.|A: I live in Poland because I have work here.
+|
+Q: Co znaczy zapis adresu 17/20?|Q: What does the address format 17/20 mean?
+A: 17 to numer budynku, a 20 to numer mieszkania.|A: 17 is the building number, and 20 is the apartment number.
+|
+Q: Co znaczy słowo nieruchomość?|Q: What does the word property mean?
+A: Nieruchomość to na przykład mieszkanie albo dom.|A: Property means, for example, an apartment or a house.
+|
+Q: Jakie jest przeciwieństwo słowa wynajęty?|Q: What is the opposite of the word rented?
+A: Przeciwieństwo słowa wynajęty to własny.|A: The opposite of the word rented is owned.
+|
+Q: Jak odmienia się czasownik mieszkać?|Q: How is the verb to live conjugated?
+A: Ja mieszkam, ty mieszkasz, on/ona/ono mieszka, my mieszkamy.|A: I live, you live, he/she/it lives, we live.
+|
+Q: Jak odmienia się czasownik mieć?|Q: How is the verb to have conjugated?
+A: Ja mam, ty masz, on/ona/ono ma, my mamy.|A: I have, you have, he/she/it has, we have.
+|
+Q: Jak odmienia się czasownik posiadać?|Q: How is the verb to possess conjugated?
+A: Ja posiadam, ty posiadasz, on/ona/ono posiada, my posiadamy.|A: I possess, you possess, he/she/it possesses, we possess.
+|
+Q: Jak odmienia się czasownik wynajmować?|Q: How is the verb to rent conjugated?
+A: Ja wynajmuję, ty wynajmujesz, on/ona/ono wynajmuje, my wynajmujemy.|A: I rent, you rent, he/she/it rents, we rent.
+|
+Q: Jak odmienia się czasownik pracować?|Q: How is the verb to work conjugated?
+A: Ja pracuję, ty pracujesz, on/ona/ono pracuje, my pracujemy.|A: I work, you work, he/she/it works, we work.
+|
+Q: Jak odmienia się czasownik uczyć się?|Q: How is the verb to learn conjugated?
+A: Ja uczę się, ty uczysz się, on/ona/ono uczy się, my uczymy się.|A: I learn, you learn, he/she/it learns, we learn.
